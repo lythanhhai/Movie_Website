@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --background: rgb(33,29,53);
+    --actice:rgb(90,67,203);
+    --word: rgb(242,240,243);
+}
+
+body 
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+html 
+{
+    font-size: 62.5%;
+}
+
+.Pagination
+{
+    display: flex;
+    flex-direction: row;
+    margin:4rem auto 0;
+}
+
+.Pagination .btn__page:active
+{
+    background-color: var(--actice);
+}
+
+
+
+
+.Pagination button
+{
+    width: 3.7rem;
+    height: 3.5rem;
+    background-color: var(--background);
+    color:var(--word);
+    text-align: center;
+    outline: none;
+    border:none;
+    margin-right: 0.3rem;
+    cursor: pointer;
+}
+
+.Pagination .active 
+{
+    background-color: var(--actice);
+}
+
+.Pagination .none
+{
+    display: none;
+}
+

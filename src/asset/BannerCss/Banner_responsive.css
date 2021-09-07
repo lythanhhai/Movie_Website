@@ -1,0 +1,47 @@
+@media screen and (max-width:767px)
+{
+    .Banner__social 
+    {
+        
+        margin:8rem 0 0 2rem;
+    }
+    .Banner__info 
+    {
+
+        margin:3rem 5rem 0;
+        line-height: 1.5;
+    }
+    .Banner__info h1 
+    {
+        font-size: 4rem;
+
+    }
+    .Banner__info h5
+    {
+        font-size: 1.8rem;
+
+    }
+
+    .Banner__info p
+    {
+
+        font-size: 1.4rem;
+        margin-bottom: 2rem;
+        width: 67%;
+    }
+
+    #btn_watch 
+    {
+        width:8rem;
+        height: 4rem;
+        font-size: 1.3rem;
+        cursor: pointer;
+        transition: all 0.2s linear;
+        margin-bottom: 4rem;
+    }
+    .Banner__info .Banner-scrollDown
+    {
+        display: none;
+        
+    }
+}

@@ -1,0 +1,42 @@
+@media screen and (max-width:767px)
+{
+    .Phimle__product
+    {
+        padding-bottom: 4rem;
+    }
+    .Phimle__product-cart .btn 
+    {
+        display: none;
+    }
+    .Phimle__product-cart .category
+    {
+        display: none;
+    }
+    .Phimle__product-cart .add
+    {
+        display: none;
+    }
+    .Phimle__product-cart
+    {
+        width: calc(32%);
+        height: 30rem;
+        /* border : 1px solid blue; */
+        position: relative;
+        color:var(--nameTitle);
+    }
+    .Phimle .fa-angle-right
+    {
+        top:42.5%;
+        right:0%;
+        
+    }
+
+
+    .Phimle .fa-angle-left
+    {
+
+        top:42.5%;
+        left:-1%;
+        
+    }
+}
