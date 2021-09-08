@@ -6,8 +6,8 @@ import {useState} from 'react'
 const Phimbo = ({phimBos}) => {
     const [slide,setSlide] = useState(1);
     // 80% product của 100 phần trăm container
-    var width1 = (window.innerWidth > 0) ? window.innerWidth : window.screen.width;
-    const width = width1 * 80 / 100;
+    // var width1 = (window.innerWidth > 0) ? window.innerWidth : window.screen.width;
+    
     // var element = document.querySelector('.Phimbo__product');
     // const style = window.getComputedStyle(element)
     // const width = style.getPropertyValue('width');
@@ -16,19 +16,21 @@ const Phimbo = ({phimBos}) => {
         
         var slide1 = slide + 1;
         setSlide(slide1);
+        const width = document.getElementsByClassName('Phimbo__product')[0].offsetWidth;
         document.getElementsByClassName('Phimbo__product')[0].scrollLeft += width;
     }
     const onClickPre = () => {
-        if(slide > 1)
-        {
+        // if(slide > 0)
+        // {
             var slide1 = slide - 1;
             setSlide(slide1);
+            const width = document.getElementsByClassName('Phimbo__product')[0].offsetWidth;
             document.getElementsByClassName('Phimbo__product')[0].scrollLeft -= width;
-        }
-        else 
-        {
+        // }
+        // else 
+        // {
 
-        }
+        // }
         
     }
     
@@ -36,7 +38,7 @@ const Phimbo = ({phimBos}) => {
         const {category,episode,imageUrl,title,url} = phimBo;
         // 5 sản paharm :V
         // if(index < phimBos.length - 1)
-        if(index < slide * 4)
+        if(index < phimBos.length - 1)
         {
             return(
                 

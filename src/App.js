@@ -185,6 +185,7 @@ function App() {
         </div>
         <div className="Header__info">
           <p>Genres</p>
+          <Link to="/Home" className="home">Home</Link>
           <Link to="/phimbo" className="phimbo">Phim bộ</Link>
           <Link to="/phimle" className="phimle">Phim lẻ</Link>
           <Link to="/phimhoathinh" className="phimhoathinh">Phim hoạt hình</Link>

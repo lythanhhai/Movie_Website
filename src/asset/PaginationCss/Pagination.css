@@ -27,7 +27,7 @@ html
     margin:4rem auto 0;
 }
 
-.Pagination .btn__page:active
+.Pagination .btn__page:active , .btn__page:hover
 {
     background-color: var(--actice);
 }

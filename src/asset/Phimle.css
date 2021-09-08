@@ -30,8 +30,8 @@ html
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    margin-top: calc(10vh);
-    background-color: var(--backgroundcolor);
+    margin-top: calc(1rem);
+    background-color: transparent;
     position: relative;
 }
 

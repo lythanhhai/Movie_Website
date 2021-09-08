@@ -29,7 +29,7 @@ html
     display: flex;
     flex-direction: column;
     width:100%;
-    height: 50vh;
+    min-height: 40vh;
     margin:3rem auto 0;
     background-color: var(--backgroundcolor);
     
@@ -40,17 +40,20 @@ html
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    width: 70%;
+    height: auto;
+    margin:4rem auto 2rem;
     /* align-items: center; */
 }
 
 .footer__logo p
 {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color:white;
 }
 .footer__logo .footer__logo-name
 {
-    font-size: 2rem;
+    font-size: 3rem;
     color:white;
     text-transform: uppercase;
 }
@@ -75,4 +78,11 @@ html
 .footer__social a
 {
     margin-right: 2rem;    
+}
+
+.footer .copyright
+{
+    color: var(--nameTitle);
+    font-size: 1.5rem;
+    margin: 4rem auto;
 }

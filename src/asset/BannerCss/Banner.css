@@ -40,9 +40,7 @@ html
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    font-size: 2rem;
     list-style: none;
-    color:var(--socialColor);
     line-height: 1.5;
     margin:10rem 0 0 20rem;
     transition: all 0.2s ease-out;
@@ -51,6 +49,8 @@ html
 .Banner__social li a 
 {
     cursor: pointer;
+    color:var(--socialColor);
+    font-size : 2rem;
 }
 
 .Banner__social li a:hover

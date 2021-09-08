@@ -12,8 +12,8 @@ const Footer = () => {
                     <p>Website xem phim miễn phí</p>
                 </div>
                 <div className="footer__menu">
-                    <Link to="">Services</Link>
-                    <Link to="">Portfolio</Link>
+                    <Link to="" className="service">Services</Link>
+                    <Link to="" className="service">Portfolio</Link>
                     <a href="#">Contactme</a>
                 </div>
                 <div className="footer__social">
@@ -22,7 +22,7 @@ const Footer = () => {
                     <a><i class="fab fa-twitter"></i></a>
                 </div>
             </div>
-            <p className="">© lythanhhai. All right reserved</p>
+            <p className="copyright">© lythanhhai. All right reserved</p>
         </footer>
     );
 }

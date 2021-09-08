@@ -30,8 +30,9 @@ html
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    margin-top: calc(10vh);
-    background-color: var(--backgroundcolor);
+    margin-top: calc(1rem);
+    
+    background-color: transparent;
     position: relative;
    
 }
@@ -118,7 +119,6 @@ html
     -ms-scroll-snap-type: mandatory;
      scroll-snap-type: mandatory;
      /* border-bottom: 1px solid var(--border); */
-    
 }
 
 .Phimbo__product::-webkit-scrollbar {
@@ -130,13 +130,13 @@ html
 /* sản phẩm phim bộ */
 .Phimbo__product-cart
 {
-    width: calc(100% / 4 - 0.6rem);
+    width: calc(100% / 4 - 1rem);
     height: 42rem;
     /* border : 1px solid blue; */
     position: relative;
     color:var(--nameTitle);
     margin-right: 1rem;
-    flex-grow: 1;
+    flex: 0 1 auto;
     
 }
 
