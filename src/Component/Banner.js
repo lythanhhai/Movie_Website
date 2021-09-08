@@ -4,7 +4,7 @@ import '../asset/BannerCss/Banner_responsive.css'
 
 const Banner = () => {
     return(
-        <div className="Banner">    
+        <section className="Banner">    
             <div className="Banner__social">
                 <li>
                     <a>
@@ -27,13 +27,13 @@ const Banner = () => {
                 <h5>Website xem phim miễn phí</h5>
                 <p>Xem phim miễn phí trên các nền tảng khác nhau. Xem phim online chất lượng cao tại HẢI FILM</p>
                 <button type="submit" id="btn_watch">Xem phim</button>
-                <div className="Banner-scrollDown" onClick={() => {document.documentElement.scrollTop += 400}}>
+                <div className="Banner-scrollDown" onClick={() => {document.documentElement.scrollTop += 500;}}>
                     <i class="fas fa-mouse"></i>
                     <span>Scroll down</span>
                     <i class="fas fa-arrow-down"></i>
                 </div>
             </div>
-        </div>
+        </section>
     );
 }
 

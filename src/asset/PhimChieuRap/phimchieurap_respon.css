@@ -1,0 +1,83 @@
+@media screen and (max-width:767px)
+{
+    .Phimchieurap__product
+    {
+        --cot:2;
+        padding-bottom: 4rem;
+    }
+    .Phimchieurap__product-cart .btn 
+    {
+        display: none;
+    }
+    .Phimchieurap__product-cart .category
+    {
+        display: none;
+    }
+    .Phimchieurap__product-cart .add
+    {
+        display: none;
+    }
+    .Phimchieurap__product-cart
+    {
+        width: calc(100% / var(--cot) - 1rem);
+        height: 30rem;
+        /* border : 1px solid blue; */
+        position: relative;
+        color:var(--nameTitle);
+    }
+    .Phimchieurap .fa-angle-right
+    {
+        top:70%;
+        right:30%;
+    }
+
+
+    .Phimchieurap .fa-angle-left
+    {
+
+        top:70%;
+        left:30%;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:1079px)
+{
+    .Phimchieurap__product
+    {
+        --cot: 3;
+        padding-bottom: 4rem;
+    }
+    .Phimchieurap__product-cart .btn 
+    {
+        display: none;
+    }
+    .Phimchieurap__product-cart .category
+    {
+        display: none;
+    }
+    .Phimchieurap__product-cart .add
+    {
+        display: none;
+    }
+    .Phimchieurap__product-cart
+    {
+        width: calc(100% / var(--cot) - 1rem);
+        height: 30rem;
+        /* border : 1px solid blue; */
+        position: relative;
+        color:var(--nameTitle);
+    }
+    .Phimchieurap .fa-angle-right
+    {
+        top:70%;
+        right:30%;
+    }
+
+
+    .Phimchieurap .fa-angle-left
+    {
+
+        top:70%;
+        left:30%;
+    }
+}

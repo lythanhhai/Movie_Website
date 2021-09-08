@@ -4,7 +4,7 @@ import "../asset/Header.css";
 import "../asset/Header_responsive.css"
 import { useHistory,Redirect } from 'react-router-dom';
 
-const Header = ({getResultSearch}) => {
+const Header = ({getResultSearch , modal__browser}) => {
   let history = useHistory();
 
   const redirect = () => {
@@ -26,31 +26,18 @@ const Header = ({getResultSearch}) => {
         Header__account__modalUser.style.display = "none";
   }   
   const onClickNavbar = () => {
-
+    document.getElementsByClassName("Header__browser-modal")[0].style.left = "0%";
+    document.getElementsByClassName("Header__browser-modal")[0].style.transition = "all 0.5s linear";
   }
   return (
-    <div className="Header">
+    <header className="Header">
       <i class="fas fa-bars" id="Header__navbar" onClick={() => {onClickNavbar()}}></i>
       <Link to="/Home" className="Header__logo">Hải Film</Link>
-      <div className="Header__browse">
-         <p>
+      <div className="Header__browse" onClick={() => {modal__browser()}}>
+         <p >
             Category
          </p>
-         <div className="Header__browser-modal">
-              <div className="Header__search">
-              <i class="fas fa-search"></i>
-              <input
-                type="text"
-                placeholder="Find movies, TV shows and more"
-                className="Header__search-input"
-                onInput={() => {redirect();getResultSearch(document.getElementsByClassName("Header__search-input")[0].value);}}
-              ></input>
-              </div>
-              <Link to="/phimbo">Phim bộ</Link>
-              <Link to="/phimle">Phim lẻ</Link>
-              <Link to="/phimhoathinh">Phim hoạt hình</Link>
-              <Link to="/phimchieurap">Phim chiếu rạp</Link>
-         </div>
+         
       </div>
       <div className="Header__search">
         <i class="fas fa-search"></i>
@@ -74,7 +61,7 @@ const Header = ({getResultSearch}) => {
         
         </div>
       </div>
-    </div>
+    </header>
   );
 };
 

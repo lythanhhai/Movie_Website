@@ -6,7 +6,7 @@ import {useState} from 'react'
 import Pagination from './Pagination'
 
 const ResultSearch = ({results,resultPhim}) => {
-    const numberAPage = 12;
+    const numberAPage = 16;
     const [oldResult,setOldResult] = useState("");
     const [res,setRes] = useState([]); 
     const getCurrentPage = (resArr) => {
@@ -41,7 +41,6 @@ const ResultSearch = ({results,resultPhim}) => {
                         onMouseOut={() => {
                             const addMyList = document.getElementsByClassName("add")[index];
                             
-                            addMyList.style.animation = "top_bottom 4s linear 1";
                             addMyList.style.display = "none";
                         }}
                         />
@@ -52,7 +51,15 @@ const ResultSearch = ({results,resultPhim}) => {
                             addMyList.style.display = "block";
                             
                             
-                        }}>Add to my list</p>
+                        }}
+                        onMouseOut={() =>{
+                            const addMyList = document.getElementsByClassName("add")[index];
+                            addMyList.style.color = "white";
+                            addMyList.style.display = "block";
+                            
+                            
+                        }}
+                        >Add to my list</p>
                         <p className="title" title={title}>{title}</p>
                         <div className="btn">
                             <p className="episode">{episode.length} tập</p>
@@ -87,8 +94,6 @@ const ResultSearch = ({results,resultPhim}) => {
                         }}
                         onMouseOut={() => {
                             const addMyList = document.getElementsByClassName("add")[index];
-                            
-                            addMyList.style.animation = "top_bottom 4s linear 1";
                             addMyList.style.display = "none";
                         }}
                         />
@@ -99,7 +104,15 @@ const ResultSearch = ({results,resultPhim}) => {
                             addMyList.style.display = "block";
                             
                             
-                        }}>Add to my list</p>
+                        }}
+                        onMouseOut={() =>{
+                            const addMyList = document.getElementsByClassName("add")[index];
+                            addMyList.style.color = "white";
+                            addMyList.style.display = "block";
+                            
+                            
+                        }}
+                        >Add to my list</p>
                         <p className="title">{title}</p>
                         <div className="btn">
                             <p className="episode">{episode.length} tập</p>
@@ -112,7 +125,7 @@ const ResultSearch = ({results,resultPhim}) => {
     }
     
     return(
-        <div className="ResultSearch">
+        <section className="ResultSearch">
             <div className="ResultSearch__title">
                 <h2 className="ResultSearch__title-name">Kết quả tìm kiếm</h2>
                 <i class="fas fa-ellipsis-h"></i>
@@ -123,7 +136,7 @@ const ResultSearch = ({results,resultPhim}) => {
             </div>
             
             <Pagination numberPage={Math.ceil(results.length / numberAPage)} results={results} getCurrentPage={getCurrentPage}/>
-        </div>
+        </section>
     );
 
         }

@@ -4,7 +4,7 @@ import '../asset/ContactMe/Contac_responsive.css'
 
 const ContactMe = () => {
     return(
-        <section className="Contact">
+        <section className="Contact" id="Contact">
             <div className="Contact__title">
                 <h1>Contact Me</h1>
                 <p>Get in touch</p>

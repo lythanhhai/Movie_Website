@@ -2,8 +2,7 @@
 {
     .Banner__social 
     {
-        
-        margin:8rem 0 0 2rem;
+        margin:8rem 0 0 4rem;
     }
     .Banner__info 
     {
@@ -13,7 +12,7 @@
     }
     .Banner__info h1 
     {
-        font-size: 4rem;
+        font-size: 3rem;
 
     }
     .Banner__info h5
@@ -25,9 +24,9 @@
     .Banner__info p
     {
 
-        font-size: 1.4rem;
+        font-size: 1.3rem;
         margin-bottom: 2rem;
-        width: 67%;
+        width: 100%;
     }
 
     #btn_watch 

@@ -22,7 +22,7 @@ const Phimle = ({phimLes}) => {
                     <img src={imageUrl} alt="image"/>
                     <i class="fas fa-play"></i>
                     <p className="add">Add to my list</p>
-                    <p className="title">{title}</p>
+                    <p className="title" title={title}>{title}</p>
                     <div class="btn">
                         <p className="episode">{episode.length} tập</p>
                         <div>TV-MA</div>
@@ -41,7 +41,7 @@ const Phimle = ({phimLes}) => {
         }
     })
     return(
-        <div className="Phimle">
+        <section className="Phimle">
             <div className="Phimle__title">
                 <h2 className="Phimle__title-name">Phim Lẻ</h2>
                 <i class="fas fa-ellipsis-h"></i>
@@ -52,7 +52,7 @@ const Phimle = ({phimLes}) => {
             </div>
             <i class="fas fa-angle-left" onClick={() => {onClickPre()}}></i>
             <i className="fas fa-angle-right" onClick={() => {onClickNext()}}></i>
-        </div>
+        </section>
     );
 }
 

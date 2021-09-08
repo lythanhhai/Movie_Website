@@ -22,7 +22,7 @@ html
     font-size: 62.5%;
 }
 
-.Phimbo 
+.Phimhoathinh 
 {
     width: 100%;
     min-height: 100vh;
@@ -36,7 +36,7 @@ html
    
 }
 
-.Phimbo .fa-angle-right
+.Phimhoathinh .fa-angle-right
 {
     position: absolute;
     top:50%;
@@ -49,12 +49,12 @@ html
     transition: all 0.15s ease-in-out;
 }
 
-.Phimbo .fa-angle-right:hover
+.Phimhoathinh .fa-angle-right:hover
 {
     transform: scale(1.2)
 }
 
-.Phimbo .fa-angle-left
+.Phimhoathinh .fa-angle-left
 {
     position: absolute;
     top:50%;
@@ -67,12 +67,12 @@ html
     transition: all 0.15s ease-in-out;
 }
 
-.Phimbo .fa-angle-left:hover
+.Phimhoathinh .fa-angle-left:hover
 {
     transform: scale(1.2)
 }
 
-.Phimbo__title
+.Phimhoathinh__title
 {
     display: flex;
     width: 80%;
@@ -87,18 +87,18 @@ html
     
 }
 
-.Phimbo__title h2:hover
+.Phimhoathinh__title h2:hover
 {
    color:var(--hover);
 }
 
-.Phimbo__title i:hover
+.Phimhoathinh__title i:hover
 {
     color:var(--hover);
 }
 
 
-.Phimbo__product 
+.Phimhoathinh__product 
 {
     display: flex;
     
@@ -121,14 +121,14 @@ html
     
 }
 
-.Phimbo__product::-webkit-scrollbar {
+.Phimhoathinh__product::-webkit-scrollbar {
     display: none;
   }
 
 
 
 /* sản phẩm phim bộ */
-.Phimbo__product-cart
+.Phimhoathinh__product-cart
 {
     width: calc(100% / 4 - 0.6rem);
     height: 42rem;
@@ -140,14 +140,14 @@ html
     
 }
 
-.Phimbo__product-cart:first-child
+.Phimhoathinh__product-cart:first-child
 {
  
     margin-left: auto;
 }
 
 
-.Phimbo__product-cart img 
+.Phimhoathinh__product-cart img 
 {
     position: relative;
     top:0;
@@ -159,13 +159,13 @@ html
     border-radius: 0.8rem;
 }
 
-.Phimbo__product-cart img:hover
+.Phimhoathinh__product-cart img:hover
 {
     filter: grayscale(70%);
 
 }
 
-.Phimbo__product-cart i 
+.Phimhoathinh__product-cart i 
 {
     position: absolute;
     top:35%;
@@ -178,12 +178,12 @@ html
     transition: all 0.2s ease;
     font-size: 2rem;
 }
-.Phimbo__product-cart i:hover
+.Phimhoathinh__product-cart i:hover
 {
     color: rgb(223, 108, 0);
     border:2px solid rgb(223, 108, 0);
 }
-.Phimbo__product-cart .add 
+.Phimhoathinh__product-cart .add 
 {
     position: absolute;
     top:65%;
@@ -199,10 +199,10 @@ html
     cursor: pointer;
     transition: all 0.2s linear;
     display: none;
-    /* animation: bottom_top 1s linear 1; */
+
 }
 
-.Phimbo__product-cart .add:hover 
+.Phimhoathinh__product-cart .add:hover 
 { 
     color: #ff501a;
 }
@@ -261,7 +261,7 @@ html
 }
 
 
-.Phimbo__product-cart .title
+.Phimhoathinh__product-cart .title
 { 
     margin-top: 1rem;
     font-size: 1.7rem;
@@ -272,7 +272,7 @@ html
     text-overflow: ellipsis; 
 }
 
-.Phimbo__product-cart .btn
+.Phimhoathinh__product-cart .btn
 { 
     display: flex;
     flex-direction: row;
@@ -284,7 +284,7 @@ html
     font-size: 1.2rem;
 }
 
-.Phimbo__product-cart .btn div
+.Phimhoathinh__product-cart .btn div
 { 
     background-color:rgb(81,81,87) ;
     padding:0.2rem 1.3rem; 
@@ -292,7 +292,7 @@ html
 }
 
 
-.Phimbo__product-cart .category
+.Phimhoathinh__product-cart .category
 { 
     font-size: 1.2rem;
     color:var(--normalWord);

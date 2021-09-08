@@ -1,0 +1,36 @@
+@media screen and (max-width:767px) {
+
+    .App .Header__browser-modal
+    {
+        width:50%;
+
+    }
+    .App .Header__browser-modal .Header__search-mobile
+    {
+        margin-top: 6rem; 
+    }
+    .App .Header__browser-modal .Header__info
+    {
+        margin:0rem 2.5rem;
+    }
+    .App .Header__browser-modal .Header__search-mobile
+    {
+        display: block;
+    }
+    .App .Header__browser-modal .Header__info p
+    {
+      font-weight: 600;
+      font-size: 1.7rem;
+    }
+    
+    .App .Header__browser-modal .Header__info .phimbo , .phimle ,.phimhoathinh, .phimchieurap
+    {
+      font-size: 1.2rem;
+    }
+    .Header__info a 
+    {
+    font-size: 1.2rem;
+
+    }
+
+}

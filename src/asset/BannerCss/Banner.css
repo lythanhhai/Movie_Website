@@ -27,7 +27,7 @@ html
 
 .Banner
 {
-    width:100rem;
+    width:100%;
     height: 35rem;
     /* background-color: red; */
     margin:5rem auto;
@@ -44,7 +44,7 @@ html
     list-style: none;
     color:var(--socialColor);
     line-height: 1.5;
-    margin:10rem 0 0 4rem;
+    margin:10rem 0 0 20rem;
     transition: all 0.2s ease-out;
 }
 
@@ -64,7 +64,7 @@ html
 {
     display: flex;
     flex-direction: column;
-    margin:4rem 10rem 0;
+    margin:3rem 10rem 4rem;
     line-height: 1.5;
 }
 

@@ -10,7 +10,7 @@ const Pagination = ({numberPage,results,getCurrentPage}) => {
     }
     
     var resArr1 = [];
-    const NumberAPage = 12;
+    const NumberAPage = 16;
     for(var i = 0; i < arrs.length ; i++)
     {
         var resArr = [];
@@ -77,46 +77,98 @@ const Pagination = ({numberPage,results,getCurrentPage}) => {
         }
     }
     var elmButtonPage = arrs.map((arr,index) => {
+         
+            if(index === 0)
+            {
+                return(
+                    <button key={index} className="btn__page active" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                );
+            }
 
-            if(index === arrs.length - 1 || index === 0)
+            if(currentPage <= 2)
+            {
+                if(index === arrs.length - 1)
+                {
+                    return(
+                        <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                    );
+                }
+                else if(index === arrs.length - 2)
+                {
+                    return(
+                        <button key={index} className="btn__page" ><i class="fas fa-ellipsis-h"></i></button>
+                    );
+                }
+                else if(index > currentPage + 2 || index < currentPage - 2)
+                {
+                    return(
+                        <button key={index} className="btn__page none" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                    );
+                    
+                }
+                else 
+                {
+                    return(
+                        <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                    );
+                }
+
+            }
+            else if(currentPage > 3 && currentPage < arrs.length - 3)
+            {
+                if(index === arrs.length - 1 || index === 0)
+                {
+                    return(
+                        <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                    );
+                }
+                else if(index === arrs.length - 2 || index === 1)
+                {
+                    return(
+                        <button key={index} className="btn__page" ><i class="fas fa-ellipsis-h"></i></button>
+                    );
+                }
+                else if(index > currentPage + 2 || index < currentPage - 2)
+                {
+                    return(
+                        <button key={index} className="btn__page none" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                    );
+                    
+                }
+                else 
+                {
+                    return(
+                        <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                    );
+                }
+            }
+            else 
             {
                 if(index === 0)
                 {
                     return(
-                            <button key={index} className="btn__page active" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                        <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
                     );
                 }
-                return(
-                    <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
-                );
-            }
-            // if(index === arrs.length - 1)
-            // {
-            //     return(
-            //         <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
-            //     );
-            // }
-            if(index > currentPage + 2 || index < currentPage - 2)
-            {
-                return(
-                    <button key={index} className="btn__page none" onClick={() => {clickPage(index)}}>{index + 1}</button>
-                );
-                
-            }
-            if(index === arrs.length - 2 || index === 1)
-            {
-                return(
-                    <button key={index} className="btn__page" ><i class="fas fa-ellipsis-h"></i></button>
-                );
-            }
-        
-            
-            else 
-            {
-
-                return(
+                else if(index === 1)
+                {
+                    return(
+                        <button key={index} className="btn__page" ><i class="fas fa-ellipsis-h"></i></button>
+                    );
+                }
+                else if(index > currentPage + 2 || index < currentPage - 2)
+                {
+                    return(
+                        <button key={index} className="btn__page none" onClick={() => {clickPage(index)}}>{index + 1}</button>
+                    );
+                    
+                }
+                else 
+                {
+                    return(
                         <button key={index} className="btn__page" onClick={() => {clickPage(index)}}>{index + 1}</button>
-                );
+                    );
+                }
             }
         });
 
