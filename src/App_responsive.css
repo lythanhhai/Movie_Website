@@ -1,36 +1,42 @@
-@media screen and (max-width:767px) {
+@media screen and (max-width: 767px) {
+  .App .Header__browser-modal {
+    width: 50%;
+  }
+  .App .Header__browser-modal .Header__search-mobile {
+    margin-top: 6rem;
+  }
+  .App .Header__browser-modal .Header__search-mobile i {
+    left: 10%;
+    transform: translate(-20%, -50%);
+    font-size: 1.5rem;
+  }
+  .App .Header__browser-modal .Header__info {
+    margin: 0rem auto;
+  }
+  .App .Header__browser-modal .Header__search-mobile {
+    display: block;
+  }
+  .App .Header__browser-modal .Header__info p {
+    font-weight: 600;
+    font-size: 1.7rem;
+  }
 
-    .App .Header__browser-modal
-    {
-        width:50%;
-
-    }
-    .App .Header__browser-modal .Header__search-mobile
-    {
-        margin-top: 6rem; 
-    }
-    .App .Header__browser-modal .Header__info
-    {
-        margin:0rem 2.5rem;
-    }
-    .App .Header__browser-modal .Header__search-mobile
-    {
-        display: block;
-    }
-    .App .Header__browser-modal .Header__info p
-    {
-      font-weight: 600;
-      font-size: 1.7rem;
-    }
-    
-    .App .Header__browser-modal .Header__info .phimbo , .phimle ,.phimhoathinh, .phimchieurap
-    {
-      font-size: 1.2rem;
-    }
-    .Header__info a 
-    {
+  .App .Header__browser-modal .Header__info .phimbo,
+  .phimle,
+  .phimhoathinh,
+  .phimchieurap {
     font-size: 1.2rem;
-
-    }
-
+  }
+  .Header__info a {
+    font-size: 1.2rem;
+  }
+  #btn_loadmore {
+    width: 12rem;
+    height: 4rem;
+    font-size: 1.4rem;
+    font-weight: 550;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    margin: 1rem auto -1rem;
+  }
 }

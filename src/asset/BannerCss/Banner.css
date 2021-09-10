@@ -1,168 +1,142 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
-*
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    --backgroundcolor:rgb(25,22,39);
-    --nameTitle:rgb(255,255,255);
-    --normalWord:rgb(188,186,196);
-    --hover : #ff501a;
-    --border:rgb(82, 82, 82);
-    --socialColor:rgb(110,87,224);
-    --socialHover:rgba(110,87,224,0.8);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --backgroundcolor: rgb(25, 22, 39);
+  --nameTitle: rgb(255, 255, 255);
+  --normalWord: rgb(188, 186, 196);
+  --hover: #ff501a;
+  --border: rgb(82, 82, 82);
+  --socialColor: rgb(110, 87, 224);
+  --socialHover: rgba(110, 87, 224, 0.8);
 }
 
-body 
-{
-    font-family: 'Roboto', sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
 }
 
-html 
-{
-    font-size: 62.5%;
+html {
+  font-size: 62.5%;
 }
 
-
-.Banner
-{
-    width:100%;
-    height: 35rem;
-    /* background-color: red; */
-    margin:5rem auto;
-    display: flex;
-    flex-direction: row;
+.Banner {
+  width: 100%;
+  height: 35rem;
+  /* background-color: red; */
+  margin: 5rem auto;
+  display: flex;
+  flex-direction: row;
 }
 
-.Banner__social 
-{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    list-style: none;
-    line-height: 1.5;
-    margin:10rem 0 0 20rem;
-    transition: all 0.2s ease-out;
+.Banner__social {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  list-style: none;
+  line-height: 1.5;
+  margin: 10rem 0 0 20rem;
+  transition: all 0.2s ease-out;
 }
 
-.Banner__social li a 
-{
-    cursor: pointer;
-    color:var(--socialColor);
-    font-size : 2rem;
+.Banner__social li a {
+  cursor: pointer;
+  color: var(--socialColor);
+  font-size: 2rem;
 }
 
-.Banner__social li a:hover
-{
-    color: var(--socialHover);
+.Banner__social li a:hover {
+  color: var(--socialHover);
 
-    /* opacity:0.9; */
+  /* opacity:0.9; */
 }
 
-.Banner__info 
-{
-    display: flex;
-    flex-direction: column;
-    margin:3rem 10rem 4rem;
-    line-height: 1.5;
+.Banner__info {
+  display: flex;
+  flex-direction: column;
+  margin: 3rem 10rem 4rem;
+  line-height: 1.5;
 }
 
-.Banner__info h1 
-{
-    color:var(--nameTitle);
-    font-size: 4.8rem;
-    text-transform: uppercase;
+.Banner__info h1 {
+  color: var(--nameTitle);
+  font-size: 4.8rem;
+  text-transform: uppercase;
 }
 
-.Banner__info h5
-{
-    color:var(--normalWord);
-    font-size: 2rem;
-    font-weight: 500;
+.Banner__info h5 {
+  color: var(--normalWord);
+  font-size: 2rem;
+  font-weight: 500;
 }
 
-.Banner__info p
-{
-    color:var(--normalWord);
-    font-size: 1.5rem;
-    font-weight: 500;
-    margin-bottom: 2rem;
+.Banner__info p {
+  color: var(--normalWord);
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
 }
 
-#btn_watch 
-{
-    width:10rem;
-    height: 4.5rem;
-    color:var(--nameTitle);
-    background-color: var(--socialColor);
-    border:none;
-    outline: none;
-    border-radius: 1rem;
-    font-size: 1.5rem;
-    cursor: pointer;
-    transition: all 0.2s linear;
-    margin-bottom: 4rem;
-    transition: all 0.2s ease;
+#btn_watch {
+  width: 10rem;
+  height: 4.5rem;
+  color: var(--nameTitle);
+  background-color: var(--socialColor);
+  border: none;
+  outline: none;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: all 0.2s linear;
+  margin-bottom: 4rem;
+  transition: all 0.2s ease;
 }
 
-#btn_watch:hover
-{
-    background-color: var(--socialHover);
+#btn_watch:hover {
+  background-color: var(--socialHover);
 }
 
-.Banner__info .Banner-scrollDown
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    
-    align-items: center;
-    font-size: 1.6rem;
-    width:15rem;
-    padding:1rem 1rem;
-    cursor: pointer;
-    
+.Banner__info .Banner-scrollDown {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  align-items: center;
+  font-size: 1.6rem;
+  width: 15rem;
+  padding: 1rem 1rem;
+  cursor: pointer;
 }
 
-.Banner__info .Banner-scrollDown:hover
-{
-    animation: moveScroll 1s linear 1;
+.Banner__info .Banner-scrollDown:hover {
+  animation: moveScroll 1s linear 1;
 }
 
-.Banner__info .Banner-scrollDown i
-{
-    color:var(--socialColor);
-    font-size: 1.8rem;
-    margin-right: 0.5rem;
+.Banner__info .Banner-scrollDown i {
+  color: var(--socialColor);
+  font-size: 1.8rem;
+  margin-right: 0.5rem;
 }
-.Banner__info .Banner-scrollDown span
-{
-    color:var(--nameTitle);
-    margin-right: 0.5rem;
+.Banner__info .Banner-scrollDown span {
+  color: var(--nameTitle);
+  margin-right: 0.5rem;
 }
 
-
-@keyframes moveScroll 
-{
- 0% 
- {
+@keyframes moveScroll {
+  0% {
     transform: translateY(0%);
- }
- 25%
- {
+  }
+  25% {
     transform: translateY(15%);
- }
- 50%
- {
+  }
+  50% {
     transform: translateY(30%);
- }
- 75%
- {
+  }
+  75% {
     transform: translateY(15%);
- }
- 100%
- {
+  }
+  100% {
     transform: translateY(0%);
- }
+  }
 }

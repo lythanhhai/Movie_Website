@@ -1,304 +1,251 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
-*
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    --backgroundcolor:rgb(25,22,39);
-    --nameTitle:rgb(255,255,255);
-    --normalWord:rgb(188,186,196);
-    --hover : #ff501a;
-    --border:rgb(82, 82, 82);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --backgroundcolor: rgb(25, 22, 39);
+  --nameTitle: rgb(255, 255, 255);
+  --normalWord: rgb(188, 186, 196);
+  --hover: #ff501a;
+  --border: rgb(82, 82, 82);
 }
 
-body 
-{
-    font-family: 'Roboto', sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
 }
 
-html 
-{
-    font-size: 62.5%;
+html {
+  font-size: 62.5%;
 }
 
-.Phimhoathinh 
-{
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    margin-top: calc(1rem);
-    background-color: transparent;
-    position: relative;
-   
+.Phimhoathinh {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  margin-top: calc(1rem);
+  background-color: transparent;
+  position: relative;
 }
 
-.Phimhoathinh .fa-angle-right
-{
-    position: absolute;
-    top:50%;
-    right:5%;
-    background-color: var(--nameTitle);
-    font-size: 2rem;
-    padding:1rem 1.5rem;
-    border-radius: 50%;
-    cursor: pointer;
-    transition: all 0.15s ease-in-out;
+.Phimhoathinh .fa-angle-right {
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  background-color: var(--nameTitle);
+  font-size: 2rem;
+  padding: 1rem 1.5rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
 }
 
-.Phimhoathinh .fa-angle-right:hover
-{
-    transform: scale(1.2)
+.Phimhoathinh .fa-angle-right:hover {
+  transform: scale(1.2);
 }
 
-.Phimhoathinh .fa-angle-left
-{
-    position: absolute;
-    top:50%;
-    left:5%;
-    background-color: var(--nameTitle);
-    font-size: 2rem;
-    padding:1rem 1.5rem;
-    border-radius: 50%;
-    cursor: pointer;
-    transition: all 0.15s ease-in-out;
+.Phimhoathinh .fa-angle-left {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  background-color: var(--nameTitle);
+  font-size: 2rem;
+  padding: 1rem 1.5rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
 }
 
-.Phimhoathinh .fa-angle-left:hover
-{
-    transform: scale(1.2)
+.Phimhoathinh .fa-angle-left:hover {
+  transform: scale(1.2);
 }
 
-.Phimhoathinh__title
-{
-    display: flex;
-    width: 80%;
-    flex-direction: row;
-    justify-content: space-between;  
-    font-size: 2rem;
-    align-items: center;
-    cursor: pointer;
-    transition: all 0.2s linear;
-    color: white;
-    margin:-2rem auto 4rem;
-    
+.Phimhoathinh__title {
+  display: flex;
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 2rem;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.2s linear;
+  color: white;
+  margin: -2rem auto 4rem;
 }
 
-.Phimhoathinh__title h2:hover
-{
-   color:var(--hover);
+.Phimhoathinh__title h2:hover {
+  color: var(--hover);
 }
 
-.Phimhoathinh__title i:hover
-{
-    color:var(--hover);
+.Phimhoathinh__title i:hover {
+  color: var(--hover);
 }
 
+.Phimhoathinh__product {
+  display: flex;
 
-.Phimhoathinh__product 
-{
-    display: flex;
-    
-    width: 80%;
-    overflow-x: scroll;
-    white-space: nowrap;
-    flex-direction: row;
-    /* flex-wrap: wrap; */
-    margin: 0 auto;
-    /* justify-content: space-around; */
-    -webkit-overflow-scrolling: touch;
-    scroll-behavior: smooth;
-    -webkit-scroll-snap-points-x: repeat(300px);
-    -ms-scroll-snap-points-x: repeat(300px);
-    scroll-snap-points-x: repeat(300px);
-    -webkit-scroll-snap-type: mandatory;
-    -ms-scroll-snap-type: mandatory;
-     scroll-snap-type: mandatory;
-     /* border-bottom: 1px solid var(--border); */
-    
+  width: 80%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  margin: 0 auto;
+  /* justify-content: space-around; */
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  -webkit-scroll-snap-points-x: repeat(300px);
+  -ms-scroll-snap-points-x: repeat(300px);
+  scroll-snap-points-x: repeat(300px);
+  -webkit-scroll-snap-type: mandatory;
+  -ms-scroll-snap-type: mandatory;
+  scroll-snap-type: mandatory;
+  /* border-bottom: 1px solid var(--border); */
 }
 
 .Phimhoathinh__product::-webkit-scrollbar {
-    display: none;
-  }
-
-
+  display: none;
+}
 
 /* sản phẩm phim bộ */
-.Phimhoathinh__product-cart
-{
-    width: calc(100% / 4 - 0.6rem);
-    height: 42rem;
-    /* border : 1px solid blue; */
-    position: relative;
-    color:var(--nameTitle);
-    margin-right: 1rem;
-    flex-grow: 1;
-    
+.Phimhoathinh__product-cart {
+  width: calc(100% / 4 - 0.6rem);
+  height: 42rem;
+  /* border : 1px solid blue; */
+  position: relative;
+  color: var(--nameTitle);
+  margin-right: 1rem;
+  flex-grow: 1;
 }
 
-.Phimhoathinh__product-cart:first-child
-{
- 
-    margin-left: auto;
+.Phimhoathinh__product-cart:first-child {
+  margin-left: auto;
 }
 
-
-.Phimhoathinh__product-cart img 
-{
-    position: relative;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 70%;
-    object-fit: cover;
-    cursor: pointer;
-    border-radius: 0.8rem;
+.Phimhoathinh__product-cart img {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70%;
+  object-fit: cover;
+  cursor: pointer;
+  border-radius: 0.8rem;
 }
 
-.Phimhoathinh__product-cart img:hover
-{
-    filter: grayscale(70%);
-
+.Phimhoathinh__product-cart img:hover {
+  filter: grayscale(70%);
 }
 
-.Phimhoathinh__product-cart i 
-{
-    position: absolute;
-    top:35%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    border:2px solid white;
-    padding:2rem;
-    border-radius: 50%;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    font-size: 2rem;
+.Phimhoathinh__product-cart i {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid white;
+  padding: 2rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 2rem;
 }
-.Phimhoathinh__product-cart i:hover
-{
-    color: rgb(223, 108, 0);
-    border:2px solid rgb(223, 108, 0);
+.Phimhoathinh__product-cart i:hover {
+  color: rgb(223, 108, 0);
+  border: 2px solid rgb(223, 108, 0);
 }
-.Phimhoathinh__product-cart .add 
-{
-    position: absolute;
-    top:65%;
-    left: 50%;
-    transform: translate(-50%,-60%);
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-    color: white;
-    width: 95%;
-    padding: 1.5rem 2rem;
-    font-size: 1.4rem;
-    text-align: center;
-    cursor: pointer;
-    transition: all 0.2s linear;
-    display: none;
-
+.Phimhoathinh__product-cart .add {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  width: 95%;
+  padding: 1.5rem 2rem;
+  font-size: 1.4rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s linear;
+  display: none;
 }
 
-.Phimhoathinh__product-cart .add:hover 
-{ 
-    color: #ff501a;
+.Phimhoathinh__product-cart .add:hover {
+  color: #ff501a;
 }
 
 /* sự kiện cho add list */
 
-@keyframes bottom_top
-{
-    0%
-    {
-        opacity: 0;
-        top:85%;
-    }
-    50%
-    {
-        opacity: 0;
-        top:75%;
-    }
-    75%
-    {
-        opacity: 0.1;
-        top:70%;
-    }
-    100%
-    {
-        opacity: 0.4;
-        top:65%;
-    }
+@keyframes bottom_top {
+  0% {
+    opacity: 0;
+    top: 85%;
+  }
+  50% {
+    opacity: 0;
+    top: 75%;
+  }
+  75% {
+    opacity: 0.1;
+    top: 70%;
+  }
+  100% {
+    opacity: 0.4;
+    top: 65%;
+  }
 }
 
 /* sự kiện mouse out */
-@keyframes top_bottom
-{
-    0%
-    {
-        opacity: 1;
-        top:65%;
-        
-    }
-    50%
-    {
-        opacity: 0.5;
-        top:70%;
-    }
-    75%
-    {
-        opacity: 0;
-        top:75%;
-    }
-    100%
-    {
-        opacity: 0;
-        top:85%;
-        display: none;
-    }
+@keyframes top_bottom {
+  0% {
+    opacity: 1;
+    top: 65%;
+  }
+  50% {
+    opacity: 0.5;
+    top: 70%;
+  }
+  75% {
+    opacity: 0;
+    top: 75%;
+  }
+  100% {
+    opacity: 0;
+    top: 85%;
+    display: none;
+  }
 }
 
-
-.Phimhoathinh__product-cart .title
-{ 
-    margin-top: 1rem;
-    font-size: 1.7rem;
-    font-weight: 600;
-    color:white;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis; 
+.Phimhoathinh__product-cart .title {
+  margin-top: 1rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.Phimhoathinh__product-cart .btn
-{ 
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    margin:2rem 0 1rem;
-    color:var(--normalWord);
-    font-size: 1.2rem;
+.Phimhoathinh__product-cart .btn {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem 0 1rem;
+  color: var(--normalWord);
+  font-size: 1.2rem;
 }
 
-.Phimhoathinh__product-cart .btn div
-{ 
-    background-color:rgb(81,81,87) ;
-    padding:0.2rem 1.3rem; 
-    color:white;
+.Phimhoathinh__product-cart .btn div {
+  background-color: rgb(81, 81, 87);
+  padding: 0.2rem 1.3rem;
+  color: white;
 }
 
-
-.Phimhoathinh__product-cart .category
-{ 
-    font-size: 1.2rem;
-    color:var(--normalWord);
+.Phimhoathinh__product-cart .category {
+  font-size: 1.2rem;
+  color: var(--normalWord);
 }
-
-
-
-
-

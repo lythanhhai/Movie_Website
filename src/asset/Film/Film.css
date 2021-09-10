@@ -1,53 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
-*
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    --backgroundcolor:rgb(25,22,39);
-    --nameTitle:rgb(255,255,255);
-    --normalWord:rgb(188,186,196);
-    --hover : #ff501a;
-    --border:rgb(82, 82, 82);
-    --socialColor:rgb(110,87,224);
-    --socialHover:rgba(110,87,224,0.8);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --backgroundcolor: rgb(25, 22, 39);
+  --nameTitle: rgb(255, 255, 255);
+  --normalWord: rgb(188, 186, 196);
+  --hover: #ff501a;
+  --border: rgb(82, 82, 82);
+  --socialColor: rgb(110, 87, 224);
+  --socialHover: rgba(110, 87, 224, 0.8);
 }
 
-body 
-{
-    font-family: 'Roboto', sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
 }
 
-html 
-{
-    font-size: 62.5%;
+html {
+  font-size: 62.5%;
 }
 
-.Film 
-{
-    display: flex;
-    flex-direction: column;
+.Film {
+  display: flex;
+  flex-direction: column;
 }
 
-.Film .episode 
-{
-    width:70%;
-    min-height: 80%;
-    margin: auto;
-    text-align: center;
-
+.Film .episode {
+  width: 70%;
+  min-height: 80%;
+  margin: auto;
+  text-align: center;
 }
-.Film .episode iframe 
-{
-    width: 80%;
-    min-height: 40rem;
+.Film .episode iframe {
+  width: 80%;
+  min-height: 40rem;
 }
 
-.Film .title
-{
-    color : var(--nameTitle);
-    font-size: 2.5rem;
-    font-size: 500;
-    margin-top: 2rem;
+.Film .title {
+  color: var(--nameTitle);
+  font-size: 2.5rem;
+  font-size: 500;
+  margin-top: 2rem;
 }

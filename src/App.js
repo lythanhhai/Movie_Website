@@ -1,6 +1,6 @@
 import "./App.css";
 import "./App_responsive.css";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 // component
 import Header from "./Component/Header";
 import Phimbo from "./Component/Phimbo";
@@ -113,8 +113,7 @@ function App() {
 
       if (category.includes(result1)) {
         arr.push(allPhims);
-      }
-      else if (phim.includes(result1)) {
+      } else if (phim.includes(result1)) {
         arr.push(allPhims);
       }
     });
@@ -158,10 +157,15 @@ function App() {
   };
   const [episodes, setEpisodes] = useState([]);
   const [title, setTilte] = useState("");
+  const epiRef = useRef();
+  //epiRef.current = episodes;
+
+  useEffect(() => {}, [episodes, title]);
   const getEpisodes = (Episodes, Title) => {
     setEpisodes(Episodes);
     setTilte(Title);
   };
+
   return (
     <Router>
       <div className="App" onLoad={() => {}}>
@@ -176,10 +180,10 @@ function App() {
                 getResultSearch(
                   document.getElementsByClassName(
                     "Header__search-input--mobile"
-                    )[0].value
-                    );
-                    
-                <Redirect to="/Search" />
+                  )[0].value
+                );
+
+                <Redirect to="/Search" />;
               }}
             ></input>
           </div>
@@ -218,27 +222,29 @@ function App() {
           getResultSearch={getResultSearch}
           modal__browser={modal__browser}
         />
-        <Banner />
-        <Route path="/" exact 
-        render={() => (
-          <>
-            <Phimbo phimBos={phimBos} />
-            <Phimle phimLes={phimLes} />
-            <PhimHoatHinh phimHoatHinhs={phimHoatHinhs} />
-            <Phimchieurap phimChieuRaps={phimChieuRaps} />
-            {click === true ? result(phimHoatHinhs) : ""}
-            {click === true ? result(phimChieuRaps) : ""}
-            <button
-              type="submit"
-              id="btn_loadmore"
-              onClick={() => {
-                onClickBtnLoadMore();
-              }}
-            >
-              Load More
-            </button>
-          </>
-        )}
+        <Banner episodes={episodes} />
+        <Route
+          path="/"
+          exact
+          render={() => (
+            <>
+              <Phimbo phimBos={phimBos} />
+              <Phimle phimLes={phimLes} />
+              <PhimHoatHinh phimHoatHinhs={phimHoatHinhs} />
+              <Phimchieurap phimChieuRaps={phimChieuRaps} />
+              {click === true ? result(phimHoatHinhs) : ""}
+              {click === true ? result(phimChieuRaps) : ""}
+              <button
+                type="submit"
+                id="btn_loadmore"
+                onClick={() => {
+                  onClickBtnLoadMore();
+                }}
+              >
+                Load More
+              </button>
+            </>
+          )}
         />
 
         <Route
@@ -268,9 +274,9 @@ function App() {
           path="/Search"
           render={() => (
             <>
-              {resultPhim === "" ? <Redirect to="/Home" /> : ""}
+              {resultPhim === "11111111111" ? <Redirect to="/Home" /> : "bbb"}
 
-              {phimBySearch.length > 1 ? (
+              {phimBySearch.length > 1 && resultPhim !== "" ? (
                 <ResultSearch
                   results={phimBySearch}
                   resultPhim={resultPhim}
@@ -282,18 +288,19 @@ function App() {
             </>
           )}
         />
-        <Route path="/Film" render={
-          () => (
+        <Route
+          path="/Film/"
+          render={() => (
             <>
               {episodes.length !== 0 ? (
                 <Film episodes={episodes} title={title} />
               ) : (
-                ""
+                "aaaa"
               )}
             </>
-          )
-        }/>
-        
+          )}
+        />
+
         <ContactMe />
         <Footer />
       </div>

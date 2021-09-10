@@ -1,200 +1,179 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
-*
-{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-html
-{
-    font-size: 62.5%;
+html {
+  font-size: 62.5%;
 }
 
-body 
-{
-    font-family: 'Roboto', sans-serif;
-    --backgroundcolor:rgb(25,22,39);
-    --nameTitle:rgb(255,255,255);
-    --normalWord:rgb(188,186,196);
-    --hover : #ff501a;
-    --border:rgb(82, 82, 82);
-    --socialColor:rgb(110,87,224);
-    --socialHover:rgba(110,87,224,0.8);
+body {
+  font-family: "Roboto", sans-serif;
+  --backgroundcolor: rgb(25, 22, 39);
+  --nameTitle: rgb(255, 255, 255);
+  --normalWord: rgb(188, 186, 196);
+  --hover: #ff501a;
+  --border: rgb(82, 82, 82);
+  --socialColor: rgb(110, 87, 224);
+  --socialHover: rgba(110, 87, 224, 0.8);
 }
 
-.Header 
-{
-    width: 100%;
-    height: 7rem;
-    background: linear-gradient(rgba(0,0,0,.9) 1%,rgba(0,0,0,.8) 15%,rgba(0,0,0,.7) 30%,rgba(0,0,0,.6) 45%,rgba(0,0,0,.5) 60%,rgba(0,0,0,.3) 75%,transparent);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    font-size: 1.5rem;
-    color: whitesmoke;
-    position: sticky;
-    top:0;
-    z-index: 1;
+.Header {
+  width: 100%;
+  height: 7rem;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.9) 1%,
+    rgba(0, 0, 0, 0.8) 15%,
+    rgba(0, 0, 0, 0.7) 30%,
+    rgba(0, 0, 0, 0.6) 45%,
+    rgba(0, 0, 0, 0.5) 60%,
+    rgba(0, 0, 0, 0.3) 75%,
+    transparent
+  );
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.5rem;
+  color: whitesmoke;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
-#Header__navbar
-{
-    display: none;
+#Header__navbar {
+  display: none;
 }
 
-.Header__logo
-{
-    margin-left: 2%;
-    font-size: 2.2rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    cursor: pointer;
-    text-decoration: none;
-    color:white;
+.Header__logo {
+  margin-left: 2%;
+  font-size: 2.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
 }
 
-.Header__browse
-{
-
-    margin-left: -14%;
-    cursor: pointer;
-    position: relative;
+.Header__browse {
+  margin-left: -14%;
+  cursor: pointer;
+  position: relative;
 }
-.Header__browse:hover
-{
-color:var(--socialColor);
+.Header__browse:hover {
+  color: var(--socialColor);
 }
 
-.Header__browser-modal
-{
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    top:100%;
-    left:0;
-    width:300%;
-    min-height: auto;
-    background-color: rebeccapurple;
+.Header__browser-modal {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 300%;
+  min-height: auto;
+  background-color: rebeccapurple;
 }
 
-.Header__search
-{
-    display: flex;
-    flex-direction: row;
-    width: 25%;
-    height: 50%;
-    position: relative;
-    margin-left: -5%;
-    color: white;
+.Header__search {
+  display: flex;
+  flex-direction: row;
+  width: 25%;
+  height: 50%;
+  position: relative;
+  margin-left: -5%;
+  color: white;
 }
 
-.Header__search i
-{
-    position: absolute;
-    z-index: 10;
-    top:50%;
-    left: 5%;
-    transform: translate(-20%,-50%);
+.Header__search i {
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  left: 5%;
+  transform: translate(-20%, -50%);
 }
 
-.Header__search-input 
-{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top:0;
-    left:0;
-    z-index: 0;
-    padding: 1rem 6rem;
-    background-color: rgb(165,168,171);
-    color: white;
-    border: none;
-    outline: none;
-    border-radius: 2rem;
-    font-size: 1rem;
+.Header__search-input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  padding: 1rem 6rem;
+  background-color: rgb(165, 168, 171);
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 2rem;
+  font-size: 1rem;
 }
-.Header__search-input:hover
-{
-    background-color: rgba(165,168,171,0.1);
-    border:1px solid white;
+.Header__search-input:hover {
+  background-color: rgba(165, 168, 171, 0.1);
+  border: 1px solid white;
 }
 
-
-.Header__account
-{
- display: flex;
- flex-direction: row;
- justify-content: space-between;
- align-items: center;
- min-width: 7%;
- cursor: pointer;
- position: relative;
+.Header__account {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 7%;
+  cursor: pointer;
+  position: relative;
 }
 
-#Header__account-notHover
-{
-
+#Header__account-notHover {
 }
 
-#Header__account-Hover
-{
-    display: none;
+#Header__account-Hover {
+  display: none;
 }
 
-
-.Header__account-modalUser
-{
-    list-style: none;
-    top:140%;
-    left: -100%;
-    position: absolute;
-    z-index: 1;
-    background-color: whitesmoke;
-    min-width: 20rem;
-    min-height: fit-content;
-    padding: 1rem 1.5rem;
-    font-size: 1.4rem;
-    line-height: 1.5;
-    display: none;
-    color:rgb(104, 103, 103);
+.Header__account-modalUser {
+  list-style: none;
+  top: 140%;
+  left: -100%;
+  position: absolute;
+  z-index: 1;
+  background-color: whitesmoke;
+  min-width: 20rem;
+  min-height: fit-content;
+  padding: 1rem 1.5rem;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  display: none;
+  color: rgb(104, 103, 103);
 }
 
-.Header__account-modalUser::after
-{
-    content: "";
-    position: absolute;
-    z-index: 2;
-    width: 100%;
-    height: 1rem;
-    top:-9%;
-    left: 0%;
-    background-color: transparent;
-    color:white;
-
+.Header__account-modalUser::after {
+  content: "";
+  position: absolute;
+  z-index: 2;
+  width: 100%;
+  height: 1rem;
+  top: -9%;
+  left: 0%;
+  background-color: transparent;
+  color: white;
 }
 
-.Header__account-modalUser li
-{
-    cursor: pointer;
-    transition: all 0.15s linear;
+.Header__account-modalUser li {
+  cursor: pointer;
+  transition: all 0.15s linear;
 }
-.Header__account-modalUser li:hover
-{
-    color: rgba(104, 103, 103,0.5);
+.Header__account-modalUser li:hover {
+  color: rgba(104, 103, 103, 0.5);
 }
 
-
-
-
-.Header__account-modalUser:last-child::before
-{
-    content: "";
-    position: absolute;
-    width: 80%;
-    height: 0.1rem;
-    color:green ;
-    background-color: cornsilk;
+.Header__account-modalUser:last-child::before {
+  content: "";
+  position: absolute;
+  width: 80%;
+  height: 0.1rem;
+  color: green;
+  background-color: cornsilk;
 }

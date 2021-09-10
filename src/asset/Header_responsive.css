@@ -1,57 +1,43 @@
-@media screen and (max-width:767px)
-{
-    #Header__navbar
-    {
-        display: block;
-        color:whitesmoke;
-        font-size: 2rem;
-        cursor: pointer;
-    }
-    .Header__search
-    {
-        display: none;
-    }
-    .Header__browse
-    {
-
-        display: none;
-    }
-    .Header__logo
-    {
-        margin-left: -15%;
-        font-size: 1.7rem;
-    }
-    .Header__account
-    {
-     min-width: 20%;
-    }
+@media screen and (max-width: 767px) {
+  #Header__navbar {
+    display: block;
+    color: whitesmoke;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  .Header__search {
+    display: none;
+  }
+  .Header__browse {
+    display: none;
+  }
+  .Header__logo {
+    margin-left: -15%;
+    font-size: 1.7rem;
+  }
+  .Header__account {
+    min-width: 20%;
+  }
 }
 
-@media screen and (min-width:600px) and (max-width:1023px)
-{
-    #Header__navbar
-    {
-        display: block;
-        color:whitesmoke;
-        font-size: 2rem;
-        cursor: pointer;
-    }
-    .Header__search
-    {
-        display: none;
-    }
-    .Header__browse
-    {
-
-        display: none;
-    }
-    .Header__logo
-    {
-        margin-left: -15%;
-        font-size: 1.7rem;
-    }
-    .Header__account
-    {
-        min-width: 11%;
-    }
+@media screen and (min-width: 600px) and (max-width: 1023px) {
+  #Header__navbar {
+    display: block;
+    color: whitesmoke;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  .Header__search {
+    display: none;
+  }
+  .Header__browse {
+    display: none;
+  }
+  .Header__logo {
+    margin-left: -15%;
+    font-size: 1.7rem;
+  }
+  .Header__account {
+    min-width: 11%;
+  }
 }
