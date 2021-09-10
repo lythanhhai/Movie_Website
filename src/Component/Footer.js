@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import '../asset/Footer/footer.css'
 import '../asset/Footer/footer_responsive.css'
+import '../App.css'
 
 const Footer = () => {
     return(

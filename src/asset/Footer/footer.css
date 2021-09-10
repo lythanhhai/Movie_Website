@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    --backgroundcolor:rgb(16,14,27);
+    --backgroundColor:rgb(16,14,27);
     --nameTitle:rgb(255,255,255);
     --normalWord:rgb(188,186,196);
     --hover : #ff501a;
@@ -31,8 +31,7 @@ html
     width:100%;
     min-height: 40vh;
     margin:3rem auto 0;
-    background-color: var(--backgroundcolor);
-    
+    background-color: var(--backgroundColor);
 }
 
 .footer .footer__top
@@ -40,7 +39,7 @@ html
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    width: 70%;
+    width: 80%;
     height: auto;
     margin:4rem auto 2rem;
     /* align-items: center; */
@@ -48,12 +47,13 @@ html
 
 .footer__logo p
 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color:white;
 }
 .footer__logo .footer__logo-name
 {
-    font-size: 3rem;
+    font-size: 3.6rem;
+    font-weight: 700;
     color:white;
     text-transform: uppercase;
 }
@@ -64,7 +64,7 @@ html
     color:white;
     transition:all 0.2s ease-in-out;
     font-size: 1.8rem;
-    margin-right: 2rem;
+    margin-right: 2.5rem;
 }
 
 .footer__menu Link:hover , a:hover 
@@ -77,12 +77,12 @@ html
 
 .footer__social a
 {
-    margin-right: 2rem;    
+    margin-right: 2.8rem;    
 }
 
 .footer .copyright
 {
-    color: var(--nameTitle);
+    color: var(--normalWord);
     font-size: 1.5rem;
     margin: 4rem auto;
 }

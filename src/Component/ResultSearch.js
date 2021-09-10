@@ -4,8 +4,13 @@ import '../asset/ResultSearch_responsive.css'
 import './Pagination'
 import {useState} from 'react'
 import Pagination from './Pagination'
+import { useHistory,Redirect } from 'react-router-dom';
 
-const ResultSearch = ({results,resultPhim}) => {
+const ResultSearch = ({results,resultPhim, getEpisodes}) => {
+    let history = useHistory();
+    const redirect = (title) => {
+        history.push(`/${title}`);
+    }
     const numberAPage = 16;
     const [oldResult,setOldResult] = useState("");
     const [res,setRes] = useState([]); 
@@ -21,6 +26,10 @@ const ResultSearch = ({results,resultPhim}) => {
         }
     }
     checkResult();
+    // hàm xem phim
+    const seeFilm = (episodes) => {
+
+    }
     var elmResult;
     
             elmResult = results.map((result,index) => {
@@ -31,7 +40,12 @@ const ResultSearch = ({results,resultPhim}) => {
             {
                 return(
                     
-                    <div key={index} className="ResultSearch__product-cart">
+                    <div key={index} className="ResultSearch__product-cart" onClick={() => 
+                        {   
+                            <Redirect to="/Film" />
+                            redirect(title);
+                            getEpisodes(episode,title);
+                        }}>
                         <img src={imageUrl} alt="image" onMouseOver={() =>{
                             const addMyList = document.getElementsByClassName("add")[index];
                             addMyList.style.display = "block";
@@ -85,7 +99,7 @@ const ResultSearch = ({results,resultPhim}) => {
             const {category,episode,imageUrl,title,url} = result;
                 return(
                     
-                    <div key={index} className="ResultSearch__product-cart">
+                    <div key={index} className="ResultSearch__product-cart" onClick={() => {redirect()}}>
                         <img src={imageUrl} alt="image" onMouseOver={() =>{
                             const addMyList = document.getElementsByClassName("add")[index];
                             addMyList.style.display = "block";

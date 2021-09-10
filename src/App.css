@@ -38,15 +38,19 @@
 } */
 
 
+:root
+{
+  --nameTitle:rgb(255,255,255);
+  --normalWord:rgb(188,186,196);
+  --hover : #ff501a;
+  --border:rgb(82, 82, 82);
+  --socialColor:rgb(110,87,224);
+  --socialHover:rgba(110,87,224,0.8);
+  --background : rgb(25,22,39);
+}
 * 
 {
-  --backgroundcolor:rgb(25,22,39);
-    --nameTitle:rgb(255,255,255);
-    --normalWord:rgb(188,186,196);
-    --hover : #ff501a;
-    --border:rgb(82, 82, 82);
-    --socialColor:rgb(110,87,224);
-    --socialHover:rgba(110,87,224,0.8);
+
 }
 .App
 {
@@ -57,10 +61,10 @@
   width: 100%;
   height: 100vh;
   object-fit: cover; */
-  --background : rgb(25,22,39);
+
   position: relative;
   min-height: 100vh;
-  background-color: var(--background);
+  background-color: rgb(25,22,39);
 }
 
 .App .Header__browser-modal
