@@ -9,7 +9,7 @@ import { useHistory, Redirect } from "react-router-dom";
 const ResultSearch = ({ results, resultPhim, getEpisodes }) => {
   let history = useHistory();
   const redirect = (title) => {
-    history.push(`/Film/${title}`);
+    history.push(`/Watch/${title}`);
   };
   const numberAPage = 16;
   const [oldResult, setOldResult] = useState("");
@@ -96,7 +96,8 @@ const ResultSearch = ({ results, resultPhim, getEpisodes }) => {
           key={index}
           className="ResultSearch__product-cart"
           onClick={() => {
-            redirect();
+            redirect(title);
+            getEpisodes(episode, title);
           }}
         >
           <img

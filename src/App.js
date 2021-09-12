@@ -13,11 +13,15 @@ import ContactMe from "./Component/ContactMe";
 import NotfoundFilm from "./Component/NotfoundFilm";
 import Footer from "./Component/Footer";
 import Film from "./Component/Film";
+import Search from "./Component/Search";
+import BannerImage from "./Component/BannerImage";
 
 // import react-router
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { redirect } from "react-dom";
 import { useHistory, Redirect } from "react-router-dom";
+//do something...
+
 // font-awesome
 import "@fortawesome/fontawesome-free/css/all.min.css";
 // import data
@@ -26,9 +30,11 @@ const keyAPI =
   "https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR02wpHNAaR8yyhpYRWK3912FE17bcAMmRiHm058OCIQkNiCVbi9BmoaBNk";
 function App() {
   let history = useHistory();
+
   const redirect = () => {
-    history.push("/Search");
+    
   };
+  
   const gotoURL = (usr) => {
     let url = `/${usr}`;
     //console.log(url);
@@ -169,60 +175,13 @@ function App() {
   return (
     <Router>
       <div className="App" onLoad={() => {}}>
-        <div className="Header__browser-modal">
-          <div className="Header__search-mobile">
-            <i class="fas fa-search"></i>
-            <input
-              type="text"
-              placeholder="Find movies, TV shows and more"
-              className="Header__search-input--mobile"
-              onInput={() => {
-                getResultSearch(
-                  document.getElementsByClassName(
-                    "Header__search-input--mobile"
-                  )[0].value
-                );
-
-                <Redirect to="/Search" />;
-              }}
-            ></input>
-          </div>
-          <div className="Header__info">
-            <p>Genres</p>
-            <Link to="/Home" className="home">
-              Home
-            </Link>
-            <Link to="/phimbo" className="phimbo">
-              Phim bộ
-            </Link>
-            <Link to="/phimle" className="phimle">
-              Phim lẻ
-            </Link>
-            <Link to="/phimhoathinh" className="phimhoathinh">
-              Phim hoạt hình
-            </Link>
-            <Link to="/phimchieurap" className="phimchieurap">
-              Phim chiếu rạp
-            </Link>
-            <a href="#Contact">Contact me</a>
-          </div>
-          <i
-            class="fas fa-times closeModal"
-            onClick={() => {
-              document.getElementsByClassName(
-                "Header__browser-modal"
-              )[0].style.left = "-100%";
-              document.getElementsByClassName(
-                "Header__browser-modal"
-              )[0].style.transition = "all 0.5s linear";
-            }}
-          ></i>
-        </div>
+        <Search getResultSearch={getResultSearch}/>
         <Header
           getResultSearch={getResultSearch}
           modal__browser={modal__browser}
         />
         <Banner episodes={episodes} />
+        <BannerImage />
         <Route
           path="/"
           exact
@@ -289,7 +248,7 @@ function App() {
           )}
         />
         <Route
-          path="/Film/"
+          path="/Watch/"
           render={() => (
             <>
               {episodes.length !== 0 ? (
@@ -300,7 +259,7 @@ function App() {
             </>
           )}
         />
-
+        
         <ContactMe />
         <Footer />
       </div>
@@ -309,6 +268,8 @@ function App() {
 }
 
 export default App;
+
+//<BannerImage />
 
 // <ResultSearch results={phimHoatHinhs}/>    <ResultSearch results={phimBySearch}/>
 

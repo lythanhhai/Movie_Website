@@ -21,10 +21,39 @@ html {
   font-size: 62.5%;
 }
 
+
+.Parallax1
+{
+  width: 100%;
+  height: 90vh;
+  background-image:url("https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d5c358e4790580dceb1a90_poster-bok-soo-tro-ve-2018.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  object-fit: cover;
+}
+
+.Parallax2
+{
+  width: 100%;
+  height: 90vh;
+  background-image:url("https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d3efaf30a3170e6f639da0_poster-da-lam-than-tham.jpg");
+  background-origin: content-box;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
 .Banner {
   width: 100%;
   height: 35rem;
-  /* background-color: red; */
+  
+  
+  /* background-position: center; */
   margin: 5rem auto;
   display: flex;
   flex-direction: row;

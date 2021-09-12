@@ -1,14 +1,20 @@
 * {
-  --top: 76%;
+  --top: 20%;
+  --topButton :50%;
 }
 
 @media screen and (max-width: 767px) {
   .Phimhoathinh {
-    margin-top: -6rem;
+    margin-top: 0rem;
+    min-height: 60vh;
   }
   .Phimhoathinh__product {
     --cot: 2;
-    padding-bottom: 2rem;
+    padding-bottom: 0rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
   }
   .Phimhoathinh__product-cart .btn {
     display: none;
@@ -20,24 +26,40 @@
     display: none;
   }
   .Phimhoathinh__product-cart {
-    width: calc(100% / var(--cot) - 1rem);
-    height: 30rem;
-    /* border : 1px solid blue; */
+    width: calc(calc(100% - 0.6rem) / var(--cot));
+    height: 25rem;
     position: relative;
     color: var(--nameTitle);
   }
+  .Phimhoathinh__product-cart img {
+    height: 85%;
+  }
   .Phimhoathinh .fa-angle-right {
-    top: var(--top);
-    right: 30%;
+    top: var(--topButton);
+    right: 1%;
+    padding: 0.5rem 1rem;
   }
 
   .Phimhoathinh .fa-angle-left {
-    top: var(--top);
-    left: 30%;
+    top: var(--topButton);
+    left: 1%;
+    padding: 0.5rem 1rem;
   }
+  .Phimhoathinh__product-cart .title {
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+  .Phimhoathinh__product-cart i {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1.9rem;
+    font-size: 1.3rem;
+  }
+
 }
 
-@media screen and (min-width: 600px) and (max-width: 1079px) {
+@media screen and (min-width: 768px) and (max-width: 1079px) {
   .Phimhoathinh__product {
     --cot: 3;
     padding-bottom: 4rem;

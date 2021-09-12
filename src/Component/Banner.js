@@ -4,6 +4,8 @@ import "../asset/BannerCss/Banner_responsive.css";
 
 const Banner = ({ episodes }) => {
   return (
+    <>
+    
     <section className="Banner">
       <div className="Banner__social">
         <li>
@@ -50,7 +52,11 @@ const Banner = ({ episodes }) => {
         </div>
       </div>
     </section>
+    
+    </>
   );
 };
 
 export default Banner;
+
+//  <div className="Parallax2"></div> <div className="Parallax1"></div>

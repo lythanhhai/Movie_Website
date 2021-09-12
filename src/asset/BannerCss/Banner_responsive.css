@@ -1,16 +1,25 @@
 @media screen and (max-width: 767px) {
+  .Banner {
+    width: 100%;
+    height: 25rem;
+    margin: 5rem auto;
+    display: flex;
+    flex-direction: row;
+  }
   .Banner__social {
-    margin: 8rem 0 0 4rem;
+    margin: 6rem 0 0 3rem;
   }
   .Banner__info {
-    margin: 3rem 5rem 0;
+    margin: 2rem 4rem 0;
     line-height: 1.5;
   }
   .Banner__info h1 {
     font-size: 3rem;
+    width: 110%;
   }
   .Banner__info h5 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
+    width: 110%;
   }
 
   .Banner__info p {
@@ -20,12 +29,9 @@
   }
 
   #btn_watch {
-    width: 8rem;
-    height: 4rem;
-    font-size: 1.3rem;
-    cursor: pointer;
-    transition: all 0.2s linear;
-    margin-bottom: 4rem;
+
+    font-size: 1.2rem;
+    padding: 1rem 0.4rem;
   }
   .Banner__info .Banner-scrollDown {
     display: none;

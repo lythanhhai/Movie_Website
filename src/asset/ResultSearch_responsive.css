@@ -48,10 +48,12 @@
   .ResultSearch__product {
     padding-bottom: 4rem;
     grid-template-columns: repeat(3, calc(95% / 3));
+    grid-template-rows: repeat(3, calc(95% / 6));
+    grid-row-gap: calc(-100rem);
     grid-column-gap: calc(5% / 2);
-    grid-row-gap: calc(-10rem);
     width: 80%;
     margin: 0 auto;
+    background-color: red;
   }
   .ResultSearch__product-cart .btn {
     display: none;
@@ -64,11 +66,14 @@
   }
   .ResultSearch__product-cart {
     width: 100%;
-    height: 90%;
+    height: 80%;
     /* border : 1px solid blue; */
     position: relative;
     color: var(--nameTitle);
     background-color: rebeccapurple;
+  }
+  .ResultSearch__product-cart img {
+    height: 84%;
   }
   .ResultSearch .fa-angle-right {
     top: 70%;
