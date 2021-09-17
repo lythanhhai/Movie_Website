@@ -5,8 +5,13 @@
 
 @media screen and (max-width: 767px) {
   .Phimbo {
-    margin-top: 10rem;
-    min-height: 60vh;
+    margin-top: 1rem;
+    min-height: 45vh;
+  }
+  .Phimbo__title
+  {
+    font-size: 1.5rem;
+    margin: -2rem auto 2rem;
   }
   .Phimbo__product {
     --cot: 2;
@@ -14,6 +19,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    padding:0;
 
   }
   .Phimbo__product-cart .btn {
@@ -32,7 +38,73 @@
     color: var(--nameTitle);
   }
   .Phimbo__product-cart img {
-    height: 85%;
+    height: 75%;
+  }
+  .Phimbo .fa-angle-right {
+    top: var(--topButton);
+    right: 1%;
+    padding: 0.5rem 1rem;
+  }
+
+  .Phimbo .fa-angle-left {
+    top: var(--topButton);
+    left: 1%;
+    padding: 0.5rem 1rem;
+  }
+  .Phimbo__product-cart .title {
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+  .Phimbo__product-cart i {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1.9rem;
+    font-size: 1.3rem;
+  }
+
+}
+
+@media screen and (max-width: 374px) {
+  .Phimbo {
+    margin-top: 1rem;
+    min-height: 10vh;
+  }
+  .Phimbo__title {
+    width: 80%;
+    font-size: 2rem;
+    margin: 0rem auto 2rem;
+  }
+  .Phimbo__title
+  {
+    font-size: 1.5rem;
+  }
+  .Phimbo__product {
+    --cot: 2;
+    padding-bottom: 0rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding:0;
+
+  }
+  .Phimbo__product-cart .btn {
+    display: none;
+  }
+  .Phimbo__product-cart .category {
+    display: none;
+  }
+  .Phimbo__product-cart .add {
+    display: none;
+  }
+  .Phimbo__product-cart {
+    width: calc(calc(100% - 0.6rem) / var(--cot));
+    height: 22rem;
+    position: relative;
+    color: var(--nameTitle);
+  }
+  .Phimbo__product-cart img {
+    height: 75%;
   }
   .Phimbo .fa-angle-right {
     top: var(--topButton);
@@ -88,5 +160,210 @@
   .Phimbo .fa-angle-left {
     top: 70%;
     left: 30%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1079px) {
+  .Phimbo {
+    width: 100%;
+    min-height: 50vh;
+    margin-top: calc(1rem);
+  }
+  
+  .Phimbo .fa-angle-right {
+    top: 40%;
+    right: 2%;
+    background-color: var(--nameTitle);
+    font-size: 1.7rem;
+    padding: 1rem 1.5rem;
+  }
+  
+  .Phimbo .fa-angle-right:hover {
+    transform: scale(1.2);
+  }
+  
+  .Phimbo .fa-angle-left {
+    top: 40%;
+    left: 2%;
+    background-color: var(--nameTitle);
+    font-size: 2rem;
+    padding: 1rem 1.5rem;
+  }
+  
+  .Phimbo .fa-angle-left:hover {
+    transform: scale(1.2);
+  }
+  
+  .Phimbo__title {
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.8rem;
+    margin: -2rem auto 3rem;
+  }
+  
+  .Phimbo__title h2:hover {
+    color: var(--hover);
+  }
+  
+  .Phimbo__title i:hover {
+    color: var(--hover);
+  }
+  
+  .Phimbo__product {
+    display: flex;
+    width: 80%;
+    overflow-x: auto;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    margin: 0 auto;
+    /* justify-content: space-around; */
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    -webkit-scroll-snap-points-x: repeat(300px);
+    -ms-scroll-snap-points-x: repeat(300px);
+    scroll-snap-points-x: repeat(300px);
+    -webkit-scroll-snap-type: mandatory;
+    -ms-scroll-snap-type: mandatory;
+    scroll-snap-type: mandatory;
+    /* border-bottom: 1px solid var(--border); */
+  }
+  
+  .Phimbo__product::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* sản phẩm phim bộ */
+  .Phimbo__product-cart {
+    width: calc(calc(100% - 2rem) / 3);
+    height: 38rem;
+    /* border : 1px solid blue; */
+    margin-right: 1rem;
+    flex: 0 1 auto;
+  }
+  
+  .Phimbo__product-cart:first-child {
+    margin-left: auto;
+  }
+  
+  .Phimbo__product-cart img {
+    width: 100%;
+    height: 65%;
+  }
+  
+  .Phimbo__product-cart img:hover {
+    filter: grayscale(70%);
+  }
+  
+  .Phimbo__product-cart i {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2rem;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 1.8rem;
+  }
+  .Phimbo__product-cart i:hover {
+    color: rgb(223, 108, 0);
+    border: 2px solid rgb(223, 108, 0);
+  }
+  .Phimbo__product-cart .add {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    width: 95%;
+    padding: 1.5rem 2rem;
+    font-size: 1.4rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s linear;
+    display: none;
+    /* animation: bottom_top 1s linear 1; */
+  }
+  
+  .Phimbo__product-cart .add:hover {
+    color: #ff501a;
+  }
+  
+  /* sự kiện cho add list */
+  
+  @keyframes bottom_top {
+    0% {
+      opacity: 0;
+      top: 85%;
+    }
+    50% {
+      opacity: 0;
+      top: 75%;
+    }
+    75% {
+      opacity: 0.1;
+      top: 70%;
+    }
+    100% {
+      opacity: 0.4;
+      top: 65%;
+    }
+  }
+  
+  /* sự kiện mouse out */
+  @keyframes top_bottom {
+    0% {
+      opacity: 1;
+      top: 65%;
+    }
+    50% {
+      opacity: 0.5;
+      top: 70%;
+    }
+    75% {
+      opacity: 0;
+      top: 75%;
+    }
+    100% {
+      opacity: 0;
+      top: 85%;
+      display: none;
+    }
+  }
+  
+  .Phimbo__product-cart .title {
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .Phimbo__product-cart .btn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0 1rem;
+    color: var(--normalWord);
+    font-size: 1.2rem;
+  }
+  
+  .Phimbo__product-cart .btn div {
+    background-color: rgb(81, 81, 87);
+    padding: 0.2rem 1.3rem;
+    color: white;
+  }
+  
+  .Phimbo__product-cart .category {
+    font-size: 1.2rem;
+    color: var(--normalWord);
   }
 }

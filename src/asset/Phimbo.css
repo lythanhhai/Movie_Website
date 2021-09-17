@@ -27,7 +27,6 @@ html {
   justify-content: center;
   align-content: center;
   margin-top: calc(1rem);
-
   background-color: transparent;
   position: relative;
 }
@@ -92,6 +91,7 @@ html {
   overflow-x: auto;
   white-space: nowrap;
   flex-direction: row;
+  min-height: 10rem;
   /* flex-wrap: wrap; */
   margin: 0 auto;
   /* justify-content: space-around; */

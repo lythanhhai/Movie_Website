@@ -5,21 +5,63 @@
     margin: 5rem auto;
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+
   }
   .Banner__social {
-    margin: 6rem 0 0 3rem;
+    margin: 6rem 0 0 2rem;
   }
   .Banner__info {
-    margin: 2rem 4rem 0;
-    line-height: 1.5;
+    margin: 2rem 2rem 0;
+
   }
   .Banner__info h1 {
     font-size: 3rem;
-    width: 110%;
+    width: 100%;
   }
   .Banner__info h5 {
     font-size: 1.7rem;
-    width: 110%;
+    width: 100%;
+  }
+
+  .Banner__info p {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+
+  #btn_watch {
+
+    font-size: 1.2rem;
+    padding: 1rem 0.4rem;
+  }
+  .Banner__info .Banner-scrollDown {
+    display: none;
+  }
+}
+/* tablet */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .Banner {
+    width: 100%;
+    height: 25rem;
+    margin: 5rem auto;
+    justify-content: space-around;
+
+  }
+  .Banner__social {
+    margin: 6rem 0 0 5rem;
+  }
+  .Banner__info {
+    margin: 2rem 2rem 0;
+
+  }
+  .Banner__info h1 {
+    font-size: 3rem;
+    width: 100%;
+  }
+  .Banner__info h5 {
+    font-size: 1.7rem;
+    width: 100%;
   }
 
   .Banner__info p {

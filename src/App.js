@@ -1,5 +1,5 @@
 import "./App.css";
-import "./App_responsive.css";
+import './App_responsive.css'
 import { useEffect, useState, useRef } from "react";
 // component
 import Header from "./Component/Header";
@@ -233,7 +233,7 @@ function App() {
           path="/Search"
           render={() => (
             <>
-              {resultPhim === "11111111111" ? <Redirect to="/Home" /> : "bbb"}
+              
 
               {phimBySearch.length > 1 && resultPhim !== "" ? (
                 <ResultSearch

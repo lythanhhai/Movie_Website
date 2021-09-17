@@ -1,28 +1,32 @@
 @media screen and (max-width: 767px) {
-    .App .Header__browser-modal {
+    .Header__browser-modal {
       width: 50%;
     }
-    .App .Header__browser-modal .Header__search-mobile {
+    .Header__browser-modal .Header__search-mobile {
       margin-top: 6rem;
       color: red;
     }
-    .App .Header__browser-modal .Header__search-mobile i {
+    .Header__browser-modal .Header__search-mobile i {
       left: 10%;
       transform: translate(-20%, -50%);
       font-size: 1.5rem;
     }
-    .App .Header__browser-modal .Header__info {
+    .Header__browser-modal .Header__search-mobile input {
+
+      padding: 1rem 4rem;
+    }
+    .Header__browser-modal .Header__info {
       margin: 0rem auto;
     }
-    .App .Header__browser-modal .Header__search-mobile {
+    .Header__browser-modal .Header__search-mobile {
       display: block;
     }
-    .App .Header__browser-modal .Header__info p {
+    .Header__browser-modal .Header__info p {
       font-weight: 600;
       font-size: 1.7rem;
     }
   
-    .App .Header__browser-modal .Header__info .phimbo,
+    .Header__browser-modal .Header__info .phimbo,
     .phimle,
     .phimhoathinh,
     .phimchieurap {

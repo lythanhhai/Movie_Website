@@ -121,9 +121,15 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  min-width: 7%;
   cursor: pointer;
   position: relative;
+  padding:0.5rem 1rem;
+
+}
+
+.Header__account span{
+  margin-right: 1rem;
+
 }
 
 #Header__account-notHover {
@@ -135,8 +141,8 @@ body {
 
 .Header__account-modalUser {
   list-style: none;
-  top: 140%;
-  left: -100%;
+  top: 110%;
+  right: 0;
   position: absolute;
   z-index: 1;
   background-color: whitesmoke;

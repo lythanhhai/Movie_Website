@@ -13,7 +13,7 @@ const Film = ({ episodes, title }) => {
       <div className="episode">
         <iframe
           width={640}
-          height={360}
+          height={500}
           src={episodes[currentEpisode].url}
           title="YouTube video player"
           frameBorder={0}

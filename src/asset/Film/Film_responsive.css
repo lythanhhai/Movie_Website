@@ -1,0 +1,23 @@
+@media screen and (max-width:767px)
+{
+    .Film {
+        display: flex;
+        flex-direction: column;
+        margin-top: 5rem;
+      }
+      
+      .Film .episode {
+        width: 80%;
+        margin: auto;
+      }
+      .Film .episode iframe {
+        width: 100%;
+        min-height: fit-content;
+      }
+      
+      .Film .title {
+        color: var(--nameTitle);
+        font-size: 1.8rem;
+      }
+      
+}

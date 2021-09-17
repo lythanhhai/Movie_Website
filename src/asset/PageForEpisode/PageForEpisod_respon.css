@@ -1,0 +1,13 @@
+@media screen and (max-width:767px)
+{
+
+      .page .number__page {
+        font-size: 1.3rem;
+      }
+      
+      .page .number__page:hover,.page .number__page:active {
+        background-color: var(--socialColor);
+      }
+      
+      
+}

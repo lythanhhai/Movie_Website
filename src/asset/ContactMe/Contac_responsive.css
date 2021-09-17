@@ -1,6 +1,12 @@
 @media screen and (max-width: 767px) {
   .Contact__title {
-    margin-bottom: 15rem;
+    margin-bottom: 12rem;
+  }
+  .Contact__title h1 {
+    font-size: 3.0rem;
+  }
+  .Contact__title p {
+    font-size: 1.4rem;
   }
   .Contact__main-personal {
     display: flex;
@@ -28,6 +34,7 @@
     width: 100%;
     height: 80%;
     margin-right: 0rem;
+    margin-top: -5rem;
     margin-bottom: 2rem;
   }
   .Contact__main-email {
@@ -39,8 +46,137 @@
     margin-top: 1rem;
     width: 13rem;
     height: 5rem;
-
     font-size: 1.3rem;
     margin: 1rem auto;
   }
+}
+
+/* tablet */
+@media screen and (min-width: 768px) and (max-width:1023px){
+  .Contact {
+    min-height: 60vh;
+    width: 70%;
+    margin: 10rem auto 0;
+  }
+  
+  .Contact__title {
+    align-items: center;
+    margin-bottom: 4rem;
+  }
+  
+  .Contact__title h1 {
+    color: var(--nameTitle);
+    font-size: 3.2rem;
+  }
+  .Contact__title p {
+    color: var(--normalWord);
+    font-size: 1.4rem;
+  }
+  
+  .Contact__main {
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 90%;
+  }
+  
+  .Contact__main-personal {
+    display: flex;
+    flex-direction: column;
+    transform: translateY(-53%);
+    margin-right: 5rem;
+    min-width: 30%;
+    --TitleSize: 1.5rem;
+    --Iconsize: 1.6rem;
+    --wordNormal: 1.2rem;
+  }
+  
+  /* call */
+  .personal__call {
+    min-width: fit-content;
+    margin-bottom: 2rem;
+  }
+  
+  .personal__call i {
+    padding: 1rem;
+    font-size: var(--Iconsize);
+    color: var(--socialColor);
+  }
+  
+  .personal__call-info {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+  }
+  
+  .personal__call-info h3 {
+    font-size: var(--TitleSize);
+    color: var(--nameTitle);
+  }
+  .personal__call-info span {
+    font-size: var(--wordNormal);
+    color: var(--normalWord);
+  }
+  
+  /* email */
+  .personal__email {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .personal__email i {
+    padding: 1rem;
+    font-size: var(--Iconsize);
+    color: var(--socialColor);
+  }
+  
+  .personal__email-info {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+  }
+  
+  .personal__email-info h3 {
+    font-size: var(--TitleSize);
+    color: var(--nameTitle);
+  }
+  .personal__email-info span {
+    font-size: var(--wordNormal);
+    color: var(--normalWord);
+  }
+  
+  /* address */
+  .personal__address {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .personal__address i {
+    padding: 1rem;
+    font-size: 2.26rem;
+    color: var(--socialColor);
+  }
+  
+  
+  .personal__address-info h3 {
+    font-size: var(--TitleSize);
+    color: var(--nameTitle);
+  }
+  .personal__address-info span {
+    font-size: var(--wordNormal);
+    color: var(--normalWord);
+  }
+  
+  /* form */
+  .Contact__main-form {
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    height: 100%;
+  }
+  
+  
 }

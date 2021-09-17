@@ -20,7 +20,7 @@
   }
 }
 
-@media screen and (min-width: 600px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   #Header__navbar {
     display: block;
     color: whitesmoke;
@@ -28,7 +28,7 @@
     cursor: pointer;
   }
   .Header__search {
-    display: none;
+    /* display: none; */
   }
   .Header__browse {
     display: none;

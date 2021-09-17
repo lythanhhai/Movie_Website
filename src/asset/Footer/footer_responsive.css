@@ -12,12 +12,13 @@
     text-align: center;
   }
   .footer__logo p {
-    font-size: 1.2rem;
+    font-size: 1.7rem;
     color: white;
     text-align: center;
   }
   .footer__logo .footer__logo-name {
-    font-size: 2.5rem;
+    font-size: 3rem;
+    font-weight: 600;
     color: white;
     text-transform: uppercase;
   }
@@ -29,7 +30,7 @@
   }
   .footer__menu Link,
   a {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     margin-right: 0rem;
   }
   .footer__social {
@@ -41,5 +42,61 @@
   }
   .footer__social a {
     margin-right: 0rem;
+    
   }
+}
+
+/* 
+tablet */
+
+@media screen and (min-width: 768px) and (max-width:1023px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 20vh;
+    margin: 1rem auto 0;
+    background-color: var(--backgroundColor);
+  }
+  
+  .footer .footer__top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+    height: auto;
+    margin: 4rem auto 1rem;
+    /* align-items: center; */
+  }
+  
+  .footer__logo p {
+    font-size: 1.2rem;
+    color: white;
+  }
+  .footer__logo .footer__logo-name {
+    font-size: 3rem;
+  }
+  
+  .footer__menu Link,
+  a {
+    font-size: 1.4rem;
+    margin-right: 2.5rem;
+  }
+  
+  .footer__menu Link:hover,
+  a:hover {
+    color: var(--socialColor);
+    cursor: pointer;
+  }
+  
+  .footer__social a {
+    margin-right: 2.5rem;
+  }
+  
+  .footer .copyright {
+    color: var(--normalWord);
+    font-size: 1.2rem;
+    margin: 3rem auto;
+  }
+  
 }
