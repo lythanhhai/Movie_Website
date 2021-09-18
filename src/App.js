@@ -27,7 +27,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 // import data
 import keyApiDesk from "./Api/keyAPI";
 const keyAPI =
-  "https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR02wpHNAaR8yyhpYRWK3912FE17bcAMmRiHm058OCIQkNiCVbi9BmoaBNk";
+  "https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR06xLq1Oz1kOJgo0EQxcWpJ5BxvFUc1y5tShO0IUWuAo6MJZrquohoAynI";
 function App() {
   let history = useHistory();
 
@@ -66,6 +66,7 @@ function App() {
   //     arrAllPhim.push(keyApiDesk.phim.phimchieurap[i]);
   //   }
   //   setAllPhim(arrAllPhim);
+  //   console.log(phimBos.length);
   // };
   // useEffect(() => {
   //   getData();
@@ -98,12 +99,13 @@ function App() {
         arrAllPhim.push(movies.phim.phimchieurap[i]);
       }
       setAllPhim(arrAllPhim);
+      console.log(phimBos.length);
     } catch (error) {
       console.log(error)
     }
   }
   useEffect(() => {
-      fetchMovies()
+     fetchMovies()
   },[])
 
   // useState phim kết quả
@@ -175,6 +177,7 @@ function App() {
   return (
     <Router>
       <div className="App" onLoad={() => {}}>
+        <img src="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60de6d7faa1bb691e514b6d4_poster-anh-la-mua-xuan-cua-em.jpg"/>
         <Search getResultSearch={getResultSearch}/>
         <Header
           getResultSearch={getResultSearch}
