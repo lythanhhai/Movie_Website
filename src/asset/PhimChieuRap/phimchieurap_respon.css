@@ -3,10 +3,10 @@
   --topButton :50%;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 599px) {
   .Phimchieurap {
     margin-top: 1rem;
-    min-height: 45vh;
+    min-height: 55vh;
   }
   .Phimchieurap__title
   {
@@ -131,44 +131,12 @@
 
 }
 
-@media screen and (min-width: 768px) and (max-width: 1079px) {
-  .Phimchieurap__product {
-    --cot: 3;
-    padding-bottom: 4rem;
-  }
-  .Phimchieurap__product-cart .btn {
-    display: none;
-  }
-  .Phimchieurap__product-cart .category {
-    display: none;
-  }
-  .Phimchieurap__product-cart .add {
-    display: none;
-  }
-  .Phimchieurap__product-cart {
-    width: calc(100% / var(--cot) - 1rem);
-    height: 30rem;
-    /* border : 1px solid blue; */
-    position: relative;
-    color: var(--nameTitle);
-  }
-  .Phimchieurap .fa-angle-right {
-    top: 70%;
-    right: 30%;
-  }
 
-  .Phimchieurap .fa-angle-left {
-    top: 70%;
-    left: 30%;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1079px) {
+@media screen and (min-width: 600px) and (max-width: 1079px) {
   .Phimchieurap {
     width: 100%;
-    min-height: 50vh;
-    margin-top: calc(0rem);
-    transform: translateY(-45%);
+    min-height: 58vh;
+    margin-top: calc(1rem);
   }
   
   .Phimchieurap .fa-angle-right {
@@ -250,7 +218,7 @@
   
   .Phimchieurap__product-cart img {
     width: 100%;
-    height: 65%;
+    height: 60%;
   }
   
   .Phimchieurap__product-cart img:hover {

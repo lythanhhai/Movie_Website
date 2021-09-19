@@ -3,10 +3,10 @@
   --topButton :50%;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 599px) {
   .Phimle {
     margin-top: 1rem;
-    min-height: 45vh;
+    min-height: 55vh;
   }
   .Phimle__title
   {
@@ -131,44 +131,12 @@
 
 }
 
-@media screen and (min-width: 768px) and (max-width: 1079px) {
-  .Phimle__product {
-    --cot: 3;
-    padding-bottom: 4rem;
-  }
-  .Phimle__product-cart .btn {
-    display: none;
-  }
-  .Phimle__product-cart .category {
-    display: none;
-  }
-  .Phimle__product-cart .add {
-    display: none;
-  }
-  .Phimle__product-cart {
-    width: calc(100% / var(--cot) - 1rem);
-    height: 30rem;
-    /* border : 1px solid blue; */
-    position: relative;
-    color: var(--nameTitle);
-  }
-  .Phimle .fa-angle-right {
-    top: 70%;
-    right: 30%;
-  }
 
-  .Phimle .fa-angle-left {
-    top: 70%;
-    left: 30%;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1079px) {
+@media screen and (min-width: 600px) and (max-width: 1079px) {
   .Phimle {
     width: 100%;
-    min-height: 50vh;
-    margin-top: calc(0rem);
-    transform: translateY(-15%);
+    min-height: 58vh;
+    margin-top: calc(1rem);
   }
   
   .Phimle .fa-angle-right {
@@ -250,7 +218,7 @@
   
   .Phimle__product-cart img {
     width: 100%;
-    height: 65%;
+    height: 60%;
   }
   
   .Phimle__product-cart img:hover {
