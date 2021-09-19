@@ -3,10 +3,10 @@
   --topButton :50%;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 599px) {
   .Phimhoathinh {
     margin-top: 1rem;
-    min-height: 45vh;
+    min-height: 55vh;
   }
   .Phimhoathinh__title
   {
@@ -131,44 +131,12 @@
 
 }
 
-@media screen and (min-width: 768px) and (max-width: 1079px) {
-  .Phimhoathinh__product {
-    --cot: 3;
-    padding-bottom: 4rem;
-  }
-  .Phimhoathinh__product-cart .btn {
-    display: none;
-  }
-  .Phimhoathinh__product-cart .category {
-    display: none;
-  }
-  .Phimhoathinh__product-cart .add {
-    display: none;
-  }
-  .Phimhoathinh__product-cart {
-    width: calc(100% / var(--cot) - 1rem);
-    height: 30rem;
-    /* border : 1px solid blue; */
-    position: relative;
-    color: var(--nameTitle);
-  }
-  .Phimhoathinh .fa-angle-right {
-    top: 70%;
-    right: 30%;
-  }
 
-  .Phimhoathinh .fa-angle-left {
-    top: 70%;
-    left: 30%;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1079px) {
+@media screen and (min-width: 600px) and (max-width: 1079px) {
   .Phimhoathinh {
     width: 100%;
-    min-height: 50vh;
-    margin-top: calc(0rem);
-    transform: translateY(-30%);
+    min-height: 58vh;
+    margin-top: calc(1rem);
   }
   
   .Phimhoathinh .fa-angle-right {
@@ -219,8 +187,16 @@
     flex-direction: row;
     /* flex-wrap: wrap; */
     margin: 0 auto;
-    min-height: 20rem;
-    
+    /* justify-content: space-around; */
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    -webkit-scroll-snap-points-x: repeat(300px);
+    -ms-scroll-snap-points-x: repeat(300px);
+    scroll-snap-points-x: repeat(300px);
+    -webkit-scroll-snap-type: mandatory;
+    -ms-scroll-snap-type: mandatory;
+    scroll-snap-type: mandatory;
+    /* border-bottom: 1px solid var(--border); */
   }
   
   .Phimhoathinh__product::-webkit-scrollbar {
@@ -242,7 +218,7 @@
   
   .Phimhoathinh__product-cart img {
     width: 100%;
-    height: 65%;
+    height: 60%;
   }
   
   .Phimhoathinh__product-cart img:hover {

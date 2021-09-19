@@ -37,7 +37,7 @@ const PhimHoatHinh = ({ phimHoatHinhs }) => {
         <div key={index} className="Phimhoathinh__product-cart">
           <img
             src={imageUrl}
-            alt="image"
+            alt=""
             onMouseOver={() => {
               const addMyList = document.getElementsByClassName("add")[index];
               addMyList.style.display = "block";

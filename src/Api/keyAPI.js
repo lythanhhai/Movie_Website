@@ -1,15 +1,12 @@
-// 20210907134454
-// https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR2Dbc_0_TV7BX_MQpQbZ-mZNTbSG7C1H_uSqv2NPWuakYt9edHm1uv68dM
-   const movie = {"phim": {
+const movie = {
+    "phim": {
       "phimbo": [
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60de6d7faa1bb691e514b6d4_poster-anh-la-mua-xuan-cua-em.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60de6d7faa1bb691e514b6d4_poster-anh-la-mua-xuan-cua-em.jpg",
           "title": "Anh Là Mùa Xuân Của Em - You Are My Spring (2021)",
-          "url": "https://www.fullphimz.net/phim/anh-la-mua-xuan-cua-em-you-are-my-spring-2021#"
+          "url": "https://www.ssphim.net/phim/anh-la-mua-xuan-cua-em-you-are-my-spring-2021#"
         },
         {
           "category": "Phim hành động",
@@ -20,9 +17,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ddc1a2085d2983a0be88fa_poster-toi-da-lo-yeu-muc-tieu-truy-sat-cua-minh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ddc1a2085d2983a0be88fa_poster-toi-da-lo-yeu-muc-tieu-truy-sat-cua-minh.jpg",
           "title": "Tôi Đã Lỡ Yêu Mục Tiêu Truy Sát Của Mình",
-          "url": "https://www.fullphimz.net/p/toi-da-lo-yeu-muc-tieu-truy-sat-cua-minh-tap-1"
+          "url": "https://www.ssphim.net/p/toi-da-lo-yeu-muc-tieu-truy-sat-cua-minh-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -33,9 +30,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d96d5835f810953887a808_poster-meo-hay-cau-nguyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d96d5835f810953887a808_poster-meo-hay-cau-nguyen.jpg",
           "title": "Meo, Hãy Cầu Nguyện - Make A Wish (2021)",
-          "url": "https://www.fullphimz.net/p/meo-hay-cau-nguyen-tap-1"
+          "url": "https://www.ssphim.net/p/meo-hay-cau-nguyen-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -46,9 +43,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d6f009b1a6a7b00d2ceaf4_poster-tham-phan-ac-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d6f009b1a6a7b00d2ceaf4_poster-tham-phan-ac-ma.jpg",
           "title": "Thẩm Phán Ác Ma - The Devil Judge (2021)",
-          "url": "https://www.fullphimz.net/p/tham-phan-ac-ma-tap-1"
+          "url": "https://www.ssphim.net/p/tham-phan-ac-ma-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -74,9 +71,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d5eaee9444ba4ccf11c156_poster-quyen-tu-luong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d5eaee9444ba4ccf11c156_poster-quyen-tu-luong.jpg",
           "title": "Quyến Tư Lượng - The Island of Siliang (2021)",
-          "url": "https://www.fullphimz.net/p/quyen-tu-luong-tap-1"
+          "url": "https://www.ssphim.net/p/quyen-tu-luong-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -162,9 +159,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d5c358e4790580dceb1a90_poster-bok-soo-tro-ve-2018.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d5c358e4790580dceb1a90_poster-bok-soo-tro-ve-2018.jpg",
           "title": "Bok Soo Trở Về - My Strange Hero (2018)",
-          "url": "https://www.fullphimz.net/p/bok-soo-tro-ve-my-strange-hero-2018-tap-1"
+          "url": "https://www.ssphim.net/p/bok-soo-tro-ve-my-strange-hero-2018-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -185,9 +182,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d44c5d758c24d1a6d08e89_poster-bo-vuc-cua-su-dien-ro.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d44c5d758c24d1a6d08e89_poster-bo-vuc-cua-su-dien-ro.jpg",
           "title": "Bờ Vực Của Sự Điên Rồ - On The Verge Of Insanity (2021)",
-          "url": "https://www.fullphimz.net/p/bo-vuc-cua-su-dien-ro-tap-1"
+          "url": "https://www.ssphim.net/p/bo-vuc-cua-su-dien-ro-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -243,9 +240,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d438bfddc156d465ba5f14_poster-toi-va-chung-ta-o-ben-nhau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d438bfddc156d465ba5f14_poster-toi-va-chung-ta-o-ben-nhau.jpg",
           "title": "Tôi Và Chúng Ta Ở Bên Nhau - Be Together (2021)",
-          "url": "https://www.fullphimz.net/p/toi-va-chung-ta-o-ben-nhau-tap-1"
+          "url": "https://www.ssphim.net/p/toi-va-chung-ta-o-ben-nhau-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -261,9 +258,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d3efaf30a3170e6f639da0_poster-da-lam-than-tham.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d3efaf30a3170e6f639da0_poster-da-lam-than-tham.jpg",
           "title": "Dạ Lẫm Thần Thám - The Detective (2021)",
-          "url": "https://www.fullphimz.net/p/da-lam-than-tham-tap-1"
+          "url": "https://www.ssphim.net/p/da-lam-than-tham-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -349,9 +346,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d35875b985c2a25cfdf491_poster-hai-thuong-phon-hoa-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d35875b985c2a25cfdf491_poster-hai-thuong-phon-hoa-2021.jpg",
           "title": "Hải Thượng Phồn Hoa (Lý Thấm & Đậu Kiêu)",
-          "url": "https://www.fullphimz.net/p/hai-thuong-phon-hoa-tap-1"
+          "url": "https://www.ssphim.net/p/hai-thuong-phon-hoa-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -457,9 +454,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d2c060763470eaaa6321fd_khong-noi-loi-tam-biet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d2c060763470eaaa6321fd_khong-noi-loi-tam-biet.jpg",
           "title": "Không Nói Lời Tạm Biệt (Trương Quân Ninh & Nhậm Gia Luân)",
-          "url": "https://www.fullphimz.net/p/khong-noi-loi-tam-biet-tap-1"
+          "url": "https://www.ssphim.net/p/khong-noi-loi-tam-biet-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -565,9 +562,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60d09f3ba636b8884fbb9580_poster-cung-em-den-tan-cung-the-gioi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60d09f3ba636b8884fbb9580_poster-cung-em-den-tan-cung-the-gioi.jpg",
           "title": "Cùng Em Đến Tận Cùng Thế Giới - Reset in July (2021)",
-          "url": "https://www.fullphimz.net/p/cung-em-den-tan-cung-the-gioi-tap-1"
+          "url": "https://www.ssphim.net/p/cung-em-den-tan-cung-the-gioi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -588,9 +585,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60cd868ab4c77e6952bef8f3_poster-dau-biet-nevertheless-netflix.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60cd868ab4c77e6952bef8f3_poster-dau-biet-nevertheless-netflix.jpg",
           "title": "Dẫu Biết - Nevertheless Netflix (2021)",
-          "url": "https://www.fullphimz.net/p/dau-biet-nevertheless-netflix-2021-tap-1"
+          "url": "https://www.ssphim.net/p/dau-biet-nevertheless-netflix-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -716,9 +713,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60cc0aee14e01b8c7f1692f3_poster-dong-ho-sinh-hoc-tinh-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60cc0aee14e01b8c7f1692f3_poster-dong-ho-sinh-hoc-tinh-yeu.jpg",
           "title": "Đồng Hồ Sinh Học Tình Yêu - Love O’Clock (2021)",
-          "url": "https://www.fullphimz.net/p/dong-ho-sinh-hoc-tinh-yeu-love-oclock-2021-tap-1"
+          "url": "https://www.ssphim.net/p/dong-ho-sinh-hoc-tinh-yeu-love-oclock-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -784,9 +781,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ca130e39e3539907f35096_poster-chuyen-doi-bac-si-phan-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ca130e39e3539907f35096_poster-chuyen-doi-bac-si-phan-1.jpg",
           "title": "Chuyện Đời Bác Sĩ (phần 1) - Hospital Playlist 1",
-          "url": "https://www.fullphimz.net/p/chuyen-doi-bac-si-1-hospital-playlist-1-tap-1"
+          "url": "https://www.ssphim.net/p/chuyen-doi-bac-si-1-hospital-playlist-1-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -852,9 +849,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c9a371d5748a4dfb7754b4_poster-uoc-gi-ngay-mai-tan-the-netflix.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c9a371d5748a4dfb7754b4_poster-uoc-gi-ngay-mai-tan-the-netflix.jpg",
           "title": "Ước Gì Ngày Mai Tận Thế (Netflix) - So Not Worth it (2021)",
-          "url": "https://www.fullphimz.net/p/uoc-gi-ngay-mai-tan-the-netflix-tap-1"
+          "url": "https://www.ssphim.net/p/uoc-gi-ngay-mai-tan-the-netflix-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -960,9 +957,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c993c174b7d6dd39d20ac6_poster-bi-mat-khong-the-yeu-duong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c993c174b7d6dd39d20ac6_poster-bi-mat-khong-the-yeu-duong.jpg",
           "title": "Bí Mật Không Thể Yêu Đương - The Secret of Love (2021)",
-          "url": "https://www.fullphimz.net/p/bi-mat-khong-the-yeu-duong-tap-1"
+          "url": "https://www.ssphim.net/p/bi-mat-khong-the-yeu-duong-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -993,9 +990,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c59d52b4bb5a6e845de110_poster-lupin-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c59d52b4bb5a6e845de110_poster-lupin-1.jpg",
           "title": "LUPIN (Phần 1)",
-          "url": "https://www.fullphimz.net/p/lupin-phan-1-tap-1"
+          "url": "https://www.ssphim.net/p/lupin-phan-1-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -1026,9 +1023,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c57f59a5833da718df2d9d_poster-lupin-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c57f59a5833da718df2d9d_poster-lupin-2.jpg",
           "title": "LUPIN (Phần 2)",
-          "url": "https://www.fullphimz.net/p/lupin-phan-2-tap-1"
+          "url": "https://www.ssphim.net/p/lupin-phan-2-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -1109,9 +1106,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c4c93d3bfb0b1d6bcb2f71_poster-te-cong-truyen-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c4c93d3bfb0b1d6bcb2f71_poster-te-cong-truyen-ky.jpg",
           "title": "Tế Công Truyền Kỳ - Final Destiny (2021)",
-          "url": "https://www.fullphimz.net/p/te-cong-truyen-ky-final-destiny-2021-tap-1"
+          "url": "https://www.ssphim.net/p/te-cong-truyen-ky-final-destiny-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -1187,9 +1184,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c47fbd1cc24430688592f3_poster-han-tinh-hoan-menh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c47fbd1cc24430688592f3_poster-han-tinh-hoan-menh.jpg",
           "title": "Hận Tình Hoán Mệnh - Keun Ruk Salub Chata (2021)",
-          "url": "https://www.fullphimz.net/p/han-tinh-hoan-menh-tap-1"
+          "url": "https://www.ssphim.net/p/han-tinh-hoan-menh-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -1225,9 +1222,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c1e33eec6d99c0ff451fe4_poster-yeu-ket-hon-va-ly-di-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c1e33eec6d99c0ff451fe4_poster-yeu-ket-hon-va-ly-di-2.jpg",
           "title": "Yêu (Kết Hôn Và Ly Dị) 2",
-          "url": "https://www.fullphimz.net/p/yeu-ket-hon-va-ly-di-2-tap-1"
+          "url": "https://www.ssphim.net/p/yeu-ket-hon-va-ly-di-2-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -1238,9 +1235,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c1927384d3497c301b4463_poster-thu-ba-trum-men.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c1927384d3497c301b4463_poster-thu-ba-trum-men.jpg",
           "title": "Thứ Ba Trùm Mền",
-          "url": "https://www.fullphimz.net/p/thu-ba-trum-men-tap-1"
+          "url": "https://www.ssphim.net/p/thu-ba-trum-men-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -1366,9 +1363,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c183dd525431e8b972afd1_poster-tan-hoc-dung-voi-ve.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c183dd525431e8b972afd1_poster-tan-hoc-dung-voi-ve.jpg",
           "title": "Tan Học Đừng Vội Về - Don’t Leave After School (2021)",
-          "url": "https://www.fullphimz.net/p/tan-hoc-dung-voi-ve-tap-1"
+          "url": "https://www.ssphim.net/p/tan-hoc-dung-voi-ve-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -1474,9 +1471,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c9e7e79051c966d74fc56a_mot-ngay-bien-thanh-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c9e7e79051c966d74fc56a_mot-ngay-bien-thanh-em.jpg",
           "title": "Một Ngày Biến Thành Em (Trương Tân Thành & Lương Khiết)",
-          "url": "https://www.fullphimz.net/p/mot-ngay-bien-thanh-em-tap-1"
+          "url": "https://www.ssphim.net/p/mot-ngay-bien-thanh-em-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -1622,9 +1619,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bf70715ceff6a8854c27da_poster-mot-nua-khac-cua-em-va-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bf70715ceff6a8854c27da_poster-mot-nua-khac-cua-em-va-anh.jpg",
           "title": "Một Nửa Khác Của Em Và Anh - The Other Half Of Me And You (2021)",
-          "url": "https://www.fullphimz.net/p/mot-nua-khac-cua-em-va-anh-tap-1"
+          "url": "https://www.ssphim.net/p/mot-nua-khac-cua-em-va-anh-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -1650,9 +1647,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bcf1b225df97ae094fd17a_poster-voice-4.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bcf1b225df97ae094fd17a_poster-voice-4.jpg",
           "title": "Âm Thanh Tội Phạm 4 - Voice 4",
-          "url": "https://www.fullphimz.net/p/am-thanh-toi-pham-4-voice-4-tap-1"
+          "url": "https://www.ssphim.net/p/am-thanh-toi-pham-4-voice-4-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -1768,9 +1765,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bafcfb99016dcea8051ba7_poster-hoa-no-trang-vua-tron.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bafcfb99016dcea8051ba7_poster-hoa-no-trang-vua-tron.jpg",
           "title": "Hoa Nở Trăng Vừa Tròn - Truth or Dare (2021)",
-          "url": "https://www.fullphimz.net/p/hoa-no-trang-vua-tron-tap-1"
+          "url": "https://www.ssphim.net/p/hoa-no-trang-vua-tron-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -1781,9 +1778,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60baeeb603946d55a93bdd6f_poster-sam-sam-den-roi-ban-thai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60baeeb603946d55a93bdd6f_poster-sam-sam-den-roi-ban-thai.jpg",
           "title": "Sam Sam Đến Rồi (Bản Thái) - Boss And Me (2021)",
-          "url": "https://www.fullphimz.net/p/sam-sam-den-roi-ban-thai-tap-1"
+          "url": "https://www.ssphim.net/p/sam-sam-den-roi-ban-thai-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -1939,9 +1936,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ba0f442d58904a23874773_poster-thanh-xuan-tu-tao-vi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ba0f442d58904a23874773_poster-thanh-xuan-tu-tao-vi.jpg",
           "title": "Thanh Xuân Tu Tảo Vi (Hồ Nhất Thiên & Chung Sở Hy)",
-          "url": "https://www.fullphimz.net/p/thanh-xuan-tu-tao-vi-tap-1"
+          "url": "https://www.ssphim.net/p/thanh-xuan-tu-tao-vi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -2007,9 +2004,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b9cf6d0d90afffa9756770_poster-phu-thuy-j-nha-ben.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b9cf6d0d90afffa9756770_poster-phu-thuy-j-nha-ben.jpg",
           "title": "Phù Thuỷ J Nhà Bên - Next Door Witch J (2021)",
-          "url": "https://www.fullphimz.net/p/phu-thuy-j-nha-ben-tap-1"
+          "url": "https://www.ssphim.net/p/phu-thuy-j-nha-ben-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -2180,9 +2177,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b9abdebb33c94653f7933e_poster-phim-bay-chim-lac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b9abdebb33c94653f7933e_poster-phim-bay-chim-lac.jpg",
           "title": "Bầy Chim Lạc - Stray Birds (2021)",
-          "url": "https://www.fullphimz.net/p/bay-chim-lac-stray-birds-2021-tap-1"
+          "url": "https://www.ssphim.net/p/bay-chim-lac-stray-birds-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -2238,9 +2235,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b708ad0c1e6b673965e3f9_poster-doi-cau-long-thieu-nien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b708ad0c1e6b673965e3f9_poster-doi-cau-long-thieu-nien.jpg",
           "title": "Đội Cầu Lông Thiếu Niên - Racket Boys (2021)",
-          "url": "https://www.fullphimz.net/p/doi-cau-long-thieu-nien-racket-boys-2021-tap-1"
+          "url": "https://www.ssphim.net/p/doi-cau-long-thieu-nien-racket-boys-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -2286,9 +2283,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b6fc8d9495c34a0eaed578_poster-sweet-tooth-netflix-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b6fc8d9495c34a0eaed578_poster-sweet-tooth-netflix-2021.jpg",
           "title": "Sweet Tooth 2021: Cậu Bé Gạc Nai (Netflix)",
-          "url": "https://www.fullphimz.net/p/sweet-tooth-2021-netflix-tap-1"
+          "url": "https://www.ssphim.net/p/sweet-tooth-2021-netflix-tap-1"
         },
         {
           "category": "TV SHOW",
@@ -2339,9 +2336,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b4b455897dd65332c8117c_poster-manh-tham-tra-an-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b4b455897dd65332c8117c_poster-manh-tham-tra-an-2021.jpg",
           "title": "Manh Thám Tra Án - The Detective’s Adventures (2021)",
-          "url": "https://www.fullphimz.net/p/manh-tham-tra-an-tap-1"
+          "url": "https://www.ssphim.net/p/manh-tham-tra-an-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -2352,9 +2349,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b47c15e46b9dfe3cdaf5aa_poster-phong-khoi-lac-duong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b47c15e46b9dfe3cdaf5aa_poster-phong-khoi-lac-duong.jpg",
           "title": "Phong Khởi Lạc Dương (Vương Nhất Bác) - Luoyang (2021)",
-          "url": "https://www.fullphimz.net/p/phong-khoi-lac-duong-vuong-nhat-bac-tap-1"
+          "url": "https://www.ssphim.net/p/phong-khoi-lac-duong-vuong-nhat-bac-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -2365,9 +2362,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b45a15f9c20448e52851df_poster-khanh-khanh-nga-tam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b45a15f9c20448e52851df_poster-khanh-khanh-nga-tam.jpg",
           "title": "Khanh Khanh Ngã Tâm - Flipped (2021)",
-          "url": "https://www.fullphimz.net/p/khanh-khanh-nga-tam-tap-1"
+          "url": "https://www.ssphim.net/p/khanh-khanh-nga-tam-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -2523,9 +2520,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b1b540af928b47aa923da4_poster-song-the-sung-phi-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b1b540af928b47aa923da4_poster-song-the-sung-phi-3.jpg",
           "title": "Song Thế Sủng Phi 3 - The Eternal Love 3 (2021)",
-          "url": "https://www.fullphimz.net/p/song-the-sung-phi-3-tap-1"
+          "url": "https://www.ssphim.net/p/song-the-sung-phi-3-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -2651,9 +2648,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c969050f49cb7081de4038_nha-hoan-nay-ta-khong-dung-duoc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c969050f49cb7081de4038_nha-hoan-nay-ta-khong-dung-duoc.jpg",
           "title": "Nha Hoàn Này Ta Không Dùng Được - Maid Escort (2021)",
-          "url": "https://www.fullphimz.net/p/nha-hoan-nay-ta-khong-dung-duoc-tap-1"
+          "url": "https://www.ssphim.net/p/nha-hoan-nay-ta-khong-dung-duoc-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -2809,9 +2806,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60afa3111e897e8f151e1c07_poster-hay-mau-ket-hon-di.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60afa3111e897e8f151e1c07_poster-hay-mau-ket-hon-di.jpg",
           "title": "Hãy Mau Kết Hôn Đi - Please Be Married (2021)",
-          "url": "https://www.fullphimz.net/p/hay-mau-ket-hon-di-tap-1"
+          "url": "https://www.ssphim.net/p/hay-mau-ket-hon-di-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -3052,9 +3049,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60af3445637b4827158553a9_poster-chi-khi-bay-cao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60af3445637b4827158553a9_poster-chi-khi-bay-cao.jpg",
           "title": "Chí Khí Bay Cao (Trần Kiều Ân & Trịnh Khải)",
-          "url": "https://www.fullphimz.net/p/chi-khi-bay-cao-tran-kieu-an-trinh-khai-tap-1"
+          "url": "https://www.ssphim.net/p/chi-khi-bay-cao-tran-kieu-an-trinh-khai-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -3235,9 +3232,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ae4abb1654a59bc1d36354_poster-cuoc-song-tinh-yeu-di-dom.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ae4abb1654a59bc1d36354_poster-cuoc-song-tinh-yeu-di-dom.jpg",
           "title": "Cuộc Sống Tình Yêu Dí Dỏm - The Trick of Life and Love (2021)",
-          "url": "https://www.fullphimz.net/p/cuoc-song-tinh-yeu-di-dom-tap-1"
+          "url": "https://www.ssphim.net/p/cuoc-song-tinh-yeu-di-dom-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -3263,18 +3260,16 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60adc5d975000a6b680bfa25_poster-loki-marvel-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60adc5d975000a6b680bfa25_poster-loki-marvel-2021.jpg",
           "title": "Loki Marvel 2021 (Tom Hiddleston)",
-          "url": "https://www.fullphimz.net/p/loki-marvel-2021-tap-1"
+          "url": "https://www.ssphim.net/p/loki-marvel-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60acd425b567a2318bd9dcf5_poster-cung-chi-la-hat-bui.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60acd425b567a2318bd9dcf5_poster-cung-chi-la-hat-bui.jpg",
           "title": "Cũng Chỉ Là Hạt Bụi/ Giữa Bụi Trần Thế Gian - Sweet Teeth (2021)",
-          "url": "https://www.fullphimz.net/phim/cung-chi-la-hat-bui-giua-bui-tran-the-gian-sweet-teeth-2021#"
+          "url": "https://www.ssphim.net/phim/cung-chi-la-hat-bui-giua-bui-tran-the-gian-sweet-teeth-2021#"
         },
         {
           "category": "Phim tình cảm",
@@ -3315,9 +3310,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c9e7a088b49339be530784_trang-chu-tap-chi-hang-thang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c9e7a088b49339be530784_trang-chu-tap-chi-hang-thang.jpg",
           "title": "Trang Chủ Tạp Chí Hàng Tháng - Monthly Magazine Home",
-          "url": "https://www.fullphimz.net/p/trang-chu-tap-chi-hang-thang-tap-1"
+          "url": "https://www.ssphim.net/p/trang-chu-tap-chi-hang-thang-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -3358,9 +3353,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c96805b64ef9f6285e729c_cho-mua-xuan-xanh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c96805b64ef9f6285e729c_cho-mua-xuan-xanh.jpg",
           "title": "Chờ Mùa Xuân Xanh - At a Distance, Spring is Green",
-          "url": "https://www.fullphimz.net/p/mua-xuan-xanh-tu-xa-tap-1"
+          "url": "https://www.ssphim.net/p/mua-xuan-xanh-tu-xa-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -3581,18 +3576,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60aa6e471212f00122c30121_poster-ke-phan-nghich.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60aa6e471212f00122c30121_poster-ke-phan-nghich.jpg",
           "title": "Kẻ Phản Nghịch - The Rebel (2021)",
-          "url": "https://www.fullphimz.net/p/ke-phan-nghich-the-rebel-2021-tap-1"
+          "url": "https://www.ssphim.net/p/ke-phan-nghich-the-rebel-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60aa2a4cb51860824f9fdb89_poster-nguoi-tinh-xa-la.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60aa2a4cb51860824f9fdb89_poster-nguoi-tinh-xa-la.jpg",
           "title": "Người Tình Xa Lạ - Lover Or Stranger/ Unfamiliar Lover",
-          "url": "https://www.fullphimz.net/phim/nguoi-tinh-xa-la-lover-or-stranger-unfamiliar-lover#"
+          "url": "https://www.ssphim.net/phim/nguoi-tinh-xa-la-lover-or-stranger-unfamiliar-lover#"
         },
         {
           "category": "Phim tình cảm",
@@ -3718,9 +3711,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a9114d0cc2734d15c68d59_poster-toi-va-thoi-nien-thieu-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a9114d0cc2734d15c68d59_poster-toi-va-thoi-nien-thieu-cua-toi.jpg",
           "title": "Tôi Và Thời Niên Thiếu Của Tôi - Flourish In Time (2021)",
-          "url": "https://www.fullphimz.net/p/toi-va-thoi-nien-thieu-cua-toi-tap-1"
+          "url": "https://www.ssphim.net/p/toi-va-thoi-nien-thieu-cua-toi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -3761,9 +3754,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a880531f489089124b3dc6_poster-no-mau-tra-mau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a880531f489089124b3dc6_poster-no-mau-tra-mau.jpg",
           "title": "Nợ Máu Trả Máu - An Eye for an Eye (2021)",
-          "url": "https://www.fullphimz.net/p/no-mau-tra-mau-tap-1"
+          "url": "https://www.ssphim.net/p/no-mau-tra-mau-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -3869,9 +3862,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a7d3b6bbe31e006b37b171_poster-be-ha-ben-trai-tuong-quan-ben-phai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a7d3b6bbe31e006b37b171_poster-be-ha-ben-trai-tuong-quan-ben-phai.jpg",
           "title": "Bệ Hạ Bên Trái Tướng Quân Bên Phải - Emperor Or General",
-          "url": "https://www.fullphimz.net/p/be-ha-ben-trai-tuong-quan-ben-phai-tap-1"
+          "url": "https://www.ssphim.net/p/be-ha-ben-trai-tuong-quan-ben-phai-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -3917,9 +3910,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a645eab3729fda2be0a1ae_poster-dam-my-loi-hen-uoc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a645eab3729fda2be0a1ae_poster-dam-my-loi-hen-uoc.jpg",
           "title": "[Đam mỹ] Lời Hẹn Ước - Be Loved in House: I Do (2021)",
-          "url": "https://www.fullphimz.net/p/loi-hen-uoc-be-loved-in-house-i-do-2021-tap-1"
+          "url": "https://www.ssphim.net/p/loi-hen-uoc-be-loved-in-house-i-do-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -3985,9 +3978,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a6252dcb929f5f2589abf2_poster-chang-oi-dung-tha-thinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a6252dcb929f5f2589abf2_poster-chang-oi-dung-tha-thinh.jpg",
           "title": "Chàng Ơi Đừng Thả Thính - Oh My Boss (2021)",
-          "url": "https://www.fullphimz.net/p/chang-oi-dung-tha-thinh-oh-my-boss-2021-tap-1"
+          "url": "https://www.ssphim.net/p/chang-oi-dung-tha-thinh-oh-my-boss-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -4013,9 +4006,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a5c8de860b1e5ee0fa3490_poster-here-my-plan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a5c8de860b1e5ee0fa3490_poster-here-my-plan.jpg",
           "title": "Here’s My Plan",
-          "url": "https://www.fullphimz.net/p/heres-my-plan-tap-1"
+          "url": "https://www.ssphim.net/p/heres-my-plan-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -4086,9 +4079,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a4d7277429c4736c949615_poster-co-dien-moi-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a4d7277429c4736c949615_poster-co-dien-moi-yeu.jpg",
           "title": "Có Điên Mới Yêu - Mad for Each Other (2021)",
-          "url": "https://www.fullphimz.net/p/co-dien-moi-yeu-tap-1"
+          "url": "https://www.ssphim.net/p/co-dien-moi-yeu-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -4274,9 +4267,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a4c5990d423c3370b3346d_poster-khuc-bien-tau-anh-trang-moonlight-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a4c5990d423c3370b3346d_poster-khuc-bien-tau-anh-trang-moonlight-2021.jpg",
           "title": "Khúc Biến Tấu Ánh Trăng - Moonlight (2021)",
-          "url": "https://www.fullphimz.net/p/khuc-bien-tau-anh-trang-moonlight-2021-tap-1"
+          "url": "https://www.ssphim.net/p/khuc-bien-tau-anh-trang-moonlight-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -4402,9 +4395,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a3ddb3852817cab3172500_poster-thanh-lac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a3ddb3852817cab3172500_poster-thanh-lac.jpg",
           "title": "Thanh Lạc (Lưu Học Nghĩa & Vương Tử Vy) - Qing Luo (2021)",
-          "url": "https://www.fullphimz.net/p/thanh-lac-qing-luo-2021-tap-1"
+          "url": "https://www.ssphim.net/p/thanh-lac-qing-luo-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -4570,9 +4563,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a3aa20a0af6400245e7932_poster-nhan-quy-tay-song-nguyet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a3aa20a0af6400245e7932_poster-nhan-quy-tay-song-nguyet.jpg",
           "title": "Nhạn Quy Tây Song Nguyệt - Time Flies and You Are Here (2021)",
-          "url": "https://www.fullphimz.net/p/nhan-quy-tay-song-nguyet-tap-1"
+          "url": "https://www.ssphim.net/p/nhan-quy-tay-song-nguyet-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -4643,9 +4636,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a0f7d6f042a7512f8a639f_poster-bua-yeu-trong-vung-ngo-om.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a0f7d6f042a7512f8a639f_poster-bua-yeu-trong-vung-ngo-om.jpg",
           "title": "Bùa Yêu Trong Vũng Ngò Ôm - To Me, It's Simply you (2021)",
-          "url": "https://www.fullphimz.net/p/bua-yeu-trong-vung-ngo-om-tap-1"
+          "url": "https://www.ssphim.net/p/bua-yeu-trong-vung-ngo-om-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -4686,9 +4679,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a0e4030aa4892e451a6049_poster-ao-anh-tinh-yeu-ban-nhat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a0e4030aa4892e451a6049_poster-ao-anh-tinh-yeu-ban-nhat.jpg",
           "title": "Ảo Ảnh Tình Yêu (Bản Nhật) - Love Phantom (2021)",
-          "url": "https://www.fullphimz.net/p/ao-anh-tinh-yeu-ban-nhat-tap-1"
+          "url": "https://www.ssphim.net/p/ao-anh-tinh-yeu-ban-nhat-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -4869,9 +4862,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a07c447bc8db3c375a731d_poster-cuoc-song-gia-dinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a07c447bc8db3c375a731d_poster-cuoc-song-gia-dinh.jpg",
           "title": "Cuộc Sống Gia Đình - My Treasure (2021)",
-          "url": "https://www.fullphimz.net/p/cuoc-song-gia-dinh-my-treasure-2021-tap-1"
+          "url": "https://www.ssphim.net/p/cuoc-song-gia-dinh-my-treasure-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -5087,9 +5080,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609f3cd90076afdb64df877b_co-ban-xinh-dep-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609f3cd90076afdb64df877b_co-ban-xinh-dep-cua-toi.jpg",
           "title": "Người Bạn Xinh Đẹp Của Tôi - Young And Beautiful (2021)",
-          "url": "https://www.fullphimz.net/p/nguoi-ban-xinh-dep-cua-toi-young-and-beautiful-2021-tap-1"
+          "url": "https://www.ssphim.net/p/nguoi-ban-xinh-dep-cua-toi-young-and-beautiful-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -5145,9 +5138,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609e7cb843453ed70202cbfe_huong-toi-thien-duong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609e7cb843453ed70202cbfe_huong-toi-thien-duong.jpg",
           "title": "Hướng Tới Thiên Đường - Move To Heaven (2021)",
-          "url": "https://www.fullphimz.net/p/huong-toi-thien-duong-move-to-heaven-2021-tap-1"
+          "url": "https://www.ssphim.net/p/huong-toi-thien-duong-move-to-heaven-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -5213,9 +5206,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609e37c55f99620ef68fdf36_the-flash.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609e37c55f99620ef68fdf36_the-flash.jpg",
           "title": "Người Hùng Tia Chớp Phần 7 - The Flash Season 7",
-          "url": "https://www.fullphimz.net/p/nguoi-hung-tia-chop-phan-7-the-flash-season-7-tap-1"
+          "url": "https://www.ssphim.net/p/nguoi-hung-tia-chop-phan-7-the-flash-season-7-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -5401,9 +5394,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609a80ee478ea06302683e58_anh-ay-hoan-hao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609a80ee478ea06302683e58_anh-ay-hoan-hao.jpg",
           "title": "Anh Ấy Hoàn Hảo - Love Crossed (2021)",
-          "url": "https://www.fullphimz.net/p/anh-ay-hoan-hao-tap-1"
+          "url": "https://www.ssphim.net/p/anh-ay-hoan-hao-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -5509,9 +5502,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60990e5faa8d0899fa7fba20_poster-ngoc-chieu-lenh-phan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60990e5faa8d0899fa7fba20_poster-ngoc-chieu-lenh-phan-2.jpg",
           "title": "Ngọc Chiêu Lệnh (Phần 2)",
-          "url": "https://www.fullphimz.net/p/ngoc-chieu-lenh-phan-2-tap-1"
+          "url": "https://www.ssphim.net/p/ngoc-chieu-lenh-phan-2-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -5582,9 +5575,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6098cff4dd6156229e194c26_poster-co-gai-den-tu-hu-vo-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6098cff4dd6156229e194c26_poster-co-gai-den-tu-hu-vo-1.jpg",
           "title": "Cô Gái Đến Từ Hư Vô 1 - Girl From Nowhere (Season 1)",
-          "url": "https://www.fullphimz.net/p/co-gai-den-tu-hu-vo-1-girl-from-nowhere-1-tap-1"
+          "url": "https://www.ssphim.net/p/co-gai-den-tu-hu-vo-1-girl-from-nowhere-1-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -5725,9 +5718,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6098a378ebd1bd52b46cc3d2_poster-duoi-bong-moc-mien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6098a378ebd1bd52b46cc3d2_poster-duoi-bong-moc-mien.jpg",
           "title": "Dưới Bóng Mộc Miên - Reuan Rom Ngiw (2021)",
-          "url": "https://www.fullphimz.net/p/duoi-bong-moc-mien-tap-1"
+          "url": "https://www.ssphim.net/p/duoi-bong-moc-mien-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -5853,9 +5846,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6097e9ecfeb730741f869565_poster-duoi-lop-vo-boc-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6097e9ecfeb730741f869565_poster-duoi-lop-vo-boc-2021.jpg",
           "title": "Dưới Lớp Vỏ Bọc - Ugly Beauty (2021)",
-          "url": "https://www.fullphimz.net/p/duoi-lop-vo-boc-ugly-beauty-2021-tap-1"
+          "url": "https://www.ssphim.net/p/duoi-lop-vo-boc-ugly-beauty-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6001,9 +5994,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6096ad4e7aeb7e69fb8e2ce6_poster-minh-chau-ruc-ro-prao-mook.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6096ad4e7aeb7e69fb8e2ce6_poster-minh-chau-ruc-ro-prao-mook.jpg",
           "title": "Minh Châu Rực Rỡ - Praomook (2021)",
-          "url": "https://www.fullphimz.net/p/minh-chau-ruc-ro-praomook-2021-tap-1"
+          "url": "https://www.ssphim.net/p/minh-chau-ruc-ro-praomook-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -6054,9 +6047,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60961ea0922cdf71013e2844_poster-co-gai-den-tu-hu-vo-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60961ea0922cdf71013e2844_poster-co-gai-den-tu-hu-vo-2.jpg",
           "title": "Cô Gái Đến Từ Hư Vô 2 - Girl From Nowhere (Season 2)",
-          "url": "https://www.fullphimz.net/p/co-gai-den-tu-hu-vo-2-girl-from-nowhere-2-tap-1"
+          "url": "https://www.ssphim.net/p/co-gai-den-tu-hu-vo-2-girl-from-nowhere-2-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -6247,9 +6240,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60960044ace5483761e65a77_poster-ngo-logn.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60960044ace5483761e65a77_poster-ngo-logn.jpg",
           "title": "Ngộ Long (Vương Hạc Đệ & Chúc Tự Đan)",
-          "url": "https://www.fullphimz.net/p/ngo-long-vuong-hac-de-chuc-tu-dan-tap-1"
+          "url": "https://www.ssphim.net/p/ngo-long-vuong-hac-de-chuc-tu-dan-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -6295,9 +6288,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60951b7425bb3c501f8d4020_poster-di-san-moc-tinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60951b7425bb3c501f8d4020_poster-di-san-moc-tinh.jpg",
           "title": "Di Sản Mộc Tinh - Jupiter's Legacy (2021)",
-          "url": "https://www.fullphimz.net/p/di-san-moc-tinh-jupiters-legacy-2021-tap-1"
+          "url": "https://www.ssphim.net/p/di-san-moc-tinh-jupiters-legacy-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6363,9 +6356,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c9663ff6ee4968d0b14ec4_ban-cung-phong-gumiho.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c9663ff6ee4968d0b14ec4_ban-cung-phong-gumiho.jpg",
           "title": "Bạn Cùng Phòng Của Tôi Là Gumiho - My Roommate is a Gumiho (2021)",
-          "url": "https://www.fullphimz.net/p/ban-cung-phong-cua-toi-la-gumiho-tap-1"
+          "url": "https://www.ssphim.net/p/ban-cung-phong-cua-toi-la-gumiho-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6411,9 +6404,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6093b9ed0b787d9ce0d06b98_poster-nguy-tao-imitation-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6093b9ed0b787d9ce0d06b98_poster-nguy-tao-imitation-2021.jpg",
           "title": "Ngụy Tạo (JiYeon T-ara) - Imitation (2021)",
-          "url": "https://www.fullphimz.net/p/nguy-tao-jiyeon-t-ara-imitation-2021-tap-1"
+          "url": "https://www.ssphim.net/p/nguy-tao-jiyeon-t-ara-imitation-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -6424,9 +6417,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6092bc377cc11f165334faca_poster-sat-pha-lang-winner-is-king-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6092bc377cc11f165334faca_poster-sat-pha-lang-winner-is-king-2021.jpg",
           "title": "Sát Phá Lang (Đam Mỹ) - Winner is King (2021)",
-          "url": "https://www.fullphimz.net/p/dam-my-sat-pha-lang-winner-is-king-2021-tap-1"
+          "url": "https://www.ssphim.net/p/dam-my-sat-pha-lang-winner-is-king-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6512,9 +6505,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609261068c7ade6e3e6c304f_poster-ke-huy-diet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609261068c7ade6e3e6c304f_poster-ke-huy-diet.jpg",
           "title": "Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi - Doom At Your Service (2021)",
-          "url": "https://www.fullphimz.net/p/ke-huy-diet-doom-at-your-service-2021-tap-1"
+          "url": "https://www.ssphim.net/p/ke-huy-diet-doom-at-your-service-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6525,9 +6518,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609170666cf5e9757d3284e3_poster-bay-gio-chung-ta-dang-chia-tay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609170666cf5e9757d3284e3_poster-bay-gio-chung-ta-dang-chia-tay.jpg",
           "title": "Bây Giờ, Chúng Ta Đang Chia Tay - Now, We Are Breaking Up",
-          "url": "https://www.fullphimz.net/p/bay-gio-chung-ta-dang-chia-tay-tap-1"
+          "url": "https://www.ssphim.net/p/bay-gio-chung-ta-dang-chia-tay-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6653,9 +6646,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609162c06b84586f701176dc_poster-vo-tinh-nhat-duoc-tong-tai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609162c06b84586f701176dc_poster-vo-tinh-nhat-duoc-tong-tai.jpg",
           "title": "Vô Tình Nhặt Được Tổng Tài - Please Feel At Ease Mr. Ling (2021)",
-          "url": "https://www.fullphimz.net/p/vo-tinh-nhat-duoc-tong-tai-tap-1"
+          "url": "https://www.ssphim.net/p/vo-tinh-nhat-duoc-tong-tai-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6741,9 +6734,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6090cf1270629a592a2190ce_Mine-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6090cf1270629a592a2190ce_Mine-2021.jpg",
           "title": "Sở Hữu - Mine 2021 (Lee Bo Young & Kim Seo-Hyung)",
-          "url": "https://www.fullphimz.net/p/phim-han-mine-2021-tap-1"
+          "url": "https://www.ssphim.net/p/phim-han-mine-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -6784,9 +6777,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6090c52d532f7ffb9f5ae501_poster-chi-tiem-thieu-nien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6090c52d532f7ffb9f5ae501_poster-chi-tiem-thieu-nien.jpg",
           "title": "Chỉ Tiêm Thiếu Niên/ Mộng Huyễn Tây Du - The Player (2021)",
-          "url": "https://www.fullphimz.net/p/chi-tiem-thieu-nien-the-player-2021-tap-1"
+          "url": "https://www.ssphim.net/p/chi-tiem-thieu-nien-the-player-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -6912,9 +6905,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609010357b0ac8b63201db0d_poster-chang-trai-cuong-sach-se-than-yeu-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609010357b0ac8b63201db0d_poster-chang-trai-cuong-sach-se-than-yeu-cua-toi.jpg",
           "title": "Chàng Trai Cuồng Sạch Sẽ Thân Yêu Của Tôi - Use for My Talent (2021)",
-          "url": "https://www.fullphimz.net/p/chang-trai-cuong-sach-se-than-yeu-cua-toi-tap-1"
+          "url": "https://www.ssphim.net/p/chang-trai-cuong-sach-se-than-yeu-cua-toi-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -7010,9 +7003,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608eb111b35e4d1072396944_poster-hoang-hau-tien-cong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608eb111b35e4d1072396944_poster-hoang-hau-tien-cong.jpg",
           "title": "Hoàng Hậu Tiến Công - The Queen of Attack (2021)",
-          "url": "https://www.fullphimz.net/p/hoang-hau-tien-cong-tap-1"
+          "url": "https://www.ssphim.net/p/hoang-hau-tien-cong-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -7098,9 +7091,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608c141a3ef101af7208e9a3_poster-toi-va-anti-fan-ket-hon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608c141a3ef101af7208e9a3_poster-toi-va-anti-fan-ket-hon.jpg",
           "title": "Tôi Và Anti-fan Kết Hôn - So I Married an Anti-Fan (2021)",
-          "url": "https://www.fullphimz.net/p/toi-va-anti-fan-ket-hon-2021-tap-1"
+          "url": "https://www.ssphim.net/p/toi-va-anti-fan-ket-hon-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -7286,9 +7279,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608930809bf4aeccb7d1a30f_poster-ngu-tu-tieu-ngo-tac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608930809bf4aeccb7d1a30f_poster-ngu-tu-tieu-ngo-tac.jpg",
           "title": "Ngự Tứ Tiểu Ngỗ Tác - The Imperial Coroner (2021)",
-          "url": "https://www.fullphimz.net/p/ngu-tu-tieu-ngo-tac-tap-1"
+          "url": "https://www.ssphim.net/p/ngu-tu-tieu-ngo-tac-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -7299,18 +7292,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608825648768d92cebc5738a_poster-em-la-niem-kieu-hanh-cua-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608825648768d92cebc5738a_poster-em-la-niem-kieu-hanh-cua-anh.jpg",
           "title": "Em Là Niềm Kiêu Hãnh Của Anh (Dương Dương & Địch Lệ Nhiệt Ba)",
-          "url": "https://www.fullphimz.net/p/em-la-niem-kieu-hanh-cua-anh-duong-duong-tap-1"
+          "url": "https://www.ssphim.net/p/em-la-niem-kieu-hanh-cua-anh-duong-duong-tap-1"
         },
         {
           "category": "Phim hành động",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60866181b5eba5e7901af975_poster-phong-bao-vu.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60866181b5eba5e7901af975_poster-phong-bao-vu.jpg",
           "title": "Phong Bạo Vũ (Trần Vỹ Đình & Cổ Lực Na Trát)",
-          "url": "https://www.fullphimz.net/phim/phong-bao-vu-r14#"
+          "url": "https://www.ssphim.net/phim/phong-bao-vu-r14#"
         },
         {
           "category": "Phim cổ trang",
@@ -7396,9 +7387,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608443cb84e8d5cc93d5a330_poster-van-menh-ky-dieu-nha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608443cb84e8d5cc93d5a330_poster-van-menh-ky-dieu-nha.jpg",
           "title": "Vận Mệnh Kỳ Diệu - Wonderful Fate (2021)",
-          "url": "https://www.fullphimz.net/p/van-menh-ky-dieu-wonderful-fate-2021-tap-1"
+          "url": "https://www.ssphim.net/p/van-menh-ky-dieu-wonderful-fate-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -7524,9 +7515,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6081787d5dd43b7d67b59d8d_xin-cau-day-lop-truong-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6081787d5dd43b7d67b59d8d_xin-cau-day-lop-truong-2021.jpg",
           "title": "Xin Cậu Đấy Lớp Trưởng - Please Classmate (2021)",
-          "url": "https://www.fullphimz.net/p/xin-cau-day-lop-truong-tap-1"
+          "url": "https://www.ssphim.net/p/xin-cau-day-lop-truong-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -7652,9 +7643,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60814866f54de6e17313cf2c_poster-dep-nhat-la-khi-gap-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60814866f54de6e17313cf2c_poster-dep-nhat-la-khi-gap-em.jpg",
           "title": "Đẹp Nhất Là Khi Gặp Em - Nice To Meet You (2021)",
-          "url": "https://www.fullphimz.net/p/dep-nhat-la-khi-gap-em-tap-1"
+          "url": "https://www.ssphim.net/p/dep-nhat-la-khi-gap-em-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -7840,9 +7831,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607ec9eec3cb186660c367b8_poster-tieu-thu-qua-den-va-tien-sinh-than-lan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607ec9eec3cb186660c367b8_poster-tieu-thu-qua-den-va-tien-sinh-than-lan.jpg",
           "title": "Tiểu Thư Quạ Đen Và Tiên Sinh Thằn Lằn",
-          "url": "https://www.fullphimz.net/p/tieu-thu-qua-den-va-tien-sinh-than-lan-tap-1"
+          "url": "https://www.ssphim.net/p/tieu-thu-qua-den-va-tien-sinh-than-lan-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -7938,9 +7929,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607eacb95464f47aa43bf101_poster-bossam-danh-cap-so-phan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607eacb95464f47aa43bf101_poster-bossam-danh-cap-so-phan.jpg",
           "title": "Bossam: Đánh Cắp Số Phận - Bossam: Steal the Fate (2021)",
-          "url": "https://www.fullphimz.net/p/bossam-danh-cap-so-phan-tap-1"
+          "url": "https://www.ssphim.net/p/bossam-danh-cap-so-phan-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -8006,9 +7997,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607e97e12dfe4cc14430d435_poster-tuoi-tre-cua-thang-nam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607e97e12dfe4cc14430d435_poster-tuoi-tre-cua-thang-nam.jpg",
           "title": "Tuổi Trẻ Của Tháng Năm - Youth of May (2021)",
-          "url": "https://www.fullphimz.net/p/tuoi-tre-cua-thang-nam-youth-of-may-2021-tap-1"
+          "url": "https://www.ssphim.net/p/tuoi-tre-cua-thang-nam-youth-of-may-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -8209,9 +8200,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607e5fa7ac083135e62ab868_poster-octogenarians-and-the-90s.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607e5fa7ac083135e62ab868_poster-octogenarians-and-the-90s.jpg",
           "title": "Giày Của Bạch Kính Đình/ 8090 (2021)",
-          "url": "https://www.fullphimz.net/p/giay-cua-bach-kinh-dinh-8090-2021-tap-1"
+          "url": "https://www.ssphim.net/p/giay-cua-bach-kinh-dinh-8090-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -8417,9 +8408,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607e55c8e8018b11c37ea805_tieu-nu-nghe-thuong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607e55c8e8018b11c37ea805_tieu-nu-nghe-thuong.jpg",
           "title": "Tiểu Nữ Nghê Thường - Ni Chang (2021)",
-          "url": "https://www.fullphimz.net/p/tieu-nu-nghe-thuong-ni-chang-2021-tap-1"
+          "url": "https://www.ssphim.net/p/tieu-nu-nghe-thuong-ni-chang-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -8545,9 +8536,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607d782a105e741cd9823bf7_poster-ca-the-gioi-deu-khong-bang-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607d782a105e741cd9823bf7_poster-ca-the-gioi-deu-khong-bang-em.jpg",
           "title": "Cả Thế Giới Đều Không Bằng Em - She Is The One (2021)",
-          "url": "https://www.fullphimz.net/p/ca-the-gioi-deu-khong-bang-em-tap-1"
+          "url": "https://www.ssphim.net/p/ca-the-gioi-deu-khong-bang-em-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -8633,9 +8624,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607998ca700cdb97be3990ae_poster-nguoc-chieu-sang-noi-loi-yeu-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607998ca700cdb97be3990ae_poster-nguoc-chieu-sang-noi-loi-yeu-em.jpg",
           "title": "Ngược Chiều Ánh Sáng, Nói Lời Yêu Em - Mysterious Love (2021)",
-          "url": "https://www.fullphimz.net/p/nguoc-chieu-anh-sang-noi-loi-yeu-em-tap-1"
+          "url": "https://www.ssphim.net/p/nguoc-chieu-anh-sang-noi-loi-yeu-em-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -8696,9 +8687,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60796b3d1dbe6d7a0f5e8363_poster-ca-tren-troi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60796b3d1dbe6d7a0f5e8363_poster-ca-tren-troi.jpg",
           "title": "Cá Trên Trời - Fish Upon The Sky (2021)",
-          "url": "https://www.fullphimz.net/p/ca-tren-troi-fish-upon-the-sky-2021-tap-1"
+          "url": "https://www.ssphim.net/p/ca-tren-troi-fish-upon-the-sky-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -8764,9 +8755,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60786c4603375fd3b0478c07_poster-ho-toi-dark-hole-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60786c4603375fd3b0478c07_poster-ho-toi-dark-hole-2021.jpg",
           "title": "Hố Đen - Dark Hole (2021)",
-          "url": "https://www.fullphimz.net/p/ho-den-dark-hole-2021-tap-1"
+          "url": "https://www.ssphim.net/p/ho-den-dark-hole-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -8932,9 +8923,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60781762c37717ba1ccc5ce7_vach-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60781762c37717ba1ccc5ce7_vach-toi.jpg",
           "title": "Vạch Tội - Shadow Of Justice (2021)",
-          "url": "https://www.fullphimz.net/p/vach-toi-shadow-of-justice-2021-tap-1"
+          "url": "https://www.ssphim.net/p/vach-toi-shadow-of-justice-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -9135,9 +9126,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6076f743538045d885a62c98_poster-vo-dang-nhat-kiem.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6076f743538045d885a62c98_poster-vo-dang-nhat-kiem.jpg",
           "title": "Võ Đang Nhất Kiếm - The Ultimate Sword (2021)",
-          "url": "https://www.fullphimz.net/p/vo-dang-nhat-kiem-tap-1"
+          "url": "https://www.ssphim.net/p/vo-dang-nhat-kiem-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -9303,9 +9294,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60746dd42bd7e60d3767f239_poster-bi-mat-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60746dd42bd7e60d3767f239_poster-bi-mat-2021.jpg",
           "title": "Phim Hàn Bí Mật - Undercover 2021 (Ji Jin Hee & Kim Hyun Joo)",
-          "url": "https://www.fullphimz.net/p/bi-mat-undercover-2021-ji-jin-hee-kim-hyun-joo-tap-1"
+          "url": "https://www.ssphim.net/p/bi-mat-undercover-2021-ji-jin-hee-kim-hyun-joo-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -9586,9 +9577,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6074622a4b278215b296cf41_poster-li-ca-hanh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6074622a4b278215b296cf41_poster-li-ca-hanh.jpg",
           "title": "Li Ca Hành/ Đại Đường Nữ Nhi Hành",
-          "url": "https://www.fullphimz.net/p/li-ca-hanh-dai-duong-nu-nhi-hanh-tap-1"
+          "url": "https://www.ssphim.net/p/li-ca-hanh-dai-duong-nu-nhi-hanh-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -9754,9 +9745,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60741b73bf2bb58bdcabc632_poster-bach-ngoc-tu-vo-ha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60741b73bf2bb58bdcabc632_poster-bach-ngoc-tu-vo-ha.jpg",
           "title": "Bạch Ngọc Tư Vô Hà - Love like White Jade (2021)",
-          "url": "https://www.fullphimz.net/p/bach-ngoc-tu-vo-ha-tap-1"
+          "url": "https://www.ssphim.net/p/bach-ngoc-tu-vo-ha-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -9802,9 +9793,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6071bc1e6faf2a2fa4785843_poster-hon-le-cua-chang-hoc-gia.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6071bc1e6faf2a2fa4785843_poster-hon-le-cua-chang-hoc-gia.jpg",
           "title": "Hôn Lễ Của Chàng Học Giả - Nobleman Ryu's Wedding",
-          "url": "https://www.fullphimz.net/p/hon-le-cua-chang-hoc-gia-tap-1"
+          "url": "https://www.ssphim.net/p/hon-le-cua-chang-hoc-gia-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -10020,9 +10011,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60719e4509a2ec5809153a0f_poster-tieu-xa-dac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60719e4509a2ec5809153a0f_poster-tieu-xa-dac.jpg",
           "title": "Tiểu Xá Đắc - A Love for Dilemma",
-          "url": "https://www.fullphimz.net/p/tieu-xa-dac-tap-1"
+          "url": "https://www.ssphim.net/p/tieu-xa-dac-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -10148,9 +10139,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607082018b5b57484a0f9540_poster-tinh-yeu-va-am-muu-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607082018b5b57484a0f9540_poster-tinh-yeu-va-am-muu-2021.jpg",
           "title": "Tình Yêu Và Âm Mưu - Plot Love (2021)",
-          "url": "https://www.fullphimz.net/p/tinh-yeu-va-am-muu-plot-love-2021-tap-1"
+          "url": "https://www.ssphim.net/p/tinh-yeu-va-am-muu-plot-love-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -10236,9 +10227,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606c912e68d5bbb018bd2b9f_truong-luat-law-school-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606c912e68d5bbb018bd2b9f_truong-luat-law-school-2021.jpg",
           "title": "Trường Luật (Netflix) - Law School 2021 (Kim Bum)",
-          "url": "https://www.fullphimz.net/p/truong-luat-law-school-2021-tap-1"
+          "url": "https://www.ssphim.net/p/truong-luat-law-school-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -10404,9 +10395,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606c5aa0fe9b54ff86da1ef6_poster-tai-xe-taxi-taxi-driver-drama-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606c5aa0fe9b54ff86da1ef6_poster-tai-xe-taxi-taxi-driver-drama-2021.jpg",
           "title": "Tài Xế Taxi - Taxi Driver Drama (2021)",
-          "url": "https://www.fullphimz.net/p/tai-xe-taxi-taxi-driver-drama-2021-tap-1"
+          "url": "https://www.ssphim.net/p/tai-xe-taxi-taxi-driver-drama-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -10572,9 +10563,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606b22bdb5030f551ed6f5a8_poster-phim-co-chu-ma-quai-bat-dong-san-daebak.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606b22bdb5030f551ed6f5a8_poster-phim-co-chu-ma-quai-bat-dong-san-daebak.jpg",
           "title": "Cô Chủ Ma Quái/ Bất Động Sản Trừ Tà Daebak",
-          "url": "https://www.fullphimz.net/p/co-chu-ma-quai-bat-dong-san-daebak-tap-1"
+          "url": "https://www.ssphim.net/p/co-chu-ma-quai-bat-dong-san-daebak-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -10585,18 +10576,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6069dd2b172f4de3f51bed5f_poster-dear-m.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6069dd2b172f4de3f51bed5f_poster-dear-m.jpg",
           "title": "Dear. M (2021)",
-          "url": "https://www.fullphimz.net/p/dear-m-2021-tap-1"
+          "url": "https://www.ssphim.net/p/dear-m-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6065ede625d5a45eade7ebf7_poster-phu-nhan-ha-tat-phai-nhu-vay.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6065ede625d5a45eade7ebf7_poster-phu-nhan-ha-tat-phai-nhu-vay.jpg",
           "title": "Phu Nhân Hà Tất Phải Như Vậy - Hold On, My Lady",
-          "url": "https://www.fullphimz.net/phim/phu-nhan-ha-tat-phai-nhu-vay-hold-on-my-lady#"
+          "url": "https://www.ssphim.net/phim/phu-nhan-ha-tat-phai-nhu-vay-hold-on-my-lady#"
         },
         {
           "category": "Phim hành động",
@@ -10607,18 +10596,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6065e8e12f686f5ed8e6b495_poster--nhan-sinh-giong-nhu-thuo-ban-dau-gap-go.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6065e8e12f686f5ed8e6b495_poster--nhan-sinh-giong-nhu-thuo-ban-dau-gap-go.jpg",
           "title": "Nhân Sinh Giống Như Thuở Đầu Gặp Gỡ - A Love Never Lost",
-          "url": "https://www.fullphimz.net/p/nhan-sinh-giong-nhu-thuo-dau-gap-go-tap-1"
+          "url": "https://www.ssphim.net/p/nhan-sinh-giong-nhu-thuo-dau-gap-go-tap-1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60647b2e3b87ac7aac43d645_poster-ngoc-cot-dao.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60647b2e3b87ac7aac43d645_poster-ngoc-cot-dao.jpg",
           "title": "Ngọc Cốt Dao/ Chu Nhan",
-          "url": "https://www.fullphimz.net/phim/ngoc-cot-dao-chu-nhan#"
+          "url": "https://www.ssphim.net/phim/ngoc-cot-dao-chu-nhan#"
         },
         {
           "category": "Phim cổ trang",
@@ -10784,18 +10771,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6062e73a38521fa4db46cfa6_poster-ngoc-chieu-lenh-phan-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6062e73a38521fa4db46cfa6_poster-ngoc-chieu-lenh-phan-1.jpg",
           "title": "Ngọc Chiêu Lệnh (Phần 1)",
-          "url": "https://www.fullphimz.net/p/ngoc-chieu-lenh-phan-1-tap-1"
+          "url": "https://www.ssphim.net/p/ngoc-chieu-lenh-phan-1-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6061f00557dc31d522a6f79a_cuoc-song-ly-tri-2021.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6061f00557dc31d522a6f79a_cuoc-song-ly-tri-2021.jpg",
           "title": "Cuộc Sống Lý Trí - The Rational Life (2021)",
-          "url": "https://www.fullphimz.net/phim/cuoc-song-ly-tri-the-rational-life-2021#"
+          "url": "https://www.ssphim.net/phim/cuoc-song-ly-tri-the-rational-life-2021#"
         },
         {
           "category": "Phim tình cảm",
@@ -10821,9 +10806,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6061e0fb5f051d317c6244c0_poster-tinh-yeu-la-khoa-hoc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6061e0fb5f051d317c6244c0_poster-tinh-yeu-la-khoa-hoc.jpg",
           "title": "Tình Yêu Là Khoa Học - Love is Science (2021)",
-          "url": "https://www.fullphimz.net/p/tinh-yeu-la-khoa-hoc-love-is-science-2021-tap-1"
+          "url": "https://www.ssphim.net/p/tinh-yeu-la-khoa-hoc-love-is-science-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -10989,9 +10974,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6061ca5d451d38f107095285_noi-tro-dai-chien-ready-go-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6061ca5d451d38f107095285_noi-tro-dai-chien-ready-go-2021.jpg",
           "title": "Nội Trợ Đại Chiến - Ready Go! (2021)",
-          "url": "https://www.fullphimz.net/p/noi-tro-dai-chien-ready-go-2021-tap-1"
+          "url": "https://www.ssphim.net/p/noi-tro-dai-chien-ready-go-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -11017,9 +11002,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605f3f89c64c34535a55c5ba_poster-the-gioi-bl-va-chang-trai-khong-muon-bi-b%E1%BA%BB-cong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605f3f89c64c34535a55c5ba_poster-the-gioi-bl-va-chang-trai-khong-muon-bi-b%E1%BA%BB-cong.jpg",
           "title": "Thế Giới BL và Chàng Trai Không Muốn Bị Bẻ Cong",
-          "url": "https://www.fullphimz.net/p/the-gioi-bl-va-chang-trai-khong-muon-bi-be-cong-tap-1"
+          "url": "https://www.ssphim.net/p/the-gioi-bl-va-chang-trai-khong-muon-bi-be-cong-tap-1"
         },
         {
           "category": "Hài Hước",
@@ -11240,9 +11225,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605c892e2161ce180398ab81_chuyen-tau-tinh-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605c892e2161ce180398ab81_chuyen-tau-tinh-yeu.jpg",
           "title": "Chuyến Tàu Tình Yêu - One Boat One World (2021)",
-          "url": "https://www.fullphimz.net/p/chuyen-tau-tinh-yeu-tap-1"
+          "url": "https://www.ssphim.net/p/chuyen-tau-tinh-yeu-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -11253,9 +11238,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605b56819261f0faa5d2e03e_poster-ai-la-hung-thu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605b56819261f0faa5d2e03e_poster-ai-la-hung-thu.jpg",
           "title": "Ai Là Hung Thủ (Triệu Lệ Dĩnh)",
-          "url": "https://www.fullphimz.net/p/ai-la-hung-thu-tap-1"
+          "url": "https://www.ssphim.net/p/ai-la-hung-thu-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -11461,9 +11446,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605aa5667808380dcb34df88_poster-cung-nhau-hit-tho-that-sau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605aa5667808380dcb34df88_poster-cung-nhau-hit-tho-that-sau.jpg",
           "title": "Cùng Nhau Hít Thở Thật Sâu - Breath of Destiny (2021)",
-          "url": "https://www.fullphimz.net/p/cung-nhau-hit-tho-that-sau-tap-1"
+          "url": "https://www.ssphim.net/p/cung-nhau-hit-tho-that-sau-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -11619,9 +11604,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6059f2a1c5c30e67549b9e9e_poster-co-tien-sinh-hoa-ra-anh-la-nhu-vay.png",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6059f2a1c5c30e67549b9e9e_poster-co-tien-sinh-hoa-ra-anh-la-nhu-vay.png",
           "title": "Cố Tiên Sinh, Hóa Ra Anh Là Như Vậy - Hello Mr. Gu",
-          "url": "https://www.fullphimz.net/p/co-tien-sinh-hoa-ra-anh-la-nhu-vay-tap-1"
+          "url": "https://www.ssphim.net/p/co-tien-sinh-hoa-ra-anh-la-nhu-vay-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -11632,9 +11617,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6058bf3e27765b3501256948_poster-nghich-quang-gia.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6058bf3e27765b3501256948_poster-nghich-quang-gia.jpg",
           "title": "Nghịch Quang Giả - In Darkness (2021)",
-          "url": "https://www.fullphimz.net/p/nghich-quang-gia-tap-1"
+          "url": "https://www.ssphim.net/p/nghich-quang-gia-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -11760,9 +11745,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605750dc9a3a19ffb055c578_poster-tan-nhan-loai-ban-trai-bi-ro-dien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605750dc9a3a19ffb055c578_poster-tan-nhan-loai-ban-trai-bi-ro-dien.jpg",
           "title": "Tân Nhân Loại! Bạn Trai Bị Rò Điện - Unusual Idol Love (2021)",
-          "url": "https://www.fullphimz.net/p/tan-nhan-loai-ban-trai-bi-ro-dien-tap-1"
+          "url": "https://www.ssphim.net/p/tan-nhan-loai-ban-trai-bi-ro-dien-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -11843,9 +11828,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60573d5798205ff4dbf725bd_poster-vi-ngot-cua-mau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60573d5798205ff4dbf725bd_poster-vi-ngot-cua-mau.jpg",
           "title": "Vị Ngọt Của Máu - The Sweet Blood (2021)",
-          "url": "https://www.fullphimz.net/p/vi-ngot-cua-mau-tap-1"
+          "url": "https://www.ssphim.net/p/vi-ngot-cua-mau-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -11881,9 +11866,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6055eb0ab773c1858163cf5f_poster-the-falcon-and-the-winter-soldier.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6055eb0ab773c1858163cf5f_poster-the-falcon-and-the-winter-soldier.jpg",
           "title": "Chim Ưng và Chiến Binh Mùa Đông - Phần 1 (The Falcon and the Winter Soldier)",
-          "url": "https://www.fullphimz.net/p/the-falcon-and-the-winter-soldier-tap-1-chim-ung-va-chien-binh-mua-dong"
+          "url": "https://www.ssphim.net/p/the-falcon-and-the-winter-soldier-tap-1-chim-ung-va-chien-binh-mua-dong"
         },
         {
           "category": "Phim tình cảm",
@@ -11894,9 +11879,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6052118d7a731651269434b5_poster-hoa-ra-em-rat-yeu-anh-crush-2021.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6052118d7a731651269434b5_poster-hoa-ra-em-rat-yeu-anh-crush-2021.jpeg",
           "title": "Hoá Ra Em Rất Yêu Anh - Crush (2021)",
-          "url": "https://www.fullphimz.net/p/hoa-ra-em-rat-yeu-anh-crush-2021-tap-1"
+          "url": "https://www.ssphim.net/p/hoa-ra-em-rat-yeu-anh-crush-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -11907,9 +11892,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6051ffe2980f432c4d8e9684_poster-thieu-nu-nhin-thay-duyen-phan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6051ffe2980f432c4d8e9684_poster-thieu-nu-nhin-thay-duyen-phan.jpg",
           "title": "Thiếu Nữ Nhìn Thấy Duyên Phận - Love is Written in the Stars",
-          "url": "https://www.fullphimz.net/p/thieu-nu-nhin-thay-duyen-phan-tap-1"
+          "url": "https://www.ssphim.net/p/thieu-nu-nhin-thay-duyen-phan-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -12035,18 +12020,16 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6050a750b4a5eb014e0ba33c_quyen-luyen-lum-dong-tien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6050a750b4a5eb014e0ba33c_quyen-luyen-lum-dong-tien.jpg",
           "title": "Quyến Luyến Lúm Đồng Tiền - In Love With Your Dimples",
-          "url": "https://www.fullphimz.net/p/quyen-luyen-lum-dong-tien-tap-1"
+          "url": "https://www.ssphim.net/p/quyen-luyen-lum-dong-tien-tap-1"
         },
         {
           "category": "Phim hành động",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60503786b0d70860942ddbd4_poster-tao-hac-phong-bao.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60503786b0d70860942ddbd4_poster-tao-hac-phong-bao.jpg",
           "title": "Tảo Hắc Phong Bạo - Crime Crackdown (2021)",
-          "url": "https://www.fullphimz.net/phim/tao-hac-phong-bao-crime-crackdown-2021#"
+          "url": "https://www.ssphim.net/phim/tao-hac-phong-bao-crime-crackdown-2021#"
         },
         {
           "category": "Phim tình cảm",
@@ -12142,18 +12125,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6050316322ebb07d3cb94525_poster-be-ha-ben-trai-sep-ben-phai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6050316322ebb07d3cb94525_poster-be-ha-ben-trai-sep-ben-phai.jpg",
           "title": "Bệ Hạ Bên Trái, Sếp Bên Phải",
-          "url": "https://www.fullphimz.net/p/be-ha-ben-trai-sep-ben-phai-tap-1"
+          "url": "https://www.ssphim.net/p/be-ha-ben-trai-sep-ben-phai-tap-1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60502dc7072e8a5553d47edd_poster-tha-thi-thien-ha-truyen-thien-ha.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60502dc7072e8a5553d47edd_poster-tha-thi-thien-ha-truyen-thien-ha.jpg",
           "title": "Thả Thí Thiên Hạ/ Tranh Thiên Hạ (Triệu Lộ Tư)",
-          "url": "https://www.fullphimz.net/phim/tha-thi-thien-ha-tranh-thien-ha-trieu-lo-tu#"
+          "url": "https://www.ssphim.net/phim/tha-thi-thien-ha-tranh-thien-ha-trieu-lo-tu#"
         },
         {
           "category": "Phim tình cảm",
@@ -12204,9 +12185,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60502622dcf32a9343edd89d_poster-cuoc-chien-thuong-luu-phan-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60502622dcf32a9343edd89d_poster-cuoc-chien-thuong-luu-phan-3.jpg",
           "title": "Penthouse: Cuộc Chiến Thượng Lưu (Phần 3)",
-          "url": "https://www.fullphimz.net/p/penthouse-cuoc-chien-thuong-luu-phan-3-tap-1"
+          "url": "https://www.ssphim.net/p/penthouse-cuoc-chien-thuong-luu-phan-3-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -12442,9 +12423,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604f6c6180db7f499a547229_poster-yeu-duoi-bau-troi-sao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604f6c6180db7f499a547229_poster-yeu-duoi-bau-troi-sao.jpg",
           "title": "Yêu Dưới Bầu Trời Sao - Romance With the Star",
-          "url": "https://www.fullphimz.net/p/yeu-duoi-bau-troi-sao-tap-1"
+          "url": "https://www.ssphim.net/p/yeu-duoi-bau-troi-sao-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -12455,9 +12436,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604e1c05b8af09037e156149_poster-thao-thiet-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604e1c05b8af09037e156149_poster-thao-thiet-ky.jpg",
           "title": "Thao Thiết Ký - The Legend of Taotie (2021)",
-          "url": "https://www.fullphimz.net/p/thao-thiet-ky-tap-1"
+          "url": "https://www.ssphim.net/p/thao-thiet-ky-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -12483,18 +12464,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604e1aa79d4da52a437f8de3_poster-chuyen-doi-tu-bac-si-phan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604e1aa79d4da52a437f8de3_poster-chuyen-doi-tu-bac-si-phan-2.jpg",
           "title": "Chuyện Đời Bác Sĩ (phần 2) - Hospital Playlist 2",
-          "url": "https://www.fullphimz.net/p/chuyen-doi-bac-si-phan-2-tap-1"
+          "url": "https://www.ssphim.net/p/chuyen-doi-bac-si-phan-2-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604e1924ab967a2a30b9b34a_poster-recipe-for-youth.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604e1924ab967a2a30b9b34a_poster-recipe-for-youth.jpg",
           "title": "Công Thức Giới Trẻ - Recipe For Youth 2021 (Moon Ga Young & Kim Heechul)",
-          "url": "https://www.fullphimz.net/phim/cong-thuc-gioi-tre-recipe-for-youth-2021-moon-ga-young-kim-heechul#"
+          "url": "https://www.ssphim.net/phim/cong-thuc-gioi-tre-recipe-for-youth-2021-moon-ga-young-kim-heechul#"
         },
         {
           "category": "Phim cổ trang",
@@ -12510,9 +12489,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604c78117e71d747c84a9957_poster-hao-y-hanh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604c78117e71d747c84a9957_poster-hao-y-hanh.jpg",
           "title": "Hạo Y Hành - Immortality (2021)",
-          "url": "https://www.fullphimz.net/p/hao-y-hanh-tap-1"
+          "url": "https://www.ssphim.net/p/hao-y-hanh-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -12648,9 +12627,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6048d95ea096aa26c464e982_poster-dung-lam-phien-toi-hoc-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6048d95ea096aa26c464e982_poster-dung-lam-phien-toi-hoc-2021.jpg",
           "title": "Đừng Làm Phiền Tôi Học/ Đừng Quấy Rầy Tôi Học Tập",
-          "url": "https://www.fullphimz.net/p/dung-lam-phien-toi-hoc-dung-quay-ray-toi-hoc-tap-tap-1"
+          "url": "https://www.ssphim.net/p/dung-lam-phien-toi-hoc-dung-quay-ray-toi-hoc-tap-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -12816,18 +12795,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6048482b577cf31bd245b994_poster-vuot-ra-toi-ac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6048482b577cf31bd245b994_poster-vuot-ra-toi-ac.jpg",
           "title": "Vượt Ra Tội Ác - Beyond Evil (2021)",
-          "url": "https://www.fullphimz.net/p/vuot-ra-toi-ac-tap-1"
+          "url": "https://www.ssphim.net/p/vuot-ra-toi-ac-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604781a9e5aab9a2898e3f37_poster-vinh-quang-bong-ban.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604781a9e5aab9a2898e3f37_poster-vinh-quang-bong-ban.jpg",
           "title": "Vinh Quang Bóng Bàn - Ping Pong Life (2021)",
-          "url": "https://www.fullphimz.net/phim/vinh-quang-bong-ban-ping-pong-life-2021#"
+          "url": "https://www.ssphim.net/phim/vinh-quang-bong-ban-ping-pong-life-2021#"
         },
         {
           "category": "Phim tình cảm",
@@ -12913,9 +12890,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604737c046414d6454630eaf_poster-oh-master.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604737c046414d6454630eaf_poster-oh-master.jpg",
           "title": "Oh! Master (2021)",
-          "url": "https://www.fullphimz.net/p/oh-master-2021-tap-1"
+          "url": "https://www.ssphim.net/p/oh-master-2021-tap-1"
         },
         {
           "category": "Hài Hước",
@@ -13081,9 +13058,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6046fae05fd96d69d1151986_poster-chi-em-cach-mang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6046fae05fd96d69d1151986_poster-chi-em-cach-mang.jpg",
           "title": "Chị Em Cách Mạng - Revolutionary Sisters",
-          "url": "https://www.fullphimz.net/p/chi-em-cach-mang-tap-1"
+          "url": "https://www.ssphim.net/p/chi-em-cach-mang-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -13289,9 +13266,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6046e7b9d3462a36c1eb0522_poster-em-la-thanh-tri-doanh-luy-cua-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6046e7b9d3462a36c1eb0522_poster-em-la-thanh-tri-doanh-luy-cua-anh.jpg",
           "title": "Em Là Thành Trì Doanh Lũy Của Anh",
-          "url": "https://www.fullphimz.net/p/em-la-thanh-tri-doanh-luy-cua-anh-tap-1"
+          "url": "https://www.ssphim.net/p/em-la-thanh-tri-doanh-luy-cua-anh-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -13357,9 +13334,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6045f2a5df4fc9457c11d852_poster-vu-dieu-cua-buom-naviilera-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6045f2a5df4fc9457c11d852_poster-vu-dieu-cua-buom-naviilera-2021.jpg",
           "title": "Navillera: Như cánh bướm (2021)",
-          "url": "https://www.fullphimz.net/p/vu-dieu-cua-buom-navillera-2021-tap-1"
+          "url": "https://www.ssphim.net/p/vu-dieu-cua-buom-navillera-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -13395,9 +13372,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6045e3d98d2fdd41cc3644ce_poster-love-alarm-2-chuong-bao-tinh-yeu-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6045e3d98d2fdd41cc3644ce_poster-love-alarm-2-chuong-bao-tinh-yeu-2.jpg",
           "title": "Chuông Báo Tình Yêu 2 (Love Alarm Season 2)",
-          "url": "https://www.fullphimz.net/p/chuong-bao-tinh-yeu-2-love-alarm-2-tap-1"
+          "url": "https://www.ssphim.net/p/chuong-bao-tinh-yeu-2-love-alarm-2-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -13513,9 +13490,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6045928e1a4401622200dde4_poster-muu-thanh-quy-coc-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6045928e1a4401622200dde4_poster-muu-thanh-quy-coc-tu.jpg",
           "title": "Mưu Thánh Quỷ Cốc Tử - For The Holy Guiguzi (2021)",
-          "url": "https://www.fullphimz.net/p/muu-thanh-quy-coc-tu-tap-1"
+          "url": "https://www.ssphim.net/p/muu-thanh-quy-coc-tu-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -13671,9 +13648,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6044ebc4e62860d5a8ddabcd_poster-tu-dang.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6044ebc4e62860d5a8ddabcd_poster-tu-dang.jpeg",
           "title": "Tư Đằng - Rattan 2021 (Cảnh Điềm & Trương Bân Bân)",
-          "url": "https://www.fullphimz.net/p/tu-dang-tap-1"
+          "url": "https://www.ssphim.net/p/tu-dang-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -13714,9 +13691,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60424169f4a224298a52aeef_poster-mai-mai-la-so-1-phan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60424169f4a224298a52aeef_poster-mai-mai-la-so-1-phan-2.jpg",
           "title": "Mãi Mãi Là Số 1 (Phần 2) - Cuộc Phản Kích Số 2",
-          "url": "https://www.fullphimz.net/p/mai-mai-la-so-1-phan-2-cuoc-phan-kich-so-2-tap-1"
+          "url": "https://www.ssphim.net/p/mai-mai-la-so-1-phan-2-cuoc-phan-kich-so-2-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -13822,18 +13799,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6041f193f2f4ea0cd7f6b682_poster-lai-gan-roi-yeu-em-history-4.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6041f193f2f4ea0cd7f6b682_poster-lai-gan-roi-yeu-em-history-4.jpg",
           "title": "Lại Gần Rồi Yêu Em - History 4: Close To You",
-          "url": "https://www.fullphimz.net/p/lai-gan-roi-yeu-em-history-4-close-to-you-tap-1"
+          "url": "https://www.ssphim.net/p/lai-gan-roi-yeu-em-history-4-close-to-you-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6041e66790099f049284d7aa_poster-on-thoi-chung-ta-la-ban-ma.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6041e66790099f049284d7aa_poster-on-thoi-chung-ta-la-ban-ma.jpg",
           "title": "Ổn Thôi, Chúng Ta Là Bạn Mà - It's Okay, It's Friendship",
-          "url": "https://www.fullphimz.net/phim/on-thoi-chung-ta-la-ban-ma-its-okay-its-friendship#"
+          "url": "https://www.ssphim.net/phim/on-thoi-chung-ta-la-ban-ma-its-okay-its-friendship#"
         },
         {
           "category": "Phim tình cảm",
@@ -14024,27 +13999,23 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6041aaf35db32f72c6d3386f_poster-han-quan-khong-giong-giang-lau-nguyet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6041aaf35db32f72c6d3386f_poster-han-quan-khong-giong-giang-lau-nguyet.jpg",
           "title": "Hận Quân Không Giống Giang Lâu Nguyệt - Killer And Healer (2021)",
-          "url": "https://www.fullphimz.net/p/han-quan-khong-giong-giang-lau-nguyet-tap-1"
+          "url": "https://www.ssphim.net/p/han-quan-khong-giong-giang-lau-nguyet-tap-1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604100c438dde24375a2d46c_poster-phap-su-tru-ta-trieu-tien-joseon-exorcist-2021.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604100c438dde24375a2d46c_poster-phap-su-tru-ta-trieu-tien-joseon-exorcist-2021.jpg",
           "title": "Pháp Sư Trừ Tà Triều Tiên (Joseon Exorcist 2021)",
-          "url": "https://www.fullphimz.net/phim/phap-su-tru-ta-trieu-tien-joseon-exorcist-2021#"
+          "url": "https://www.ssphim.net/phim/phap-su-tru-ta-trieu-tien-joseon-exorcist-2021#"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6040d27be5d06a1f5ecc7f07_poster-muon-mat-cuoc-song.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6040d27be5d06a1f5ecc7f07_poster-muon-mat-cuoc-song.jpg",
           "title": "Muôn Mặt Cuộc Sống - Good Life (2021)",
-          "url": "https://www.fullphimz.net/phim/muon-mat-cuoc-song-good-life-2021#"
+          "url": "https://www.ssphim.net/phim/muon-mat-cuoc-song-good-life-2021#"
         },
         {
           "category": "Phim tình cảm",
@@ -14180,9 +14151,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60407f708cc4b2de87a0497b_poster-co-nang-dau-bep-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60407f708cc4b2de87a0497b_poster-co-nang-dau-bep-cua-toi.jpg",
           "title": "Cô Nàng Đầu Bếp Của Tôi - Mae Krua Kon Mai",
-          "url": "https://www.fullphimz.net/p/co-nang-dau-bep-cua-toi-tap-1"
+          "url": "https://www.ssphim.net/p/co-nang-dau-bep-cua-toi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -14403,9 +14374,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604050160add48f84ebcc239_poster-muon-van-cach-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604050160add48f84ebcc239_poster-muon-van-cach-yeu.jpg",
           "title": "Muôn Vàn Cách Yêu - Brilliant Girls (2021)",
-          "url": "https://www.fullphimz.net/p/muon-van-cach-yeu-tap-1"
+          "url": "https://www.ssphim.net/p/muon-van-cach-yeu-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -14511,9 +14482,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603faac44c3052384aefe144_poster-phim-han-mouse-2021-chuot-bach.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603faac44c3052384aefe144_poster-phim-han-mouse-2021-chuot-bach.jpg",
           "title": "Phim Hàn Mouse 2021 (Kẻ Săn Người) (Lee Seung Gi)",
-          "url": "https://www.fullphimz.net/p/phim-han-mouse-2021-chuot-bach-tap-1-lee-seung-gi"
+          "url": "https://www.ssphim.net/p/phim-han-mouse-2021-chuot-bach-tap-1-lee-seung-gi"
         },
         {
           "category": "Phim phiêu lưu",
@@ -14564,18 +14535,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6039238d370cd66c2746f8c1_poster-wanda-vision-phan-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6039238d370cd66c2746f8c1_poster-wanda-vision-phan-1.jpg",
           "title": "Wanda và Vision (Phần 1)",
-          "url": "https://www.fullphimz.net/p/wanda-va-vision-phan-1-tap-1"
+          "url": "https://www.ssphim.net/p/wanda-va-vision-phan-1-tap-1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60391e558c9730c103b94b93_poster-mo-vuong-chi-vuong-1.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60391e558c9730c103b94b93_poster-mo-vuong-chi-vuong-1.jpg",
           "title": "Mộ Vương Chi Vương - Great King of the Grave 2021",
-          "url": "https://www.fullphimz.net/phim/mo-vuong-chi-vuong-great-king-of-the-grave-2021#"
+          "url": "https://www.ssphim.net/phim/mo-vuong-chi-vuong-great-king-of-the-grave-2021#"
         },
         {
           "category": "Phim tình cảm",
@@ -14641,9 +14610,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6037d2288759a98150d7ef27_poster-dem-10-la-hon.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6037d2288759a98150d7ef27_poster-dem-10-la-hon.jpeg",
           "title": "Đếm 10 Là Hôn - Lovely Writer (2021)",
-          "url": "https://www.fullphimz.net/p/dem-10-la-hon-tap-1"
+          "url": "https://www.ssphim.net/p/dem-10-la-hon-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -14724,9 +14693,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603668d70cee6b26e9146d3c_poster-van-chua-30.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603668d70cee6b26e9146d3c_poster-van-chua-30.jpg",
           "title": "Vẫn Chưa Ba Mươi/ Vẫn Chưa 30 - Not Yet Thirty (2021)",
-          "url": "https://www.fullphimz.net/p/van-chua-ba-muoi-van-chua-30-tap-1"
+          "url": "https://www.ssphim.net/p/van-chua-ba-muoi-van-chua-30-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -14852,9 +14821,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60365236d42211f987e19d96_poster-nguoi-con-trai-tung-nho.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60365236d42211f987e19d96_poster-nguoi-con-trai-tung-nho.jpg",
           "title": "Người Con Trai Tôi Từng Nhớ - I Once Remembered That Guy",
-          "url": "https://www.fullphimz.net/p/nguoi-con-trai-toi-tung-nho-tap-1"
+          "url": "https://www.ssphim.net/p/nguoi-con-trai-toi-tung-nho-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -15085,18 +15054,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6035134c68b3bb1ac7ddd052_poster-cam-tam-tua-ngoc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6035134c68b3bb1ac7ddd052_poster-cam-tam-tua-ngoc.jpg",
           "title": "Cẩm Tâm Tựa Ngọc - Jin Xin Si Yu (2021)",
-          "url": "https://www.fullphimz.net/p/cam-tam-tua-ngoc-tap-1"
+          "url": "https://www.ssphim.net/p/cam-tam-tua-ngoc-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60350345943807c14e814e18_poster-quy-co-van-phong-2000-tuoi.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60350345943807c14e814e18_poster-quy-co-van-phong-2000-tuoi.jpg",
           "title": "Quý Cô Văn Phòng 2000 Tuổi - Girl2K",
-          "url": "https://www.fullphimz.net/phim/quy-co-van-phong-2000-tuoi-girl2k#"
+          "url": "https://www.ssphim.net/phim/quy-co-van-phong-2000-tuoi-girl2k#"
         },
         {
           "category": "Phim cổ trang",
@@ -15222,9 +15189,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60347e33fe4f3019b040c0c6_poster-thu-vien-thong-thien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60347e33fe4f3019b040c0c6_poster-thu-vien-thong-thien.jpg",
           "title": "Thư Viện Thông Thiên - Celestial Authority Academy",
-          "url": "https://www.fullphimz.net/p/thu-vien-thong-thien-tap-1"
+          "url": "https://www.ssphim.net/p/thu-vien-thong-thien-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -15415,9 +15382,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6033bd45587c6dda8ba823f2_poster-thien-nhai-khach.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6033bd45587c6dda8ba823f2_poster-thien-nhai-khach.jpg",
           "title": "Thiên Nhai Khách (Sơn Hà Lệnh)",
-          "url": "https://www.fullphimz.net/p/thien-nhai-khach-son-ha-lenh-tap-1"
+          "url": "https://www.ssphim.net/p/thien-nhai-khach-son-ha-lenh-tap-1"
         },
         {
           "category": "TV SHOW",
@@ -15668,9 +15635,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603393c9aac44a05b406e3ac_poster-thanh-xuan-co-ban-mua-3-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603393c9aac44a05b406e3ac_poster-thanh-xuan-co-ban-mua-3-2021.jpg",
           "title": "Thanh Xuân Có Bạn (Mùa 3) - Youth With You (Season 3)",
-          "url": "https://www.fullphimz.net/p/thanh-xuan-co-ban-mua-3-youth-with-you-season-3-tap-0"
+          "url": "https://www.ssphim.net/p/thanh-xuan-co-ban-mua-3-youth-with-you-season-3-tap-0"
         },
         {
           "category": "TV SHOW",
@@ -15746,9 +15713,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6031393221334f0a9a22e6e0_poster-sang-tao-doanh-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6031393221334f0a9a22e6e0_poster-sang-tao-doanh-2021.jpg",
           "title": "Sáng Tạo Doanh Mùa 4 - Chuang (2021)",
-          "url": "https://www.fullphimz.net/p/sang-tao-doanh-mua-3-chuang-2021-tap-1"
+          "url": "https://www.ssphim.net/p/sang-tao-doanh-mua-3-chuang-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -15864,18 +15831,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602f54fa814c851e2063834c_poster-vincenzo-song-joong-ki.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602f54fa814c851e2063834c_poster-vincenzo-song-joong-ki.jpg",
           "title": "Vincenzo 2021 (Song Joong Ki)",
-          "url": "https://www.fullphimz.net/p/vincenzo-2021-song-joong-ki-tap-1"
+          "url": "https://www.ssphim.net/p/vincenzo-2021-song-joong-ki-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602f39aca0d4b644428b9d32_poster-dung-choc-gian-con-gai.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602f39aca0d4b644428b9d32_poster-dung-choc-gian-con-gai.jpg",
           "title": "Đừng Chọc Giận Con Gái - Don’t Mess With Girl",
-          "url": "https://www.fullphimz.net/phim/dung-choc-gian-con-gai-dont-mess-with-girl#"
+          "url": "https://www.ssphim.net/phim/dung-choc-gian-con-gai-dont-mess-with-girl#"
         },
         {
           "category": "Phim tình cảm",
@@ -15946,9 +15911,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602ea195839cc40dc84d8ab6_poster-penthouse-cuoc-chien-thuong-luu-phan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602ea195839cc40dc84d8ab6_poster-penthouse-cuoc-chien-thuong-luu-phan-2.jpg",
           "title": "Penthouse: Cuộc Chiến Thượng Lưu (Phần 2)",
-          "url": "https://www.fullphimz.net/p/penthouse-cuoc-chien-thuong-luu-phan-2-tap-1"
+          "url": "https://www.ssphim.net/p/penthouse-cuoc-chien-thuong-luu-phan-2-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -16034,9 +15999,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602dca9e07ea5e6abf95f5fb_poster-xin-chao-toi-oi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602dca9e07ea5e6abf95f5fb_poster-xin-chao-toi-oi.jpg",
           "title": "Xin Chào, Tôi Ơi! (Hello Me 2021)",
-          "url": "https://www.fullphimz.net/p/xin-chao-toi-oi-hello-me-2021-tap-1"
+          "url": "https://www.ssphim.net/p/xin-chao-toi-oi-hello-me-2021-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -16122,9 +16087,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602cd107d1315c000f589b22_poster-sisyphus-than-thoai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602cd107d1315c000f589b22_poster-sisyphus-than-thoai.jpg",
           "title": "Sisyphus: The Myth - Thần Thoại (Park Shin Hye)",
-          "url": "https://www.fullphimz.net/p/sisyphus-than-thoai-tap-1"
+          "url": "https://www.ssphim.net/p/sisyphus-than-thoai-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -16250,9 +16215,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602bf0cb34c7904dace5ea72_poster-tinh-yeu-khong-the-ngo-den-11.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602bf0cb34c7904dace5ea72_poster-tinh-yeu-khong-the-ngo-den-11.jpg",
           "title": "Tình Yêu Không Thể Ngờ Đến – Love Unexpected",
-          "url": "https://www.fullphimz.net/p/tinh-yeu-khong-the-ngo-den-tap-1"
+          "url": "https://www.ssphim.net/p/tinh-yeu-khong-the-ngo-den-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -16378,9 +16343,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602bc6c4bd0e0a313a260314_poster-linh-lung-lang-tam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602bc6c4bd0e0a313a260314_poster-linh-lung-lang-tam.jpg",
           "title": "Linh Lung Lang Tâm - Ling Long Lang Xin",
-          "url": "https://www.fullphimz.net/p/linh-lung-lang-tam-tap-1"
+          "url": "https://www.ssphim.net/p/linh-lung-lang-tam-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -16566,18 +16531,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602a7588690c9eb1dcbdb117_poster-phim-o-re.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602a7588690c9eb1dcbdb117_poster-phim-o-re.jpeg",
           "title": "Phim Ở Rể - My Heroic Husband 2021",
-          "url": "https://www.fullphimz.net/p/o-re-tap-1"
+          "url": "https://www.ssphim.net/p/o-re-tap-1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6021d926be5faeca95b76092_poster-thieu-tuong-quan-thu-cung-cua-toi.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6021d926be5faeca95b76092_poster-thieu-tuong-quan-thu-cung-cua-toi.jpg",
           "title": "Thiếu Tướng Quân Thú Cưng Của Tôi - My Young Pet General",
-          "url": "https://www.fullphimz.net/phim/thieu-tuong-quan-thu-cung-cua-toi-my-young-pet-general#"
+          "url": "https://www.ssphim.net/phim/thieu-tuong-quan-thu-cung-cua-toi-my-young-pet-general#"
         },
         {
           "category": "Phim tình cảm",
@@ -16703,27 +16666,23 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601e4a1045d4fa6154d25254_banner-lam-trai-tim-em-mim-cuoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601e4a1045d4fa6154d25254_banner-lam-trai-tim-em-mim-cuoi.jpg",
           "title": "Làm Trái Tim Em Mỉm Cười - Make My Heart Smile (2021)",
-          "url": "https://www.fullphimz.net/p/lam-trai-tim-em-mim-cuoi-tap-1-r1"
+          "url": "https://www.ssphim.net/p/lam-trai-tim-em-mim-cuoi-tap-1-r1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60182322f10b3d65db271a00_poster-nhung-rac-roi-khi-khoi-nghiep.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60182322f10b3d65db271a00_poster-nhung-rac-roi-khi-khoi-nghiep.jpg",
           "title": "Những Rắc Rối Khi Khởi Nghiệp - The Arc of Life",
-          "url": "https://www.fullphimz.net/phim/nhung-rac-roi-khi-khoi-nghiep-the-arc-of-life#"
+          "url": "https://www.ssphim.net/phim/nhung-rac-roi-khi-khoi-nghiep-the-arc-of-life#"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60181840511078f6320ffddc_poster-danh-so-cuoc-tinh.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60181840511078f6320ffddc_poster-danh-so-cuoc-tinh.jpg",
           "title": "Đánh Số Cuộc Tình - Love Scene Number",
-          "url": "https://www.fullphimz.net/phim/danh-so-cuoc-tinh-love-scene-number#"
+          "url": "https://www.ssphim.net/phim/danh-so-cuoc-tinh-love-scene-number#"
         },
         {
           "category": "Phim tình cảm",
@@ -16919,9 +16878,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6017e4d618d9f24c61d0d261_poster-ca-muc-ham-mat-phan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6017e4d618d9f24c61d0d261_poster-ca-muc-ham-mat-phan-2.jpg",
           "title": "Cá Mực Hầm Mật (phần 2) - Thân Ái Chí Ái",
-          "url": "https://www.fullphimz.net/p/ca-muc-ham-mat-phan-2-than-ai-chi-ai-tap-1-r2"
+          "url": "https://www.ssphim.net/p/ca-muc-ham-mat-phan-2-than-ai-chi-ai-tap-1-r2"
         },
         {
           "category": "Phim tình cảm",
@@ -17162,9 +17121,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601585720e92d3120db0f18a_poster-giua-thanh-xuan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601585720e92d3120db0f18a_poster-giua-thanh-xuan.jpg",
           "title": "Giữa Thanh Xuân - Fighting Youth",
-          "url": "https://www.fullphimz.net/p/giua-thanh-xuan-tap-1"
+          "url": "https://www.ssphim.net/p/giua-thanh-xuan-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -17370,9 +17329,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6013dd29d4887c2ce84d2221_poster-linh-lung-2020.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6013dd29d4887c2ce84d2221_poster-linh-lung-2020.jpeg",
           "title": "Linh Lung 2020 (Lâm Nhất & Triệu Kim Mạch)",
-          "url": "https://www.fullphimz.net/p/linh-lung-2020-tap-1"
+          "url": "https://www.ssphim.net/p/linh-lung-2020-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -17578,9 +17537,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6012cb7ad691c9d136bc92b2_poster-dai-duong-minh-nguyet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6012cb7ad691c9d136bc92b2_poster-dai-duong-minh-nguyet.jpg",
           "title": "Đại Đường Minh Nguyệt/ Phong Khởi Nghê Thường - Da Tang Ming Yue",
-          "url": "https://www.fullphimz.net/p/dai-duong-minh-nguyet-phong-khoi-nghe-thuong-tap-1-r1"
+          "url": "https://www.ssphim.net/p/dai-duong-minh-nguyet-phong-khoi-nghe-thuong-tap-1-r1"
         },
         {
           "category": "Phim tình cảm",
@@ -17736,9 +17695,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601135332f290fc3e92f4190_poster-yeu-em-tu-cai-nhin-dau-tien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601135332f290fc3e92f4190_poster-yeu-em-tu-cai-nhin-dau-tien.jpg",
           "title": "Yêu Em Từ Cái Nhìn Đầu Tiên (Trịnh Sảng)",
-          "url": "https://www.fullphimz.net/p/yeu-em-tu-cai-nhin-dau-tien-tap-1"
+          "url": "https://www.ssphim.net/p/yeu-em-tu-cai-nhin-dau-tien-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -17919,9 +17878,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601040b48e0cd141a68703b9_poster-ky-nghi-ap-am.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601040b48e0cd141a68703b9_poster-ky-nghi-ap-am.jpg",
           "title": "Kỳ Nghỉ Ấm Áp - Vacation of Love",
-          "url": "https://www.fullphimz.net/p/ky-nghi-am-ap-tap-1"
+          "url": "https://www.ssphim.net/p/ky-nghi-am-ap-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -18097,9 +18056,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6010161c754cae01a0244ab2_poster-bien-tinh-day-song.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6010161c754cae01a0244ab2_poster-bien-tinh-day-song.jpg",
           "title": "Biển Tình Dậy Sóng - Talay Luang",
-          "url": "https://www.fullphimz.net/p/bien-tinh-day-song-tap-1"
+          "url": "https://www.ssphim.net/p/bien-tinh-day-song-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -18145,9 +18104,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600ec9ebfc6b2e63a2b2e843_poster-lac-mat-nguon-coi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600ec9ebfc6b2e63a2b2e843_poster-lac-mat-nguon-coi.jpg",
           "title": "Lạc Mất Nguồn Cội - Kaew Lerm Korn",
-          "url": "https://www.fullphimz.net/p/lac-mat-nguon-coi-tap-1"
+          "url": "https://www.ssphim.net/p/lac-mat-nguon-coi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -18333,27 +18292,23 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600c45d542f514f645bfe357_poster-loi-re-con-tim-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600c45d542f514f645bfe357_poster-loi-re-con-tim-1.jpg",
           "title": "Lối Rẽ Con Tim/ Trái Tim Băng Giá - Wong Wien Hua Jai",
-          "url": "https://www.fullphimz.net/p/loi-re-con-tim-trai-tim-bang-gia-tap-1"
+          "url": "https://www.ssphim.net/p/loi-re-con-tim-trai-tim-bang-gia-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600bf1fe35215a2eb8b7a395_poster-co-vo-bat-buoc.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600bf1fe35215a2eb8b7a395_poster-co-vo-bat-buoc.jpg",
           "title": "Cô Vợ Bắt Buộc - Mia Jum Pen",
-          "url": "https://www.fullphimz.net/phim/co-vo-bat-buoc-mia-jum-pen-r1#"
+          "url": "https://www.ssphim.net/phim/co-vo-bat-buoc-mia-jum-pen-r1#"
         },
         {
           "category": "Phim hành động",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600a9b970a27ce3b59f53dee_poster-quy-co-monteristo.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600a9b970a27ce3b59f53dee_poster-quy-co-monteristo.jpg",
           "title": "Quý cô Montecristo - Miss Montecristo (2021)",
-          "url": "https://www.fullphimz.net/phim/quy-co-montecristo-miss-montecristo-r4#"
+          "url": "https://www.ssphim.net/phim/quy-co-montecristo-miss-montecristo-r4#"
         },
         {
           "category": "Phim tình cảm",
@@ -18559,9 +18514,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600910db8470ad1fdf4624fe_poster-hom-ay-gap-go-tinh-yeu-dich-thuc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600910db8470ad1fdf4624fe_poster-hom-ay-gap-go-tinh-yeu-dich-thuc.jpg",
           "title": "Hôm Ấy Gặp Gỡ Tình Yêu Đích Thực - Really Meet Love That Day",
-          "url": "https://www.fullphimz.net/p/hom-ay-gap-go-tinh-yeu-dich-thuc-tap-1-r1"
+          "url": "https://www.ssphim.net/p/hom-ay-gap-go-tinh-yeu-dich-thuc-tap-1-r1"
         },
         {
           "category": "Phim hành động",
@@ -18617,18 +18572,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600855282af38f3345eb44f5_poster-cung-em-o-ngay-the-gioi-ket-thuc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600855282af38f3345eb44f5_poster-cung-em-o-ngay-the-gioi-ket-thuc.jpg",
           "title": "Cùng Em Ở Ngày Thế Giới Kết Thúc (Phần 1)",
-          "url": "https://www.fullphimz.net/p/cung-em-o-ngay-the-gioi-ket-thuc-phan-1-tap-1"
+          "url": "https://www.ssphim.net/p/cung-em-o-ngay-the-gioi-ket-thuc-phan-1-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6007fbcf8c06eb69a8e2492f_poster-toi-yeu-em.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6007fbcf8c06eb69a8e2492f_poster-toi-yeu-em.jpg",
           "title": "Tôi Yêu Em - I Love You (2021)",
-          "url": "https://www.fullphimz.net/phim/toi-yeu-em-i-love-you-2021#"
+          "url": "https://www.ssphim.net/phim/toi-yeu-em-i-love-you-2021#"
         },
         {
           "category": "Phim tình cảm",
@@ -18754,9 +18707,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6006f978e058894663309758_poster-hoa-ra-thoi-gian-deu-ghi-nho.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6006f978e058894663309758_poster-hoa-ra-thoi-gian-deu-ghi-nho.jpeg",
           "title": "Hóa Ra Thời Gian Đều Ghi Nhớ - Always Have, Always Will",
-          "url": "https://www.fullphimz.net/p/hoa-ra-thoi-gian-deu-ghi-nho-tap-1"
+          "url": "https://www.ssphim.net/p/hoa-ra-thoi-gian-deu-ghi-nho-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -18767,9 +18720,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6006ac0d65abd82ce6e6e540_poster-bang-vu-hoa.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6006ac0d65abd82ce6e6e540_poster-bang-vu-hoa.jpg",
           "title": "Băng Vũ Hỏa - Being A Hero",
-          "url": "https://www.fullphimz.net/p/bang-vu-hoa-tap-1"
+          "url": "https://www.ssphim.net/p/bang-vu-hoa-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -19000,9 +18953,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6001c34788b413ef4a0e8687_poster-the-gioi-khong-dua-vao-sac-dep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6001c34788b413ef4a0e8687_poster-the-gioi-khong-dua-vao-sac-dep.jpg",
           "title": "Thế Giới Này Không Dựa Vào Sắc Đẹp - Beauty From Heart",
-          "url": "https://www.fullphimz.net/p/the-gioi-nay-khong-dua-vao-sac-dep-tap-1"
+          "url": "https://www.ssphim.net/p/the-gioi-nay-khong-dua-vao-sac-dep-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -19198,9 +19151,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6001607f42a04ff8f075c70c_poster-tham-yeu-quat-sinh-hoai-nam-ban-truyen-hinh-2021.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6001607f42a04ff8f075c70c_poster-tham-yeu-quat-sinh-hoai-nam-ban-truyen-hinh-2021.jpg",
           "title": "Thầm Yêu: Quất Sinh Hoài Nam (Bản truyền hình 2021)",
-          "url": "https://www.fullphimz.net/p/tham-yeu-quat-sinh-hoai-nam-2021-tap-1"
+          "url": "https://www.ssphim.net/p/tham-yeu-quat-sinh-hoai-nam-2021-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -19211,18 +19164,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600017e301279975ebf3ba04_poster-thanh-tram-hanh-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600017e301279975ebf3ba04_poster-thanh-tram-hanh-1.jpg",
           "title": "Thanh Trâm Hành - The Golden Hairpin",
-          "url": "https://www.fullphimz.net/p/thanh-tram-hanh-tap-1"
+          "url": "https://www.ssphim.net/p/thanh-tram-hanh-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fff0e127a4e399ca0496770_poster-nguy-co-tien-sinh.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fff0e127a4e399ca0496770_poster-nguy-co-tien-sinh.jpg",
           "title": "Nguy Cơ Tiên Sinh - Game Changer",
-          "url": "https://www.fullphimz.net/phim/nguy-co-tien-sinh-game-changer-r1#"
+          "url": "https://www.ssphim.net/phim/nguy-co-tien-sinh-game-changer-r1#"
         },
         {
           "category": "Phim cổ trang",
@@ -19428,9 +19379,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffef21c5264c6c884c65df3_poster-ta-chinh-la-co-nuong-nhu-the.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffef21c5264c6c884c65df3_poster-ta-chinh-la-co-nuong-nhu-the.jpg",
           "title": "Ta Chính Là Cô Nương Như Thế - Con Gái Là Thế Đó",
-          "url": "https://www.fullphimz.net/p/ta-chinh-la-co-nuong-nhu-the-con-gai-la-the-do-tap-1"
+          "url": "https://www.ssphim.net/p/ta-chinh-la-co-nuong-nhu-the-con-gai-la-the-do-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -19516,9 +19467,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffdcd002215e03e95369da6_poster-ban-nhac-hon-nhan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffdcd002215e03e95369da6_poster-ban-nhac-hon-nhan.jpg",
           "title": "Yêu (Kết Hôn Và Ly Dị) 1",
-          "url": "https://www.fullphimz.net/p/ban-nhac-hon-nhan-tap-1"
+          "url": "https://www.ssphim.net/p/ban-nhac-hon-nhan-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -19644,18 +19595,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffdc87366b8638e98b85051_poster-em-la-dieu-cam-dong-nhat-the-gian.png",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffdc87366b8638e98b85051_poster-em-la-dieu-cam-dong-nhat-the-gian.png",
           "title": "Em Là Điều Cảm Động Nhất Thế Gian",
-          "url": "https://www.fullphimz.net/p/em-la-dieu-cam-dong-nhat-the-gian-tap-1"
+          "url": "https://www.ssphim.net/p/em-la-dieu-cam-dong-nhat-the-gian-tap-1"
         },
         {
           "category": "Phim hành động",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffd6c8006dd69c8eb6f0cb6_poster-moi-vi-sao-khac-nhau.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffd6c8006dd69c8eb6f0cb6_poster-moi-vi-sao-khac-nhau.jpg",
           "title": "Mỗi Vì Sao Khác Nhau - Dao Kon La Duang",
-          "url": "https://www.fullphimz.net/phim/moi-vi-sao-khac-nhau-dao-kon-la-duang#"
+          "url": "https://www.ssphim.net/phim/moi-vi-sao-khac-nhau-dao-kon-la-duang#"
         },
         {
           "category": "Phim hành động",
@@ -19721,36 +19670,30 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffc2baf96c69eaee9082d0e_poster-su-khoi-dau-luca.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffc2baf96c69eaee9082d0e_poster-su-khoi-dau-luca.jpg",
           "title": "Phim Hàn Sự Khởi Đầu (LUCA: The Beginning 2021)",
-          "url": "https://www.fullphimz.net/p/phim-han-su-khoi-dau-luca-the-beginning-2021-tap-1"
+          "url": "https://www.ssphim.net/p/phim-han-su-khoi-dau-luca-the-beginning-2021-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffb28fed83877c949ed3759_poster-thay-toi-la-chong-toi.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffb28fed83877c949ed3759_poster-thay-toi-la-chong-toi.jpg",
           "title": "Thầy Tôi Là Chồng Tôi - My Lecturer, My Husband",
-          "url": "https://www.fullphimz.net/phim/thay-toi-la-chong-toi-my-lecturer-my-husband#"
+          "url": "https://www.ssphim.net/phim/thay-toi-la-chong-toi-my-lecturer-my-husband#"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff9d809ec965970f6271162_poster-moi-tinh-dau-cua-toi-la-yeu-tham.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff9d809ec965970f6271162_poster-moi-tinh-dau-cua-toi-la-yeu-tham.jpg",
           "title": "Mối Tình Đầu Của Tôi Là Yêu Thầm - My First Love Is Secret Love",
-          "url": "https://www.fullphimz.net/phim/moi-tinh-dau-cua-toi-la-yeu-tham-my-first-love-is-secret-love#"
+          "url": "https://www.ssphim.net/phim/moi-tinh-dau-cua-toi-la-yeu-tham-my-first-love-is-secret-love#"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff9ce896669294ca9218187_poster-phim-moi-tinh-dau-co-cv-than-thanh.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff9ce896669294ca9218187_poster-phim-moi-tinh-dau-co-cv-than-thanh.jpg",
           "title": "Mối Tình Đầu Có CV Thần Thánh - First Love It's You",
-          "url": "https://www.fullphimz.net/phim/moi-tinh-dau-co-cv-than-thanh-first-love-its-you#"
+          "url": "https://www.ssphim.net/phim/moi-tinh-dau-co-cv-than-thanh-first-love-its-you#"
         },
         {
           "category": "Phim tình cảm",
@@ -19896,9 +19839,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff970c466aa04ccb29c0343_poster-hanh-phuc-nho-cua-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff970c466aa04ccb29c0343_poster-hanh-phuc-nho-cua-anh.jpg",
           "title": "Hạnh Phúc Nhỏ Của Anh - My Little Happiness",
-          "url": "https://www.fullphimz.net/p/hanh-phuc-nho-cua-anh-tap-1"
+          "url": "https://www.ssphim.net/p/hanh-phuc-nho-cua-anh-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -20084,18 +20027,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff6e91e8c995a2be6374240_poster-linh-vuc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff6e91e8c995a2be6374240_poster-linh-vuc.jpg",
           "title": "Phim Linh Vực - The World of Fantasy (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-linh-vuc-tap-1"
+          "url": "https://www.ssphim.net/p/xem-phim-linh-vuc-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff677a75f556fb09f5d51fd_poster-7-ngay-lang-man-2.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff677a75f556fb09f5d51fd_poster-7-ngay-lang-man-2.jpg",
           "title": "7 Ngày Lãng Mạn 2 - One Fine Week 2",
-          "url": "https://www.fullphimz.net/phim/7-ngay-lang-man-2-one-fine-week-2#"
+          "url": "https://www.ssphim.net/phim/7-ngay-lang-man-2-one-fine-week-2#"
         },
         {
           "category": "Phim hành động",
@@ -20301,9 +20242,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff5dc4a53579d2d77094a1e_poster-vat-trong-tay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff5dc4a53579d2d77094a1e_poster-vat-trong-tay.jpg",
           "title": "Vật Trong Tay/Dưới Ánh Mặt Trời - The Controllers",
-          "url": "https://www.fullphimz.net/p/vat-trong-tay-duoi-anh-mat-troi-tap-1"
+          "url": "https://www.ssphim.net/p/vat-trong-tay-duoi-anh-mat-troi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -20509,9 +20450,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff582290765701aaaf32ee6_poster-so-dao-hoa-cua-thu-khac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff582290765701aaaf32ee6_poster-so-dao-hoa-cua-thu-khac.jpg",
           "title": "Số Đào Hoa Của Thư Khắc",
-          "url": "https://www.fullphimz.net/p/so-dao-hoa-cua-thu-khac-tap-1"
+          "url": "https://www.ssphim.net/p/so-dao-hoa-cua-thu-khac-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -20647,18 +20588,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff42a2772e2b257f9a825ea_poster-hoang-tu-ech-ban-thai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff42a2772e2b257f9a825ea_poster-hoang-tu-ech-ban-thai.jpg",
           "title": "Hoàng Tử Ếch (Bản Thái)",
-          "url": "https://www.fullphimz.net/p/hoang-tu-ech-ban-thai-tap-1-r1"
+          "url": "https://www.ssphim.net/p/hoang-tu-ech-ban-thai-tap-1-r1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5feddfa1262c0b5824c56299_poster-bi-mat-vo-lam-my-nhan-do-giam.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5feddfa1262c0b5824c56299_poster-bi-mat-vo-lam-my-nhan-do-giam.jpg",
           "title": "Bí Mật Võ Lâm: Mỹ Nhân Đồ Giám (2020)",
-          "url": "https://www.fullphimz.net/phim/bi-mat-vo-lam-my-nhan-do-giam-2020#"
+          "url": "https://www.ssphim.net/phim/bi-mat-vo-lam-my-nhan-do-giam-2020#"
         },
         {
           "category": "Phim tình cảm",
@@ -20854,9 +20793,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fec84e2c0be24d27fffd067_poster-luu-kim-tue-nguyet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fec84e2c0be24d27fffd067_poster-luu-kim-tue-nguyet.jpg",
           "title": "Lưu Kim Tuế Nguyệt - My Best Friend's Story (2020)",
-          "url": "https://www.fullphimz.net/p/luu-kim-tue-nguyet-tap-1"
+          "url": "https://www.ssphim.net/p/luu-kim-tue-nguyet-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -21112,9 +21051,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5febe1773ae11d08d96649a6_poster-tran-tinh-lenh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5febe1773ae11d08d96649a6_poster-tran-tinh-lenh.jpg",
           "title": "Trần Tình Lệnh - The Untamed (2019)",
-          "url": "https://www.fullphimz.net/p/tran-tinh-lenh-tap-1"
+          "url": "https://www.ssphim.net/p/tran-tinh-lenh-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -21280,9 +21219,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641ce9a12fa1_poster-chuyen-tinh-lang-man-cua-ta-va-thieu-gia.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641ce9a12fa1_poster-chuyen-tinh-lang-man-cua-ta-va-thieu-gia.jpg",
           "title": "Chuyện Tình Lãng Mạn Của Ta Và Thiếu Gia",
-          "url": "https://www.fullphimz.net/p/phim-chuyen-tinh-lang-man-cua-ta-va-thieu-gia-tap-1-r2"
+          "url": "https://www.ssphim.net/p/phim-chuyen-tinh-lang-man-cua-ta-va-thieu-gia-tap-1-r2"
         },
         {
           "category": "Phim cổ trang",
@@ -21423,18 +21362,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a2ba12faa_thien-kim-hao-sac-phan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a2ba12faa_thien-kim-hao-sac-phan-2.jpg",
           "title": "Thiên Kim Háo Sắc/ Tuyệt Thế Thiên Kim (Phần 2)",
-          "url": "https://www.fullphimz.net/p/thien-kim-hao-sac-tuyet-the-thien-kim-phan-2-tap-1-r1"
+          "url": "https://www.ssphim.net/p/thien-kim-hao-sac-tuyet-the-thien-kim-phan-2-tap-1-r1"
         },
         {
           "category": "Phim cổ trang",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d38da12fb6_poster-cuoc-song-o-luc-phien-mon-cua-ta.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d38da12fb6_poster-cuoc-song-o-luc-phien-mon-cua-ta.jpg",
           "title": "Cuộc Sống Ở Lục Phiến Môn Của Ta - The Six Gates (2020)",
-          "url": "https://www.fullphimz.net/phim/cuoc-song-o-luc-phien-mon-cua-ta-the-six-gates-2020#"
+          "url": "https://www.ssphim.net/phim/cuoc-song-o-luc-phien-mon-cua-ta-the-six-gates-2020#"
         },
         {
           "category": "Phim tình cảm",
@@ -21620,9 +21557,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640c07a12fb7_poster-co-nang-loi-hai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640c07a12fb7_poster-co-nang-loi-hai.jpg",
           "title": "Cô Nàng Lợi Hại - Dear Missy (2020)",
-          "url": "https://www.fullphimz.net/p/co-nang-loi-hai-dear-missy-2020-tap-1"
+          "url": "https://www.ssphim.net/p/co-nang-loi-hai-dear-missy-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -21783,9 +21720,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6469a1a12fb4_poster-thoi-gian-luong-than-my-canh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6469a1a12fb4_poster-thoi-gian-luong-than-my-canh.jpg",
           "title": "Thời Gian Lương Thần Mỹ Cảnh - Love Scenery (2020)",
-          "url": "https://www.fullphimz.net/p/thoi-gian-luong-than-my-canh-tap-1"
+          "url": "https://www.ssphim.net/p/thoi-gian-luong-than-my-canh-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -21956,9 +21893,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641dfca12fb2_poster-nguoi-thay-y-duc-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641dfca12fb2_poster-nguoi-thay-y-duc-2.jpg",
           "title": "Người Thầy Y Đức (Phần 2) - Dr. Romantic 2 (2020)",
-          "url": "https://www.fullphimz.net/p/nguoi-thay-y-duc-phan-2-tap-1"
+          "url": "https://www.ssphim.net/p/nguoi-thay-y-duc-phan-2-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -22004,9 +21941,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427a5a12f98_poster-trai-tim-chang-kieu-ngao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427a5a12f98_poster-trai-tim-chang-kieu-ngao.jpg",
           "title": "Trái Tim Chàng Kiêu Ngạo - Spark Jai Nai Jom Ying (2020)",
-          "url": "https://www.fullphimz.net/p/trai-tim-chang-kieu-ngao-tap-1"
+          "url": "https://www.ssphim.net/p/trai-tim-chang-kieu-ngao-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -22052,9 +21989,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641d3aa12f8f_poster-the-gioi-khong-loi-thoat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641d3aa12f8f_poster-the-gioi-khong-loi-thoat.jpg",
           "title": "Thế Giới Không Lối Thoát - Alice In Borderland (2020)",
-          "url": "https://www.fullphimz.net/p/the-gioi-khong-loi-thoat-tap-1"
+          "url": "https://www.ssphim.net/p/the-gioi-khong-loi-thoat-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -22140,9 +22077,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642a55a12f73_poster-dien-thi-co-sao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642a55a12f73_poster-dien-thi-co-sao.jpg",
           "title": "Điên Thì Có Sao - It's Okay to Not Be Okay (2020)",
-          "url": "https://www.fullphimz.net/p/dien-thi-co-sao-tap-1"
+          "url": "https://www.ssphim.net/p/dien-thi-co-sao-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -22268,36 +22205,30 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643b5ca12f6d_poster-kich-ban-yeu-duong-cua-nang-va-chang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643b5ca12f6d_poster-kich-ban-yeu-duong-cua-nang-va-chang.jpg",
           "title": "Kịch Bản Yêu Đương Của Nàng Và Chàng - Love Script (2020)",
-          "url": "https://www.fullphimz.net/p/kich-ban-yeu-duong-cua-nang-va-chang-tap-1-r2"
+          "url": "https://www.ssphim.net/p/kich-ban-yeu-duong-cua-nang-va-chang-tap-1-r2"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e385a12f61_poster-sac-xanh-lang-man.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e385a12f61_poster-sac-xanh-lang-man.jpg",
           "title": "Sắc Xanh Lãng Mạn - Romantic Blue (2020)",
-          "url": "https://www.fullphimz.net/phim/sac-xanh-lang-man-romantic-blue-2020#"
+          "url": "https://www.ssphim.net/phim/sac-xanh-lang-man-romantic-blue-2020#"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643bc3a12f58_poster-cuoc-song-vo-hinh.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643bc3a12f58_poster-cuoc-song-vo-hinh.jpg",
           "title": "Cuộc Sống Vô Hình - Invisible Life (2020)",
-          "url": "https://www.fullphimz.net/phim/cuoc-song-vo-hinh-invisible-life-2020#"
+          "url": "https://www.ssphim.net/phim/cuoc-song-vo-hinh-invisible-life-2020#"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cc94a12f65_poster-yeu-phai-nang-meo-tinh.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cc94a12f65_poster-yeu-phai-nang-meo-tinh.jpg",
           "title": "Yêu Phải Nàng Meo Tinh - Falling in Love With Cats (2020)",
-          "url": "https://www.fullphimz.net/phim/yeu-phai-nang-meo-tinh-falling-in-love-with-cats-2020#"
+          "url": "https://www.ssphim.net/phim/yeu-phai-nang-meo-tinh-falling-in-love-with-cats-2020#"
         },
         {
           "category": "Phim tình cảm",
@@ -22443,9 +22374,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640dfaa12f6a_poster-phim-tram-nam-hoa-hop-uoc-dinh-mot-loi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640dfaa12f6a_poster-phim-tram-nam-hoa-hop-uoc-dinh-mot-loi.jpg",
           "title": "Trăm Năm Hòa Hợp, Ước Định Một Lời - Forever Love (2020)",
-          "url": "https://www.fullphimz.net/p/tram-nam-hoa-hop-uoc-dinh-mot-loi-tap-1"
+          "url": "https://www.ssphim.net/p/tram-nam-hoa-hop-uoc-dinh-mot-loi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -22531,9 +22462,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64871fa12f86_poster-tien-boi-dung-danh-mau-son-do.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64871fa12f86_poster-tien-boi-dung-danh-mau-son-do.jpg",
           "title": "Tiền Bối, Đừng Đánh Màu Son Đó",
-          "url": "https://www.fullphimz.net/p/tien-boi-dung-danh-mau-son-do-tap-1"
+          "url": "https://www.ssphim.net/p/tien-boi-dung-danh-mau-son-do-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -22719,9 +22650,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649340a12f7c_poster-chung-cuc-but-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649340a12f7c_poster-chung-cuc-but-ky.jpg",
           "title": "Đạo Mộ Bút Ký: Chung Cực Bút Ký (Ultimate Note 2020)",
-          "url": "https://www.fullphimz.net/p/dao-mo-but-ky-chung-cuc-but-ky-2020-tap-1"
+          "url": "https://www.ssphim.net/p/dao-mo-but-ky-chung-cuc-but-ky-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -22917,9 +22848,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646d7ba12f88_poster-mien-bau-troi-con-co-mat-troi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646d7ba12f88_poster-mien-bau-troi-con-co-mat-troi.jpg",
           "title": "Miễn Bầu Trời Còn Có Mặt Trời - Trab Fah Mee Tawan (2020)",
-          "url": "https://www.fullphimz.net/p/mien-bau-troi-con-co-mat-troi-tap-1"
+          "url": "https://www.ssphim.net/p/mien-bau-troi-con-co-mat-troi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -23095,9 +23026,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6412daa12f57_poster-mat-ma-do-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6412daa12f57_poster-mat-ma-do-ky.jpg",
           "title": "Mật Mã Đố Kỵ (Mật Mã Ghen Tuông)",
-          "url": "https://www.fullphimz.net/p/mat-ma-do-ky-mat-ma-ghen-tuong-tap-1"
+          "url": "https://www.ssphim.net/p/mat-ma-do-ky-mat-ma-ghen-tuong-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -23223,18 +23154,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6452d6a12f52_poster-gui-thoi-thanh-xuan-ngay-tho-tuoi-dep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6452d6a12f52_poster-gui-thoi-thanh-xuan-ngay-tho-tuoi-dep.jpg",
           "title": "Gửi thời thanh xuân ngây thơ tươi đẹp (bản Hàn) - A love so beautiful (2020)",
-          "url": "https://www.fullphimz.net/p/gui-thoi-thanh-xuan-ngay-tho-tuoi-dep-ban-han-tap-1"
+          "url": "https://www.ssphim.net/p/gui-thoi-thanh-xuan-ngay-tho-tuoi-dep-ban-han-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645dbda12f15_poster-cuoc-hon-nhan-bi-mat.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645dbda12f15_poster-cuoc-hon-nhan-bi-mat.jpg",
           "title": "Cuộc Hôn Nhân Bí Mật - Shanai Marriage Honey(2020)",
-          "url": "https://www.fullphimz.net/phim/cuoc-hon-nhan-bi-mat-shanai-marriage-honey-2020#"
+          "url": "https://www.ssphim.net/phim/cuoc-hon-nhan-bi-mat-shanai-marriage-honey-2020#"
         },
         {
           "category": "Phim tình cảm",
@@ -23245,9 +23174,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64158aa12f17_poster-luong-ngon-ta-y.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64158aa12f17_poster-luong-ngon-ta-y.jpg",
           "title": "Lương Ngôn Tả Ý - Lie to Love (2020)",
-          "url": "https://www.fullphimz.net/p/luong-ngon-ta-y-tap-1"
+          "url": "https://www.ssphim.net/p/luong-ngon-ta-y-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -23643,9 +23572,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64617ea12f0e_poster-dai-tan-phu-dai-tan-de-quoc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64617ea12f0e_poster-dai-tan-phu-dai-tan-de-quoc.jpg",
           "title": "Đại Tần Phú/Đại Tần Đế Quốc - The Qin Empire 4 (2020)",
-          "url": "https://www.fullphimz.net/p/dai-tan-phu-dai-tan-de-quoc-phan-4-tap-1"
+          "url": "https://www.ssphim.net/p/dai-tan-phu-dai-tan-de-quoc-phan-4-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -23851,9 +23780,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64608ba12f16_poster-phim-dau-la-dai-luc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64608ba12f16_poster-phim-dau-la-dai-luc.jpg",
           "title": "Đấu La Đại Lục (Tiêu Chiến) - Douluo Continent (2020)",
-          "url": "https://www.fullphimz.net/p/dau-la-dai-luc-2020-tap-1-r1"
+          "url": "https://www.ssphim.net/p/dau-la-dai-luc-2020-tap-1-r1"
         },
         {
           "category": "Phim tình cảm",
@@ -24019,9 +23948,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64651fa12eff_poster-lua-em-cung-tieu-roi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64651fa12eff_poster-lua-em-cung-tieu-roi.jpg",
           "title": "Lừa Em, Cưng Tiêu Rồi - Cheat On Me, If You Can (2020)",
-          "url": "https://www.fullphimz.net/p/lua-em-cung-tieu-roi-tap-1-r2"
+          "url": "https://www.ssphim.net/p/lua-em-cung-tieu-roi-tap-1-r2"
         },
         {
           "category": "Phim cổ trang",
@@ -24227,9 +24156,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645c4ca12efd_poster-song-don-trang-len.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645c4ca12efd_poster-song-don-trang-len.jpg",
           "title": "Sông Đón Trăng Lên - River Where The Moon Rises (2020)",
-          "url": "https://www.fullphimz.net/p/song-don-trang-len-tap-1"
+          "url": "https://www.ssphim.net/p/song-don-trang-len-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -24315,9 +24244,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64430ca12ef5_banner-hush-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64430ca12ef5_banner-hush-2020.jpg",
           "title": "Hush (Sự Yên Lặng Chết Người 2020) (Yoona & Hwang Jung-min)",
-          "url": "https://www.fullphimz.net/p/phim-hush-jtbc-2020-tap-1-yoona-hwang-jung-min"
+          "url": "https://www.ssphim.net/p/phim-hush-jtbc-2020-tap-1-yoona-hwang-jung-min"
         },
         {
           "category": "Phim tình cảm",
@@ -24523,9 +24452,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642207a12ef3_poster-phim-tieu-phong-bao-hoa-hong-thoi-gian.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642207a12ef3_poster-phim-tieu-phong-bao-hoa-hong-thoi-gian.jpg",
           "title": "Tiểu Phong Bạo: Hoa Hồng Thời Gian",
-          "url": "https://www.fullphimz.net/p/tieu-phong-bao-hoa-hong-thoi-gian-tap-1"
+          "url": "https://www.ssphim.net/p/tieu-phong-bao-hoa-hong-thoi-gian-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -24751,9 +24680,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6401eea12edd_poster-phim-bac-si-nhi-khoa-tai-ba.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6401eea12edd_poster-phim-bac-si-nhi-khoa-tai-ba.jpg",
           "title": "Bác Sĩ Nhi Khoa Tài Ba - Healer Of Children (2020)",
-          "url": "https://www.fullphimz.net/p/bac-si-nhi-khoa-tai-ba-tap-1"
+          "url": "https://www.ssphim.net/p/bac-si-nhi-khoa-tai-ba-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -24939,9 +24868,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c968972e897708b48b1cd1_quan-trang-than-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c968972e897708b48b1cd1_quan-trang-than-yeu.jpg",
           "title": "Quân Trang Thân Yêu (Hoàng Cảnh Du & Lý Thấm)",
-          "url": "https://www.fullphimz.net/p/quan-trang-than-yeu-tap-1"
+          "url": "https://www.ssphim.net/p/quan-trang-than-yeu-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -24997,9 +24926,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641b41a12ed9_sweet-home-netflix-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641b41a12ed9_sweet-home-netflix-2020.jpg",
           "title": "Thế Giới Ma Quái (Sweet Home 2020) - Netflix",
-          "url": "https://www.fullphimz.net/p/sweet-home-2020-netflix-tap-1"
+          "url": "https://www.ssphim.net/p/sweet-home-2020-netflix-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -25205,9 +25134,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c3d6a12ef8_poster-chi-vi-phut-giay-duoc-gap-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c3d6a12ef8_poster-chi-vi-phut-giay-duoc-gap-em.jpg",
           "title": "Chỉ Vì Phút Giây Được Gặp Em (Lý Nhất Đồng & Lục Nghi)",
-          "url": "https://www.fullphimz.net/p/chi-vi-phut-giay-duoc-gap-em-tap-1-ly-nhat-dong-luc-nghi"
+          "url": "https://www.ssphim.net/p/chi-vi-phut-giay-duoc-gap-em-tap-1-ly-nhat-dong-luc-nghi"
         },
         {
           "category": "Phim tình cảm",
@@ -25298,9 +25227,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642e91a12ed3_poster-lat-cat-tinh-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642e91a12ed3_poster-lat-cat-tinh-yeu.jpg",
           "title": "Lát Cắt Tình Yêu - Lovestruck in the City (2020)",
-          "url": "https://www.fullphimz.net/p/lat-cat-tinh-yeu-city-couples-way-of-love-tap-1"
+          "url": "https://www.ssphim.net/p/lat-cat-tinh-yeu-city-couples-way-of-love-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -25426,9 +25355,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640bc4a12ed8_poster-khuynh-the-cam-lan-coc-vu-lai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640bc4a12ed8_poster-khuynh-the-cam-lan-coc-vu-lai.jpg",
           "title": "Khuynh Thế Cẩm Lân Cốc Vũ Lai",
-          "url": "https://www.fullphimz.net/p/khuynh-the-cam-lan-coc-vu-lai-tap-1-r1"
+          "url": "https://www.ssphim.net/p/khuynh-the-cam-lan-coc-vu-lai-tap-1-r1"
         },
         {
           "category": "Phim tình cảm",
@@ -25439,9 +25368,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64da84a12ed1_poster-mot-doi-mot-kiep-my-nhan-cot.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64da84a12ed1_poster-mot-doi-mot-kiep-my-nhan-cot.jpg",
           "title": "Một Đời Một Kiếp/ Nhất Sinh Nhất Thế",
-          "url": "https://www.fullphimz.net/p/mot-doi-mot-kiep-my-nhan-cot-tap-1"
+          "url": "https://www.ssphim.net/p/mot-doi-mot-kiep-my-nhan-cot-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -25457,9 +25386,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a4a4a12e9a_poster-quang-thoi-gian-tuoi-dep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a4a4a12e9a_poster-quang-thoi-gian-tuoi-dep.jpg",
           "title": "Quãng Thời Gian Tươi Đẹp - Magic Moment (2020)",
-          "url": "https://www.fullphimz.net/p/quang-thoi-gian-tuoi-dep-tap-1"
+          "url": "https://www.ssphim.net/p/quang-thoi-gian-tuoi-dep-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -25685,9 +25614,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6422b8a12ef1_poster-yeu-tung-centimet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6422b8a12ef1_poster-yeu-tung-centimet.jpg",
           "title": "Yêu Từng Centimet",
-          "url": "https://www.fullphimz.net/p/yeu-tung-centimet-tap-1"
+          "url": "https://www.ssphim.net/p/yeu-tung-centimet-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -25913,18 +25842,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f933a12ea4_poster-so-than-la-em-co-y-quen-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f933a12ea4_poster-so-than-la-em-co-y-quen-anh.jpg",
           "title": "Phim Sơ Thần Là Em Cố Ý Quên Anh",
-          "url": "https://www.fullphimz.net/p/so-than-la-em-co-u-quen-anh-tap-1"
+          "url": "https://www.ssphim.net/p/so-than-la-em-co-u-quen-anh-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6481efa12eab_poster-nam-than-bot-song.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6481efa12eab_poster-nam-than-bot-song.jpg",
           "title": "Nam Thần Bọt Sóng",
-          "url": "https://www.fullphimz.net/phim/nam-than-bot-song#"
+          "url": "https://www.ssphim.net/phim/nam-than-bot-song#"
         },
         {
           "category": "Phim tình cảm",
@@ -26040,9 +25967,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6470dfa12ec4_poster-cong-chua-kho-gan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6470dfa12ec4_poster-cong-chua-kho-gan.jpg",
           "title": "Thái tử phi thăng chức ký (bản Hàn)/Công chúa khó gần (Mr.Queen 2020)",
-          "url": "https://www.fullphimz.net/p/thai-tu-phi-thang-chuc-ky-ban-han-cong-chua-kho-gan-tap-1-mr-queen-2020-r1"
+          "url": "https://www.ssphim.net/p/thai-tu-phi-thang-chuc-ky-ban-han-cong-chua-kho-gan-tap-1-mr-queen-2020-r1"
         },
         {
           "category": "Phim cổ trang",
@@ -26063,9 +25990,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641600a12ec7_poster-cuu-chau-hoc-chau-phu-nhan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641600a12ec7_poster-cuu-chau-hoc-chau-phu-nhan.jpg",
           "title": "Cửu Châu Hộc Châu Phu Nhân",
-          "url": "https://www.fullphimz.net/p/cuu-chau-hoc-chau-phu-nhan-tap-1"
+          "url": "https://www.ssphim.net/p/cuu-chau-hoc-chau-phu-nhan-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -26311,9 +26238,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f3c5a12eb5_poster-tan-ban-sinh-duyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f3c5a12eb5_poster-tan-ban-sinh-duyen.jpg",
           "title": "Tân Bán Sinh Duyên (2020)",
-          "url": "https://www.fullphimz.net/p/tan-ban-sinh-duyen-tap-1"
+          "url": "https://www.ssphim.net/p/tan-ban-sinh-duyen-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -26399,9 +26326,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643481a12ea3_poster-thanh-tra-hoang-gia-bi-mat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643481a12ea3_poster-thanh-tra-hoang-gia-bi-mat.jpg",
           "title": "Thanh Tra Hoàng Gia Bí Mật (New Secret Royal Inspector 2020)",
-          "url": "https://www.fullphimz.net/p/thanh-tra-hoang-gia-bi-mat-tap-1"
+          "url": "https://www.ssphim.net/p/thanh-tra-hoang-gia-bi-mat-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -26487,9 +26414,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647197a12f67_poster-buoc-chay-toi-trai-tim.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647197a12f67_poster-buoc-chay-toi-trai-tim.jpg",
           "title": "Bước Chạy Tới Trái Tim - Run On (2020)",
-          "url": "https://www.fullphimz.net/p/phim-han-run-on-jtbc-2020-tap-1"
+          "url": "https://www.ssphim.net/p/phim-han-run-on-jtbc-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -26695,9 +26622,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647ef5a12e91_poster-buoi-gap-go-dau-tien-phut-chia-ly-cuoi-cung.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647ef5a12e91_poster-buoi-gap-go-dau-tien-phut-chia-ly-cuoi-cung.jpg",
           "title": "Buổi Gặp Gỡ Đầu Tiên, Phút Chia Ly Cuối Cùng - Love and Lost (2020)",
-          "url": "https://www.fullphimz.net/p/buoi-gap-go-dau-tien-phut-chia-ly-cuoi-cung-tap-1"
+          "url": "https://www.ssphim.net/p/buoi-gap-go-dau-tien-phut-chia-ly-cuoi-cung-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -26948,9 +26875,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c4aba12e98_poster-lang-dien-ha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c4aba12e98_poster-lang-dien-ha.jpg",
           "title": "Lang Điện Hạ - The Wolf (2020)",
-          "url": "https://www.fullphimz.net/p/lang-dien-ha-tap-1"
+          "url": "https://www.ssphim.net/p/lang-dien-ha-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -27136,9 +27063,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64acbea12e72_poster-tho-san-tam-trach.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64acbea12e72_poster-tho-san-tam-trach.jpg",
           "title": "Thợ Săn Tâm Trạch - Psych-Hunter (2020)",
-          "url": "https://www.fullphimz.net/p/tho-san-tam-trach-tap-1"
+          "url": "https://www.ssphim.net/p/tho-san-tam-trach-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -27274,9 +27201,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427c1a12e65_poster-toi-co-kha-nang-giao-tiep-dac-biet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427c1a12e65_poster-toi-co-kha-nang-giao-tiep-dac-biet.jpg",
           "title": "Tôi Có Khả Năng Giao Tiếp Đặc Biệt",
-          "url": "https://www.fullphimz.net/p/toi-co-kha-nang-giao-tiep-dac-biet-tap-1"
+          "url": "https://www.ssphim.net/p/toi-co-kha-nang-giao-tiep-dac-biet-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -27402,9 +27329,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643fc0a12e63_banner-rat-muon-o-ben-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643fc0a12e63_banner-rat-muon-o-ben-anh.jpg",
           "title": "Rất Muốn Ở Bên Anh - Be With You (2020)",
-          "url": "https://www.fullphimz.net/p/rat-muon-o-ben-anh-be-with-you-2020-tap-1"
+          "url": "https://www.ssphim.net/p/rat-muon-o-ben-anh-be-with-you-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -27415,9 +27342,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6401a1a12e69_poster-du-sinh-xin-chi-giao-nhieu-hon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6401a1a12e69_poster-du-sinh-xin-chi-giao-nhieu-hon.jpg",
           "title": "Dư Sinh Xin Chỉ Giáo Nhiều Hơn/ Quãng Đời Còn Lại Xin Chỉ Giáo Nhiều Hơn",
-          "url": "https://www.fullphimz.net/p/du-sinh-xin-chi-giao-nhieu-hon-tap-1"
+          "url": "https://www.ssphim.net/p/du-sinh-xin-chi-giao-nhieu-hon-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -27473,9 +27400,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647814a12e6a_phim-poster-ong-chong-noi-tro.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647814a12e6a_phim-poster-ong-chong-noi-tro.jpg",
           "title": "Ông Chồng Nội Trợ (Đạo Làm Chồng Đảm)",
-          "url": "https://www.fullphimz.net/p/ong-chong-noi-tro-dao-lam-chong-dam-tap-1"
+          "url": "https://www.ssphim.net/p/ong-chong-noi-tro-dao-lam-chong-dam-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -27561,9 +27488,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647385a12e88_poster-bo-dem-ky-la.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647385a12e88_poster-bo-dem-ky-la.jpg",
           "title": "Bộ Đếm Kỳ Lạ - The Uncanny Counter (2020)",
-          "url": "https://www.fullphimz.net/p/bo-dem-ky-la-tap-1"
+          "url": "https://www.ssphim.net/p/bo-dem-ky-la-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -27579,9 +27506,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645dbfa12e61_poster-thoi-dai-dep-nhat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645dbfa12e61_poster-thoi-dai-dep-nhat.jpg",
           "title": "Thời Đại Đẹp Nhất - The Best Of Times (2020)",
-          "url": "https://www.fullphimz.net/p/thoi-dai-dep-nhat-tap-1"
+          "url": "https://www.ssphim.net/p/thoi-dai-dep-nhat-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -27747,18 +27674,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6417eda12e6c_poster-thap-nhi-dam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6417eda12e6c_poster-thap-nhi-dam.jpg",
           "title": "Thập Nhị Đàm - Twelve Legends 2021 (Cổ Lực Na Trát)",
-          "url": "https://www.fullphimz.net/p/thap-nhi-dam-tap-1"
+          "url": "https://www.ssphim.net/p/thap-nhi-dam-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6438f1a12e7e_nguoi-mandalore-phan-2.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6438f1a12e7e_nguoi-mandalore-phan-2.jpg",
           "title": "Người Mandalore (Phần 2)",
-          "url": "https://www.fullphimz.net/phim/nguoi-mandalore-phan-2-r2#"
+          "url": "https://www.ssphim.net/phim/nguoi-mandalore-phan-2-r2#"
         },
         {
           "category": "Phim tình cảm",
@@ -27884,9 +27809,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d41ea12e79_poster-nguoi-tinh-vuot-thoi-gian.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d41ea12e79_poster-nguoi-tinh-vuot-thoi-gian.jpg",
           "title": "Người Tình Vượt Thời Gian - Oh My Drama Lover (2020)",
-          "url": "https://www.fullphimz.net/p/nguoi-tinh-vuot-thoi-gian-tap-1"
+          "url": "https://www.ssphim.net/p/nguoi-tinh-vuot-thoi-gian-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -28117,9 +28042,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648ceda12e56_poster-loc-dinh-ky-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648ceda12e56_poster-loc-dinh-ky-2020.jpg",
           "title": "Lộc Đỉnh Ký (2020)",
-          "url": "https://www.fullphimz.net/p/loc-dinh-ky-2020-tap-1"
+          "url": "https://www.ssphim.net/p/loc-dinh-ky-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -28165,9 +28090,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6468b6a12e37_poster-live-on-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6468b6a12e37_poster-live-on-2020.jpg",
           "title": "Live On - 2020 (Ký Ức Tuổi 18)",
-          "url": "https://www.fullphimz.net/p/live-on-2020-tap-1-r1"
+          "url": "https://www.ssphim.net/p/live-on-2020-tap-1-r1"
         },
         {
           "category": "Phim tình cảm",
@@ -28243,9 +28168,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645fcda12bc1_poster-30-tuoi-van-con-zin-se-bien-thanh-phu-thuy.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645fcda12bc1_poster-30-tuoi-van-con-zin-se-bien-thanh-phu-thuy.jpg",
           "title": "30 Tuổi Vẫn Còn Zin Sẽ Biến Thành Phù Thủy",
-          "url": "https://www.fullphimz.net/p/30-tuoi-van-con-zin-se-bien-thanh-phu-thuy-tap-1"
+          "url": "https://www.ssphim.net/p/30-tuoi-van-con-zin-se-bien-thanh-phu-thuy-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -28506,9 +28431,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645cb9a12b8e_poster-bi-mat-vi-dai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645cb9a12b8e_poster-bi-mat-vi-dai.jpg",
           "title": "Bí Mật Vĩ Đại - Fearless Whispers (2019)",
-          "url": "https://www.fullphimz.net/p/bi-mat-vi-dai-tap-1"
+          "url": "https://www.ssphim.net/p/bi-mat-vi-dai-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -28579,9 +28504,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ef7da12d38_poster-song-yeu-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ef7da12d38_poster-song-yeu-ky.jpg",
           "title": "Song Yểu Ký - The Silent Criminal (2020)",
-          "url": "https://www.fullphimz.net/p/song-yeu-ky-tap-1"
+          "url": "https://www.ssphim.net/p/song-yeu-ky-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -28802,9 +28727,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64677aa12d05_poster-kim-tich-ha-tich.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64677aa12d05_poster-kim-tich-ha-tich.jpg",
           "title": "Kim Tịch Hà Tịch",
-          "url": "https://www.fullphimz.net/p/kim-tich-ha-tich-tap-1"
+          "url": "https://www.ssphim.net/p/kim-tich-ha-tich-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -28890,18 +28815,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646bf0a12c06_em-dep-nhat-la-khi-mim-cuoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646bf0a12c06_em-dep-nhat-la-khi-mim-cuoi.jpg",
           "title": "Em Đẹp Nhất Là Khi Mỉm Cười (Khi Em Mỉm Cười Rất Đẹp)",
-          "url": "https://www.fullphimz.net/p/em-dep-nhat-la-khi-mim-cuoi-tap-1"
+          "url": "https://www.ssphim.net/p/em-dep-nhat-la-khi-mim-cuoi-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64645fa12bf3_true-beauty.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64645fa12bf3_true-beauty.jpg",
           "title": "True Beauty (Vẻ Đẹp Đích Thực 2020)",
-          "url": "https://www.fullphimz.net/phim/phim-true-beauty-ve-dep-dich-thuc-r6#"
+          "url": "https://www.ssphim.net/phim/phim-true-beauty-ve-dep-dich-thuc-r6#"
         },
         {
           "category": "Phim tình cảm",
@@ -28987,9 +28910,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64eafea12bef_poster-tra-thu-get-revegene-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64eafea12bef_poster-tra-thu-get-revegene-2020.jpg",
           "title": "Trả Thù - Get Revenge 2020",
-          "url": "https://www.fullphimz.net/p/tra-thu-get-revenge-2020-tap-1"
+          "url": "https://www.ssphim.net/p/tra-thu-get-revenge-2020-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -29075,18 +28998,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646d21a12b39_poster-awaken.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646d21a12b39_poster-awaken.jpg",
           "title": "Thức Tỉnh - Awaken (2020)",
-          "url": "https://www.fullphimz.net/p/thuc-tinh-awaken-2020-tap-1"
+          "url": "https://www.ssphim.net/p/thuc-tinh-awaken-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d42aa12bec_poster-mon-no-danh-du.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d42aa12bec_poster-mon-no-danh-du.jpg",
           "title": "Món Nợ Danh Dự - Nee Kiattiyoth (2020)",
-          "url": "https://www.fullphimz.net/phim/mon-no-danh-du-nee-kiattiyoth-2020#"
+          "url": "https://www.ssphim.net/phim/mon-no-danh-du-nee-kiattiyoth-2020#"
         },
         {
           "category": "Phim tình cảm",
@@ -29192,9 +29113,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647f41a12be9_poster-xin-dung-gap-anh-ay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647f41a12be9_poster-xin-dung-gap-anh-ay.jpg",
           "title": "Xin Đừng Gặp Anh Ấy - Please Don't Date Him (2020)",
-          "url": "https://www.fullphimz.net/p/xin-dung-gap-anh-ay-tap-1"
+          "url": "https://www.ssphim.net/p/xin-dung-gap-anh-ay-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -29320,9 +29241,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64128da12ae4_poster-xem-ra-em-rat-ngot-ngao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64128da12ae4_poster-xem-ra-em-rat-ngot-ngao.jpg",
           "title": "Xem Ra Em Rất Ngọt Ngào - You Are So Sweet (2020)",
-          "url": "https://www.fullphimz.net/p/xem-ra-em-rat-ngot-ngao-tap-1"
+          "url": "https://www.ssphim.net/p/xem-ra-em-rat-ngot-ngao-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -29448,9 +29369,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64720da128f7_poster-pha-ken.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64720da128f7_poster-pha-ken.jpg",
           "title": "Phá Kén (Insect Detective 2020)",
-          "url": "https://www.fullphimz.net/p/pha-ken-tap-1"
+          "url": "https://www.ssphim.net/p/pha-ken-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -29556,18 +29477,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642d53a127f8_poster-bo-doi-cong-ly.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642d53a127f8_poster-bo-doi-cong-ly.jpeg",
           "title": "Bộ Đôi Công Lý - Phi Long (Delayed Justice - Fly Dragon 2020)",
-          "url": "https://www.fullphimz.net/p/bo-doi-cong-ly-phi-long-tap-1"
+          "url": "https://www.ssphim.net/p/bo-doi-cong-ly-phi-long-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cfd0a127be_poster-tinh-co-yeu-em.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cfd0a127be_poster-tinh-co-yeu-em.jpg",
           "title": "Tình Cờ Yêu Em - I Fell in Love By Accident (2020)",
-          "url": "https://www.fullphimz.net/phim/tinh-co-yeu-em-i-fell-in-love-by-accident-2020-r1#"
+          "url": "https://www.ssphim.net/phim/tinh-co-yeu-em-i-fell-in-love-by-accident-2020-r1#"
         },
         {
           "category": "Phim phiêu lưu",
@@ -29753,18 +29672,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e192a12a7e_poster-ky-hon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e192a12a7e_poster-ky-hon.jpg",
           "title": "Kỳ Hồn - Hikaru no Go (2020)",
-          "url": "https://www.fullphimz.net/p/ky-hon-hikaru-no-go-2020-tap-1"
+          "url": "https://www.ssphim.net/p/ky-hon-hikaru-no-go-2020-tap-1"
         },
         {
           "category": "Hài Hước",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64381da129a1_lop-ca-biet-2020_1594037919.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64381da129a1_lop-ca-biet-2020_1594037919.jpg",
           "title": "Lớp Cá Biệt - The Underclass (2020)",
-          "url": "https://www.fullphimz.net/phim/lop-ca-biet-the-underclass-2020#"
+          "url": "https://www.ssphim.net/phim/lop-ca-biet-the-underclass-2020#"
         },
         {
           "category": "Phim tình cảm",
@@ -30005,9 +29922,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646850a129c3_poster-thanh-xuan-sang-the-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646850a129c3_poster-thanh-xuan-sang-the-ky.jpg",
           "title": "Thanh Xuân Sáng Thế Kỷ - Something Just Like This (2020)",
-          "url": "https://www.fullphimz.net/p/thanh-xuan-sang-the-ky-tap-1"
+          "url": "https://www.ssphim.net/p/thanh-xuan-sang-the-ky-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -30053,18 +29970,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64aaf3a127bb_chung-ta-mat-tri-roi-2020_1599753167.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64aaf3a127bb_chung-ta-mat-tri-roi-2020_1599753167.jpg",
           "title": "Chúng Ta Mất Trí Rồi - Watadou (2020)",
-          "url": "https://www.fullphimz.net/p/chung-ta-mat-tri-roi-watashitachi-wa-douka-shiteiru-2020-tap-1"
+          "url": "https://www.ssphim.net/p/chung-ta-mat-tri-roi-watashitachi-wa-douka-shiteiru-2020-tap-1"
         },
         {
           "category": "Phim hành động",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64997ca127b9_anh-hung-phuong-bac-2020_1603517485.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64997ca127b9_anh-hung-phuong-bac-2020_1603517485.jpg",
           "title": "Anh Hùng Phương Bắc - The Snow Queen (2020)",
-          "url": "https://www.fullphimz.net/phim/anh-hung-phuong-bac-the-snow-queen-2020#"
+          "url": "https://www.ssphim.net/phim/anh-hung-phuong-bac-the-snow-queen-2020#"
         },
         {
           "category": "Phim cổ trang",
@@ -30310,9 +30225,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643fd7a127b7_yen-van-dai-2020_1604400471.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643fd7a127b7_yen-van-dai-2020_1604400471.jpg",
           "title": "Yến Vân Đài - The Legend of Xiao Chuo (2020)",
-          "url": "https://www.fullphimz.net/p/yen-van-dai-the-legend-of-xiao-chuo-2020-tap-1"
+          "url": "https://www.ssphim.net/p/yen-van-dai-the-legend-of-xiao-chuo-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -30398,9 +30313,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643ba2a12919_51c6DDgNwOL.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643ba2a12919_51c6DDgNwOL.jpg",
           "title": "Hạ Cánh Nơi Anh - Crash Landing On You",
-          "url": "https://www.fullphimz.net/p/ha-canh-noi-anh-tap-1"
+          "url": "https://www.ssphim.net/p/ha-canh-noi-anh-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -30581,9 +30496,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b26ea128b3_poster-chung-ta-bat-dau-yeu-sau-khi-cuoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b26ea128b3_poster-chung-ta-bat-dau-yeu-sau-khi-cuoi.jpg",
           "title": "Chúng Ta Bắt Đầu Yêu Sau Khi Cưới",
-          "url": "https://www.fullphimz.net/p/chung-ta-bat-dau-yeu-sau-khi-cuoi-tap-1"
+          "url": "https://www.ssphim.net/p/chung-ta-bat-dau-yeu-sau-khi-cuoi-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -30719,9 +30634,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64613fa128c4_poster-than-tham-tu-truyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64613fa128c4_poster-than-tham-tu-truyen.jpg",
           "title": "Thần Thám Tự Truyện (Detective 2020)",
-          "url": "https://www.fullphimz.net/p/than-tham-tu-truyen-tap-1"
+          "url": "https://www.ssphim.net/p/than-tham-tu-truyen-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -30827,9 +30742,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6405d9a1281a_poster-thien-tuan-gia.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6405d9a1281a_poster-thien-tuan-gia.jpg",
           "title": "Thiên Tuần Giả",
-          "url": "https://www.fullphimz.net/p/thien-tuan-gia-tap-1"
+          "url": "https://www.ssphim.net/p/thien-tuan-gia-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -30840,9 +30755,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642651a129f6_poster-ke-hoach-nguon-nhip-tim.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642651a129f6_poster-ke-hoach-nguon-nhip-tim.jpg",
           "title": "Kế Hoạch Nguồn Nhịp Tim",
-          "url": "https://www.fullphimz.net/p/ke-hoach-nguon-nhip-tim-tap-1"
+          "url": "https://www.ssphim.net/p/ke-hoach-nguon-nhip-tim-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -30888,9 +30803,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cefba128d5_poster-tap-tanh-lam-me.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cefba128d5_poster-tap-tanh-lam-me.jpg",
           "title": "Tập Tành Làm Mẹ - Birthcare Center (2020)",
-          "url": "https://www.fullphimz.net/p/tap-tanh-lam-me-birthcare-center-2020-tap-1"
+          "url": "https://www.ssphim.net/p/tap-tanh-lam-me-birthcare-center-2020-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -31006,9 +30921,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f129a1283c_poster-thien-co-quyet-tran.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f129a1283c_poster-thien-co-quyet-tran.jpg",
           "title": "Thiên Cổ Quyết Trần",
-          "url": "https://www.fullphimz.net/p/thien-co-quyet-tran-tap-1"
+          "url": "https://www.ssphim.net/p/thien-co-quyet-tran-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -31199,9 +31114,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a01a127a8_poster-pho-ma-duong-than-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a01a127a8_poster-pho-ma-duong-than-yeu.jpg",
           "title": "Phố Ma Dương Thân Yêu - Dear Mayang Street (2020)",
-          "url": "https://www.fullphimz.net/p/pho-ma-duong-than-yeu-tap-1"
+          "url": "https://www.ssphim.net/p/pho-ma-duong-than-yeu-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -31427,9 +31342,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645649a12791_poster-nhu-y-phuong-phi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645649a12791_poster-nhu-y-phuong-phi.jpg",
           "title": "Như Ý Phương Phi (Cúc Tịnh Y & Trương Triết Hạn)",
-          "url": "https://www.fullphimz.net/p/nhu-u-phuong-phi-tap-1"
+          "url": "https://www.ssphim.net/p/nhu-u-phuong-phi-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -31615,9 +31530,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647954a12786_poster-cuu-luu-ba-chu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647954a12786_poster-cuu-luu-ba-chu.jpg",
           "title": "Cửu Lưu Bá Chủ - Jiu Liu Overlord (2020)",
-          "url": "https://www.fullphimz.net/p/cuu-luu-ba-chu-tap-1"
+          "url": "https://www.ssphim.net/p/cuu-luu-ba-chu-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -31633,9 +31548,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6444e1a1279d_poster-nu-cuoi-cua-em-nhu-keo-ngot.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6444e1a1279d_poster-nu-cuoi-cua-em-nhu-keo-ngot.jpg",
           "title": "Nụ Cười Của Em Tựa Như Kẹo Ngọt",
-          "url": "https://www.fullphimz.net/p/nu-cuoi-cua-em-tua-nhu-keo-ngot-tap-1"
+          "url": "https://www.ssphim.net/p/nu-cuoi-cua-em-tua-nhu-keo-ngot-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -31761,9 +31676,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64895fa12795_poster-toi-doc-than-dua-vao-thuc-luc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64895fa12795_poster-toi-doc-than-dua-vao-thuc-luc.jpg",
           "title": "Tôi Độc Thân Dựa Vào Thực Lực",
-          "url": "https://www.fullphimz.net/p/toi-doc-than-dua-vao-thuc-luc-tap-1"
+          "url": "https://www.ssphim.net/p/toi-doc-than-dua-vao-thuc-luc-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -31819,9 +31734,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d27aa1278c_poster-search-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d27aa1278c_poster-search-2020.jpg",
           "title": "Truy Tìm - Search 2020 (Krystal - Jang Dong Yoon)",
-          "url": "https://www.fullphimz.net/p/truy-tim-search-2020-tap-1"
+          "url": "https://www.ssphim.net/p/truy-tim-search-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -32027,9 +31942,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c874a12796_poster-huong-ve-mat-troi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c874a12796_poster-huong-ve-mat-troi.jpg",
           "title": "Hướng Về Mặt Trời - Living Toward The Sun (2020)",
-          "url": "https://www.fullphimz.net/p/huong-ve-mat-troi-living-toward-the-sun-2020-tap-1"
+          "url": "https://www.ssphim.net/p/huong-ve-mat-troi-living-toward-the-sun-2020-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -32320,9 +32235,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640d35a12790_poster-xa-thu-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640d35a12790_poster-xa-thu-2020.jpg",
           "title": "Xạ Thủ - Sniper (2020)",
-          "url": "https://www.fullphimz.net/p/xa-thu-sniper-2020-tap-1"
+          "url": "https://www.ssphim.net/p/xa-thu-sniper-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -32488,9 +32403,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e04a1276f_poster-kairos.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e04a1276f_poster-kairos.jpg",
           "title": "Phim Hàn Kairos 2020 - (Shin Sung-Rok & Lee Se-Young)",
-          "url": "https://www.fullphimz.net/p/phim-han-kairos-2020-tap-1"
+          "url": "https://www.ssphim.net/p/phim-han-kairos-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -32576,9 +32491,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647205a12794_poster-yeu-chang-diep-vien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647205a12794_poster-yeu-chang-diep-vien.jpg",
           "title": "Phim Hàn Yêu Chàng Điệp Viên (Chàng Điệp Viên Tôi Yêu)",
-          "url": "https://www.fullphimz.net/p/yeu-chang-diep-vien-chang-diep-vien-toi-yeu-tap-1"
+          "url": "https://www.ssphim.net/p/yeu-chang-diep-vien-chang-diep-vien-toi-yeu-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -32724,18 +32639,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b06da12772_poster-cam-on-vi-da-de-anh-gap-duoc-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b06da12772_poster-cam-on-vi-da-de-anh-gap-duoc-em.jpg",
           "title": "Cảm Ơn Vì Đã Để Anh Gặp Được Em",
-          "url": "https://www.fullphimz.net/p/cam-on-vi-da-de-anh-gap-duoc-em-tap-1"
+          "url": "https://www.ssphim.net/p/cam-on-vi-da-de-anh-gap-duoc-em-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b8ada1276a_poster-lan-dau-du-dua.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b8ada1276a_poster-lan-dau-du-dua.jpg",
           "title": "Lần Đầu Đu Đưa (Single & Ready to Mingle 2020)",
-          "url": "https://www.fullphimz.net/phim/lan-dau-du-dua-single-ready-to-mingle-2020#"
+          "url": "https://www.ssphim.net/phim/lan-dau-du-dua-single-ready-to-mingle-2020#"
         },
         {
           "category": "Phim tình cảm",
@@ -32851,9 +32764,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648c29a127b5_poster-Penthouse.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648c29a127b5_poster-Penthouse.jpg",
           "title": "Penthouse: Cuộc Chiến Thượng Lưu (Phần 1)",
-          "url": "https://www.fullphimz.net/p/penthouse-cuoc-chien-thuong-luu-tap-1-r2"
+          "url": "https://www.ssphim.net/p/penthouse-cuoc-chien-thuong-luu-tap-1-r2"
         },
         {
           "category": "Phim hoạt hình",
@@ -32919,9 +32832,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a2b3a12738_poster-toan-chuc-cao-thu-phan-2-2020.jpeg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a2b3a12738_poster-toan-chuc-cao-thu-phan-2-2020.jpeg",
           "title": "Toàn Chức Cao Thủ (phần 2) - The King's Avatar 2 (2020)",
-          "url": "https://www.fullphimz.net/p/toan-chuc-cao-thu-phan-2-tap-1"
+          "url": "https://www.ssphim.net/p/toan-chuc-cao-thu-phan-2-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -32932,9 +32845,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640009a12f21_poster-kinh-song-thanh-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640009a12f21_poster-kinh-song-thanh-2020.jpg",
           "title": "Kính Song Thành 2020 (Lý Dịch Phong & Trần Ngọc Kỳ)",
-          "url": "https://www.fullphimz.net/p/kinh-song-thanh-2020-tap-1-ly-dich-phong-tran-ngoc-ky"
+          "url": "https://www.ssphim.net/p/kinh-song-thanh-2020-tap-1-ly-dich-phong-tran-ngoc-ky"
         },
         {
           "category": "Phim tình cảm",
@@ -33020,9 +32933,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6465e4a1274d_poster-start-up-2020.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6465e4a1274d_poster-start-up-2020.jpg",
           "title": "Phim Start-Up (Khởi Nghiệp 2020) (Suzy và Nam Joo-hyuk)",
-          "url": "https://www.fullphimz.net/p/phim-han-startup-2020-drama-tap-1"
+          "url": "https://www.ssphim.net/p/phim-han-startup-2020-drama-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -33253,9 +33166,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640b19a12734_poster-neu-em-binh-an-do-moi-la-ngay-dep-troi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640b19a12734_poster-neu-em-binh-an-do-moi-la-ngay-dep-troi.jpg",
           "title": "Nếu Em Bình An Đó Mới Là Ngày Đẹp Trời",
-          "url": "https://www.fullphimz.net/p/neu-em-binh-an-do-moi-la-ngay-dep-troi-tap-1"
+          "url": "https://www.ssphim.net/p/neu-em-binh-an-do-moi-la-ngay-dep-troi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -33461,9 +33374,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64bff7a12749_poster-bao-phong-nhan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64bff7a12749_poster-bao-phong-nhan.jpg",
           "title": "Bạo Phong Nhãn (Storm Eye 2020)",
-          "url": "https://www.fullphimz.net/p/bao-phong-nhan-storm-eye-2020-tap-1"
+          "url": "https://www.ssphim.net/p/bao-phong-nhan-storm-eye-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -33549,9 +33462,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64001da12744_poster-doi-song-rieng-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64001da12744_poster-doi-song-rieng-tu.jpg",
           "title": "Phim Hàn Đời Sống Riêng Tư (Đời Tư) | Seohyun - Go Kyung Pyo",
-          "url": "https://www.fullphimz.net/p/doi-song-rieng-tu-tap-1"
+          "url": "https://www.ssphim.net/p/doi-song-rieng-tu-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -33707,9 +33620,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64206fa12756_poster-tieu-nuong-tu-nha-tuong-quan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64206fa12756_poster-tieu-nuong-tu-nha-tuong-quan.jpg",
           "title": "Tiểu Nương Tử Nhà Tướng Quân",
-          "url": "https://www.fullphimz.net/p/tieu-nuong-tu-nha-tuong-quan-tap-1"
+          "url": "https://www.ssphim.net/p/tieu-nuong-tu-nha-tuong-quan-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -33835,9 +33748,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648592a12732_poster-thanh-mai-xung-doi-truc-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648592a12732_poster-thanh-mai-xung-doi-truc-ma.jpg",
           "title": "Thanh Mai Xứng Đôi Trúc Mã",
-          "url": "https://www.fullphimz.net/p/thanh-mai-xung-doi-truc-ma-tap-1"
+          "url": "https://www.ssphim.net/p/thanh-mai-xung-doi-truc-ma-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -33923,9 +33836,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f0e8a12742_poster-do-do-sol-sol-la-la-sol.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f0e8a12742_poster-do-do-sol-sol-la-la-sol.jpg",
           "title": "Giai Điệu Lãng Mạn (Do Do Sol Sol La La Sol)",
-          "url": "https://www.fullphimz.net/p/giai-dieu-lang-man-do-do-sol-sol-la-la-sol-tap-1"
+          "url": "https://www.ssphim.net/p/giai-dieu-lang-man-do-do-sol-sol-la-la-sol-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -34016,9 +33929,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643002a12762_poste-chinh-thucr-ban-trai-toi-la-ho-ly.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643002a12762_poste-chinh-thucr-ban-trai-toi-la-ho-ly.jpg",
           "title": "Bạn Trai Tôi Là Hồ Ly (Cửu Vĩ Hồ Truyện)",
-          "url": "https://www.fullphimz.net/p/ban-trai-toi-la-ho-ly-cuu-vi-ho-truyen-tap-1-r1"
+          "url": "https://www.ssphim.net/p/ban-trai-toi-la-ho-ly-cuu-vi-ho-truyen-tap-1-r1"
         },
         {
           "category": "Phim tình cảm",
@@ -34144,9 +34057,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646f44a126fb_poster-thuc-tap-sinh-khach-san.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646f44a126fb_poster-thuc-tap-sinh-khach-san.jpg",
           "title": "Phim Thực Tập Sinh Khách Sạn (Hotel Trainees 2020)",
-          "url": "https://www.fullphimz.net/p/phim-thuc-tap-sinh-khach-san-tap-1"
+          "url": "https://www.ssphim.net/p/phim-thuc-tap-sinh-khach-san-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -34232,9 +34145,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a383a126f3_poster-nguoi-vo-nguy-hiem-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a383a126f3_poster-nguoi-vo-nguy-hiem-cua-toi.jpg",
           "title": "Người Vợ Nguy Hiểm Của Tôi",
-          "url": "https://www.fullphimz.net/p/nguoi-vo-nguy-hiem-cua-toi-tap-1"
+          "url": "https://www.ssphim.net/p/nguoi-vo-nguy-hiem-cua-toi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -34340,18 +34253,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6484fba1270a_poster-bac-si-xu-la.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6484fba1270a_poster-bac-si-xu-la.jpg",
           "title": "Bác Sĩ Xứ Lạ (Doctor Stranger 2014)",
-          "url": "https://www.fullphimz.net/p/bac-si-xu-la-doctor-stranger-2014-tap-1"
+          "url": "https://www.ssphim.net/p/bac-si-xu-la-doctor-stranger-2014-tap-1"
         },
         {
           "category": "Phim tình cảm",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64bd2fa126ec_poster-sat-canh-ben-nhau-2020.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64bd2fa126ec_poster-sat-canh-ben-nhau-2020.jpg",
           "title": "Sát Cánh Bên Nhau 2020 (Vũ Hán Covid-19)",
-          "url": "https://www.fullphimz.net/phim/sat-canh-ben-nhau-2020-vu-han-covid-19#"
+          "url": "https://www.ssphim.net/phim/sat-canh-ben-nhau-2020-vu-han-covid-19#"
         },
         {
           "category": "Phim tình cảm",
@@ -34477,9 +34388,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64458ea12726_poster-quy-ong-hoan-hao-va-co-nang-tam-duoc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64458ea12726_poster-quy-ong-hoan-hao-va-co-nang-tam-duoc.jpg",
           "title": "Quý Ông Hoàn Hảo Và Cô Nàng Tạm Được",
-          "url": "https://www.fullphimz.net/p/quy-ong-hoan-hao-va-co-nang-tam-duoc-tap-1"
+          "url": "https://www.ssphim.net/p/quy-ong-hoan-hao-va-co-nang-tam-duoc-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -34790,9 +34701,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6055f37527a0dd558b9f7971_poster-dai-tong-cung-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6055f37527a0dd558b9f7971_poster-dai-tong-cung-tu.jpg",
           "title": "Đại Tống Cung Từ",
-          "url": "https://www.fullphimz.net/p/dai-tong-cung-tu-tap-1"
+          "url": "https://www.ssphim.net/p/dai-tong-cung-tu-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -34998,9 +34909,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64542ea12717_poster-phu-the-song-kieu-truyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64542ea12717_poster-phu-the-song-kieu-truyen.jpg",
           "title": "Phù Thế Song Kiều Truyện (Thập Quốc Thiên Kiều)",
-          "url": "https://www.fullphimz.net/p/phu-the-song-kieu-truyen-thap-quoc-thien-kieu-tap-1"
+          "url": "https://www.ssphim.net/p/phu-the-song-kieu-truyen-thap-quoc-thien-kieu-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -35046,9 +34957,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b3d4a12701_poster-sieu-anh-hung-pha-hoai-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b3d4a12701_poster-sieu-anh-hung-pha-hoai-2.jpg",
           "title": "Siêu Anh Hùng Phá Hoại 2 (The Boy 2)",
-          "url": "https://www.fullphimz.net/p/sieu-anh-hung-pha-hoai-2-the-boy-2-tap-1"
+          "url": "https://www.ssphim.net/p/sieu-anh-hung-pha-hoai-2-the-boy-2-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -35134,9 +35045,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d2c4a126f0_poster-bau-troi-cua-thieu-nien-phong-khuyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d2c4a126f0_poster-bau-troi-cua-thieu-nien-phong-khuyen.jpg",
           "title": "Bầu Trời Của Thiếu Niên Phong Khuyển",
-          "url": "https://www.fullphimz.net/p/bau-troi-cua-thieu-nien-phong-khuyen-tap-1"
+          "url": "https://www.ssphim.net/p/bau-troi-cua-thieu-nien-phong-khuyen-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -35222,9 +35133,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6485c6a12706_poster-hon-ca-tinh-ban.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6485c6a12706_poster-hon-ca-tinh-ban.jpg",
           "title": "Hơn Cả Tình Bạn (More Than Friends 2020)",
-          "url": "https://www.fullphimz.net/p/hon-ca-tinh-ban-more-than-friends-2020-tap-1"
+          "url": "https://www.ssphim.net/p/hon-ca-tinh-ban-more-than-friends-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -35350,9 +35261,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6436d4a126e2_poster-uoc-dinh-thoi-gian-yeu-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6436d4a126e2_poster-uoc-dinh-thoi-gian-yeu-em.jpg",
           "title": "Ước Định Thời Gian Yêu Em",
-          "url": "https://www.fullphimz.net/p/uoc-dinh-thoi-gian-yeu-em-tap-1"
+          "url": "https://www.ssphim.net/p/uoc-dinh-thoi-gian-yeu-em-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -35478,9 +35389,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b13fa126e9_poster-yeu-nhau-di-thuc-mong-quan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b13fa126e9_poster-yeu-nhau-di-thuc-mong-quan.jpg",
           "title": "Yêu Nhau Đi, Thực Mộng Quân",
-          "url": "https://www.fullphimz.net/p/yeu-nhau-di-thuc-mong-quan-tap-1"
+          "url": "https://www.ssphim.net/p/yeu-nhau-di-thuc-mong-quan-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -35546,9 +35457,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646b08a125e0_poster-tham-tu-zombie.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646b08a125e0_poster-tham-tu-zombie.jpg",
           "title": "Thám Tử Zombie (Thanh Tra Xác Sống)",
-          "url": "https://www.fullphimz.net/p/tham-tu-zombie-tap-1"
+          "url": "https://www.ssphim.net/p/tham-tu-zombie-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -35634,9 +35545,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f411a12437_poster-tro-lai-tuoi-18.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f411a12437_poster-tro-lai-tuoi-18.jpg",
           "title": "Trở Lại Tuổi 18 (18 Again 2020)",
-          "url": "https://www.fullphimz.net/p/tro-lai-tuoi-18-18-again-2020-tap-1"
+          "url": "https://www.ssphim.net/p/tro-lai-tuoi-18-18-again-2020-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -35822,9 +35733,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649ddda1259c_poster-phuong-le-cuu-thien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649ddda1259c_poster-phuong-le-cuu-thien.jpg",
           "title": "Phượng Lệ Cửu Thiên",
-          "url": "https://www.fullphimz.net/p/phuong-le-cuu-thien-tap-1"
+          "url": "https://www.ssphim.net/p/phuong-le-cuu-thien-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -35950,9 +35861,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a517a126e7_poster-tran-thien-thien-trong-loi-don-phan-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a517a126e7_poster-tran-thien-thien-trong-loi-don-phan-1.jpg",
           "title": "Trần Thiên Thiên Trong Lời Đồn [Phần 1]",
-          "url": "https://www.fullphimz.net/p/tran-thien-thien-trong-loi-don-phan-1-tap-1"
+          "url": "https://www.ssphim.net/p/tran-thien-thien-trong-loi-don-phan-1-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -36103,9 +36014,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6490baa1246a_poster-lay-long-hoa-su.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6490baa1246a_poster-lay-long-hoa-su.jpg",
           "title": "Lấy Lòng Hoạ Sư (Nữ Họa Sư Đáng Yêu)",
-          "url": "https://www.fullphimz.net/p/lay-long-hoa-su-nu-hoa-su-dang-yeu-tap-1"
+          "url": "https://www.ssphim.net/p/lay-long-hoa-su-nu-hoa-su-dang-yeu-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -36231,9 +36142,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e3d7a123d1_poster-moi-tinh-dau-nhieu-nam-nhu-the.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e3d7a123d1_poster-moi-tinh-dau-nhieu-nam-nhu-the.jpg",
           "title": "Mối Tình Đầu Nhiều Năm Như Thế",
-          "url": "https://www.fullphimz.net/p/moi-tinh-dau-nhieu-nam-nhu-the-tap-1"
+          "url": "https://www.ssphim.net/p/moi-tinh-dau-nhieu-nam-nhu-the-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -36359,9 +36270,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642deea12316_poster-khoanh-khac-rung-dong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642deea12316_poster-khoanh-khac-rung-dong.jpg",
           "title": "Khoảnh Khắc Rung Động - Sparkle Love (2020)",
-          "url": "https://www.fullphimz.net/p/khoanh-khac-rung-dong-tap-1"
+          "url": "https://www.ssphim.net/p/khoanh-khac-rung-dong-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -36487,9 +36398,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6432a5a122a3_poster-yeu-em-tu-da-day.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6432a5a122a3_poster-yeu-em-tu-da-day.jpg",
           "title": "Yêu Em Từ Dạ Dày",
-          "url": "https://www.fullphimz.net/p/yeu-em-tu-da-day-tap-1"
+          "url": "https://www.ssphim.net/p/yeu-em-tu-da-day-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -36560,9 +36471,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6443b4a122ac_poster-nang-luc-troi-ban-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6443b4a122ac_poster-nang-luc-troi-ban-2.jpg",
           "title": "Năng Lực Trời Ban [Phần 2]",
-          "url": "https://www.fullphimz.net/p/nang-luc-troi-ban-phan-2-tap-1"
+          "url": "https://www.ssphim.net/p/nang-luc-troi-ban-phan-2-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -36648,9 +36559,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a223a12292_poster-ngan-loi-noi-doi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a223a12292_poster-ngan-loi-noi-doi.jpg",
           "title": "Ngàn Lời Nói Dối | Lies Of Lies (2020)",
-          "url": "https://www.fullphimz.net/p/phim-ngan-loi-noi-doi-lies-of-lies-2020-tap-1"
+          "url": "https://www.ssphim.net/p/phim-ngan-loi-noi-doi-lies-of-lies-2020-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -36706,9 +36617,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640ec5a12297_poster-duoc-nuoi-boi-nguoi-soi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640ec5a12297_poster-duoc-nuoi-boi-nguoi-soi.jpg",
           "title": "Được Nuôi Bởi Người Sói [Phần 1]",
-          "url": "https://www.fullphimz.net/p/duoc-nuoi-boi-nguoi-soi-phan-1-tap-1"
+          "url": "https://www.ssphim.net/p/duoc-nuoi-boi-nguoi-soi-phan-1-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -36894,9 +36805,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640214a12327_poster-review-nua-la-duong-mat-nua-la-dau-thuong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640214a12327_poster-review-nua-la-duong-mat-nua-la-dau-thuong.jpg",
           "title": "Phim Nửa Là Đường Mật, Nửa Là Đau Thương",
-          "url": "https://www.fullphimz.net/p/nua-la-duong-mat-nua-la-dau-thuong-tap-1"
+          "url": "https://www.ssphim.net/p/nua-la-duong-mat-nua-la-dau-thuong-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -37077,9 +36988,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649862a1235a_poster-review-ba-lan-treu-gheo-long-quan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649862a1235a_poster-review-ba-lan-treu-gheo-long-quan.jpg",
           "title": "Ba Lần Gả Trêu Ghẹo Lòng Quân",
-          "url": "https://www.fullphimz.net/p/ba-lan-ga-treu-gheo-long-quan-tap-1"
+          "url": "https://www.ssphim.net/p/ba-lan-ga-treu-gheo-long-quan-tap-1"
         },
         {
           "category": "Phim cổ trang",
@@ -37365,9 +37276,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6461e6a122b4_poster-review-truong-an-nac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6461e6a122b4_poster-review-truong-an-nac.jpg",
           "title": "Trường An Nặc",
-          "url": "https://www.fullphimz.net/p/truong-an-nac-tap-1"
+          "url": "https://www.ssphim.net/p/truong-an-nac-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -37533,9 +37444,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427f7a122b2_poster-review-xu-so-alice-kim-hee-sun.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427f7a122b2_poster-review-xu-so-alice-kim-hee-sun.jpg",
           "title": "Phim Hàn Xứ Sở Alice | Joo Won - Kim Hee Sun",
-          "url": "https://www.fullphimz.net/p/xu-so-alice-tap-1-r2"
+          "url": "https://www.ssphim.net/p/xu-so-alice-tap-1-r2"
         },
         {
           "category": "Phim tình cảm",
@@ -37741,9 +37652,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642188a122a0_poster-thanh-thanh-tu-kham.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642188a122a0_poster-thanh-thanh-tu-kham.jpg",
           "title": "Thanh Thanh Tử Khâm",
-          "url": "https://www.fullphimz.net/p/thanh-thanh-tu-kham-tap-1"
+          "url": "https://www.ssphim.net/p/thanh-thanh-tu-kham-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -38004,9 +37915,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649394a12273_poster-huu-phi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649394a12273_poster-huu-phi.jpg",
           "title": "Hữu Phỉ - Legend of Fei",
-          "url": "https://www.fullphimz.net/p/huu-phi-tap-1"
+          "url": "https://www.ssphim.net/p/huu-phi-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -38172,9 +38083,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6412a3a12262_poster-anh-co-thich-brahms.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6412a3a12262_poster-anh-co-thich-brahms.jpg",
           "title": "Anh Có Thích Brahms?",
-          "url": "https://www.fullphimz.net/p/anh-co-thich-brahms-tap-1-r1"
+          "url": "https://www.ssphim.net/p/anh-co-thich-brahms-tap-1-r1"
         },
         {
           "category": "Phim tình cảm",
@@ -38230,9 +38141,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c097a1225e_poster-khong-thich-hen-ho-nhung-so-co-don.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c097a1225e_poster-khong-thich-hen-ho-nhung-so-co-don.jpg",
           "title": "Không Thích Hẹn Hò Nhưng Sợ Cô Đơn",
-          "url": "https://www.fullphimz.net/p/khong-thich-hen-ho-nhung-so-co-don-tap-1"
+          "url": "https://www.ssphim.net/p/khong-thich-hen-ho-nhung-so-co-don-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -38388,9 +38299,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648550a12247_poster-cach-mang-tinh-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648550a12247_poster-cach-mang-tinh-yeu.jpg",
           "title": "Cách Mạng Tình Yêu 2020",
-          "url": "https://www.fullphimz.net/p/cach-mang-tinh-yeu-2020-tap-1"
+          "url": "https://www.ssphim.net/p/cach-mang-tinh-yeu-2020-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -38476,9 +38387,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646937a12246_poster-khi-em-dep-nhat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646937a12246_poster-khi-em-dep-nhat.jpg",
           "title": "Khi Em Đẹp Nhất",
-          "url": "https://www.fullphimz.net/p/khi-em-dep-nhat-tap-1"
+          "url": "https://www.ssphim.net/p/khi-em-dep-nhat-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -38564,9 +38475,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642a1ea1224f_poster-chung-ta-dang-yeu-nhu-the.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642a1ea1224f_poster-chung-ta-dang-yeu-nhu-the.jpg",
           "title": "Chúng Ta Đáng Yêu Như Thế",
-          "url": "https://www.fullphimz.net/p/chung-ta-dang-yeu-nhu-the-tap-1"
+          "url": "https://www.ssphim.net/p/chung-ta-dang-yeu-nhu-the-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -38692,9 +38603,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ebb9a1224d_poster-em-den-cung-mua-he.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ebb9a1224d_poster-em-den-cung-mua-he.jpg",
           "title": "Em Đến Cùng Mùa Hè",
-          "url": "https://www.fullphimz.net/p/em-den-cung-mua-he-tap-1"
+          "url": "https://www.ssphim.net/p/em-den-cung-mua-he-tap-1"
         },
         {
           "category": "Phim hành động",
@@ -38860,9 +38771,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640093a12248_poster-thieu-nu-dai-nhan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640093a12248_poster-thieu-nu-dai-nhan.jpg",
           "title": "Thiếu Nữ Đại Nhân",
-          "url": "https://www.fullphimz.net/p/thieu-nu-dai-nhan-tap-1"
+          "url": "https://www.ssphim.net/p/thieu-nu-dai-nhan-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -38988,9 +38899,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644982a12251_thieu-nu-mang-khoi-giap-poster.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644982a12251_thieu-nu-mang-khoi-giap-poster.jpg",
           "title": "Thiếu Nữ Mang Khôi Giáp",
-          "url": "https://www.fullphimz.net/p/thieu-nu-mang-khoi-giap-tap-1"
+          "url": "https://www.ssphim.net/p/thieu-nu-mang-khoi-giap-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -39176,9 +39087,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643c49a12220_poster-thu-sinh-xinh-dep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643c49a12220_poster-thu-sinh-xinh-dep.jpg",
           "title": "Thư Sinh Xinh Đẹp",
-          "url": "https://www.fullphimz.net/p/thu-sinh-xinh-dep-tap-1"
+          "url": "https://www.ssphim.net/p/thu-sinh-xinh-dep-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -39479,9 +39390,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c506a12210_poster-luu-ly-my-nhan-sat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c506a12210_poster-luu-ly-my-nhan-sat.jpg",
           "title": "Lưu Ly Mỹ Nhân Sát",
-          "url": "https://www.fullphimz.net/p/luu-ly-my-nhan-sat-tap-1"
+          "url": "https://www.ssphim.net/p/luu-ly-my-nhan-sat-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -39667,9 +39578,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646cc7a1220d_poster-ly-nhan-tam-thuong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646cc7a1220d_poster-ly-nhan-tam-thuong.jpg",
           "title": "Ly Nhân Tâm Thượng",
-          "url": "https://www.fullphimz.net/p/ly-nhan-tam-thuong-tap-1"
+          "url": "https://www.ssphim.net/p/ly-nhan-tam-thuong-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -39875,9 +39786,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e4ba12217_poster-lay-danh-nghia-nguoi-nha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e4ba12217_poster-lay-danh-nghia-nguoi-nha.jpg",
           "title": "Lấy Danh Nghĩa Người Nhà",
-          "url": "https://www.fullphimz.net/p/lay-danh-nghia-nguoi-nha-tap-1"
+          "url": "https://www.ssphim.net/p/lay-danh-nghia-nguoi-nha-tap-1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -39963,9 +39874,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64185aa11dcc_poster-the-100.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64185aa11dcc_poster-the-100.jpg",
           "title": "The 100 Season 7",
-          "url": "https://www.fullphimz.net/p/the-100-phan-7-tap-1"
+          "url": "https://www.ssphim.net/p/the-100-phan-7-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -40051,9 +39962,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6404e0a12243_poster-phim-record-of-youth.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6404e0a12243_poster-phim-record-of-youth.jpg",
           "title": "Record Of Youth: Ký Sự Thanh Xuân",
-          "url": "https://www.fullphimz.net/p/record-of-youth-ki-su-thanh-xuan-tap-1"
+          "url": "https://www.ssphim.net/p/record-of-youth-ki-su-thanh-xuan-tap-1"
         }
       ],
       "phimle": [
@@ -40065,9 +39976,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c2c95a395ca20c35574f9b_truong-bach-thai-tue.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c2c95a395ca20c35574f9b_truong-bach-thai-tue.jpg",
           "title": "Trường Bạch: Thái Tuế - Legend Of Snake 2 Tai Sui ",
-          "url": "https://www.fullphimz.net/p/xem-phim-truong-bach-thai-tue-legend-of-snake-2-tai-sui"
+          "url": "https://www.ssphim.net/p/xem-phim-truong-bach-thai-tue-legend-of-snake-2-tai-sui"
         },
         {
           "category": "Phim kinh dị",
@@ -40077,9 +39988,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c2315e8071871c9ecde8d7_thuc-tinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c2315e8071871c9ecde8d7_thuc-tinh.jpg",
           "title": "Thức Giấc - Awake ",
-          "url": "https://www.fullphimz.net/p/xem-phim-thuc-giac-awake"
+          "url": "https://www.ssphim.net/p/xem-phim-thuc-giac-awake"
         },
         {
           "category": "Phim cổ trang",
@@ -40089,9 +40000,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c1d42a65f2e34d789b3f46_anh-hung-xa-dieu-truyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c1d42a65f2e34d789b3f46_anh-hung-xa-dieu-truyen.jpg",
           "title": "Anh Hùng Xạ Điêu Truyện: Cửu Âm Bạch Cốt Trảo - The Legend of the Condor Heroes: The Cadaverous Claws ",
-          "url": "https://www.fullphimz.net/p/xem-phim-anh-hung-xa-dieu-truyen-cuu-am-bach-cot-trao-the-legend-of-the-condor-heroes-the-cadaverous-claws"
+          "url": "https://www.ssphim.net/p/xem-phim-anh-hung-xa-dieu-truyen-cuu-am-bach-cot-trao-the-legend-of-the-condor-heroes-the-cadaverous-claws"
         },
         {
           "category": "Phim tình cảm",
@@ -40101,9 +40012,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c0de02d066b12ac2ab4720_khu-rung-bi-an.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c0de02d066b12ac2ab4720_khu-rung-bi-an.jpg",
           "title": "Khu Rừng Bi Thảm - Tragic Jungle",
-          "url": "https://www.fullphimz.net/p/xem-phim-khu-rung-bi-tham-tragic-jungle"
+          "url": "https://www.ssphim.net/p/xem-phim-khu-rung-bi-tham-tragic-jungle"
         },
         {
           "category": "Phim hoạt hình",
@@ -40113,9 +40024,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c0c882a12fa216b99bdc57_ga-tay-me-quay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c0c882a12fa216b99bdc57_ga-tay-me-quay.jpg",
           "title": "Turu: Gà Tây Mê Quẩy - Turu: The Wacky Hen",
-          "url": "https://www.fullphimz.net/p/xem-phim-turu-ga-tay-me-quay-turu-the-wacky-hen"
+          "url": "https://www.ssphim.net/p/xem-phim-turu-ga-tay-me-quay-turu-the-wacky-hen"
         },
         {
           "category": "Phim hoạt hình",
@@ -40125,9 +40036,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c080a0b70d4883e0864cbe_oi-troi-oi-chuyen-phieu-luu-day-thu-vi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c080a0b70d4883e0864cbe_oi-troi-oi-chuyen-phieu-luu-day-thu-vi.jpg",
           "title": "Ối Trời Ơi Chuyến Phiêu Lưu Đầy Thú Vị - Ooops The Adventure Continues",
-          "url": "https://www.fullphimz.net/p/xem-phim-oi-troi-oi-chuyen-phieu-luu-day-thu-vi-ooops-the-adventure-continues"
+          "url": "https://www.ssphim.net/p/xem-phim-oi-troi-oi-chuyen-phieu-luu-day-thu-vi-ooops-the-adventure-continues"
         },
         {
           "category": "Phim hoạt hình",
@@ -40137,9 +40048,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60c040fc591ad5ebf8a1beab_thuyen-truong-rang-kiem-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60c040fc591ad5ebf8a1beab_thuyen-truong-rang-kiem-1.jpg",
           "title": "Thuyền Trưởng Răng Kiếm Và Viên Kim Cương Ma Thuật - Captain Sabertooth And The Magic Diamond ",
-          "url": "https://www.fullphimz.net/p/xem-phim-thuyen-truong-rang-kiem-va-vien-kim-cuong-ma-thuat-captain-sabertooth-and-the-magic-diamond"
+          "url": "https://www.ssphim.net/p/xem-phim-thuyen-truong-rang-kiem-va-vien-kim-cuong-ma-thuat-captain-sabertooth-and-the-magic-diamond"
         },
         {
           "category": "Phim cổ trang",
@@ -40149,9 +40060,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bf7ac993512533e96afe8c_mo-hoang-bi-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bf7ac993512533e96afe8c_mo-hoang-bi-tu.jpg",
           "title": "Mộ Hoàng Bì Tử - The Tomb Of Weasel",
-          "url": "https://www.fullphimz.net/p/xem-phim-mo-hoang-bi-tu-the-tomb-of-weasel"
+          "url": "https://www.ssphim.net/p/xem-phim-mo-hoang-bi-tu-the-tomb-of-weasel"
         },
         {
           "category": "Phim cổ trang",
@@ -40161,9 +40072,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bef33caeaea56ee6af300b_cuoc-chien-trieu-dai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bef33caeaea56ee6af300b_cuoc-chien-trieu-dai.jpg",
           "title": "Cuộc Chiến Triều Đại - Dynasty Warriors: Destiny Of An Emperor",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-chien-trieu-dai-dynasty-warriors-destiny-of-an-emperor"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-chien-trieu-dai-dynasty-warriors-destiny-of-an-emperor"
         },
         {
           "category": "Phim cổ trang",
@@ -40173,9 +40084,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60be1b3df8630066b5efe24f_cuu-mon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60be1b3df8630066b5efe24f_cuu-mon.jpg",
           "title": "Cửu Môn - The Mystic Nine",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuu-mon-the-mystic-nine"
+          "url": "https://www.ssphim.net/p/xem-phim-cuu-mon-the-mystic-nine"
         },
         {
           "category": "Phim tình cảm",
@@ -40185,9 +40096,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bd99c3db9f9757c789ee6a_nu-hoang-khieu-vu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bd99c3db9f9757c789ee6a_nu-hoang-khieu-vu.jpg",
           "title": "Nữ Hoàng Khiêu Vũ - Dancing Queen",
-          "url": "https://www.fullphimz.net/p/xem-phim-nu-hoang-khieu-vu-dancing-queen"
+          "url": "https://www.ssphim.net/p/xem-phim-nu-hoang-khieu-vu-dancing-queen"
         },
         {
           "category": "Phim cổ trang",
@@ -40197,9 +40108,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bc956422d37e5e09f39185_am-duong-my-nhan-quan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bc956422d37e5e09f39185_am-duong-my-nhan-quan.jpg",
           "title": "Âm Dương Mỹ Nhân Quan - A Sleeping Princess",
-          "url": "https://www.fullphimz.net/p/xem-phim-am-duong-my-nhan-quan-a-sleeping-princess"
+          "url": "https://www.ssphim.net/p/xem-phim-am-duong-my-nhan-quan-a-sleeping-princess"
         },
         {
           "category": "Phim tình cảm",
@@ -40209,9 +40120,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bb8a884b12fd23b6e67f21_sat-canh-cung-nhau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bb8a884b12fd23b6e67f21_sat-canh-cung-nhau.jpg",
           "title": "Sát Cánh Cùng Nhau - Together Together ",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-canh-cung-nhau-together-together"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-canh-cung-nhau-together-together"
         },
         {
           "category": "Phim hành động",
@@ -40221,9 +40132,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bb747ec8fb527b16726596_bang-dang-bao-den.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bb747ec8fb527b16726596_bang-dang-bao-den.jpg",
           "title": "Băng Đảng Báo Đen - Judas And The Black Messiah",
-          "url": "https://www.fullphimz.net/p/xem-phim-bang-dang-bao-den-judas-and-the-black-messiah"
+          "url": "https://www.ssphim.net/p/xem-phim-bang-dang-bao-den-judas-and-the-black-messiah"
         },
         {
           "category": "Phim kinh dị",
@@ -40233,9 +40144,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bb3cd385affb3c07a0259e_giac-mo-thanh-su-that.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bb3cd385affb3c07a0259e_giac-mo-thanh-su-that.jpg",
           "title": "Come True - Giấc Mơ Thành Sự Thật",
-          "url": "https://www.fullphimz.net/p/xem-phim-come-true-giac-mo-thanh-su-that"
+          "url": "https://www.ssphim.net/p/xem-phim-come-true-giac-mo-thanh-su-that"
         },
         {
           "category": "Phim hành động",
@@ -40245,9 +40156,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bb2e9c9af7e772ec10bb7b_vo-gian-phong-bao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bb2e9c9af7e772ec10bb7b_vo-gian-phong-bao.jpg",
           "title": "Vô Gian Phong Bão - Infernal Storm",
-          "url": "https://www.fullphimz.net/p/xem-phim-vo-gian-phong-bao-infernal-storm"
+          "url": "https://www.ssphim.net/p/xem-phim-vo-gian-phong-bao-infernal-storm"
         },
         {
           "category": "Phim tình cảm",
@@ -40257,9 +40168,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bafb6a0a96ea64eefdc401_chua-va-ngot.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bafb6a0a96ea64eefdc401_chua-va-ngot.jpg",
           "title": "Chua Và Ngọt - Sweet And Sour",
-          "url": "https://www.fullphimz.net/p/xem-phim-chua-va-ngot-sweet-and-sour"
+          "url": "https://www.ssphim.net/p/xem-phim-chua-va-ngot-sweet-and-sour"
         },
         {
           "category": "Phim hành động",
@@ -40269,9 +40180,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ba2b3f72fa0d642952c04e_xtreme.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ba2b3f72fa0d642952c04e_xtreme.jpg",
           "title": "Anh Em Đối Đầu - Xtreme",
-          "url": "https://www.fullphimz.net/p/xem-phim-anh-em-doi-dau-xtreme"
+          "url": "https://www.ssphim.net/p/xem-phim-anh-em-doi-dau-xtreme"
         },
         {
           "category": "Phim tình cảm",
@@ -40281,9 +40192,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b9a2c76c289d9d3af4dab7_le-hoi-hoa-trang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b9a2c76c289d9d3af4dab7_le-hoi-hoa-trang.jpg",
           "title": "Lễ Hội Hóa Trang - Carnaval",
-          "url": "https://www.fullphimz.net/p/xem-phim-le-hoi-hoa-trang-carnaval"
+          "url": "https://www.ssphim.net/p/xem-phim-le-hoi-hoa-trang-carnaval"
         },
         {
           "category": "Phim tình cảm",
@@ -40293,9 +40204,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b8f69cde2d605ba0a32fc3_taking-chance.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b8f69cde2d605ba0a32fc3_taking-chance.jpg",
           "title": "Cuộc Chiến Cho Người Ở Lại - Taking Chance",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-chien-cho-nguoi-o-lai-taking-chance"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-chien-cho-nguoi-o-lai-taking-chance"
         },
         {
           "category": "Phim kinh dị",
@@ -40305,9 +40216,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b840fc97220dc491d90bba_spiral.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b840fc97220dc491d90bba_spiral.jpg",
           "title": "Lưỡi Cưa 9 - Spiral: From the Book Of Saw",
-          "url": "https://www.fullphimz.net/p/xem-phim-luoi-cua-9-spiral-from-the-book-of-saw"
+          "url": "https://www.ssphim.net/p/xem-phim-luoi-cua-9-spiral-from-the-book-of-saw"
         },
         {
           "category": "Phim kinh dị",
@@ -40317,9 +40228,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b6fa0a84c7d873b4a74c04_trieu-hoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b6fa0a84c7d873b4a74c04_trieu-hoi.jpg",
           "title": "Triệu Hồi - Recalled",
-          "url": "https://www.fullphimz.net/p/xem-phim-trieu-hoi-recalled"
+          "url": "https://www.ssphim.net/p/xem-phim-trieu-hoi-recalled"
         },
         {
           "category": "Phim hành động",
@@ -40329,9 +40240,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b4f2b84fa833e168296590_vuot-qua-bong-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b4f2b84fa833e168296590_vuot-qua-bong-toi.jpg",
           "title": "Vượt Qua Bóng Tối - Break Through The Darkness",
-          "url": "https://www.fullphimz.net/p/xem-phim-vuot-qua-bong-toi-break-through-the-darkness"
+          "url": "https://www.ssphim.net/p/xem-phim-vuot-qua-bong-toi-break-through-the-darkness"
         },
         {
           "category": "Phim cổ trang",
@@ -40341,9 +40252,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b214fd44e8ba6fa6a0d544_trai-tim-sung-phi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b214fd44e8ba6fa6a0d544_trai-tim-sung-phi.jpg",
           "title": "Trái Tim Hoàng Phi - Queen Of My Heart",
-          "url": "https://www.fullphimz.net/p/xem-phim-trai-tim-hoang-phi-queen-of-my-heart"
+          "url": "https://www.ssphim.net/p/xem-phim-trai-tim-hoang-phi-queen-of-my-heart"
         },
         {
           "category": "Phim hành động",
@@ -40353,9 +40264,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b20f82acfa90bf473104c7_ke-dua-tin.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b20f82acfa90bf473104c7_ke-dua-tin.jpg",
           "title": "Người Đưa Tin - The Courier (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-dua-tin-the-courier-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-dua-tin-the-courier-2021"
         },
         {
           "category": "Phim hành động",
@@ -40365,9 +40276,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b0e9800566f4edc91a048c_con-thinh-no-chet-nguoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b0e9800566f4edc91a048c_con-thinh-no-chet-nguoi.jpg",
           "title": "Cơn Thịnh Nộ Chết Người - Wrath Of Man (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-con-thinh-no-chet-nguoi-wrath-of-man-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-con-thinh-no-chet-nguoi-wrath-of-man-2021"
         },
         {
           "category": "Phim tình cảm",
@@ -40377,9 +40288,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b070ea812fb09e25c4fafe_ky-tich-bien-xanh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b070ea812fb09e25c4fafe_ky-tich-bien-xanh.jpg",
           "title": "Kỳ Tích Biển Xanh - Blue Miracle (2021) ",
-          "url": "https://www.fullphimz.net/p/xem-phim-ky-tich-bien-xanh-blue-miracle-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-ky-tich-bien-xanh-blue-miracle-2021"
         },
         {
           "category": "Phim tình cảm",
@@ -40389,9 +40300,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60afc144b7cfcfa17716c727_diem-diem-mat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60afc144b7cfcfa17716c727_diem-diem-mat.jpg",
           "title": "Điềm Mật Mật - Comrades: Almost A Love Story",
-          "url": "https://www.fullphimz.net/p/xem-phim-diem-mat-mat-comrades-almost-a-love-story"
+          "url": "https://www.ssphim.net/p/xem-phim-diem-mat-mat-comrades-almost-a-love-story"
         },
         {
           "category": "Phim hành động",
@@ -40401,9 +40312,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60af9b04586e00751f577ec8_ki-si-co-doc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60af9b04586e00751f577ec8_ki-si-co-doc.jpg",
           "title": "Kỵ Sĩ Cô Độc - The Lone Ranger",
-          "url": "https://www.fullphimz.net/p/xem-phim-ky-si-co-doc-the-lone-ranger"
+          "url": "https://www.ssphim.net/p/xem-phim-ky-si-co-doc-the-lone-ranger"
         },
         {
           "category": "Phim hành động",
@@ -40413,9 +40324,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60af636beaecf79f7f20f05a_david-coland.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60af636beaecf79f7f20f05a_david-coland.jpg",
           "title": "David Copeland: Kẻ Đánh Bom Ở Đỉnh London - Nail Bomber: Manhunt",
-          "url": "https://www.fullphimz.net/p/xem-phim-david-copeland-ke-danh-bom-o-dinh-london-nail-bomber-manhunt"
+          "url": "https://www.ssphim.net/p/xem-phim-david-copeland-ke-danh-bom-o-dinh-london-nail-bomber-manhunt"
         },
         {
           "category": "Phim hành động",
@@ -40425,9 +40336,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60af1754e3f55c698ac62572_phong-thi-nghiem-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60af1754e3f55c698ac62572_phong-thi-nghiem-ma.jpg",
           "title": "Phòng Thí Nghiệm Ma - Ghost Lab",
-          "url": "https://www.fullphimz.net/p/xem-phim-phong-thi-nghiem-ma-ghost-lab"
+          "url": "https://www.ssphim.net/p/xem-phim-phong-thi-nghiem-ma-ghost-lab"
         },
         {
           "category": "Phim tình cảm",
@@ -40437,9 +40348,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ae70496ba92d56a37270f8_horizone-line.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ae70496ba92d56a37270f8_horizone-line.jpg",
           "title": "Vùng Trời Tử Thần - Horizon Line",
-          "url": "https://www.fullphimz.net/p/xem-phim-vung-troi-tu-than-horizon-line"
+          "url": "https://www.ssphim.net/p/xem-phim-vung-troi-tu-than-horizon-line"
         },
         {
           "category": "Phim hoạt hình",
@@ -40449,9 +40360,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ae4b6d9704d7665b3e7ec5_maya-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ae4b6d9704d7665b3e7ec5_maya-3.jpg",
           "title": "Ong Nhí Phiêu Lưu Ký: Giải Cứu Công Chúa Kiến - Maya The Bee 3: The Golden Orb",
-          "url": "https://www.fullphimz.net/p/xem-phim-ong-nhi-phieu-luu-ky-giai-cuu-cong-chua-kien-maya-the-bee-3-the-golden-orb"
+          "url": "https://www.ssphim.net/p/xem-phim-ong-nhi-phieu-luu-ky-giai-cuu-cong-chua-kien-maya-the-bee-3-the-golden-orb"
         },
         {
           "category": "Phim hành động",
@@ -40461,9 +40372,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ae1ab88e9ecf83be125a5c_voyager.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ae1ab88e9ecf83be125a5c_voyager.jpg",
           "title": "Bản Năng Hoang Dại - Voyagers",
-          "url": "https://www.fullphimz.net/p/xem-phim-ban-nang-hoang-dai-voyagers"
+          "url": "https://www.ssphim.net/p/xem-phim-ban-nang-hoang-dai-voyagers"
         },
         {
           "category": "Phim hành động",
@@ -40473,9 +40384,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ad05af3fdcae449f323286_sat-thu-ho-mong-diep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ad05af3fdcae449f323286_sat-thu-ho-mong-diep.jpg",
           "title": "Sát Thủ Hồ Điệp Mộng - My Heart Is That Eternal Rose",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-ho-diep-mong-my-heart-is-that-eternal-rose"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-ho-diep-mong-my-heart-is-that-eternal-rose"
         },
         {
           "category": "Phim hành động",
@@ -40485,9 +40396,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ac7e8f0bc71016b18af98e_dai-dich-thay-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ac7e8f0bc71016b18af98e_dai-dich-thay-ma.jpg",
           "title": "Đại Dịch Thây Ma - The Plague (2006)",
-          "url": "https://www.fullphimz.net/p/xem-phim-dai-dich-thay-ma-the-plague-2006"
+          "url": "https://www.ssphim.net/p/xem-phim-dai-dich-thay-ma-the-plague-2006"
         },
         {
           "category": "Phim hành động",
@@ -40497,9 +40408,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60ab292ff4b70120fa7ff8e0_sat-thu-tu-than.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60ab292ff4b70120fa7ff8e0_sat-thu-tu-than.jpg",
           "title": "Sát Thủ Tử Thần - 492: A Man Called Death",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-tu-than-492-a-man-called-death"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-tu-than-492-a-man-called-death"
         },
         {
           "category": "Phim hành động",
@@ -40509,9 +40420,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60aa6d1bc867f60d34550acb_ban-gai-toi-la-nguoi-may.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60aa6d1bc867f60d34550acb_ban-gai-toi-la-nguoi-may.jpg",
           "title": "Bạn Gái Tôi Là Người Máy - Yes, I Do (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-ban-gai-toi-la-nguoi-may-yes-i-do-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-ban-gai-toi-la-nguoi-may-yes-i-do-2020"
         },
         {
           "category": "Phim hành động",
@@ -40521,9 +40432,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60aa5c63cccaa52b21382f75_nu-hoang-kungfu-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60aa5c63cccaa52b21382f75_nu-hoang-kungfu-2.jpg",
           "title": "Nữ Hoàng Võ Thuật 2 - The Queen Of KungFu 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-nu-hoang-vo-thuat-2-the-queen-of-kungfu-2"
+          "url": "https://www.ssphim.net/p/xem-phim-nu-hoang-vo-thuat-2-the-queen-of-kungfu-2"
         },
         {
           "category": "Phim tình cảm",
@@ -40533,9 +40444,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60aa2c13f22ce96c2f9f4392_nguyet-ban-alice.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60aa2c13f22ce96c2f9f4392_nguyet-ban-alice.jpg",
           "title": "Nguyệt Bán Alice - Oversize Love (2020) ",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguyet-ban-alice-oversize-love-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-nguyet-ban-alice-oversize-love-2020"
         },
         {
           "category": "Phim hoạt hình",
@@ -40545,9 +40456,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60aa1b15088d1832cfdc172d_hoi-tu-phap.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60aa1b15088d1832cfdc172d_hoi-tu-phap.jpg",
           "title": "Hội Tư Pháp: Thế Chiến Thứ 2 - Justice Society: World War II ",
-          "url": "https://www.fullphimz.net/p/xem-phim-hoi-tu-phap-the-chien-thu-2-justice-society-world-war-ii"
+          "url": "https://www.ssphim.net/p/xem-phim-hoi-tu-phap-the-chien-thu-2-justice-society-world-war-ii"
         },
         {
           "category": "Phim tình cảm",
@@ -40557,9 +40468,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a90f162e639a61e61ca1b9_thien-duong-cua-truong-vong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a90f162e639a61e61ca1b9_thien-duong-cua-truong-vong.jpg",
           "title": "Thiên Đường Của Trương Vọng - I Hope You Are Well",
-          "url": "https://www.fullphimz.net/p/xem-phim-thien-duong-cua-truong-vong-i-hope-you-are-well"
+          "url": "https://www.ssphim.net/p/xem-phim-thien-duong-cua-truong-vong-i-hope-you-are-well"
         },
         {
           "category": "Phim hành động",
@@ -40569,9 +40480,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a87c3d2e639acca1cff388_ke-nguyen-ta-chet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a87c3d2e639acca1cff388_ke-nguyen-ta-chet.jpg",
           "title": "Kẻ Nguyền Ta Chết - Those Who Wish Me Dead",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-nguyen-ta-chet-those-who-wish-me-dead"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-nguyen-ta-chet-those-who-wish-me-dead"
         },
         {
           "category": "Phim tình cảm",
@@ -40581,9 +40492,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a7d131b7be094d67649204_bat-nguyet-vi-uong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a7d131b7be094d67649204_bat-nguyet-vi-uong.jpg",
           "title": "Bát Nguyệt Vị Ương - August Never Ends",
-          "url": "https://www.fullphimz.net/p/xem-phim-bat-nguyet-vi-uong-august-never-ends"
+          "url": "https://www.ssphim.net/p/xem-phim-bat-nguyet-vi-uong-august-never-ends"
         },
         {
           "category": "Phim hành động",
@@ -40593,9 +40504,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a7882a3cdbec7c05278209_doi-quan-nguoi-chet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a7882a3cdbec7c05278209_doi-quan-nguoi-chet.jpg",
           "title": "Đội Quân Người Chết - Army Of The Dead",
-          "url": "https://www.fullphimz.net/p/xem-phim-doi-quan-nguoi-chet-army-of-the-dead"
+          "url": "https://www.ssphim.net/p/xem-phim-doi-quan-nguoi-chet-army-of-the-dead"
         },
         {
           "category": "Phim tình cảm",
@@ -40605,9 +40516,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a772e4769adf5673562787_blast-beast.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a772e4769adf5673562787_blast-beast.jpg",
           "title": "Nhịp Điệu Bùng Nổ - Blast Beat",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhip-dieu-bung-no-blast-beat"
+          "url": "https://www.ssphim.net/p/xem-phim-nhip-dieu-bung-no-blast-beat"
         },
         {
           "category": "Phim phiêu lưu",
@@ -40617,9 +40528,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a6801fb300828490257c09_nomadland.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a6801fb300828490257c09_nomadland.jpg",
           "title": "Kẻ Du Mục - Nomadland",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-du-muc-nomadland"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-du-muc-nomadland"
         },
         {
           "category": "Phim hành động",
@@ -40629,9 +40540,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a633b667590f6d01d93d39_tinh-vo-anh-hung.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a633b667590f6d01d93d39_tinh-vo-anh-hung.jpg",
           "title": "Tinh Võ Anh Hùng - Fist Of Legend",
-          "url": "https://www.fullphimz.net/p/xem-phim-tinh-vo-anh-hung-fist-of-legend"
+          "url": "https://www.ssphim.net/p/xem-phim-tinh-vo-anh-hung-fist-of-legend"
         },
         {
           "category": "Phim hành động",
@@ -40641,9 +40552,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a51e157222da710392bbf3_ba-ngay-de-yeu-ba-ngay-de-chet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a51e157222da710392bbf3_ba-ngay-de-yeu-ba-ngay-de-chet.jpg",
           "title": "Ba Ngày Để Yêu, Ba Ngày Để Chết - The Next Three Days ",
-          "url": "https://www.fullphimz.net/p/xem-phim-ba-ngay-de-yeu-ba-ngay-de-chet-the-next-three-days"
+          "url": "https://www.ssphim.net/p/xem-phim-ba-ngay-de-yeu-ba-ngay-de-chet-the-next-three-days"
         },
         {
           "category": "Phim hành động",
@@ -40653,9 +40564,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a4dd498f7dc093829f15a2_ke-the-mang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a4dd498f7dc093829f15a2_ke-the-mang.jpg",
           "title": "Kẻ Thế Mạng - Self/Less",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-the-mang-self-less"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-the-mang-self-less"
         },
         {
           "category": "Phim cổ trang",
@@ -40665,9 +40576,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a494da866f35cb7a9071d0_thieu-lam-hang-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a494da866f35cb7a9071d0_thieu-lam-hang-ma.jpg",
           "title": "Thiếu Lâm Hàng Ma - Vanquishing The Demons",
-          "url": "https://www.fullphimz.net/p/xem-phim-thieu-lam-hang-ma-vanquishing-the-demons"
+          "url": "https://www.ssphim.net/p/xem-phim-thieu-lam-hang-ma-vanquishing-the-demons"
         },
         {
           "category": "Phim tình cảm",
@@ -40677,9 +40588,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a399209cdd1eb0d46d9619_sardar-va-chau-trai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a399209cdd1eb0d46d9619_sardar-va-chau-trai.jpg",
           "title": "Sardar Và Cháu Trai - Sardar And Grandson",
-          "url": "https://www.fullphimz.net/p/xem-phim-sardar-va-chau-trai-sardar-and-grandson"
+          "url": "https://www.ssphim.net/p/xem-phim-sardar-va-chau-trai-sardar-and-grandson"
         },
         {
           "category": "Phim hành động",
@@ -40689,9 +40600,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a377c351db8384eda6e79b_toa-thap-bong-dem.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a377c351db8384eda6e79b_toa-thap-bong-dem.jpg",
           "title": "The Dark Tower - Tòa Tháp Bóng Đêm",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-dark-tower-toa-thap-bong-dem"
+          "url": "https://www.ssphim.net/p/xem-phim-the-dark-tower-toa-thap-bong-dem"
         },
         {
           "category": "Phim tình cảm",
@@ -40701,9 +40612,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a334d733cbc84c1ad47981_lac-hon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a334d733cbc84c1ad47981_lac-hon.jpg",
           "title": "Lạc Hồn - Ghost Walk",
-          "url": "https://www.fullphimz.net/p/xem-phim-lac-hon-ghost-walk"
+          "url": "https://www.ssphim.net/p/xem-phim-lac-hon-ghost-walk"
         },
         {
           "category": "Phim tình cảm",
@@ -40713,9 +40624,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a24b665626c850ca9d4dc4_the-gioi-se-den.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a24b665626c850ca9d4dc4_the-gioi-se-den.jpg",
           "title": "Thế Giới Sẽ Đến - The World To Come",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-gioi-se-den-the-world-to-come"
+          "url": "https://www.ssphim.net/p/xem-phim-the-gioi-se-den-the-world-to-come"
         },
         {
           "category": "Phim cổ trang",
@@ -40725,9 +40636,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a1f3dfed77d08d2a083624_tu-xuan-dao-p2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a1f3dfed77d08d2a083624_tu-xuan-dao-p2.jpg",
           "title": "Tú Xuân Đao 2: Chiến Trường Tu La - Brotherhood of Blades 2: The Infernal Battlefield ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tu-xuan-dao-2-chien-truong-tu-la-brotherhood-of-blades-2-the-infernal-battlefield"
+          "url": "https://www.ssphim.net/p/xem-phim-tu-xuan-dao-2-chien-truong-tu-la-brotherhood-of-blades-2-the-infernal-battlefield"
         },
         {
           "category": "Phim tình cảm",
@@ -40737,9 +40648,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a1da655a90295d8a97f17a_cat-man.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a1da655a90295d8a97f17a_cat-man.jpg",
           "title": "Tôi Yêu Một Miêu Nhân - Cat Man ",
-          "url": "https://www.fullphimz.net/p/xem-phim-toi-yeu-mot-mieu-nhan-cat-man"
+          "url": "https://www.ssphim.net/p/xem-phim-toi-yeu-mot-mieu-nhan-cat-man"
         },
         {
           "category": "Phim cổ trang",
@@ -40749,9 +40660,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a0eefc0aa48967cb228db3_tu-xuan-dao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a0eefc0aa48967cb228db3_tu-xuan-dao.jpg",
           "title": "Tú Xuân Đao - Brotherhood Of Blades (2014)",
-          "url": "https://www.fullphimz.net/p/xem-phim-tu-xuan-dao-brotherhood-of-blades-2014"
+          "url": "https://www.ssphim.net/p/xem-phim-tu-xuan-dao-brotherhood-of-blades-2014"
         },
         {
           "category": "Phim tình cảm",
@@ -40761,9 +40672,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a09bb5ae9b430139838084_bi-mat-ben-khung-cua.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a09bb5ae9b430139838084_bi-mat-ben-khung-cua.jpg",
           "title": "Bí Mật Bên Kia Khung Cửa - The Woman In The Window",
-          "url": "https://www.fullphimz.net/p/xem-phim-bi-mat-ben-kia-khung-cua-the-woman-in-the-window"
+          "url": "https://www.ssphim.net/p/xem-phim-bi-mat-ben-kia-khung-cua-the-woman-in-the-window"
         },
         {
           "category": "Phim hành động",
@@ -40773,9 +40684,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609ff2bc8d14f200ebbe75cf_ferry.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609ff2bc8d14f200ebbe75cf_ferry.jpg",
           "title": "Gã Ferry - Ferry",
-          "url": "https://www.fullphimz.net/p/xem-phim-ga-ferry-ferry"
+          "url": "https://www.ssphim.net/p/xem-phim-ga-ferry-ferry"
         },
         {
           "category": "Phim hành động",
@@ -40785,9 +40696,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609fe72c8d6506cc8ef350d5_dau-dang-giang-ho.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609fe72c8d6506cc8ef350d5_dau-dang-giang-ho.jpg",
           "title": "Đầu Đảng Giang Hồ Ngoại Truyện: Kẻ Lang Thang - Gatao: The Last Stray",
-          "url": "https://www.fullphimz.net/p/xem-phim-dau-dang-giang-ho-ngoai-truyen-ke-lang-thang-gatao-the-last-stray"
+          "url": "https://www.ssphim.net/p/xem-phim-dau-dang-giang-ho-ngoai-truyen-ke-lang-thang-gatao-the-last-stray"
         },
         {
           "category": "Phim hành động",
@@ -40797,9 +40708,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609fd105c579b6348e5b0805_cuoc-chien-vi-moi-be-gai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609fd105c579b6348e5b0805_cuoc-chien-vi-moi-be-gai.jpg",
           "title": "Cuộc Chiến Vì Mọi Bé Gái - I Am All Girls ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-chien-vi-moi-be-gai-i-am-all-girls"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-chien-vi-moi-be-gai-i-am-all-girls"
         },
         {
           "category": "Phim hành động",
@@ -40809,9 +40720,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609f9ef5204aba301699970b_bi-an-ngoi-nha-ky-quai-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609f9ef5204aba301699970b_bi-an-ngoi-nha-ky-quai-1.jpg",
           "title": "Bí Ẩn Ngôi Nhà Kỳ Quái - The Strange House",
-          "url": "https://www.fullphimz.net/p/xem-phim-bi-an-ngoi-nha-ky-quai-the-strange-house"
+          "url": "https://www.ssphim.net/p/xem-phim-bi-an-ngoi-nha-ky-quai-the-strange-house"
         },
         {
           "category": "Phim hành động",
@@ -40821,9 +40732,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609f8a658d65063939b1f794_yakuza-va-gia-dinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609f8a658d65063939b1f794_yakuza-va-gia-dinh.jpg",
           "title": "Yakuza Và Gia Đình - Yakuza And The Family",
-          "url": "https://www.fullphimz.net/p/xem-phim-yakuza-va-gia-dinh-yakuza-and-the-family"
+          "url": "https://www.ssphim.net/p/xem-phim-yakuza-va-gia-dinh-yakuza-and-the-family"
         },
         {
           "category": "Phim tình cảm",
@@ -40833,9 +40744,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609dfbe22468b88b1b5c11c8_sac-thai-cua-trai-tim.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609dfbe22468b88b1b5c11c8_sac-thai-cua-trai-tim.jpg",
           "title": "Sắc Thái Của Trái Tim - Shades Of The Heart",
-          "url": "https://www.fullphimz.net/p/xem-phim-sac-thai-cua-trai-tim-shades-of-the-heart"
+          "url": "https://www.ssphim.net/p/xem-phim-sac-thai-cua-trai-tim-shades-of-the-heart"
         },
         {
           "category": "Phim hành động",
@@ -40845,9 +40756,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609dec6e2f548faebb2f5acb_red-notice.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609dec6e2f548faebb2f5acb_red-notice.jpg",
           "title": "SAS: Báo Động Đỏ - SAS: Red Notice",
-          "url": "https://www.fullphimz.net/p/xem-phim-sas-bao-dong-do-sas-red-notice"
+          "url": "https://www.ssphim.net/p/xem-phim-sas-bao-dong-do-sas-red-notice"
         },
         {
           "category": "Phim hành động",
@@ -40857,9 +40768,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609d36804ac6021414294788_cai-chet-cua-mot-samurai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609d36804ac6021414294788_cai-chet-cua-mot-samurai.jpg",
           "title": "Cái Chết Của Võ Sĩ Đạo - Hara-Kiri: Death Of A Samurai ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cai-chet-cua-vo-si-dao-hara-kiri-death-of-a-samurai"
+          "url": "https://www.ssphim.net/p/xem-phim-cai-chet-cua-vo-si-dao-hara-kiri-death-of-a-samurai"
         },
         {
           "category": "Phim tình cảm",
@@ -40869,9 +40780,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609d1be73bbd1a15942c115f_tinh-yeu-xe-hop.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609d1be73bbd1a15942c115f_tinh-yeu-xe-hop.jpg",
           "title": "Tình Yêu Xế Hộp - The Cabbie",
-          "url": "https://www.fullphimz.net/p/xem-phim-tinh-yeu-xe-hop-the-cabbie"
+          "url": "https://www.ssphim.net/p/xem-phim-tinh-yeu-xe-hop-the-cabbie"
         },
         {
           "category": "Phim hành động",
@@ -40881,9 +40792,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609be0ec36de123182a428fc_t34.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609be0ec36de123182a428fc_t34.jpg",
           "title": "Chiến Tăng Huyền Thoại - T-34",
-          "url": "https://www.fullphimz.net/p/xem-phim-chien-tang-huyen-thoai-t-34"
+          "url": "https://www.ssphim.net/p/xem-phim-chien-tang-huyen-thoai-t-34"
         },
         {
           "category": "Phim hành động",
@@ -40893,9 +40804,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609b9bb8d032cf44a6d3e497_cuoc-chien-luan-hoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609b9bb8d032cf44a6d3e497_cuoc-chien-luan-hoi.jpg",
           "title": "Cuộc Chiến Luân Hồi - Edge Of Tomorrow",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-chien-luan-hoi-edge-of-tomorrow"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-chien-luan-hoi-edge-of-tomorrow"
         },
         {
           "category": "Phim tình cảm",
@@ -40905,9 +40816,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609a58624e7681144c101d83_loi-thoat-o-phap.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609a58624e7681144c101d83_loi-thoat-o-phap.jpg",
           "title": "Lối Thoát Ở Pháp - French Exit",
-          "url": "https://www.fullphimz.net/p/xem-phim-loi-thoat-o-phap-french-exit"
+          "url": "https://www.ssphim.net/p/xem-phim-loi-thoat-o-phap-french-exit"
         },
         {
           "category": "Phim hành động",
@@ -40917,9 +40828,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609a4201fa427103407e0c83_song-sinh-sat-thu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609a4201fa427103407e0c83_song-sinh-sat-thu.jpg",
           "title": "Song Sinh Sát Thủ - Legend",
-          "url": "https://www.fullphimz.net/p/xem-phim-song-sinh-sat-thu-legend"
+          "url": "https://www.ssphim.net/p/xem-phim-song-sinh-sat-thu-legend"
         },
         {
           "category": "Phim hành động",
@@ -40929,9 +40840,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6098f9ce8dd57949917fe4e1_katyn.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6098f9ce8dd57949917fe4e1_katyn.jpg",
           "title": "Thảm Sát Ở Katyn - Katyn",
-          "url": "https://www.fullphimz.net/p/xem-phim-tham-sat-o-katyn-katyn"
+          "url": "https://www.ssphim.net/p/xem-phim-tham-sat-o-katyn-katyn"
         },
         {
           "category": "Phim hành động",
@@ -40941,9 +40852,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6097ec0123f71c7f553ff1f9_the-shed.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6097ec0123f71c7f553ff1f9_the-shed.jpg",
           "title": "Nhà Kho Quỷ Ám - The Shed",
-          "url": "https://www.fullphimz.net/p/xem-phim-nha-kho-quy-am-the-shed"
+          "url": "https://www.ssphim.net/p/xem-phim-nha-kho-quy-am-the-shed"
         },
         {
           "category": "Phim hành động",
@@ -40953,9 +40864,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6097a53c773d1b1b13ec4b3d_ve-si-sat-thu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6097a53c773d1b1b13ec4b3d_ve-si-sat-thu.jpg",
           "title": "Vệ Sĩ Sát Thủ - The Hitman's Bodyguard ",
-          "url": "https://www.fullphimz.net/p/xem-phim-ve-si-sat-thu-the-hitmans-bodyguard"
+          "url": "https://www.ssphim.net/p/xem-phim-ve-si-sat-thu-the-hitmans-bodyguard"
         },
         {
           "category": "Phim hành động",
@@ -40965,9 +40876,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6096b8a4a2e987546aa807b2_sieu-cap-ta-day.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6096b8a4a2e987546aa807b2_sieu-cap-ta-day.jpg",
           "title": "Siêu Cấp Ta Đây - Super Me ",
-          "url": "https://www.fullphimz.net/p/xem-phim-sieu-cap-ta-day-super-me"
+          "url": "https://www.ssphim.net/p/xem-phim-sieu-cap-ta-day-super-me"
         },
         {
           "category": "Phim hành động",
@@ -40977,9 +40888,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60969ada86fd78d2c6ccfb27_sat-thu-bac-thay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60969ada86fd78d2c6ccfb27_sat-thu-bac-thay.jpg",
           "title": "Sát Thủ Bậc Thầy - The Virtuoso",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-bac-thay-the-virtuoso"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-bac-thay-the-virtuoso"
         },
         {
           "category": "Phim hành động",
@@ -40989,9 +40900,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60964c77052b8223e080f591_monster.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60964c77052b8223e080f591_monster.jpg",
           "title": "Quái Vật - Monster (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-quai-vat-monster-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-quai-vat-monster-2021"
         },
         {
           "category": "Phim tình cảm",
@@ -41001,9 +40912,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609609b831720a5b506f089b_cot-moc-dam-truong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609609b831720a5b506f089b_cot-moc-dam-truong.jpg",
           "title": "Cột Mốc Dặm Trường - Milestone",
-          "url": "https://www.fullphimz.net/p/xem-phim-cot-moc-dam-truong-milestone"
+          "url": "https://www.ssphim.net/p/xem-phim-cot-moc-dam-truong-milestone"
         },
         {
           "category": "Phim cổ trang",
@@ -41013,9 +40924,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60955d94625bd70116eff8cb_phong-van-2-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60955d94625bd70116eff8cb_phong-van-2-1.jpg",
           "title": "Phong Vân 2: Nhập Ma Tử Chiến - The Storm Warriors 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-phong-van-2-nhap-ma-tu-chien-the-storm-warriors-2"
+          "url": "https://www.ssphim.net/p/xem-phim-phong-van-2-nhap-ma-tu-chien-the-storm-warriors-2"
         },
         {
           "category": "Phim tình cảm",
@@ -41025,9 +40936,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6093f43859cb5e6dc0f95d66_va-ngay-mai-ca-the-gioi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6093f43859cb5e6dc0f95d66_va-ngay-mai-ca-the-gioi.jpg",
           "title": "Và Ngày Mai, Cả Thế Giới - And Tomorrow The Entire World ",
-          "url": "https://www.fullphimz.net/p/xem-phim-va-ngay-mai-ca-the-gioi-and-tomorrow-the-entire-world"
+          "url": "https://www.ssphim.net/p/xem-phim-va-ngay-mai-ca-the-gioi-and-tomorrow-the-entire-world"
         },
         {
           "category": "Phim hành động",
@@ -41037,9 +40948,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6093c1fd5685416f8eb0615f_doi-quan-sieu-trom.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6093c1fd5685416f8eb0615f_doi-quan-sieu-trom.jpg",
           "title": "Đội Quân Siêu Trộm - The Thieves",
-          "url": "https://www.fullphimz.net/p/xem-phim-doi-quan-sieu-trom-the-thieves"
+          "url": "https://www.ssphim.net/p/xem-phim-doi-quan-sieu-trom-the-thieves"
         },
         {
           "category": "Phim phiêu lưu",
@@ -41049,9 +40960,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6092beebcc4ca13dfba312bd_charlie-va-nha-may-socola.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6092beebcc4ca13dfba312bd_charlie-va-nha-may-socola.jpg",
           "title": "Charlie Và Nhà Máy Sô-Cô-La - Charlie And The Chocolate Factory",
-          "url": "https://www.fullphimz.net/p/xem-phim-charlie-va-nha-may-so-co-la-charlie-and-the-chocolate-factory"
+          "url": "https://www.ssphim.net/p/xem-phim-charlie-va-nha-may-so-co-la-charlie-and-the-chocolate-factory"
         },
         {
           "category": "Phim cổ trang",
@@ -41061,9 +40972,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60929a1e8c8ef47ff238f505_phong-than-bang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60929a1e8c8ef47ff238f505_phong-than-bang.jpg",
           "title": "Phong Thần Bảng: Quyết Chiến Vạn Tiên Trận - The First Myth Clash Of Gods",
-          "url": "https://www.fullphimz.net/p/xem-phim-bang-phong-than-quyet-chien-van-tien-tran-the-first-myth-clash-of-gods"
+          "url": "https://www.ssphim.net/p/xem-phim-bang-phong-than-quyet-chien-van-tien-tran-the-first-myth-clash-of-gods"
         },
         {
           "category": "Phim cổ trang",
@@ -41073,9 +40984,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60917c864ce3b8d83e2a64cd_cuu-vi-ho-to-dat-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60917c864ce3b8d83e2a64cd_cuu-vi-ho-to-dat-ky.jpg",
           "title": "Cửu Vĩ Hồ Tô Đát Kỷ - The Fox Spirit Da Ji",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuu-vi-ho-to-dat-ky-the-fox-spirit-da-ji"
+          "url": "https://www.ssphim.net/p/xem-phim-cuu-vi-ho-to-dat-ky-the-fox-spirit-da-ji"
         },
         {
           "category": "Phim hành động",
@@ -41085,9 +40996,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6091672eb3d75e6e4f95d529_ngo-sat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6091672eb3d75e6e4f95d529_ngo-sat.jpg",
           "title": "Ngộ Sát - Sheep Without A Shepherd",
-          "url": "https://www.fullphimz.net/p/xem-phim-ngo-sat-sheep-without-a-shepherd"
+          "url": "https://www.ssphim.net/p/xem-phim-ngo-sat-sheep-without-a-shepherd"
         },
         {
           "category": "Phim hành động",
@@ -41097,9 +41008,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609154760a77ffd54859e6fd_dai-chien-hai-the-gioi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609154760a77ffd54859e6fd_dai-chien-hai-the-gioi.jpg",
           "title": "Đại Chiến Hai Thế Giới - Warcraft: The Beginning ",
-          "url": "https://www.fullphimz.net/p/xem-phim-dai-chien-hai-the-gioi-warcraft-the-beginning"
+          "url": "https://www.ssphim.net/p/xem-phim-dai-chien-hai-the-gioi-warcraft-the-beginning"
         },
         {
           "category": "Phim tình cảm",
@@ -41109,9 +41020,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6090bc32fc0dd0db28880658_true-mother.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6090bc32fc0dd0db28880658_true-mother.jpg",
           "title": "Những Người Mẹ Chân Chính - True Mothers",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-nguoi-me-chan-chinh-true-mothers"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-nguoi-me-chan-chinh-true-mothers"
         },
         {
           "category": "Phim hành động",
@@ -41121,9 +41032,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60902004291d8b54d15dbd53_khong-hoi-tiec.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60902004291d8b54d15dbd53_khong-hoi-tiec.jpg",
           "title": "Không Hối Tiếc - Without Remorse",
-          "url": "https://www.fullphimz.net/p/xem-phim-khong-hoi-tiec-without-remorse"
+          "url": "https://www.ssphim.net/p/xem-phim-khong-hoi-tiec-without-remorse"
         },
         {
           "category": "Phim cổ trang",
@@ -41133,9 +41044,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608ed615d681be28ab54f6ec_song-the-thanh-xa.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608ed615d681be28ab54f6ec_song-the-thanh-xa.jpg",
           "title": "Song Thế Thanh Xà - Green Snake",
-          "url": "https://www.fullphimz.net/p/xem-phim-song-the-thanh-xa-green-snake"
+          "url": "https://www.ssphim.net/p/xem-phim-song-the-thanh-xa-green-snake"
         },
         {
           "category": "Phim cổ trang",
@@ -41145,9 +41056,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608eb68ad5457319e37fc7cb_troc-yeu-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608eb68ad5457319e37fc7cb_troc-yeu-ky.jpg",
           "title": "Giáng Long Đại Sư: Tróc Yêu Bảng - Dragon Hunter",
-          "url": "https://www.fullphimz.net/p/xem-phim-giang-long-dai-su-troc-yeu-bang-dragon-hunter"
+          "url": "https://www.ssphim.net/p/xem-phim-giang-long-dai-su-troc-yeu-bang-dragon-hunter"
         },
         {
           "category": "Phim tình cảm",
@@ -41157,9 +41068,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608ea67e8c673f14154b7c24_duong-ve-que-ngoai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608ea67e8c673f14154b7c24_duong-ve-que-ngoai.jpg",
           "title": "Đường Về Quê Ngoại - The Way Home",
-          "url": "https://www.fullphimz.net/p/xem-phim-duong-ve-que-ngoai-the-way-home"
+          "url": "https://www.ssphim.net/p/xem-phim-duong-ve-que-ngoai-the-way-home"
         },
         {
           "category": "Phim tình cảm",
@@ -41169,9 +41080,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608d2174c1607c117cb5d062_sac-mau-tinh-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608d2174c1607c117cb5d062_sac-mau-tinh-yeu.jpg",
           "title": "Sắc Màu Tình Yêu - Color Of Love",
-          "url": "https://www.fullphimz.net/p/xem-phim-sac-mau-tinh-yeu-color-of-love"
+          "url": "https://www.ssphim.net/p/xem-phim-sac-mau-tinh-yeu-color-of-love"
         },
         {
           "category": "Phim hoạt hình",
@@ -41181,9 +41092,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608c32dabebb7a167ec1cacb_nha-mitchells-vs-the-machines.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608c32dabebb7a167ec1cacb_nha-mitchells-vs-the-machines.jpg",
           "title": "Nhà Mitchell Đại Chiến Máy Móc - The Mitchells vs. The Machines",
-          "url": "https://www.fullphimz.net/p/xem-phim-nha-mitchell-dai-chien-may-moc-the-mitchells-vs-the-machines"
+          "url": "https://www.ssphim.net/p/xem-phim-nha-mitchell-dai-chien-may-moc-the-mitchells-vs-the-machines"
         },
         {
           "category": "Phim tình cảm",
@@ -41193,9 +41104,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608c26a920861ea957037149_bo-doi-nha-lua-dao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608c26a920861ea957037149_bo-doi-nha-lua-dao.jpg",
           "title": "Bộ Đôi Nhà Lừa Đảo - Get The Grift",
-          "url": "https://www.fullphimz.net/p/xem-phim-bo-doi-nha-lua-dao-get-the-grift"
+          "url": "https://www.ssphim.net/p/xem-phim-bo-doi-nha-lua-dao-get-the-grift"
         },
         {
           "category": "Phim hành động",
@@ -41205,9 +41116,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608c1edf02d3630f9d26fb92_mat-thay-tai-nghe.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608c1edf02d3630f9d26fb92_mat-thay-tai-nghe.jpg",
           "title": "Mắt Thấy Tai Nghe - Things Heard And Seen",
-          "url": "https://www.fullphimz.net/p/xem-phim-mat-thay-tai-nghe-things-heard-and-seen"
+          "url": "https://www.ssphim.net/p/xem-phim-mat-thay-tai-nghe-things-heard-and-seen"
         },
         {
           "category": "Phim hành động",
@@ -41217,9 +41128,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608ae57fd72b76702f2c0d9f_Mumbai-saga.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608ae57fd72b76702f2c0d9f_Mumbai-saga.jpg",
           "title": "Đại Chiến Mumbai - Mumbai Saga",
-          "url": "https://www.fullphimz.net/p/xem-phim-dai-chien-mumbai-mumbai-saga"
+          "url": "https://www.ssphim.net/p/xem-phim-dai-chien-mumbai-mumbai-saga"
         },
         {
           "category": "Phim hành động",
@@ -41229,9 +41140,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608ad582250885075c083991_dai-bang-la-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608ad582250885075c083991_dai-bang-la-ma.jpg",
           "title": "Đại Bàng La Mã - The Eagle",
-          "url": "https://www.fullphimz.net/p/xem-phim-dai-bang-la-ma-the-eagle"
+          "url": "https://www.ssphim.net/p/xem-phim-dai-bang-la-ma-the-eagle"
         },
         {
           "category": "Phim hành động",
@@ -41241,9 +41152,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608a97b82c1aef787df1c30e_bahubali-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608a97b82c1aef787df1c30e_bahubali-2.jpg",
           "title": "Bahubali 2: Kết Thúc - Baahubali 2: The Ending",
-          "url": "https://www.fullphimz.net/p/xem-phim-bahubali-2-ket-thuc-baahubali-2-the-ending"
+          "url": "https://www.ssphim.net/p/xem-phim-bahubali-2-ket-thuc-baahubali-2-the-ending"
         },
         {
           "category": "Phim hành động",
@@ -41253,9 +41164,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608a86ea9f4c91867ed21184_bahubali.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608a86ea9f4c91867ed21184_bahubali.jpg",
           "title": "Bahubali: Khởi Nguồn - Baahubali: The Beginning",
-          "url": "https://www.fullphimz.net/p/xem-phim-su-thi-bahubali-baahubali"
+          "url": "https://www.ssphim.net/p/xem-phim-su-thi-bahubali-baahubali"
         },
         {
           "category": "Phim cổ trang",
@@ -41265,9 +41176,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6089846c544fbc36b1838e9a_tru-tien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6089846c544fbc36b1838e9a_tru-tien.jpg",
           "title": "Tru Tiên - Jade Dynasty",
-          "url": "https://www.fullphimz.net/p/xem-phim-tru-tien-jade-dynasty"
+          "url": "https://www.ssphim.net/p/xem-phim-tru-tien-jade-dynasty"
         },
         {
           "category": "Phim hành động",
@@ -41277,9 +41188,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60896fdd85c9662fd18870c3_dai-chien-the-gioi-ngam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60896fdd85c9662fd18870c3_dai-chien-the-gioi-ngam.jpg",
           "title": "Đại Chiến Thế Giới Ngầm - 6 Underground",
-          "url": "https://www.fullphimz.net/p/xem-phim-dai-chien-the-gioi-ngam-6-underground"
+          "url": "https://www.ssphim.net/p/xem-phim-dai-chien-the-gioi-ngam-6-underground"
         },
         {
           "category": "Phim cổ trang",
@@ -41289,9 +41200,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608823fd0357bf820aaa7383_ho-ly-dam-but.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608823fd0357bf820aaa7383_ho-ly-dam-but.jpg",
           "title": "Hồ Ly Dâm Bụt - Fox In Fuso",
-          "url": "https://www.fullphimz.net/p/xem-phim-ho-ly-dam-but-fox-in-fuso"
+          "url": "https://www.ssphim.net/p/xem-phim-ho-ly-dam-but-fox-in-fuso"
         },
         {
           "category": "Phim cổ trang",
@@ -41301,9 +41212,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608814a41469037a1f4bc311_mac-gia-co-thuat-1.JPG",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608814a41469037a1f4bc311_mac-gia-co-thuat-1.JPG",
           "title": "Mặc Gia Cơ Quan Thuật - Mohist Mechanism",
-          "url": "https://www.fullphimz.net/p/xem-phim-mac-gia-co-quan-thuat-mohist-mechanism"
+          "url": "https://www.ssphim.net/p/xem-phim-mac-gia-co-quan-thuat-mohist-mechanism"
         },
         {
           "category": "Phim cổ trang",
@@ -41313,9 +41224,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6087d9e31400cbe407cb0d0d_tay-du-ky-moi-tinh-ngoai-truyen-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6087d9e31400cbe407cb0d0d_tay-du-ky-moi-tinh-ngoai-truyen-2.jpg",
           "title": "Tây Du Ký: Mối Tình Ngoại Truyện 2 - Journey To The West: The Demons Strike Back",
-          "url": "https://www.fullphimz.net/p/xem-phim-tay-du-ky-moi-tinh-ngoai-truyen-2-journey-to-the-west-the-demons-strike-back"
+          "url": "https://www.ssphim.net/p/xem-phim-tay-du-ky-moi-tinh-ngoai-truyen-2-journey-to-the-west-the-demons-strike-back"
         },
         {
           "category": "Phim hành động",
@@ -41325,9 +41236,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6086ea58b93c386ae6b7031d_luu-lac-dia-cau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6086ea58b93c386ae6b7031d_luu-lac-dia-cau.jpg",
           "title": "Lưu Lạc Địa Cầu - The Wandering Earth ",
-          "url": "https://www.fullphimz.net/p/xem-phim-luu-lac-dia-cau-the-wandering-earth"
+          "url": "https://www.ssphim.net/p/xem-phim-luu-lac-dia-cau-the-wandering-earth"
         },
         {
           "category": "Phim cổ trang",
@@ -41337,9 +41248,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6086ca16525bcb387c3b5962_loi-chan-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6086ca16525bcb387c3b5962_loi-chan-tu.jpg",
           "title": "Lôi Chấn Tử: Phong Thần Duyên Khởi - Thunder Twins",
-          "url": "https://www.fullphimz.net/p/xem-phim-loi-chan-tu-phong-than-duyen-khoi-thunder-twins"
+          "url": "https://www.ssphim.net/p/xem-phim-loi-chan-tu-phong-than-duyen-khoi-thunder-twins"
         },
         {
           "category": "Phim cổ trang",
@@ -41349,9 +41260,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60869017926a26656678a28e_hang-long-la-han.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60869017926a26656678a28e_hang-long-la-han.jpg",
           "title": "Tế Công: Hàng Long La Hán - The Mad Monk (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-te-cong-hang-long-la-han-the-mad-monk-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-te-cong-hang-long-la-han-the-mad-monk-2021"
         },
         {
           "category": "Phim hành động",
@@ -41361,9 +41272,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6085934c1546848d6894d1cf_nga-re-tu-than.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6085934c1546848d6894d1cf_nga-re-tu-than.jpg",
           "title": "Ngã Rẽ Tử Thần 7 - Wrong Turn (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-nga-re-tu-than-7-wrong-turn-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-nga-re-tu-than-7-wrong-turn-2021"
         },
         {
           "category": "Phim cổ trang",
@@ -41373,9 +41284,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608421db565d4f9e5543e4a4_ngo-khong-ky-truyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608421db565d4f9e5543e4a4_ngo-khong-ky-truyen.jpg",
           "title": "Ngộ Không Kỳ Truyện - Wukong ",
-          "url": "https://www.fullphimz.net/p/xem-phim-ngo-khong-ky-truyen-wukong"
+          "url": "https://www.ssphim.net/p/xem-phim-ngo-khong-ky-truyen-wukong"
         },
         {
           "category": "Phim hành động",
@@ -41385,9 +41296,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60839a0fe7bfdef64fe75418_homunuclus.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60839a0fe7bfdef64fe75418_homunuclus.jpg",
           "title": "Homunclus",
-          "url": "https://www.fullphimz.net/p/xem-phim-homunclus"
+          "url": "https://www.ssphim.net/p/xem-phim-homunclus"
         },
         {
           "category": "Phim hành động",
@@ -41397,9 +41308,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6082e9d7fcb8651a4858b3a8_truy-lung-quai-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6082e9d7fcb8651a4858b3a8_truy-lung-quai-yeu.jpg",
           "title": "Truy Lùng Quái Yêu - Monster Hunt",
-          "url": "https://www.fullphimz.net/p/xem-phim-truy-lung-quai-yeu-monster-hunt"
+          "url": "https://www.ssphim.net/p/xem-phim-truy-lung-quai-yeu-monster-hunt"
         },
         {
           "category": "Phim hành động",
@@ -41409,9 +41320,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60818ce9efcdef251ba5f6eb_co-kiem-ki-dam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60818ce9efcdef251ba5f6eb_co-kiem-ki-dam.jpg",
           "title": "Cổ Kiếm Kỳ Đàm 1: Ám Sát Thành Cơ - Jingu Qi Tan 1: Murder In The Dark City",
-          "url": "https://www.fullphimz.net/p/xem-phim-co-kiem-ky-dam-1-am-sat-thanh-co-jingu-qi-tan-1-murder-in-the-dark-city"
+          "url": "https://www.ssphim.net/p/xem-phim-co-kiem-ky-dam-1-am-sat-thanh-co-jingu-qi-tan-1-murder-in-the-dark-city"
         },
         {
           "category": "Phim hành động",
@@ -41421,9 +41332,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6081438aa9c2cf1f1246ac5b_tra-dua.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6081438aa9c2cf1f1246ac5b_tra-dua.jpg",
           "title": "Trả Đũa - Payback ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tra-dua-payback"
+          "url": "https://www.ssphim.net/p/xem-phim-tra-dua-payback"
         },
         {
           "category": "Phim hành động",
@@ -41433,9 +41344,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6081396113a330e71ff27765_tay-xa-thu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6081396113a330e71ff27765_tay-xa-thu.jpg",
           "title": "Tay Xạ Thủ - The Marksman",
-          "url": "https://www.fullphimz.net/p/xem-phim-tay-xa-thu-the-marksman"
+          "url": "https://www.ssphim.net/p/xem-phim-tay-xa-thu-the-marksman"
         },
         {
           "category": "Phim hành động",
@@ -41445,9 +41356,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608043960becd1f4e614b251_bay-ngam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608043960becd1f4e614b251_bay-ngam.jpg",
           "title": "Bẫy Ngầm - Beneath Us",
-          "url": "https://www.fullphimz.net/p/xem-phim-bay-ngam-beneath-us"
+          "url": "https://www.ssphim.net/p/xem-phim-bay-ngam-beneath-us"
         },
         {
           "category": "Phim hành động",
@@ -41457,9 +41368,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60802bbb08f0105fd9e8b7a6_dot-kich-nga.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60802bbb08f0105fd9e8b7a6_dot-kich-nga.jpg",
           "title": "Đột Kích Nga - Russian Raid",
-          "url": "https://www.fullphimz.net/p/xem-phim-dot-kich-nga-russian-raid"
+          "url": "https://www.ssphim.net/p/xem-phim-dot-kich-nga-russian-raid"
         },
         {
           "category": "Phim tình cảm",
@@ -41469,9 +41380,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607ed158dab0fe433f2df942_vi-nguoi-phu-nu-ay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607ed158dab0fe433f2df942_vi-nguoi-phu-nu-ay.jpg",
           "title": "Vì Người Phụ Nữ Ấy - Ride Or Die",
-          "url": "https://www.fullphimz.net/p/xem-phim-vi-nguoi-phu-nu-ay-ride-or-die"
+          "url": "https://www.ssphim.net/p/xem-phim-vi-nguoi-phu-nu-ay-ride-or-die"
         },
         {
           "category": "Phim tình cảm",
@@ -41481,9 +41392,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607d8b8df1c1a8b371163f4f_di-nguyen-bi-an.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607d8b8df1c1a8b371163f4f_di-nguyen-bi-an.jpg",
           "title": "Di Nguyện Bí Ẩn - The Day I Died: Unclosed Case",
-          "url": "https://www.fullphimz.net/p/xem-phim-di-nguyen-bi-an-the-day-i-died-unclosed-case"
+          "url": "https://www.ssphim.net/p/xem-phim-di-nguyen-bi-an-the-day-i-died-unclosed-case"
         },
         {
           "category": "Phim hành động",
@@ -41493,9 +41404,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607d7d490b45b75b79751b96_nha-vo-dich.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607d7d490b45b75b79751b96_nha-vo-dich.jpg",
           "title": "Nhà Vô Địch - Born A Champion",
-          "url": "https://www.fullphimz.net/p/xem-phim-nha-vo-dich-born-a-champion"
+          "url": "https://www.ssphim.net/p/xem-phim-nha-vo-dich-born-a-champion"
         },
         {
           "category": "Phim hành động",
@@ -41505,9 +41416,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607c29fccdf7826fd80631e1_tro-ve.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607c29fccdf7826fd80631e1_tro-ve.jpg",
           "title": "Trở Về - Go Back (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-tro-ve-go-back-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-tro-ve-go-back-2020"
         },
         {
           "category": "Phim cổ trang",
@@ -41517,9 +41428,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607aff6d0a345f149da5a7d9_hoa-moc-lan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607aff6d0a345f149da5a7d9_hoa-moc-lan.jpg",
           "title": "Hoa Mộc Lan - Huamulan",
-          "url": "https://www.fullphimz.net/p/xem-phim-hoa-moc-lan-huamulan"
+          "url": "https://www.ssphim.net/p/xem-phim-hoa-moc-lan-huamulan"
         },
         {
           "category": "Phim tình cảm",
@@ -41529,9 +41440,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607aea66c09c541e3ca77790_mot-mai-nha-hai-tinh-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607aea66c09c541e3ca77790_mot-mai-nha-hai-tinh-yeu.jpg",
           "title": "L-DK: Một Mái Nhà, Hai Tình Yêu - L-DK: Two Loves, Under One Roof",
-          "url": "https://www.fullphimz.net/p/xem-phim-l-dk-mot-mai-nha-hai-tinh-yeu-l-dk-two-loves-under-one-roof"
+          "url": "https://www.ssphim.net/p/xem-phim-l-dk-mot-mai-nha-hai-tinh-yeu-l-dk-two-loves-under-one-roof"
         },
         {
           "category": "Phim cổ trang",
@@ -41541,9 +41452,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607863d46f4dfe787ba1812f_truyen-thuyet-manh-ba.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607863d46f4dfe787ba1812f_truyen-thuyet-manh-ba.jpg",
           "title": "Truyền Thuyết Mạnh Bà - The Ferryman: Manjusaka",
-          "url": "https://www.fullphimz.net/p/xem-phim-truyen-thuyet-manh-ba-the-ferryman-manjusaka"
+          "url": "https://www.ssphim.net/p/xem-phim-truyen-thuyet-manh-ba-the-ferryman-manjusaka"
         },
         {
           "category": "Phim tình cảm",
@@ -41553,9 +41464,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60784534b76a0fe8b3ba2b3a_hoang-tu-edward-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60784534b76a0fe8b3ba2b3a_hoang-tu-edward-cua-toi.jpg",
           "title": "Hoàng Tử Edward Của Tôi - My Prince Edward",
-          "url": "https://www.fullphimz.net/p/xem-phim-hoang-tu-edward-cua-toi-my-prince-edward"
+          "url": "https://www.ssphim.net/p/xem-phim-hoang-tu-edward-cua-toi-my-prince-edward"
         },
         {
           "category": "Phim hành động",
@@ -41565,9 +41476,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6077110cb39fdd02fd5010ad_tieu-phao-pho-hoa.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6077110cb39fdd02fd5010ad_tieu-phao-pho-hoa.jpg",
           "title": "Tiểu Pháo Phố Người Hoa 2: Xông Pha Melbourne - Chinatown Cannon 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-tieu-phao-pho-nguoi-hoa-2-xong-pha-melbourne-chinatown-cannon-2"
+          "url": "https://www.ssphim.net/p/xem-phim-tieu-phao-pho-nguoi-hoa-2-xong-pha-melbourne-chinatown-cannon-2"
         },
         {
           "category": "Phim cổ trang",
@@ -41577,9 +41488,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6076fc4e4ac372510c282983_mao-son-dai-su.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6076fc4e4ac372510c282983_mao-son-dai-su.jpg",
           "title": "Mao Sơn Đại Sư - Master Of Maoshan ",
-          "url": "https://www.fullphimz.net/p/xem-phim-mao-son-dai-su-master-of-maoshan"
+          "url": "https://www.ssphim.net/p/xem-phim-mao-son-dai-su-master-of-maoshan"
         },
         {
           "category": "Phim hành động",
@@ -41589,9 +41500,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60759a60c6a6132094f79b4b_bien-gioi-cuoi-cung.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60759a60c6a6132094f79b4b_bien-gioi-cuoi-cung.jpg",
           "title": "Biên Giới Cuối Cùng - The Last Frontier",
-          "url": "https://www.fullphimz.net/p/xem-phim-bien-gioi-cuoi-cung-the-last-frontier"
+          "url": "https://www.ssphim.net/p/xem-phim-bien-gioi-cuoi-cung-the-last-frontier"
         },
         {
           "category": "Phim hành động",
@@ -41601,9 +41512,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6073168185447062e10878d8_bo-doi-sam-set.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6073168185447062e10878d8_bo-doi-sam-set.jpg",
           "title": "Bộ Đôi Sấm Sét - Thunder Force",
-          "url": "https://www.fullphimz.net/p/xem-phim-bo-doi-sam-set-thunder-force"
+          "url": "https://www.ssphim.net/p/xem-phim-bo-doi-sam-set-thunder-force"
         },
         {
           "category": "Phim hành động",
@@ -41613,9 +41524,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606f0d22ec7a561835c3155b_dem-noi-thien-duong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606f0d22ec7a561835c3155b_dem-noi-thien-duong.jpg",
           "title": "Đêm Nơi Thiên Đường - Night In Paradise ",
-          "url": "https://www.fullphimz.net/p/xem-phim-dem-noi-thien-duong-night-in-paradise"
+          "url": "https://www.ssphim.net/p/xem-phim-dem-noi-thien-duong-night-in-paradise"
         },
         {
           "category": "Phim hành động",
@@ -41625,9 +41536,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606dced46e2a45c102c83cb1_canh-sat-tap-su.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606dced46e2a45c102c83cb1_canh-sat-tap-su.jpg",
           "title": "Cảnh Sát Tập Sự - Midnight Runners",
-          "url": "https://www.fullphimz.net/p/xem-phim-canh-sat-tap-su-midnight-runners"
+          "url": "https://www.ssphim.net/p/xem-phim-canh-sat-tap-su-midnight-runners"
         },
         {
           "category": "Phim cổ trang",
@@ -41637,9 +41548,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606c7893dfc66c5b1b399493_tho-ren-kiem-vi-dai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606c7893dfc66c5b1b399493_tho-ren-kiem-vi-dai.jpg",
           "title": "Thợ Rèn Kiếm Vĩ Đại - Sword Of Destiny",
-          "url": "https://www.fullphimz.net/p/xem-phim-tho-ren-kiem-vi-dai-sword-of-destiny"
+          "url": "https://www.ssphim.net/p/xem-phim-tho-ren-kiem-vi-dai-sword-of-destiny"
         },
         {
           "category": "Phim hành động",
@@ -41649,9 +41560,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606c6bb5d3d7422ddea40280_cuoc-dam-phan-sinh-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606c6bb5d3d7422ddea40280_cuoc-dam-phan-sinh-tu.jpg",
           "title": "Cuộc Đàm Phán Sinh Tử - The Negotiation",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-dam-phan-sinh-tu-the-negotiation"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-dam-phan-sinh-tu-the-negotiation"
         },
         {
           "category": "Phim tình cảm",
@@ -41661,9 +41572,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606b19d19c0a4d84946caea7_madame-cloude.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606b19d19c0a4d84946caea7_madame-cloude.jpg",
           "title": "Madame Claude",
-          "url": "https://www.fullphimz.net/p/xem-phim-madame-claude"
+          "url": "https://www.ssphim.net/p/xem-phim-madame-claude"
         },
         {
           "category": "Phim tình cảm",
@@ -41673,9 +41584,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6069e544c7c2be23069e9493_cao-boi-thanh-thi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6069e544c7c2be23069e9493_cao-boi-thanh-thi.jpg",
           "title": "Cao Bồi Đô Thị - Concrete Cowboy ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cao-boi-do-thi-concrete-cowboy"
+          "url": "https://www.ssphim.net/p/xem-phim-cao-boi-do-thi-concrete-cowboy"
         },
         {
           "category": "Phim tình cảm",
@@ -41685,9 +41596,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6069d1005c1e4f5edf3d8434_hon-cau-ay-dung-hon-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6069d1005c1e4f5edf3d8434_hon-cau-ay-dung-hon-toi.jpg",
           "title": "Hôn Cậu Ấy Kìa, Đừng Hôn Tôi - Kiss Him, Not Me",
-          "url": "https://www.fullphimz.net/p/xem-phim-hon-cau-ay-kia-dung-hon-toi-kiss-him-not-me"
+          "url": "https://www.ssphim.net/p/xem-phim-hon-cau-ay-kia-dung-hon-toi-kiss-him-not-me"
         },
         {
           "category": "Phim hành động",
@@ -41697,9 +41608,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6069c34954936e16045212ee_sky-high.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6069c34954936e16045212ee_sky-high.jpg",
           "title": "Tham Vọng Thế Giới Ngầm - Sky High (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-tham-vong-the-gioi-ngam-sky-high-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-tham-vong-the-gioi-ngam-sky-high-2020"
         },
         {
           "category": "Phim tình cảm",
@@ -41709,9 +41620,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606717d14ecdc47700ee61b8_nhung-dua-tre-cua-windermere.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606717d14ecdc47700ee61b8_nhung-dua-tre-cua-windermere.jpg",
           "title": "Những Đứa Trẻ Của Windermere - The Windermere Children",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-dua-tre-cua-windermere-the-windermere-children"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-dua-tre-cua-windermere-the-windermere-children"
         },
         {
           "category": "Phim hành động",
@@ -41721,9 +41632,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6065eb6fd0194747628a32d8_thanh-xa-bach-xa.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6065eb6fd0194747628a32d8_thanh-xa-bach-xa.jpg",
           "title": "Thanh Xà Bạch Xà - The Sorcerer And The White Snake",
-          "url": "https://www.fullphimz.net/p/xem-phim-thanh-xa-bach-xa-the-sorcerer-and-the-white-snake"
+          "url": "https://www.ssphim.net/p/xem-phim-thanh-xa-bach-xa-the-sorcerer-and-the-white-snake"
         },
         {
           "category": "Phim tình cảm",
@@ -41733,9 +41644,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6065cdb7619c4345b01817a7_giai-dieu-cua-ban-tieng-long-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6065cdb7619c4345b01817a7_giai-dieu-cua-ban-tieng-long-cua-toi.jpg",
           "title": "Giai Điệu Của Bạn, Tiếng Lòng Của Tôi - Wish You: Your Melody From My Heart",
-          "url": "https://www.fullphimz.net/p/xem-phim-giai-dieu-cua-ban-tieng-long-cua-toi-wish-you-your-melody-from-my-heart"
+          "url": "https://www.ssphim.net/p/xem-phim-giai-dieu-cua-ban-tieng-long-cua-toi-wish-you-your-melody-from-my-heart"
         },
         {
           "category": "Phim tình cảm",
@@ -41745,9 +41656,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606474994660944703bb9fcc_ke-hat-rong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606474994660944703bb9fcc_ke-hat-rong.jpg",
           "title": "Kẻ Hát Rong - The Pansori Singer",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-hat-rong-the-pansori-singer"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-hat-rong-the-pansori-singer"
         },
         {
           "category": "Phim tình cảm",
@@ -41757,9 +41668,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606339df4856242df72a1458_gia-dinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606339df4856242df72a1458_gia-dinh.jpg",
           "title": "Gia Đình - Figli",
-          "url": "https://www.fullphimz.net/p/xem-phim-gia-dinh-figli"
+          "url": "https://www.ssphim.net/p/xem-phim-gia-dinh-figli"
         },
         {
           "category": "Phim hoạt hình",
@@ -41769,9 +41680,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60609dcdec821513797931a7_ve-si-gia-mao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60609dcdec821513797931a7_ve-si-gia-mao.jpg",
           "title": "Vệ Sĩ Giả Mạo - Fake Bodyguard (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-ve-si-gia-mao-fake-bodyguard-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-ve-si-gia-mao-fake-bodyguard-2021"
         },
         {
           "category": "Phim tình cảm",
@@ -41781,9 +41692,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605f3924abcda549827f0452_caught-by-a-wave-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605f3924abcda549827f0452_caught-by-a-wave-1.jpg",
           "title": "Trên Cùng Một Con Sóng - Caught By A Wave",
-          "url": "https://www.fullphimz.net/p/xem-phim-tren-cung-mot-con-song-caught-by-a-wave"
+          "url": "https://www.ssphim.net/p/xem-phim-tren-cung-mot-con-song-caught-by-a-wave"
         },
         {
           "category": "Phim tình cảm",
@@ -41793,9 +41704,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605de4607e5386fbbe038be4_tro-ve-thoi-tho-au.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605de4607e5386fbbe038be4_tro-ve-thoi-tho-au.jpg",
           "title": "Trở Về Thời Thơ Ấu - Little ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tro-ve-thoi-tho-au-little"
+          "url": "https://www.ssphim.net/p/xem-phim-tro-ve-thoi-tho-au-little"
         },
         {
           "category": "Phim cổ trang",
@@ -41805,9 +41716,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605caa0ff35bea2d2a91c18c_bach-xa-tinh-kiep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605caa0ff35bea2d2a91c18c_bach-xa-tinh-kiep.jpg",
           "title": "Bạch Xà: Tình Kiếp - White Snake: Love Tribulation",
-          "url": "https://www.fullphimz.net/p/xem-phim-bach-xa-tinh-kiep-white-snake-love-tribulation"
+          "url": "https://www.ssphim.net/p/xem-phim-bach-xa-tinh-kiep-white-snake-love-tribulation"
         },
         {
           "category": "Phim hành động",
@@ -41817,9 +41728,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605c91385a71b98a8c3888cc_dropa.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605c91385a71b98a8c3888cc_dropa.jpg",
           "title": "Dropa",
-          "url": "https://www.fullphimz.net/p/xem-phim-dropa"
+          "url": "https://www.ssphim.net/p/xem-phim-dropa"
         },
         {
           "category": "Phim tình cảm",
@@ -41829,9 +41740,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605b5b8d2b315f8f8537d319_van-co-ngay-tho.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605b5b8d2b315f8f8537d319_van-co-ngay-tho.jpg",
           "title": "Ván Cờ Ngây Thơ - Searching For Bobby Fischer",
-          "url": "https://www.fullphimz.net/p/xem-phim-van-co-ngay-tho-searching-for-bobby-fischer"
+          "url": "https://www.ssphim.net/p/xem-phim-van-co-ngay-tho-searching-for-bobby-fischer"
         },
         {
           "category": "Phim tình cảm",
@@ -41841,9 +41752,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605b4aa7a96013b6a5358b13_sinh-menh-mong-manh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605b4aa7a96013b6a5358b13_sinh-menh-mong-manh.jpg",
           "title": "Sinh Mệnh Mong Manh - Paper Lives",
-          "url": "https://www.fullphimz.net/p/xem-phim-sinh-menh-mong-manh-paper-lives"
+          "url": "https://www.ssphim.net/p/xem-phim-sinh-menh-mong-manh-paper-lives"
         },
         {
           "category": "Phim phiêu lưu",
@@ -41853,9 +41764,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605a096602094b40aed88cda_ohana.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605a096602094b40aed88cda_ohana.jpg",
           "title": "OHANA: Báu Vật Quý Giá Nhất - Finding 'Ohana",
-          "url": "https://www.fullphimz.net/p/xem-phim-ohana-bau-vat-quy-gia-nhat-finding-ohana"
+          "url": "https://www.ssphim.net/p/xem-phim-ohana-bau-vat-quy-gia-nhat-finding-ohana"
         },
         {
           "category": "Phim hành động",
@@ -41865,9 +41776,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6059f2b796e8e95630c58551_benh-vien-hanh-lam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6059f2b796e8e95630c58551_benh-vien-hanh-lam.jpg",
           "title": "Bệnh Viện Hạnh Lâm - Hospital (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-benh-vien-hanh-lam-hospital-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-benh-vien-hanh-lam-hospital-2020"
         },
         {
           "category": "Phim tình cảm",
@@ -41877,9 +41788,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6058b68406d70a74f03264dc_cherry.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6058b68406d70a74f03264dc_cherry.jpg",
           "title": "Cuộc Đời Của Cherry",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-doi-cua-cherry"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-doi-cua-cherry"
         },
         {
           "category": "Phim tình cảm",
@@ -41889,9 +41800,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6057588b8b18790390b477d7_su-im-lang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6057588b8b18790390b477d7_su-im-lang.jpg",
           "title": "Sự im lặng - Silenced (2011)",
-          "url": "https://www.fullphimz.net/p/xem-phim-su-im-lang-silenced-2011"
+          "url": "https://www.ssphim.net/p/xem-phim-su-im-lang-silenced-2011"
         },
         {
           "category": "Phim tình cảm",
@@ -41901,9 +41812,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60574480fc83fa13ce756140_ngay-ky-la.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60574480fc83fa13ce756140_ngay-ky-la.jpg",
           "title": "Một Ngày Kỳ Lạ - Mood Of The Day",
-          "url": "https://www.fullphimz.net/p/xem-phim-mot-ngay-ky-la-mood-of-the-day"
+          "url": "https://www.ssphim.net/p/xem-phim-mot-ngay-ky-la-mood-of-the-day"
         },
         {
           "category": "Phim hành động",
@@ -41913,9 +41824,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60560054043b0cad33a6b964_yummy.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60560054043b0cad33a6b964_yummy.jpg",
           "title": "Thẩm Mỹ Viện Chết Chóc - Yummy ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tham-my-vien-chet-choc-yummy"
+          "url": "https://www.ssphim.net/p/xem-phim-tham-my-vien-chet-choc-yummy"
         },
         {
           "category": "Phim phiêu lưu",
@@ -41925,9 +41836,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6055f32534283466c8936594_land.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6055f32534283466c8936594_land.jpg",
           "title": "Vùng Đất - Land ",
-          "url": "https://www.fullphimz.net/p/xem-phim-vung-dat-land"
+          "url": "https://www.ssphim.net/p/xem-phim-vung-dat-land"
         },
         {
           "category": "Phim hành động",
@@ -41937,9 +41848,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6054a0321826aeb2529bc7f2_lmcl-zack.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6054a0321826aeb2529bc7f2_lmcl-zack.jpg",
           "title": "Liên Minh Công Lý Của Zack Snyder - Zack Snyder's Justice League",
-          "url": "https://www.fullphimz.net/p/xem-phim-lien-minh-cong-ly-cua-zack-snyder-zack-snyders-justice-league"
+          "url": "https://www.ssphim.net/p/xem-phim-lien-minh-cong-ly-cua-zack-snyder-zack-snyders-justice-league"
         },
         {
           "category": "Phim hành động",
@@ -41949,9 +41860,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60537264c45abf006a023bd6_vo-gian-diep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60537264c45abf006a023bd6_vo-gian-diep.jpg",
           "title": "Vợ Gián Điệp - Wife Of A Spy",
-          "url": "https://www.fullphimz.net/p/xem-phim-vo-gian-diep-wife-of-a-spy"
+          "url": "https://www.ssphim.net/p/xem-phim-vo-gian-diep-wife-of-a-spy"
         },
         {
           "category": "Phim tình cảm",
@@ -41961,9 +41872,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60535f52ac5373d3da611b00_ao-anh-chet-nguoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60535f52ac5373d3da611b00_ao-anh-chet-nguoi.jpg",
           "title": "Ảo Ảnh Chết Chóc - Deadly Illusions",
-          "url": "https://www.fullphimz.net/p/xem-phim-ao-anh-chet-choc-deadly-illusions"
+          "url": "https://www.ssphim.net/p/xem-phim-ao-anh-chet-choc-deadly-illusions"
         },
         {
           "category": "Phim tình cảm",
@@ -41973,9 +41884,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605227c3c6aa74a6871a50c8_nha-bao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605227c3c6aa74a6871a50c8_nha-bao.jpg",
           "title": "Nhà Báo - The Journalist",
-          "url": "https://www.fullphimz.net/p/xem-phim-nha-bao-the-journalist"
+          "url": "https://www.ssphim.net/p/xem-phim-nha-bao-the-journalist"
         },
         {
           "category": "Phim tình cảm",
@@ -41985,9 +41896,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605218c963a48ad642f8bcef_hen-uoc-mua-dong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605218c963a48ad642f8bcef_hen-uoc-mua-dong.jpg",
           "title": "Hẹn Ước Mùa Đông - Somewhere Winter",
-          "url": "https://www.fullphimz.net/p/xem-phim-hen-uoc-mua-dong-somewhere-winter"
+          "url": "https://www.ssphim.net/p/xem-phim-hen-uoc-mua-dong-somewhere-winter"
         },
         {
           "category": "Phim tình cảm",
@@ -41997,9 +41908,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605203ff8025918e77f166c6_em-cua-thoi-nien-thieu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605203ff8025918e77f166c6_em-cua-thoi-nien-thieu.jpg",
           "title": "Em Của Thời Niên Thiếu - Better Days",
-          "url": "https://www.fullphimz.net/p/xem-phim-em-cua-thoi-nien-thieu-better-days"
+          "url": "https://www.ssphim.net/p/xem-phim-em-cua-thoi-nien-thieu-better-days"
         },
         {
           "category": "Phim hành động",
@@ -42009,9 +41920,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6050c6c3b9f012027b7174a3_hy-sinh-tham-lang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6050c6c3b9f012027b7174a3_hy-sinh-tham-lang.jpg",
           "title": "Hy Sinh Thầm Lặng - Sarileru Neekevvaru",
-          "url": "https://www.fullphimz.net/p/xem-phim-hy-sinh-tham-lang-sarileru-neekevvaru"
+          "url": "https://www.ssphim.net/p/xem-phim-hy-sinh-tham-lang-sarileru-neekevvaru"
         },
         {
           "category": "Phim hành động",
@@ -42021,9 +41932,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6050adb11dad6286039e227f_24.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6050adb11dad6286039e227f_24.jpg",
           "title": "Đảo Ngược Thời Gian - 24",
-          "url": "https://www.fullphimz.net/p/xem-phim-dao-nguoc-thoi-gian-24"
+          "url": "https://www.ssphim.net/p/xem-phim-dao-nguoc-thoi-gian-24"
         },
         {
           "category": "Phim tình cảm",
@@ -42033,9 +41944,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604e31ca8bea557c04986e90_ngay-dong-y.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604e31ca8bea557c04986e90_ngay-dong-y.jpg",
           "title": "Ngày Đồng Ý - Yes Day",
-          "url": "https://www.fullphimz.net/p/xem-phim-ngay-dong-u-yes-day"
+          "url": "https://www.ssphim.net/p/xem-phim-ngay-dong-u-yes-day"
         },
         {
           "category": "Phim tình cảm",
@@ -42045,9 +41956,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604e1a81c85cf62359729ace_radioactive.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604e1a81c85cf62359729ace_radioactive.jpg",
           "title": "Phóng Xạ - Radioactive",
-          "url": "https://www.fullphimz.net/p/xem-phim-phong-xa-radioactive"
+          "url": "https://www.ssphim.net/p/xem-phim-phong-xa-radioactive"
         },
         {
           "category": "Phim tình cảm",
@@ -42057,9 +41968,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604cc72fe9e958d5cfe2d69c_duong-ve-nha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604cc72fe9e958d5cfe2d69c_duong-ve-nha.jpg",
           "title": "Đường Về Nhà - Two Ways Home",
-          "url": "https://www.fullphimz.net/p/xem-phim-duong-ve-nha-two-ways-home"
+          "url": "https://www.ssphim.net/p/xem-phim-duong-ve-nha-two-ways-home"
         },
         {
           "category": "Phim hành động",
@@ -42069,9 +41980,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604cb794d3092472cbf3f2e5_kiem-si-dien-ro.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604cb794d3092472cbf3f2e5_kiem-si-dien-ro.jpg",
           "title": "Kiếm Sĩ Huyền Thoại Musashi - Crazy Samurai Musashi",
-          "url": "https://www.fullphimz.net/p/xem-phim-kiem-si-huyen-thoai-musashi-crazy-samurai-musashi"
+          "url": "https://www.ssphim.net/p/xem-phim-kiem-si-huyen-thoai-musashi-crazy-samurai-musashi"
         },
         {
           "category": "Phim tình cảm",
@@ -42081,9 +41992,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604b6e05047a251831be9e47_tang-em-doa-hoa-mau-do.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604b6e05047a251831be9e47_tang-em-doa-hoa-mau-do.jpg",
           "title": "Tặng Em Một Đóa Hồng Nhỏ - A Little Red Flower",
-          "url": "https://www.fullphimz.net/p/xem-phim-tang-em-mot-doa-hong-nho-a-little-red-flower"
+          "url": "https://www.ssphim.net/p/xem-phim-tang-em-mot-doa-hong-nho-a-little-red-flower"
         },
         {
           "category": "Phim hành động",
@@ -42093,9 +42004,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604a2e93c8efb65b8348db5d_loi-thinh-cau-gian-diep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604a2e93c8efb65b8348db5d_loi-thinh-cau-gian-diep.jpg",
           "title": "Lời Thỉnh Cầu Gián Điệp - A Call to Spy",
-          "url": "https://www.fullphimz.net/p/xem-phim-loi-thinh-cau-gian-diep-a-call-to-spy"
+          "url": "https://www.ssphim.net/p/xem-phim-loi-thinh-cau-gian-diep-a-call-to-spy"
         },
         {
           "category": "Phim tình cảm",
@@ -42105,9 +42016,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604a2417e91510f9bf90c0a0_hon-ca-giac-mo.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604a2417e91510f9bf90c0a0_hon-ca-giac-mo.jpg",
           "title": "Hơn Cả Giấc Mơ - Beyond The Dream",
-          "url": "https://www.fullphimz.net/p/xem-phim-hon-ca-giac-mo-beyond-the-dream"
+          "url": "https://www.ssphim.net/p/xem-phim-hon-ca-giac-mo-beyond-the-dream"
         },
         {
           "category": "Phim tình cảm",
@@ -42117,9 +42028,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6048eac950daae594772246b_amacord.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6048eac950daae594772246b_amacord.jpg",
           "title": "Tôi Nhớ Mà - Amarcord",
-          "url": "https://www.fullphimz.net/p/xem-phim-toi-nho-ma-amarcord"
+          "url": "https://www.ssphim.net/p/xem-phim-toi-nho-ma-amarcord"
         },
         {
           "category": "Phim hành động",
@@ -42129,9 +42040,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60478a7ef4cc0323e0aabb6d_upon-a-time-in-london.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60478a7ef4cc0323e0aabb6d_upon-a-time-in-london.jpg",
           "title": "Once Upon A Time In London - Ngày Xửa Ngày Xưa Ở Luân Đôn",
-          "url": "https://www.fullphimz.net/p/xem-phim-once-upon-a-time-in-london-ngay-xua-ngay-xua-o-luan-don"
+          "url": "https://www.ssphim.net/p/xem-phim-once-upon-a-time-in-london-ngay-xua-ngay-xua-o-luan-don"
         },
         {
           "category": "Phim hành động",
@@ -42141,9 +42052,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60477b17bc78820f27ef6eb4_nhung-dua-tre-hu-hong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60477b17bc78820f27ef6eb4_nhung-dua-tre-hu-hong.jpg",
           "title": "Bad Seeds - Những Đứa Trẻ Hư Hỏng",
-          "url": "https://www.fullphimz.net/p/xem-phim-bad-seeds-nhung-dua-tre-hu-hong"
+          "url": "https://www.ssphim.net/p/xem-phim-bad-seeds-nhung-dua-tre-hu-hong"
         },
         {
           "category": "Phim tình cảm",
@@ -42153,9 +42064,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60463f29c77f05fd25bc208a_moxie.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60463f29c77f05fd25bc208a_moxie.jpg",
           "title": "Moxie: Nữ Giới Mạnh Mẽ",
-          "url": "https://www.fullphimz.net/p/xem-phim-moxie-nu-gioi-manh-me"
+          "url": "https://www.ssphim.net/p/xem-phim-moxie-nu-gioi-manh-me"
         },
         {
           "category": "Phim tình cảm",
@@ -42165,9 +42076,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6044fa1fe94b69df59982b31_trang-sang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6044fa1fe94b69df59982b31_trang-sang.jpg",
           "title": "Trăng Sáng Mùa Đông - Moonlit Winter",
-          "url": "https://www.fullphimz.net/p/xem-phim-trang-sang-mua-dong-moonlit-winter"
+          "url": "https://www.ssphim.net/p/xem-phim-trang-sang-mua-dong-moonlit-winter"
         },
         {
           "category": "Phim hành động",
@@ -42177,9 +42088,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604389ae6a529a368fe3aa41_moi-thu-truyen-kiep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604389ae6a529a368fe3aa41_moi-thu-truyen-kiep.jpg",
           "title": "The Legacy Of The Bones - Mối Bất Hoà Truyền Kiếp",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-legacy-of-the-bones-moi-bat-hoa-truyen-kiep"
+          "url": "https://www.ssphim.net/p/xem-phim-the-legacy-of-the-bones-moi-bat-hoa-truyen-kiep"
         },
         {
           "category": "Phim hành động",
@@ -42189,9 +42100,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6042352d8dc6696f2c9afa0e_trai-tim-lo-nhip.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6042352d8dc6696f2c9afa0e_trai-tim-lo-nhip.jpg",
           "title": "Trái Tim Lỡ Nhịp - The Beat That My Heart Skipped",
-          "url": "https://www.fullphimz.net/p/xem-phim-trai-tim-lo-nhip-the-beat-that-my-heart-skipped"
+          "url": "https://www.ssphim.net/p/xem-phim-trai-tim-lo-nhip-the-beat-that-my-heart-skipped"
         },
         {
           "category": "Phim hành động",
@@ -42201,9 +42112,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6041056cb2b7bf0cd199fd20_co-gai-tren-tau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6041056cb2b7bf0cd199fd20_co-gai-tren-tau.jpg",
           "title": "Cô Gái Trên Tàu - Girl On The Train (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-co-gai-tren-tau-girl-on-the-train-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-co-gai-tren-tau-girl-on-the-train-2021"
         },
         {
           "category": "Phim hành động",
@@ -42213,9 +42124,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6040f27f69aa4c2c664bd0b0_bua-chu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6040f27f69aa4c2c664bd0b0_bua-chu.jpg",
           "title": "Spell - Bùa Chú",
-          "url": "https://www.fullphimz.net/p/xem-phim-spell-bua-chu"
+          "url": "https://www.ssphim.net/p/xem-phim-spell-bua-chu"
         },
         {
           "category": "Phim hành động",
@@ -42225,9 +42136,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6040e0ce2f69e00878f3cfd1_nhung-con-moi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6040e0ce2f69e00878f3cfd1_nhung-con-moi.jpg",
           "title": "Những Con Mồi - Only The Animals",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-con-moi-only-the-animals"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-con-moi-only-the-animals"
         },
         {
           "category": "Phim phiêu lưu",
@@ -42237,9 +42148,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603fb528ad48564552700504_the-rider.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603fb528ad48564552700504_the-rider.jpg",
           "title": "Giấc Mộng Miền Viễn Tây - The Rider ",
-          "url": "https://www.fullphimz.net/p/xem-phim-giac-mong-mien-vien-tay-the-rider"
+          "url": "https://www.ssphim.net/p/xem-phim-giac-mong-mien-vien-tay-the-rider"
         },
         {
           "category": "Phim hành động",
@@ -42249,9 +42160,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603f9d1fad4856809a597b2c_thuy-trieu-xuong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603f9d1fad4856809a597b2c_thuy-trieu-xuong.jpg",
           "title": "Thuỷ Triều Xuống - Low Tide ",
-          "url": "https://www.fullphimz.net/p/xem-phim-thuy-trieu-xuong-low-tide"
+          "url": "https://www.ssphim.net/p/xem-phim-thuy-trieu-xuong-low-tide"
         },
         {
           "category": "Phim tình cảm",
@@ -42261,9 +42172,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603f86cb9554b171226b270e_chao-mung-den-nha-khach.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603f86cb9554b171226b270e_chao-mung-den-nha-khach.jpg",
           "title": "Chào Mừng Đến Với Nhà Khách - Welcome To The GuestHouse",
-          "url": "https://www.fullphimz.net/p/xem-phim-chao-mung-den-voi-nha-khach-welcome-to-the-guest-house"
+          "url": "https://www.ssphim.net/p/xem-phim-chao-mung-den-voi-nha-khach-welcome-to-the-guest-house"
         },
         {
           "category": "Phim hành động",
@@ -42273,9 +42184,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603e4c1dcfadaffc33f4f9f5_manh-moi-nho-be.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603e4c1dcfadaffc33f4f9f5_manh-moi-nho-be.jpg",
           "title": "Manh Mối Nhỏ Bé - The Little Things ",
-          "url": "https://www.fullphimz.net/p/xem-phim-manh-moi-nho-be-the-little-things"
+          "url": "https://www.ssphim.net/p/xem-phim-manh-moi-nho-be-the-little-things"
         },
         {
           "category": "Phim tình cảm",
@@ -42285,9 +42196,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603e3f4b74efe29c4e3089f1_the-gioi-mo-ho.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603e3f4b74efe29c4e3089f1_the-gioi-mo-ho.jpg",
           "title": "Billie Eilish: Thế Giới Mơ Hồ - Billie Eilish: The World's a Little Blurry",
-          "url": "https://www.fullphimz.net/p/xem-phim-billie-eilish-the-gioi-mo-ho-billie-eilish-the-worlds-a-little-blurry"
+          "url": "https://www.ssphim.net/p/xem-phim-billie-eilish-the-gioi-mo-ho-billie-eilish-the-worlds-a-little-blurry"
         },
         {
           "category": "Phim hành động",
@@ -42297,9 +42208,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603d14c17f79807e1ea01e26_truy-hon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603d14c17f79807e1ea01e26_truy-hon.jpg",
           "title": "Truy Hồn - The Soul",
-          "url": "https://www.fullphimz.net/p/xem-phim-truy-hon-the-soul"
+          "url": "https://www.ssphim.net/p/xem-phim-truy-hon-the-soul"
         },
         {
           "category": "Phim tình cảm",
@@ -42309,9 +42220,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603d0324d7e4d86e2fb722b1_nhan-danh-cong-ly-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603d0324d7e4d86e2fb722b1_nhan-danh-cong-ly-2.jpg",
           "title": "Nhân Danh Công Lý 2 - Drishyam 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhan-danh-cong-ly-2-drishyam-2"
+          "url": "https://www.ssphim.net/p/xem-phim-nhan-danh-cong-ly-2-drishyam-2"
         },
         {
           "category": "Phim tình cảm",
@@ -42321,9 +42232,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603bba78e93d35b10dccb9e8_suot-cuoc-doi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603bba78e93d35b10dccb9e8_suot-cuoc-doi.jpg",
           "title": "Suốt Cuộc Đời - All My Life ",
-          "url": "https://www.fullphimz.net/p/xem-phim-suot-cuoc-doi-all-my-life"
+          "url": "https://www.ssphim.net/p/xem-phim-suot-cuoc-doi-all-my-life"
         },
         {
           "category": "Phim tình cảm",
@@ -42333,9 +42244,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603ba29274b72b2d20f7e75b_magic-camp.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603ba29274b72b2d20f7e75b_magic-camp.jpg",
           "title": "Trại Hè Phép Thuật - Magic Camp ",
-          "url": "https://www.fullphimz.net/p/xem-phim-trai-he-phep-thuat-magic-camp-r2"
+          "url": "https://www.ssphim.net/p/xem-phim-trai-he-phep-thuat-magic-camp-r2"
         },
         {
           "category": "Phim hành động",
@@ -42345,9 +42256,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603b95b84f1ac8ed315ca358_song-du-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603b95b84f1ac8ed315ca358_song-du-2.jpg",
           "title": "Sóng Dữ 2 - Show Wave 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-song-du-2-show-wave-2"
+          "url": "https://www.ssphim.net/p/xem-phim-song-du-2-show-wave-2"
         },
         {
           "category": "Phim hành động",
@@ -42357,9 +42268,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603a50a2b4888fae9414ffaf_lang-nhuc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603a50a2b4888fae9414ffaf_lang-nhuc.jpg",
           "title": "Lăng Nhục - The Insult",
-          "url": "https://www.fullphimz.net/p/xem-phim-lang-nhuc-the-insult"
+          "url": "https://www.ssphim.net/p/xem-phim-lang-nhuc-the-insult"
         },
         {
           "category": "Phim tình cảm",
@@ -42369,9 +42280,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603925bda042a7c6b3d52936_i-care-alot.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603925bda042a7c6b3d52936_i-care-alot.jpg",
           "title": "Người Giám Hộ Hoàn Hảo - I Care A Lot",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-giam-ho-hoan-hao-i-care-a-lot"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-giam-ho-hoan-hao-i-care-a-lot"
         },
         {
           "category": "Phim tình cảm",
@@ -42381,9 +42292,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60379f211dac3526694cdca1_flora.jpg",
-          "title": "Flora Và Ulysses - Flora & Ulysses",
-          "url": "https://www.fullphimz.net/p/xem-phim-flora-va-ulysses-flora-ulysses"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60379f211dac3526694cdca1_flora.jpg",
+          "title": "Flora Và Ulysses - Flora & Ulysses",
+          "url": "https://www.ssphim.net/p/xem-phim-flora-va-ulysses-flora-ulysses"
         },
         {
           "category": "Phim hành động",
@@ -42393,9 +42304,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6035ba3152c37131c91fec32_anh-em-cung-cha-khac-me.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6035ba3152c37131c91fec32_anh-em-cung-cha-khac-me.jpg",
           "title": "Anh Em Cùng Cha Khác Mẹ - Half Brothers",
-          "url": "https://www.fullphimz.net/p/xem-phim-anh-em-cung-cha-khac-me-half-brothers"
+          "url": "https://www.ssphim.net/p/xem-phim-anh-em-cung-cha-khac-me-half-brothers"
         },
         {
           "category": "Phim hành động",
@@ -42405,9 +42316,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6035128fad4fe3f5f5891d3d_xu-so-dieu-ky-cua-wonderlan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6035128fad4fe3f5f5891d3d_xu-so-dieu-ky-cua-wonderlan.jpg",
           "title": "Xứ Sở Diệu Kỳ Của Willy: Willy's Wonderland",
-          "url": "https://www.fullphimz.net/p/xem-phim-xu-so-dieu-ky-cua-willy-willys-wonderland"
+          "url": "https://www.ssphim.net/p/xem-phim-xu-so-dieu-ky-cua-willy-willys-wonderland"
         },
         {
           "category": "Phim tình cảm",
@@ -42417,9 +42328,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6034f604f71e12e1797e3be7_dua-tre-thay-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6034f604f71e12e1797e3be7_dua-tre-thay-ma.jpg",
           "title": "Đứa Trẻ Thây Ma - Zombi Child",
-          "url": "https://www.fullphimz.net/p/xem-phim-dua-tre-thay-ma-zombi-child"
+          "url": "https://www.ssphim.net/p/xem-phim-dua-tre-thay-ma-zombi-child"
         },
         {
           "category": "Phim hành động",
@@ -42429,9 +42340,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6033d6523a8d0ca6607ff9fa_the-stronghold.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6033d6523a8d0ca6607ff9fa_the-stronghold.jpg",
           "title": "Trở Về Quá Khứ - The Stronghold",
-          "url": "https://www.fullphimz.net/p/xem-phim-tro-ve-qua-khu-the-stronghold"
+          "url": "https://www.ssphim.net/p/xem-phim-tro-ve-qua-khu-the-stronghold"
         },
         {
           "category": "Phim tình cảm",
@@ -42441,9 +42352,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6033cf9d36b84c1cfd53456b_bon-nguoi-ban.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6033cf9d36b84c1cfd53456b_bon-nguoi-ban.jpg",
           "title": "Bốn Người Bạn Học - Classmates Minus",
-          "url": "https://www.fullphimz.net/p/xem-phim-bon-nguoi-ban-hoc-classmates-minus"
+          "url": "https://www.ssphim.net/p/xem-phim-bon-nguoi-ban-hoc-classmates-minus"
         },
         {
           "category": "Phim hành động",
@@ -42453,9 +42364,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6033cad7717a85bfa83aff91_linh-danh-thue.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6033cad7717a85bfa83aff91_linh-danh-thue.jpg",
           "title": "Lính Đánh Thuê - The Mercenary",
-          "url": "https://www.fullphimz.net/p/xem-phim-linh-danh-thue-the-mercenary"
+          "url": "https://www.ssphim.net/p/xem-phim-linh-danh-thue-the-mercenary"
         },
         {
           "category": "Phim hành động",
@@ -42465,9 +42376,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602f92d5793b32deb578b155_cuoc-chien-pho-tau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602f92d5793b32deb578b155_cuoc-chien-pho-tau.jpg",
           "title": "Cuộc Chiến Phố Tàu - Wars In Chinatown",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-chien-pho-tau-wars-in-chinatown"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-chien-pho-tau-wars-in-chinatown"
         },
         {
           "category": "Phim tình cảm",
@@ -42477,9 +42388,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602f7520993cbe7eaf97a7c7_su-tro-treu-cua-tao-hoa.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602f7520993cbe7eaf97a7c7_su-tro-treu-cua-tao-hoa.jpg",
           "title": "Sự Trớ Trêu Của Tạo Hóa - Idiocracy",
-          "url": "https://www.fullphimz.net/p/xem-phim-su-tro-treu-cua-tao-hoa-idiocracy"
+          "url": "https://www.ssphim.net/p/xem-phim-su-tro-treu-cua-tao-hoa-idiocracy"
         },
         {
           "category": "Phim hành động",
@@ -42489,9 +42400,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602e8c411d1ec1599bac5035_tribal.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602e8c411d1ec1599bac5035_tribal.jpg",
           "title": "Khu Vực Chết: Cuộc Săn Đuổi - Tribal Get Out Alive",
-          "url": "https://www.fullphimz.net/p/xem-phim-khu-vuc-chet-cuoc-san-duoi-tribal-get-out-alive"
+          "url": "https://www.ssphim.net/p/xem-phim-khu-vuc-chet-cuoc-san-duoi-tribal-get-out-alive"
         },
         {
           "category": "Phim hành động",
@@ -42501,9 +42412,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602e2b71d078e10c0b7f26f7_pacific-rim.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602e2b71d078e10c0b7f26f7_pacific-rim.jpg",
           "title": "Siêu Đại Chiến Thái Bình Dương - Pacific Rim",
-          "url": "https://www.fullphimz.net/p/xem-phim-sieu-dai-chien-thai-binh-duong-pacific-rim"
+          "url": "https://www.ssphim.net/p/xem-phim-sieu-dai-chien-thai-binh-duong-pacific-rim"
         },
         {
           "category": "Phim tình cảm",
@@ -42513,9 +42424,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602d1811f119dc9622008e64_nhung-chang-trai-nam-ay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602d1811f119dc9622008e64_nhung-chang-trai-nam-ay.jpg",
           "title": "Những Chàng Trai Năm Ấy: Mãi Yêu - To All The Boys: Always And Forever",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-chang-trai-nam-ay-mai-yeu-to-all-the-boys-always-and-forever"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-chang-trai-nam-ay-mai-yeu-to-all-the-boys-always-and-forever"
         },
         {
           "category": "Phim tình cảm",
@@ -42525,9 +42436,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602b8144187a264393dbf010_giac-mong-giau-sang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602b8144187a264393dbf010_giac-mong-giau-sang.jpg",
           "title": "Giấc Mộng Giàu Sang - Dreams Of Getting Rich",
-          "url": "https://www.fullphimz.net/p/xem-phim-giac-mong-giau-sang-dreams-of-getting-rich"
+          "url": "https://www.ssphim.net/p/xem-phim-giac-mong-giau-sang-dreams-of-getting-rich"
         },
         {
           "category": "Phim tình cảm",
@@ -42537,9 +42448,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602b7250b08b1a2dae2cb85d_tanna.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602b7250b08b1a2dae2cb85d_tanna.jpg",
           "title": "Chuyện Tình Tanna - Tanna",
-          "url": "https://www.fullphimz.net/p/xem-phim-chuyen-tinh-tanna-tanna"
+          "url": "https://www.ssphim.net/p/xem-phim-chuyen-tinh-tanna-tanna"
         },
         {
           "category": "Phim hành động",
@@ -42549,9 +42460,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6029f422e638656e1907d858_manh-me-len.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6029f422e638656e1907d858_manh-me-len.jpg",
           "title": "Mạnh Mẽ Lên! Boys Be!",
-          "url": "https://www.fullphimz.net/p/xem-phim-manh-me-len-boys-be"
+          "url": "https://www.ssphim.net/p/xem-phim-manh-me-len-boys-be"
         },
         {
           "category": "Phim hành động",
@@ -42561,9 +42472,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6024ea7b07593964cf4d3efd_quai-vat-trong-may.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6024ea7b07593964cf4d3efd_quai-vat-trong-may.jpg",
           "title": "Quái Vật Trong Mây - Shadow In The Cloud",
-          "url": "https://www.fullphimz.net/p/xem-phim-quai-vat-trong-may-shadow-in-the-cloud"
+          "url": "https://www.ssphim.net/p/xem-phim-quai-vat-trong-may-shadow-in-the-cloud"
         },
         {
           "category": "Phim hành động",
@@ -42573,9 +42484,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6022b49f06bc6524cb7a0b24_hau-due-than-sam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6022b49f06bc6524cb7a0b24_hau-due-than-sam.jpg",
           "title": "Hậu Duệ Thần Sấm - Mortal",
-          "url": "https://www.fullphimz.net/p/xem-phim-hau-due-than-sam-mortal"
+          "url": "https://www.ssphim.net/p/xem-phim-hau-due-than-sam-mortal"
         },
         {
           "category": "Phim hành động",
@@ -42585,9 +42496,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602299daaea0ec2bca5053b8_doi-cuu-ho-tren-khong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602299daaea0ec2bca5053b8_doi-cuu-ho-tren-khong.jpg",
           "title": "Đội Cứu Hộ Trên Không - The Rescue",
-          "url": "https://www.fullphimz.net/p/xem-phim-doi-cuu-ho-tren-khong-the-rescue"
+          "url": "https://www.ssphim.net/p/xem-phim-doi-cuu-ho-tren-khong-the-rescue"
         },
         {
           "category": "Phim hành động",
@@ -42597,9 +42508,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60215e6e2d4b8f036b57a9b7_lua-chon-sinh-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60215e6e2d4b8f036b57a9b7_lua-chon-sinh-tu.jpg",
           "title": "Lựa Chọn Sinh Tử - Run Hide Fight",
-          "url": "https://www.fullphimz.net/p/xem-phim-lua-chon-sinh-tu-run-hide-fight"
+          "url": "https://www.ssphim.net/p/xem-phim-lua-chon-sinh-tu-run-hide-fight"
         },
         {
           "category": "Phim hành động",
@@ -42609,9 +42520,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60214a88be5e77e6985b9c88_bat-bach.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60214a88be5e77e6985b9c88_bat-bach.jpg",
           "title": "Bát Bách - The Eight Hundred",
-          "url": "https://www.fullphimz.net/p/xem-phim-bat-bach-the-eight-hundred"
+          "url": "https://www.ssphim.net/p/xem-phim-bat-bach-the-eight-hundred"
         },
         {
           "category": "Phim tình cảm",
@@ -42621,9 +42532,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60200a496ff0dae2c92d6cfa_hay-de-thang-be-di.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60200a496ff0dae2c92d6cfa_hay-de-thang-be-di.jpg",
           "title": "Người Giám Hộ - Palmer",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-giam-ho-palmer"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-giam-ho-palmer"
         },
         {
           "category": "Phim hành động",
@@ -42633,9 +42544,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601feb08bc7756d970eb7eac_truc-giac-chet-nguoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601feb08bc7756d970eb7eac_truc-giac-chet-nguoi.jpg",
           "title": "Trực Giác Chết Người - Fatal Intuition",
-          "url": "https://www.fullphimz.net/p/xem-phim-truc-giac-chet-nguoi-fatal-intuition"
+          "url": "https://www.ssphim.net/p/xem-phim-truc-giac-chet-nguoi-fatal-intuition"
         },
         {
           "category": "Phim hành động",
@@ -42645,9 +42556,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601bbcb95b1ebda648fdd159_con-tau-chien-thang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601bbcb95b1ebda648fdd159_con-tau-chien-thang.jpg",
           "title": "Con Tàu Chiến Thắng - Space Sweepers",
-          "url": "https://www.fullphimz.net/p/xem-phim-con-tau-chien-thang-space-sweepers"
+          "url": "https://www.ssphim.net/p/xem-phim-con-tau-chien-thang-space-sweepers"
         },
         {
           "category": "Phim tình cảm",
@@ -42657,9 +42568,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601ac795f44e6b524eeadf9f_to-bu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601ac795f44e6b524eeadf9f_to-bu.jpg",
           "title": "To Bự - Enormous",
-          "url": "https://www.fullphimz.net/p/xem-phim-to-bu-enormous"
+          "url": "https://www.ssphim.net/p/xem-phim-to-bu-enormous"
         },
         {
           "category": "Phim tình cảm",
@@ -42669,9 +42580,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601ab67d744b590e54569322_canh-cut-bloom.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601ab67d744b590e54569322_canh-cut-bloom.jpg",
           "title": "Cánh Cụt Nhà Bloom - Penguin Bloom",
-          "url": "https://www.fullphimz.net/p/xem-phim-canh-cut-nha-bloom-penguin-bloom"
+          "url": "https://www.ssphim.net/p/xem-phim-canh-cut-nha-bloom-penguin-bloom"
         },
         {
           "category": "Phim tình cảm",
@@ -42681,9 +42592,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601826df21ea15621c207776_the-dig.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601826df21ea15621c207776_the-dig.jpg",
           "title": "Cuộc Khai Quật - The Dig",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-khai-quat-the-dig"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-khai-quat-the-dig"
         },
         {
           "category": "Phim phiêu lưu",
@@ -42693,9 +42604,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6018078d0940aacf6da04deb_vuong-quoc-nathan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6018078d0940aacf6da04deb_vuong-quoc-nathan.jpg",
           "title": "Vương Quốc Của Nathan - Nathan's Kingdom",
-          "url": "https://www.fullphimz.net/p/xem-phim-vuong-quoc-cua-nathan-nathans-kingdom"
+          "url": "https://www.ssphim.net/p/xem-phim-vuong-quoc-cua-nathan-nathans-kingdom"
         },
         {
           "category": "Phim hành động",
@@ -42705,9 +42616,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6016bece8cd4416952ea30d2_duoi-do-khong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6016bece8cd4416952ea30d2_duoi-do-khong.jpg",
           "title": "Dưới Độ Không - Below Zero",
-          "url": "https://www.fullphimz.net/p/xem-phim-duoi-do-khong-below-zero"
+          "url": "https://www.ssphim.net/p/xem-phim-duoi-do-khong-below-zero"
         },
         {
           "category": "Phim tình cảm",
@@ -42717,9 +42628,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60156b2610e35b1f31609d1d_chan-sil-may-man.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60156b2610e35b1f31609d1d_chan-sil-may-man.jpg",
           "title": "Chan-Sil May Mắn - Lucky Chan-Sil ",
-          "url": "https://www.fullphimz.net/p/xem-phim-chan-sil-may-man-lucky-chan-sil"
+          "url": "https://www.ssphim.net/p/xem-phim-chan-sil-may-man-lucky-chan-sil"
         },
         {
           "category": "Phim hành động",
@@ -42729,9 +42640,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60140b512e5afdc9734db084_ao-giac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60140b512e5afdc9734db084_ao-giac.jpg",
           "title": "Ảo Giác - Synchronic",
-          "url": "https://www.fullphimz.net/p/xem-phim-ao-giac-synchronic"
+          "url": "https://www.ssphim.net/p/xem-phim-ao-giac-synchronic"
         },
         {
           "category": "Phim cổ trang",
@@ -42741,9 +42652,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60118b293bc046116eb6c64b_huu-phi-pha-tuyet-tram.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60118b293bc046116eb6c64b_huu-phi-pha-tuyet-tram.jpg",
           "title": "Hữu Phỉ: Phá Tuyết Trảm - The Unbeatable",
-          "url": "https://www.fullphimz.net/p/xem-phim-huu-phi-pha-tuyet-tram-the-unbeatable"
+          "url": "https://www.ssphim.net/p/xem-phim-huu-phi-pha-tuyet-tram-the-unbeatable"
         },
         {
           "category": "Phim tình cảm",
@@ -42753,9 +42664,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/601034d426abe27ccac30b19_doi-mo-cha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/601034d426abe27ccac30b19_doi-mo-cha.jpg",
           "title": "Dời Mộ Cha - Move The Grave",
-          "url": "https://www.fullphimz.net/p/xem-phim-doi-mo-cha-move-the-grave"
+          "url": "https://www.ssphim.net/p/xem-phim-doi-mo-cha-move-the-grave"
         },
         {
           "category": "Phim tình cảm",
@@ -42765,9 +42676,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60101b226382cb8e9fbebdeb_lieu-mai-nay-em-con-yeu-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60101b226382cb8e9fbebdeb_lieu-mai-nay-em-con-yeu-anh.jpg",
           "title": "Liệu Mai Này Em Có Còn Yêu Anh - I Remember",
-          "url": "https://www.fullphimz.net/p/xem-phim-lieu-mai-nay-em-co-con-yeu-anh-i-remember"
+          "url": "https://www.ssphim.net/p/xem-phim-lieu-mai-nay-em-co-con-yeu-anh-i-remember"
         },
         {
           "category": "Phim tình cảm",
@@ -42777,9 +42688,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600ee18f8208895d8bb992a7_neu-thanh-am-khong-ghi-nho.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600ee18f8208895d8bb992a7_neu-thanh-am-khong-ghi-nho.jpg",
           "title": "Nếu Thanh Âm Không Ghi Nhớ - The End Of Endless Love",
-          "url": "https://www.fullphimz.net/p/xem-phim-neu-thanh-am-khong-ghi-nho-the-end-of-endless-love"
+          "url": "https://www.ssphim.net/p/xem-phim-neu-thanh-am-khong-ghi-nho-the-end-of-endless-love"
         },
         {
           "category": "Phim tình cảm",
@@ -42789,9 +42700,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600ed3f8c70cf6ff15566fcb_khoanh-khac-ay-muon-gap-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600ed3f8c70cf6ff15566fcb_khoanh-khac-ay-muon-gap-em.jpg",
           "title": "Khoảnh Khắc Này, Muốn Gặp Em - In My Heart",
-          "url": "https://www.fullphimz.net/p/xem-phim-khoanh-khac-nay-muon-gap-em-in-my-heart"
+          "url": "https://www.ssphim.net/p/xem-phim-khoanh-khac-nay-muon-gap-em-in-my-heart"
         },
         {
           "category": "Phim hành động",
@@ -42801,9 +42712,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600ec1c492df095acf7a5515_nha-nghi-quy-am.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600ec1c492df095acf7a5515_nha-nghi-quy-am.jpg",
           "title": "Nhà Nghỉ Quỷ Ám - The Lodge",
-          "url": "https://www.fullphimz.net/p/xem-phim-nha-nghi-quy-am-the-lodge"
+          "url": "https://www.ssphim.net/p/xem-phim-nha-nghi-quy-am-the-lodge"
         },
         {
           "category": "Phim hành động",
@@ -42813,9 +42724,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600c3d5a6b17ac6a52fc764a_anh-em-sat-thu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600c3d5a6b17ac6a52fc764a_anh-em-sat-thu.jpg",
           "title": "Anh Em Sát Thủ - The Sisters Brothers",
-          "url": "https://www.fullphimz.net/p/xem-phim-anh-em-sat-thu-the-sisters-brothers"
+          "url": "https://www.ssphim.net/p/xem-phim-anh-em-sat-thu-the-sisters-brothers"
         },
         {
           "category": "Phim hành động",
@@ -42825,9 +42736,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600c2a6299d75611a14123df_tho-san-ke-giet-nguoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600c2a6299d75611a14123df_tho-san-ke-giet-nguoi.jpg",
           "title": "Thợ Săn Kẻ Giết Người - Hunter Hunter ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tho-san-ke-giet-nguoi-hunter-hunter"
+          "url": "https://www.ssphim.net/p/xem-phim-tho-san-ke-giet-nguoi-hunter-hunter"
         },
         {
           "category": "Phim hành động",
@@ -42837,9 +42748,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600af17a6c219b06f9e2fd7a_color-space.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600af17a6c219b06f9e2fd7a_color-space.jpg",
           "title": "Sắc Màu Không Gian - Color Out Of Space",
-          "url": "https://www.fullphimz.net/p/xem-phim-sac-mau-khong-gian-color-out-of-space"
+          "url": "https://www.ssphim.net/p/xem-phim-sac-mau-khong-gian-color-out-of-space"
         },
         {
           "category": "Phim hành động",
@@ -42849,9 +42760,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600ad821d3a177856b068f10_follow-me.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600ad821d3a177856b068f10_follow-me.jpg",
           "title": "Buổi Phát Sóng Kinh Hoàng - Follow Me",
-          "url": "https://www.fullphimz.net/p/xem-phim-buoi-phat-song-kinh-hoang-follow-me"
+          "url": "https://www.ssphim.net/p/xem-phim-buoi-phat-song-kinh-hoang-follow-me"
         },
         {
           "category": "Phim tình cảm",
@@ -42861,9 +42772,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6009af2a87e8647d8bb1df9d_jackson-vo-gia.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6009af2a87e8647d8bb1df9d_jackson-vo-gia.jpg",
           "title": "Jackson Vô Giá - Anything For Jackson",
-          "url": "https://www.fullphimz.net/p/xem-phim-jackson-vo-gia-anything-for-jackson"
+          "url": "https://www.ssphim.net/p/xem-phim-jackson-vo-gia-anything-for-jackson"
         },
         {
           "category": "Phim tình cảm",
@@ -42873,9 +42784,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600854e0830b6f43a7d61547_diem-mu-chet-nguoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600854e0830b6f43a7d61547_diem-mu-chet-nguoi.jpg",
           "title": "Điểm Mù Chết Chóc - Sightless",
-          "url": "https://www.fullphimz.net/p/xem-phim-diem-mu-chet-choc-sightless"
+          "url": "https://www.ssphim.net/p/xem-phim-diem-mu-chet-choc-sightless"
         },
         {
           "category": "Phim hành động",
@@ -42885,9 +42796,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6006f8b28b44cddd9b4e52be_vo-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6006f8b28b44cddd9b4e52be_vo-toi.jpg",
           "title": "Vô Tội - Innocence",
-          "url": "https://www.fullphimz.net/p/xem-phim-vo-toi-innocence"
+          "url": "https://www.ssphim.net/p/xem-phim-vo-toi-innocence"
         },
         {
           "category": "Phim hành động",
@@ -42897,9 +42808,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6006eb3c90b37ab021a1f570_xao-quyet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6006eb3c90b37ab021a1f570_xao-quyet.jpg",
           "title": "Xảo Quyệt - Fatale",
-          "url": "https://www.fullphimz.net/p/xem-phim-xao-quyet-fatale"
+          "url": "https://www.ssphim.net/p/xem-phim-xao-quyet-fatale"
         },
         {
           "category": "Phim tình cảm",
@@ -42909,9 +42820,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6005b1f01979f350d6a55ede_Lop-hoc-tieng-anh-cong-ty-samjin.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6005b1f01979f350d6a55ede_Lop-hoc-tieng-anh-cong-ty-samjin.jpg",
           "title": "Lớp Học Tiếng Anh Của Công Ty Samjin - Samjin Company English Class",
-          "url": "https://www.fullphimz.net/p/xem-phim-lop-hoc-tieng-anh-cua-cong-ty-samjin-samjin-company-english-class"
+          "url": "https://www.ssphim.net/p/xem-phim-lop-hoc-tieng-anh-cua-cong-ty-samjin-samjin-company-english-class"
         },
         {
           "category": "Phim phiêu lưu",
@@ -42921,9 +42832,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6005a2fd4c04987ed60255fc_chuyen-di-dinh-menh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6005a2fd4c04987ed60255fc_chuyen-di-dinh-menh.jpg",
           "title": "Chuyến Đi Định Mệnh - News Of The World",
-          "url": "https://www.fullphimz.net/p/xem-phim-chuyen-di-dinh-menh-news-of-the-world"
+          "url": "https://www.ssphim.net/p/xem-phim-chuyen-di-dinh-menh-news-of-the-world"
         },
         {
           "category": "Phim tình cảm",
@@ -42933,9 +42844,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60046764c514c52afd000515_dam-cuoi-nho-doi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60046764c514c52afd000515_dam-cuoi-nho-doi.jpg",
           "title": "Đám Cưới Nhớ Đời - Palm Springs",
-          "url": "https://www.fullphimz.net/p/xem-phim-dam-cuoi-nho-doi-palm-springs-r2"
+          "url": "https://www.ssphim.net/p/xem-phim-dam-cuoi-nho-doi-palm-springs-r2"
         },
         {
           "category": "Phim hành động",
@@ -42945,9 +42856,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6002e6b85cbe41b5e38bbbb9_vung-chien-su-hiem-nguy.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6002e6b85cbe41b5e38bbbb9_vung-chien-su-hiem-nguy.jpg",
           "title": "Vùng Chiến Sự Nguy Hiểm - Outside The Wire",
-          "url": "https://www.fullphimz.net/p/xem-phim-vung-chien-su-nguy-hiem-outside-the-wire"
+          "url": "https://www.ssphim.net/p/xem-phim-vung-chien-su-nguy-hiem-outside-the-wire"
         },
         {
           "category": "Phim tình cảm",
@@ -42957,9 +42868,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6001bb39a02416efd6d2fea9_ao-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6001bb39a02416efd6d2fea9_ao-anh.jpg",
           "title": "Ảo Ảnh - Mirage",
-          "url": "https://www.fullphimz.net/p/xem-phim-ao-anh-mirage"
+          "url": "https://www.ssphim.net/p/xem-phim-ao-anh-mirage"
         },
         {
           "category": "Phim hành động",
@@ -42969,9 +42880,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6001a9fb3ccfcd0aaccd14fd_ke-ngoai-bang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6001a9fb3ccfcd0aaccd14fd_ke-ngoai-bang.jpg",
           "title": "Kẻ Ngoại Bang - The Outsider",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-ngoai-bang-the-outsider"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-ngoai-bang-the-outsider"
         },
         {
           "category": "Phim hành động",
@@ -42981,9 +42892,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60005090f421cf59f4daa74d_giao-lo.jpg",
-          "title": "Giao Lộ - Intersection",
-          "url": "https://www.fullphimz.net/p/xem-phim-giao-lo-intersection"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60005090f421cf59f4daa74d_giao-lo.jpg",
+          "title": "Giao Lộ - Intersection",
+          "url": "https://www.ssphim.net/p/xem-phim-giao-lo-intersection"
         },
         {
           "category": "Phim hành động",
@@ -42993,9 +42904,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fffb856cde6686f11f7418e_man-on-a-ledge.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fffb856cde6686f11f7418e_man-on-a-ledge.jpg",
           "title": "Người Đàn Ông Trên Gờ Tường - Man On A Ledge ",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-dan-ong-tren-go-tuong-man-on-a-ledge"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-dan-ong-tren-go-tuong-man-on-a-ledge"
         },
         {
           "category": "Phim hành động",
@@ -43005,9 +42916,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fffb577b70ea65e7e402012_toi-pham-nhan-ban.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fffb577b70ea65e7e402012_toi-pham-nhan-ban.jpg",
           "title": "Tội Phạm Nhân Bản 2049 - Blade Runner 2049",
-          "url": "https://www.fullphimz.net/p/xem-phim-toi-pham-nhan-ban-2049-blade-runner-2049"
+          "url": "https://www.ssphim.net/p/xem-phim-toi-pham-nhan-ban-2049-blade-runner-2049"
         },
         {
           "category": "Phim hành động",
@@ -43017,9 +42928,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fffafd444e7537d785a0275_doi-quan-mot-nguoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fffafd444e7537d785a0275_doi-quan-mot-nguoi.jpg",
           "title": "Đội Quân Một Người - Army Of One",
-          "url": "https://www.fullphimz.net/p/xem-phim-doi-quan-mot-nguoi-army-of-one"
+          "url": "https://www.ssphim.net/p/xem-phim-doi-quan-mot-nguoi-army-of-one"
         },
         {
           "category": "Phim tình cảm",
@@ -43029,9 +42940,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffdcf2505a72b57de4b26d4_hang-tho.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffdcf2505a72b57de4b26d4_hang-tho.jpg",
           "title": "Hang Thỏ - Burrow (2020) ",
-          "url": "https://www.fullphimz.net/p/xem-phim-hang-tho-burrow-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-hang-tho-burrow-2020"
         },
         {
           "category": "Phim tình cảm",
@@ -43041,9 +42952,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffc5d5a5dc7b099293a28cf_manh-vo-nguoi-phu-nu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffc5d5a5dc7b099293a28cf_manh-vo-nguoi-phu-nu.jpg",
           "title": "Những Mảnh Vỡ Của Người Phụ Nữ - Pieces Of A Woman",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-manh-vo-cua-nguoi-phu-nu-pieces-of-a-woman"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-manh-vo-cua-nguoi-phu-nu-pieces-of-a-woman"
         },
         {
           "category": "Phim hành động",
@@ -43053,9 +42964,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffb2c8c0efac86d2eb373e5_toi-la-vo-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffb2c8c0efac86d2eb373e5_toi-la-vo-anh.jpg",
           "title": "Tôi Là Vợ Của Anh - I’m Your Woman",
-          "url": "https://www.fullphimz.net/p/xem-phim-toi-la-vo-cua-anh-im-your-woman"
+          "url": "https://www.ssphim.net/p/xem-phim-toi-la-vo-cua-anh-im-your-woman"
         },
         {
           "category": "Phim hành động",
@@ -43065,9 +42976,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffb24a57d2b13acc137f626_cho-nguoi-man-ro.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffb24a57d2b13acc137f626_cho-nguoi-man-ro.jpg",
           "title": "Chờ Người Man Rợ - Waiting For The Barbarians ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cho-nguoi-man-ro-waiting-for-the-barbarians"
+          "url": "https://www.ssphim.net/p/xem-phim-cho-nguoi-man-ro-waiting-for-the-barbarians"
         },
         {
           "category": "Phim hành động",
@@ -43077,9 +42988,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff9d1f60a2fb1350f64901d_breaking-surface.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff9d1f60a2fb1350f64901d_breaking-surface.jpg",
           "title": "Thoát Khỏi Đáy Đại Dương - Breaking Surface",
-          "url": "https://www.fullphimz.net/p/xem-phim-thoat-khoi-day-dai-duong-breaking-surface"
+          "url": "https://www.ssphim.net/p/xem-phim-thoat-khoi-day-dai-duong-breaking-surface"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43089,9 +43000,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff8779f061490285a8b8492_bau-troi-luc-nua-dem.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff8779f061490285a8b8492_bau-troi-luc-nua-dem.jpg",
           "title": "Lấp Lánh Trời Đêm - The Midnight Sky",
-          "url": "https://www.fullphimz.net/p/xem-phim-lap-lanh-troi-dem-the-midnight-sky"
+          "url": "https://www.ssphim.net/p/xem-phim-lap-lanh-troi-dem-the-midnight-sky"
         },
         {
           "category": "Phim hành động",
@@ -43101,9 +43012,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff86b732a54d245bfcd506a_bao-thu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff86b732a54d245bfcd506a_bao-thu.jpg",
           "title": "Báo thù - Bye (2019)",
-          "url": "https://www.fullphimz.net/p/xem-phim-bao-thu-bye-2019"
+          "url": "https://www.ssphim.net/p/xem-phim-bao-thu-bye-2019"
         },
         {
           "category": "Phim hành động",
@@ -43113,9 +43024,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff5e8c1c259a6b93bcc9bd4_dang-cap-boss.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff5e8c1c259a6b93bcc9bd4_dang-cap-boss.jpg",
           "title": "Đẳng Cấp Boss - Boss Level",
-          "url": "https://www.fullphimz.net/p/xem-phim-dang-cap-boss-boss-level"
+          "url": "https://www.ssphim.net/p/xem-phim-dang-cap-boss-boss-level"
         },
         {
           "category": "Phim tình cảm",
@@ -43125,9 +43036,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fedd67ec2e1897957e0af1b_hamiton.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fedd67ec2e1897957e0af1b_hamiton.jpg",
           "title": "Anh Hùng Hamilton",
-          "url": "https://www.fullphimz.net/p/xem-phim-anh-hung-hamilton"
+          "url": "https://www.ssphim.net/p/xem-phim-anh-hung-hamilton"
         },
         {
           "category": "Phim hành động",
@@ -43137,9 +43048,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fedd25499876bed120390e2_tarzan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fedd25499876bed120390e2_tarzan.jpg",
           "title": "Huyền Thoại Tarzan - The Legend Of Tarzan ",
-          "url": "https://www.fullphimz.net/p/xem-phim-huyen-thoai-tarzan-the-legend-of-tarzan"
+          "url": "https://www.ssphim.net/p/xem-phim-huyen-thoai-tarzan-the-legend-of-tarzan"
         },
         {
           "category": "Phim hành động",
@@ -43149,9 +43060,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640c20a12fae_Diep-van.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640c20a12fae_Diep-van.jpg",
           "title": "Diệp Vấn : Bậc Thầy Võ Thuật",
-          "url": "https://www.fullphimz.net/p/xem-phim-diep-van-bac-thay-vo-thuat"
+          "url": "https://www.ssphim.net/p/xem-phim-diep-van-bac-thay-vo-thuat"
         },
         {
           "category": "Phim hành động",
@@ -43161,9 +43072,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c737a12fa7_fat-man.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c737a12fa7_fat-man.jpg",
           "title": "Gã Mập - Fatman",
-          "url": "https://www.fullphimz.net/p/xem-phim-ga-map-fatman"
+          "url": "https://www.ssphim.net/p/xem-phim-ga-map-fatman"
         },
         {
           "category": "Phim hành động",
@@ -43173,9 +43084,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646435a12fb5_tran-chien-mua-dong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646435a12fb5_tran-chien-mua-dong.jpg",
           "title": "Trận Chiến Bulge : Cuộc Chiến Mùa Đông",
-          "url": "https://www.fullphimz.net/p/xem-phim-tran-chien-bulge-cuoc-chien-mua-dong"
+          "url": "https://www.ssphim.net/p/xem-phim-tran-chien-bulge-cuoc-chien-mua-dong"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43185,9 +43096,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c8a3a12fa8_black-bear.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c8a3a12fa8_black-bear.jpg",
           "title": "Gấu Đen - Black Bear ",
-          "url": "https://www.fullphimz.net/p/xem-phim-gau-den-black-bear"
+          "url": "https://www.ssphim.net/p/xem-phim-gau-den-black-bear"
         },
         {
           "category": "Phim hành động",
@@ -43197,9 +43108,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6476afa12f9b_chien-ma.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6476afa12f9b_chien-ma.jpg",
           "title": "Chiến Mã - War Horse",
-          "url": "https://www.fullphimz.net/p/xem-phim-chien-ma-war-horse"
+          "url": "https://www.ssphim.net/p/xem-phim-chien-ma-war-horse"
         },
         {
           "category": "Phim hành động",
@@ -43209,9 +43120,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6439d5a12f93_sieu-thu-cuong-no.jpg",
-          "title": "Siêu Thú Cuồng Nộ - Rampage",
-          "url": "https://www.fullphimz.net/p/xem-phim-sieu-thu-cuong-no-rampage"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6439d5a12f93_sieu-thu-cuong-no.jpg",
+          "title": "Siêu Thú Cuồng Nộ - Rampage",
+          "url": "https://www.ssphim.net/p/xem-phim-sieu-thu-cuong-no-rampage"
         },
         {
           "category": "Phim hành động",
@@ -43221,9 +43132,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644f28a12fbb_dau-truong-ao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644f28a12fbb_dau-truong-ao.jpg",
           "title": " Đấu Trường Ảo : Ready Player One",
-          "url": "https://www.fullphimz.net/p/xem-phim-dau-truong-ao-ready-player-one"
+          "url": "https://www.ssphim.net/p/xem-phim-dau-truong-ao-ready-player-one"
         },
         {
           "category": "Phim tình cảm",
@@ -43233,9 +43144,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643d12a12fba_cau-be-mac-do-pyjama-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643d12a12fba_cau-be-mac-do-pyjama-1.jpg",
           "title": "Chú Bé Mang Pyjama Sọc ",
-          "url": "https://www.fullphimz.net/p/xem-phim-chu-be-mang-pyjama-soc"
+          "url": "https://www.ssphim.net/p/xem-phim-chu-be-mang-pyjama-soc"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43245,9 +43156,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64abf1a12fb0_tro-choi-ky-ao-thang-cap.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64abf1a12fb0_tro-choi-ky-ao-thang-cap.jpg",
           "title": "Jumanji : Trò Chơi Kỳ Ảo - Thăng Cấp (Jumanji : The Next Level)",
-          "url": "https://www.fullphimz.net/p/xem-phim-jumanji-tro-choi-ky-ao-thang-cap-jumanji-the-next-level"
+          "url": "https://www.ssphim.net/p/xem-phim-jumanji-tro-choi-ky-ao-thang-cap-jumanji-the-next-level"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43257,9 +43168,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642240a12f9f_tro-choi-ky-ao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642240a12f9f_tro-choi-ky-ao.jpg",
           "title": "Jumanji : Trò Chơi Kỳ Ảo - Jumanji : Welcome To The Jungle",
-          "url": "https://www.fullphimz.net/p/xem-phim-jumanji-tro-choi-ky-ao-jumanji-welcome-to-the-jungle"
+          "url": "https://www.ssphim.net/p/xem-phim-jumanji-tro-choi-ky-ao-jumanji-welcome-to-the-jungle"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43269,9 +43180,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64adefa12f60_voces.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64adefa12f60_voces.jpg",
           "title": "Đừng Nghe - Don’t Listen (Voces)",
-          "url": "https://www.fullphimz.net/p/xem-phim-dung-nghe-dont-listen-voces"
+          "url": "https://www.ssphim.net/p/xem-phim-dung-nghe-dont-listen-voces"
         },
         {
           "category": "Phim tình cảm",
@@ -43281,9 +43192,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6465c6a12f75_the-prom.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6465c6a12f75_the-prom.jpg",
           "title": "Vũ Hội Tốt Nghiệp - The Prom",
-          "url": "https://www.fullphimz.net/p/xem-phim-vu-hoi-tot-nghiep-the-prom"
+          "url": "https://www.ssphim.net/p/xem-phim-vu-hoi-tot-nghiep-the-prom"
         },
         {
           "category": "Phim hành động",
@@ -43293,9 +43204,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643710a12f80_to-chuc-hoang-kim.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643710a12f80_to-chuc-hoang-kim.jpg",
           "title": "Mật Vụ Kingsman : Tổ chức Hoàng Kim - Kingsman : The Golden Circle",
-          "url": "https://www.fullphimz.net/p/xem-phim-mat-vu-kingsman-to-chuc-hoang-kim-kingsman-the-golden-circle"
+          "url": "https://www.ssphim.net/p/xem-phim-mat-vu-kingsman-to-chuc-hoang-kim-kingsman-the-golden-circle"
         },
         {
           "category": "Phim hành động",
@@ -43305,9 +43216,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649ecfa12f63_kingsman.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649ecfa12f63_kingsman.jpg",
           "title": "Mật Vụ Kingsman - Kingsman : The Secret Service",
-          "url": "https://www.fullphimz.net/p/xem-phim-mat-vu-kingsman-kingsman-the-secret-service"
+          "url": "https://www.ssphim.net/p/xem-phim-mat-vu-kingsman-kingsman-the-secret-service"
         },
         {
           "category": "Phim tình cảm",
@@ -43317,9 +43228,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6414baa12f5d_cuong-tinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6414baa12f5d_cuong-tinh.jpg",
           "title": "Cuồng Tình - Ammonite",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuong-tinh-ammonite"
+          "url": "https://www.ssphim.net/p/xem-phim-cuong-tinh-ammonite"
         },
         {
           "category": "Phim tình cảm",
@@ -43329,9 +43240,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b630a12f76_muu-cau-hanh-phuc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b630a12f76_muu-cau-hanh-phuc.jpg",
           "title": "Mưu Cầu Hạnh Phúc - The Pursuit Of Happyness",
-          "url": "https://www.fullphimz.net/p/xem-phim-muu-cau-hanh-phuc-the-pursuit-of-happyness"
+          "url": "https://www.ssphim.net/p/xem-phim-muu-cau-hanh-phuc-the-pursuit-of-happyness"
         },
         {
           "category": "Phim hành động",
@@ -43341,9 +43252,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640496a12f59_the-invincible-man.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640496a12f59_the-invincible-man.jpg",
           "title": "Kẻ Vô Hình - The Invisible Man",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-vo-hinh-the-invisible-man"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-vo-hinh-the-invisible-man"
         },
         {
           "category": "Phim tình cảm",
@@ -43353,9 +43264,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a271a12f4f_mai-ben-chau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a271a12f4f_mai-ben-chau.jpg",
           "title": "Mãi Bên Cháu ( Stand By Me - Deok Gu)",
-          "url": "https://www.fullphimz.net/p/xem-phim-mai-ben-chau-stand-by-me-deok-gu"
+          "url": "https://www.ssphim.net/p/xem-phim-mai-ben-chau-stand-by-me-deok-gu"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43365,9 +43276,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e060a12f5a_phu-thuy-hoc-duong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e060a12f5a_phu-thuy-hoc-duong.jpg",
           "title": "Phù Thuỷ Học Đường - The Craft Legacy",
-          "url": "https://www.fullphimz.net/p/xem-phim-phu-thuy-hoc-duong-the-craft-legacy"
+          "url": "https://www.ssphim.net/p/xem-phim-phu-thuy-hoc-duong-the-craft-legacy"
         },
         {
           "category": "Phim hành động",
@@ -43377,9 +43288,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e10a12f50_sieu-ve-si-so-vo.jpg",
-          "title": "Siêu Vệ Sĩ Sợ Vợ  - Bodyguard-Na-Hak (2019)",
-          "url": "https://www.fullphimz.net/p/xem-phim-sieu-ve-si-so-vo-bodyguard-na-hak-2019"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e10a12f50_sieu-ve-si-so-vo.jpg",
+          "title": "Siêu Vệ Sĩ Sợ Vợ  - Bodyguard-Na-Hak (2019)",
+          "url": "https://www.ssphim.net/p/xem-phim-sieu-ve-si-so-vo-bodyguard-na-hak-2019"
         },
         {
           "category": "Phim hành động",
@@ -43389,9 +43300,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646be7a12f68_mosul.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646be7a12f68_mosul.jpg",
           "title": "Mosul (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-mosul-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-mosul-2020"
         },
         {
           "category": "Phim hành động",
@@ -43401,9 +43312,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a98a12f12_loi-thoat-tren-khong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a98a12f12_loi-thoat-tren-khong.jpg",
           "title": "Lối Thoát Trên Không - Exit (2019)",
-          "url": "https://www.fullphimz.net/p/xem-phim-loi-thoat-tren-khong-exit-2019-r1"
+          "url": "https://www.ssphim.net/p/xem-phim-loi-thoat-tren-khong-exit-2019-r1"
         },
         {
           "category": "Phim tình cảm",
@@ -43413,9 +43324,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642f11a12f3f_ngay-em-dep-nhat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642f11a12f3f_ngay-em-dep-nhat.jpg",
           "title": "Ngày Em Đẹp Nhất - On Your Wedding Day",
-          "url": "https://www.fullphimz.net/p/xem-phim-ngay-em-dep-nhat-on-your-wedding-day"
+          "url": "https://www.ssphim.net/p/xem-phim-ngay-em-dep-nhat-on-your-wedding-day"
         },
         {
           "category": "Phim hành động",
@@ -43425,9 +43336,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ff5aa12f28_trum-com-ac-quy.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ff5aa12f28_trum-com-ac-quy.jpg",
           "title": "Trùm, Cớm Và Ác Quỷ (The Gangster, The Cop And The Devil)",
-          "url": "https://www.fullphimz.net/p/xem-phim-trum-com-va-ac-quy-the-gangster-the-cop-and-the-devil"
+          "url": "https://www.ssphim.net/p/xem-phim-trum-com-va-ac-quy-the-gangster-the-cop-and-the-devil"
         },
         {
           "category": "Phim tình cảm",
@@ -43437,9 +43348,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d132a12f32_hope.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d132a12f32_hope.jpg",
           "title": "Hy Vọng - Hope (2013)",
-          "url": "https://www.fullphimz.net/p/xem-phim-hy-vong-hope-2013"
+          "url": "https://www.ssphim.net/p/xem-phim-hy-vong-hope-2013"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43449,9 +43360,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641833a12f10_togo.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641833a12f10_togo.jpg",
           "title": "Chú Chó Togo - Togo (2019)",
-          "url": "https://www.fullphimz.net/p/xem-phim-chu-cho-togo-togo-2019"
+          "url": "https://www.ssphim.net/p/xem-phim-chu-cho-togo-togo-2019"
         },
         {
           "category": "Phim hành động",
@@ -43461,9 +43372,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c6d6a12f02_cuop-nguc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c6d6a12f02_cuop-nguc.jpg",
           "title": "Cướp Ngục - Seized (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuop-nguc-seized-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-cuop-nguc-seized-2020"
         },
         {
           "category": "Phim hành động",
@@ -43473,9 +43384,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6434dfa12ef4_dac-vu-ngam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6434dfa12ef4_dac-vu-ngam.jpg",
           "title": "Đặc Vụ Ngầm - Legacy Of Lies",
-          "url": "https://www.fullphimz.net/p/xem-phim-dac-vu-ngam-legacy-of-lies"
+          "url": "https://www.ssphim.net/p/xem-phim-dac-vu-ngam-legacy-of-lies"
         },
         {
           "category": "Phim tình cảm",
@@ -43485,9 +43396,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64831ea12efa_life-in-a-year.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64831ea12efa_life-in-a-year.jpg",
           "title": "Một Năm Để Sống - Life In A Year ",
-          "url": "https://www.fullphimz.net/p/xem-phim-mot-nam-de-song-life-in-a-year"
+          "url": "https://www.ssphim.net/p/xem-phim-mot-nam-de-song-life-in-a-year"
         },
         {
           "category": "Phim hành động",
@@ -43497,9 +43408,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64673da12ee5_la-belva.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64673da12ee5_la-belva.jpg",
           "title": "Quái Thú Tìm Con - The Beast (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-quai-thu-tim-con-the-beast-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-quai-thu-tim-con-the-beast-2020"
         },
         {
           "category": "Phim tình cảm",
@@ -43509,9 +43420,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641d90a12ef9_lam-sinh-tu-luyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641d90a12ef9_lam-sinh-tu-luyen.jpg",
           "title": "Lam Sắc Sinh Tử Luyến - Autumn Fairy Tale",
-          "url": "https://www.fullphimz.net/p/xem-phim-lam-sac-sinh-tu-luyen-autumn-fairy-tale"
+          "url": "https://www.ssphim.net/p/xem-phim-lam-sac-sinh-tu-luyen-autumn-fairy-tale"
         },
         {
           "category": "Phim hành động",
@@ -43521,9 +43432,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6420d6a12ed6_tuoc-tich.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6420d6a12ed6_tuoc-tich.jpg",
           "title": "Tước Tích - L.O.R.D.: Legend of Ravaging Dynasties",
-          "url": "https://www.fullphimz.net/p/xem-phim-tuoc-tich-l-o-r-d-legend-of-ravaging-dynasties"
+          "url": "https://www.ssphim.net/p/xem-phim-tuoc-tich-l-o-r-d-legend-of-ravaging-dynasties"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43533,9 +43444,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641031a12ed5_thu-thach-than-chet-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641031a12ed5_thu-thach-than-chet-2.jpg",
           "title": "Thử Thách Thần Chết Phần 2 : 49 Ngày Cuối Cùng",
-          "url": "https://www.fullphimz.net/p/xem-phim-thu-thach-than-chet-phan-2-49-ngay-cuoi-cung"
+          "url": "https://www.ssphim.net/p/xem-phim-thu-thach-than-chet-phan-2-49-ngay-cuoi-cung"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43545,9 +43456,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e1b5a12eb0_thu-thach-than-chet-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e1b5a12eb0_thu-thach-than-chet-1.jpg",
           "title": "Thử Thách Thần Chết : Giữa Hai Thế Giới",
-          "url": "https://www.fullphimz.net/p/xem-phim-thu-thach-than-chet-giua-hai-the-gioi"
+          "url": "https://www.ssphim.net/p/xem-phim-thu-thach-than-chet-giua-hai-the-gioi"
         },
         {
           "category": "Phim hành động",
@@ -43557,9 +43468,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641d8aa12ea8_ngoai-vong-phap-luat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641d8aa12ea8_ngoai-vong-phap-luat.jpg",
           "title": "Ngoài Vòng Pháp Luật - The Outlaws",
-          "url": "https://www.fullphimz.net/p/xem-phim-ngoai-vong-phap-luat-the-outlaws"
+          "url": "https://www.ssphim.net/p/xem-phim-ngoai-vong-phap-luat-the-outlaws"
         },
         {
           "category": "Phim hành động",
@@ -43569,9 +43480,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f7a3a12ea9_thanh-pho-ao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f7a3a12ea9_thanh-pho-ao.jpg",
           "title": "Thành Phố Ảo - Fabricated City",
-          "url": "https://www.fullphimz.net/p/xem-phim-thanh-pho-ao-fabricated-city-r1"
+          "url": "https://www.ssphim.net/p/xem-phim-thanh-pho-ao-fabricated-city-r1"
         },
         {
           "category": "Phim hành động",
@@ -43581,9 +43492,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d356a12ea1_old-boy.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d356a12ea1_old-boy.jpg",
           "title": "Oldboy - Báo Thù",
-          "url": "https://www.fullphimz.net/p/xem-phim-oldboy-bao-thu"
+          "url": "https://www.ssphim.net/p/xem-phim-oldboy-bao-thu"
         },
         {
           "category": "Phim hành động",
@@ -43593,9 +43504,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645a91a12ec6_sat-thu-vo-danh.jpg",
-          "title": "Sát Thủ Vô Danh  - The Man From Nowhere",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-vo-danh-the-man-from-nowhere"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645a91a12ec6_sat-thu-vo-danh.jpg",
+          "title": "Sát Thủ Vô Danh  - The Man From Nowhere",
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-vo-danh-the-man-from-nowhere"
         },
         {
           "category": "Phim tình cảm",
@@ -43605,9 +43516,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c721a12e70_vung-dat-bi-ruong-bo-1.jpg",
-          "title": "Vùng Đất Bị Ruồng Bỏ -  The Devil All The Time",
-          "url": "https://www.fullphimz.net/p/xem-phim-vung-dat-bi-ruong-bo-the-devil-all-the-time"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c721a12e70_vung-dat-bi-ruong-bo-1.jpg",
+          "title": "Vùng Đất Bị Ruồng Bỏ -  The Devil All The Time",
+          "url": "https://www.ssphim.net/p/xem-phim-vung-dat-bi-ruong-bo-the-devil-all-the-time"
         },
         {
           "category": "Phim hành động",
@@ -43617,9 +43528,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644831a12e7a_sat-thu-nhan-tao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644831a12e7a_sat-thu-nhan-tao.jpg",
           "title": "Sát Thủ Nhân Tạo - The Witch: Part 1. The Subversion",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-nhan-tao-the-witch-part-1-the-subversion"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-nhan-tao-the-witch-part-1-the-subversion"
         },
         {
           "category": "Phim tình cảm",
@@ -43629,9 +43540,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645d78a12e71_chi-rieng-minh-em.jpg",
-          "title": "Chỉ Riêng Mình Em  - Always Only You (2011) ",
-          "url": "https://www.fullphimz.net/p/xem-phim-chi-rieng-minh-em-always-only-you-2011"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645d78a12e71_chi-rieng-minh-em.jpg",
+          "title": "Chỉ Riêng Mình Em  - Always Only You (2011) ",
+          "url": "https://www.ssphim.net/p/xem-phim-chi-rieng-minh-em-always-only-you-2011"
         },
         {
           "category": "Phim tình cảm",
@@ -43641,9 +43552,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64360da12e8c_anh-se-doi-em-noi-tan-cung-thoi-gian.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64360da12e8c_anh-se-doi-em-noi-tan-cung-thoi-gian.jpg",
           "title": "Anh Sẽ Đợi Em Nơi Tận Cùng Thời Gian",
-          "url": "https://www.fullphimz.net/p/xem-phim-anh-se-doi-em-noi-tan-cung-thoi-gian"
+          "url": "https://www.ssphim.net/p/xem-phim-anh-se-doi-em-noi-tan-cung-thoi-gian"
         },
         {
           "category": "Phim tình cảm",
@@ -43653,9 +43564,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645c7ca12e89_everyone-is-there.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645c7ca12e89_everyone-is-there.jpg",
           "title": "Everyone Is There (2020) - Mọi Người Đều Ở Đó ",
-          "url": "https://www.fullphimz.net/p/xem-phim-everyone-is-there-2020-moi-nguoi-deu-o-do"
+          "url": "https://www.ssphim.net/p/xem-phim-everyone-is-there-2020-moi-nguoi-deu-o-do"
         },
         {
           "category": "Phim tình cảm",
@@ -43665,9 +43576,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64de16a12e80_hanh-trinh-giang-sinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64de16a12e80_hanh-trinh-giang-sinh.jpg",
           "title": "Jingle Jangle : Hành Trình Giáng Sinh (Jingle Jangle : A Christmas Journey)",
-          "url": "https://www.fullphimz.net/p/xem-phim-jingle-jangle-hanh-trinh-giang-sinh-jingle-jangle-a-christmas-journey"
+          "url": "https://www.ssphim.net/p/xem-phim-jingle-jangle-hanh-trinh-giang-sinh-jingle-jangle-a-christmas-journey"
         },
         {
           "category": "Phim cổ trang",
@@ -43677,9 +43588,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643197a12e73_Phuong-le-cuu-thien-diem-xich.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643197a12e73_Phuong-le-cuu-thien-diem-xich.jpg",
           "title": "Phượng Lệ Cửu Thiên - Diễm Xích",
-          "url": "https://www.fullphimz.net/p/xem-phim-phuong-le-cuu-thien-diem-xich"
+          "url": "https://www.ssphim.net/p/xem-phim-phuong-le-cuu-thien-diem-xich"
         },
         {
           "category": "Phim tình cảm",
@@ -43689,9 +43600,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646304a12e57_poster-thanh-tram-toa-tam-thien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646304a12e57_poster-thanh-tram-toa-tam-thien.jpg",
           "title": "Thanh Trâm Tỏa Tam Thiên",
-          "url": "https://www.fullphimz.net/p/xem-phim-thanh-tram-toa-tam-thien"
+          "url": "https://www.ssphim.net/p/xem-phim-thanh-tram-toa-tam-thien"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43701,9 +43612,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ba5ba12e66_cuop-bien-caribean-p5.jpg",
-          "title": "Cướp Biển Vùng Caribbe 5 : Salazar Báo Thù  ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuop-bien-vung-caribbe-5-salazar-bao-thu"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ba5ba12e66_cuop-bien-caribean-p5.jpg",
+          "title": "Cướp Biển Vùng Caribbe 5 : Salazar Báo Thù  ",
+          "url": "https://www.ssphim.net/p/xem-phim-cuop-bien-vung-caribbe-5-salazar-bao-thu"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43713,9 +43624,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645133a12e58_cuop-bien-caribean-p4.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645133a12e58_cuop-bien-caribean-p4.jpg",
           "title": "Cướp Biển Vùng Caribbe 4 : Suối Nguồn Tươi Trẻ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuop-bien-vung-caribbe-4-suoi-nguon-tuoi-tre"
+          "url": "https://www.ssphim.net/p/xem-phim-cuop-bien-vung-caribbe-4-suoi-nguon-tuoi-tre"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43725,9 +43636,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6440f6a12e6e_cuop-bien-caribean-p3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6440f6a12e6e_cuop-bien-caribean-p3.jpg",
           "title": "Cướp Biển Vùng Caribbe 3 : Nơi Tận Cùng Thế Giới",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuop-bien-vung-caribbe-3-noi-tan-cung-the-gioi"
+          "url": "https://www.ssphim.net/p/xem-phim-cuop-bien-vung-caribbe-3-noi-tan-cung-the-gioi"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43737,9 +43648,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643aa5a12e04_cuop-bien-caribean-p2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643aa5a12e04_cuop-bien-caribean-p2.jpg",
           "title": "Cướp Biển Vùng Caribbe 2 : Chiếc Rương Tử Thần",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuop-bien-vung-caribbe-2-chiec-ruong-tu-than"
+          "url": "https://www.ssphim.net/p/xem-phim-cuop-bien-vung-caribbe-2-chiec-ruong-tu-than"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43749,9 +43660,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64753ca12d8d_cuop-bien-caribean-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64753ca12d8d_cuop-bien-caribean-1.jpg",
           "title": "Cướp Biển Vùng Caribbean : Lời Nguyền Của Tàu Ngọc Trai Đen",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuop-bien-vung-caribbean-loi-nguyen-cua-tau-ngoc-trai-den"
+          "url": "https://www.ssphim.net/p/xem-phim-cuop-bien-vung-caribbean-loi-nguyen-cua-tau-ngoc-trai-den"
         },
         {
           "category": "Phim hành động",
@@ -43761,9 +43672,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64240fa12be3_vua-kung-fu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64240fa12be3_vua-kung-fu.jpg",
           "title": "Vua Kung Fu : The Forbidden Kingdom",
-          "url": "https://www.fullphimz.net/p/xem-phim-vua-kung-fu-the-forbidden-kingdom"
+          "url": "https://www.ssphim.net/p/xem-phim-vua-kung-fu-the-forbidden-kingdom"
         },
         {
           "category": "Phim tình cảm",
@@ -43773,9 +43684,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64fac3a12a8f_r3Zr7_4f.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64fac3a12a8f_r3Zr7_4f.jpg",
           "title": "Hải Đại Ngư - Enormous Legendary Fish",
-          "url": "https://www.fullphimz.net/p/hai-dai-ngu-enormous-legendary-fish"
+          "url": "https://www.ssphim.net/p/hai-dai-ngu-enormous-legendary-fish"
         },
         {
           "category": "Phim tình cảm",
@@ -43785,9 +43696,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d4c9a12780_poster-anh-se-doi-em-noi-tan-cung-thoi-gian.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d4c9a12780_poster-anh-se-doi-em-noi-tan-cung-thoi-gian.jpg",
           "title": "Anh Sẽ Đợi Em Nơi Tận Cùng Thời Gian",
-          "url": "https://www.fullphimz.net/p/anh-se-doi-em-noi-tan-cung-thoi-gian"
+          "url": "https://www.ssphim.net/p/anh-se-doi-em-noi-tan-cung-thoi-gian"
         },
         {
           "category": "Phim cổ trang",
@@ -43797,9 +43708,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6424f9a126ef_poster-bach-ngu-nu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6424f9a126ef_poster-bach-ngu-nu.jpg",
           "title": "Bạch Ngư Nữ (Ranh Giới Mỹ Nhân Ngư)",
-          "url": "https://www.fullphimz.net/p/bach-ngu-nu-ranh-gioi-my-nhan-ngu"
+          "url": "https://www.ssphim.net/p/bach-ngu-nu-ranh-gioi-my-nhan-ngu"
         },
         {
           "category": "Phim tình cảm",
@@ -43809,9 +43720,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64366aa1225c_bo-tu-lua-dao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64366aa1225c_bo-tu-lua-dao.jpg",
           "title": "Bộ Tứ Lừa Đảo",
-          "url": "https://www.fullphimz.net/p/xem-phim-bo-tu-lua-dao"
+          "url": "https://www.ssphim.net/p/xem-phim-bo-tu-lua-dao"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43821,9 +43732,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646a17a1226f_tieng-goi-hoang-da.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646a17a1226f_tieng-goi-hoang-da.jpg",
           "title": "Tiếng Gọi Nơi Hoang Dã",
-          "url": "https://www.fullphimz.net/p/xem-phim-tieng-goi-noi-hoang-da"
+          "url": "https://www.ssphim.net/p/xem-phim-tieng-goi-noi-hoang-da"
         },
         {
           "category": "Phim tình cảm",
@@ -43833,9 +43744,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642252a12255_nhan-gian-tinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642252a12255_nhan-gian-tinh.jpg",
           "title": "Tân Thiện Nữ U Hồn : Tình Nhân Gian",
-          "url": "https://www.fullphimz.net/p/xem-phim-tan-thien-nu-u-hon-tinh-nhan-gian"
+          "url": "https://www.ssphim.net/p/xem-phim-tan-thien-nu-u-hon-tinh-nhan-gian"
         },
         {
           "category": "Phim tình cảm",
@@ -43845,9 +43756,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648656a12241_dieu-ky-dieu-phong-giam-so-7-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648656a12241_dieu-ky-dieu-phong-giam-so-7-1.jpg",
           "title": "Điều Kỳ Diệu Ở Phòng Giam Số 7",
-          "url": "https://www.fullphimz.net/p/xem-phim-dieu-ky-dieu-o-phong-giam-so-7"
+          "url": "https://www.ssphim.net/p/xem-phim-dieu-ky-dieu-o-phong-giam-so-7"
         },
         {
           "category": "Phim tình cảm",
@@ -43857,9 +43768,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6431a9a12234_Ke-xam-nhap.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6431a9a12234_Ke-xam-nhap.jpg",
           "title": "Kẻ Xâm Nhập",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-xam-nhap"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-xam-nhap"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43869,9 +43780,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6469cea1222f_Harry-potter-phan-cuoi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6469cea1222f_Harry-potter-phan-cuoi.jpg",
           "title": "Harry Potter Và Bảo Bối Tử Thần 2 ",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-bao-boi-tu-than-2-harry-potter-7"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-bao-boi-tu-than-2-harry-potter-7"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43881,9 +43792,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640889a12222_001Poster-Harry-Potter-7Pt.1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640889a12222_001Poster-Harry-Potter-7Pt.1.jpg",
           "title": "Harry Potter Và Bảo Bối Tử Thần 1",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-bao-boi-tu-than-1-harry-potter-7"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-bao-boi-tu-than-1-harry-potter-7"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43893,9 +43804,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c796a1223a_Harry-Potter-va-hoang-tu-lai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c796a1223a_Harry-Potter-va-hoang-tu-lai.jpg",
           "title": "Harry Potter Và Hoàng Tử Lai",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-hoang-tu-lai-harry-potter-6"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-hoang-tu-lai-harry-potter-6"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43905,9 +43816,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649e70a1220f_harry-potter-va-hoi-phuong-hoang-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649e70a1220f_harry-potter-va-hoi-phuong-hoang-1.jpg",
           "title": "Harry Potter Và Hội Phượng Hoàng",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-hoi-phuong-hoang-harry-potter-5"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-hoi-phuong-hoang-harry-potter-5"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43917,9 +43828,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642b44a1223d_harry-potter-va-chiec-coc-lua-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642b44a1223d_harry-potter-va-chiec-coc-lua-1.jpg",
           "title": "Harry Potter Và Chiếc Cốc Lửa",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-chiec-coc-lua"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-chiec-coc-lua"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43929,9 +43840,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e160a12215_harry-potter-va-cai-nguc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e160a12215_harry-potter-va-cai-nguc.jpg",
           "title": "Harry Potter Và Tên Tù Nhân Ngục Azkaban",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-ten-tu-nhan-nguc-azkaban"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-ten-tu-nhan-nguc-azkaban"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43941,9 +43852,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645e5ca12211_harry-potter-va-phong-chua-bi-mat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645e5ca12211_harry-potter-va-phong-chua-bi-mat.jpg",
           "title": "Harry Potter Và Phòng Chứa Bí Mật",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-phong-chua-bi-mat"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-phong-chua-bi-mat"
         },
         {
           "category": "Phim phiêu lưu",
@@ -43953,9 +43864,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c244a12225_harry-potter-phan-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c244a12225_harry-potter-phan-1.jpg",
           "title": "Harry Potter Và Hòn Đá Phù Thủy",
-          "url": "https://www.fullphimz.net/p/xem-phim-harry-potter-va-hon-da-phu-thuy"
+          "url": "https://www.ssphim.net/p/xem-phim-harry-potter-va-hon-da-phu-thuy"
         }
       ],
       "phimchieurap": [
@@ -43967,9 +43878,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bcdb9ccc230f6768333912_f9.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bcdb9ccc230f6768333912_f9.jpg",
           "title": "Quá Nhanh Quá Nguy Hiểm 9: Huyền Thoại Tốc Độ - Fast & Furious 9: The Fast Saga",
-          "url": "https://www.fullphimz.net/p/xem-phim-qua-nhanh-qua-nguy-hiem-9-huyen-thoai-toc-do-fast-furious-9-the-fast-saga"
+          "url": "https://www.ssphim.net/p/xem-phim-qua-nhanh-qua-nguy-hiem-9-huyen-thoai-toc-do-fast-furious-9-the-fast-saga"
         },
         {
           "category": "Phim kinh dị",
@@ -43979,9 +43890,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60bcb03f03946d8f7aefc6b2_ma-xui-quy-khien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60bcb03f03946d8f7aefc6b2_ma-xui-quy-khien.jpg",
           "title": "Ám Ảnh Kinh Hoàng: Ma Xui Quỷ Khiến - The Conjuring 3: The Devil Made Me Do It",
-          "url": "https://www.fullphimz.net/p/xem-phim-am-anh-kinh-hoang-ma-xui-quy-khien-the-conjuring-3-the-devil-made-me-do-it"
+          "url": "https://www.ssphim.net/p/xem-phim-am-anh-kinh-hoang-ma-xui-quy-khien-the-conjuring-3-the-devil-made-me-do-it"
         },
         {
           "category": "Phim hành động",
@@ -43991,9 +43902,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b7576fc3655532a76f74e4_mien-dat-hua.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b7576fc3655532a76f74e4_mien-dat-hua.jpg",
           "title": "Miền Đất Hứa - The Promised Neverland (Live Action)",
-          "url": "https://www.fullphimz.net/p/xem-phim-mien-dat-hua-the-promised-neverland-live-action"
+          "url": "https://www.ssphim.net/p/xem-phim-mien-dat-hua-the-promised-neverland-live-action"
         },
         {
           "category": "Phim kinh dị",
@@ -44003,9 +43914,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b74968206183ec94741f94_vung-dat-cam-lang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b74968206183ec94741f94_vung-dat-cam-lang.jpg",
           "title": "Vùng Đất Câm Lặng: Phần 2 - A Quiet Place: Part 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-vung-dat-cam-lang-phan-2-a-quiet-place-part-2"
+          "url": "https://www.ssphim.net/p/xem-phim-vung-dat-cam-lang-phan-2-a-quiet-place-part-2"
         },
         {
           "category": "Phim hành động",
@@ -44015,9 +43926,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b64023ae89171de3168ca3_cruella.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b64023ae89171de3168ca3_cruella.jpg",
           "title": "Cruella (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-cruella-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-cruella-2021"
         },
         {
           "category": "Phim hành động",
@@ -44027,9 +43938,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60acb62a718ed5179364080d_hung-than-trang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60acb62a718ed5179364080d_hung-than-trang.jpg",
           "title": "Hung Thần Trắng - Great White",
-          "url": "https://www.fullphimz.net/p/xem-phim-hung-than-trang-great-white"
+          "url": "https://www.ssphim.net/p/xem-phim-hung-than-trang-great-white"
         },
         {
           "category": "Phim hoạt hình",
@@ -44039,9 +43950,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60a8d116f4b70186805a9ca6_vien-dan-do.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60a8d116f4b70186805a9ca6_vien-dan-do.jpg",
           "title": "Thám Tử Conan: Viên Đạn Đỏ - Detective Conan Movie 24: The Scarlet Bullet ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tham-tu-conan-vien-dan-do-detective-conan-movie-24-the-scarlet-bullet"
+          "url": "https://www.ssphim.net/p/xem-phim-tham-tu-conan-vien-dan-do-detective-conan-movie-24-the-scarlet-bullet"
         },
         {
           "category": "Phim hành động",
@@ -44051,9 +43962,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6090d540e3ea94c4b158b88c_an-quy.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6090d540e3ea94c4b158b88c_an-quy.jpg",
           "title": "Ấn Quỷ - The Unholy",
-          "url": "https://www.fullphimz.net/p/xem-phim-an-quy-the-unholy"
+          "url": "https://www.ssphim.net/p/xem-phim-an-quy-the-unholy"
         },
         {
           "category": "Phim hành động",
@@ -44063,9 +43974,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608f77d13d1ee73aac9d6cc3_nhiem-vu-kha-thi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608f77d13d1ee73aac9d6cc3_nhiem-vu-kha-thi.jpg",
           "title": "Nhiệm Vụ: Khả Thi - Mission: Possible (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhiem-vu-kha-thi-mission-possible-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-nhiem-vu-kha-thi-mission-possible-2021"
         },
         {
           "category": "Phim tình cảm",
@@ -44075,9 +43986,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6085695274a48522202ce1b2_thanh-am-trong-mat-em.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6085695274a48522202ce1b2_thanh-am-trong-mat-em.jpg",
           "title": "Thanh Âm Trong Mắt Em - Your Eyes Tell",
-          "url": "https://www.fullphimz.net/p/xem-phim-thanh-am-trong-mat-em-your-eyes-tell"
+          "url": "https://www.ssphim.net/p/xem-phim-thanh-am-trong-mat-em-your-eyes-tell"
         },
         {
           "category": "Phim hành động",
@@ -44087,9 +43998,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6082d616f86f962a1e29551f_dong-nguoi-tap-nap.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6082d616f86f962a1e29551f_dong-nguoi-tap-nap.jpg",
           "title": "Dòng Người Tấp Nập - Endgame (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-dong-nguoi-tap-nap-endgame-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-dong-nguoi-tap-nap-endgame-2021"
         },
         {
           "category": "Phim hoạt hình",
@@ -44099,9 +44010,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60801d37f29774f1dfde8c2d_stand-by-me-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60801d37f29774f1dfde8c2d_stand-by-me-2.jpg",
           "title": "Doraemon: Đôi Bạn Thân 2 - Stand By Me Doraemon 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-doraemon-doi-ban-than-2-stand-by-me-doraemon-2"
+          "url": "https://www.ssphim.net/p/xem-phim-doraemon-doi-ban-than-2-stand-by-me-doraemon-2"
         },
         {
           "category": "Phim tình cảm",
@@ -44111,9 +44022,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607c5942d9bc6c971d47fc12_xin-chao-ly-hoan-anh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607c5942d9bc6c971d47fc12_xin-chao-ly-hoan-anh.jpg",
           "title": "Xin Chào, Lý Hoán Anh - Hi, Mom (2021)",
-          "url": "https://www.fullphimz.net/p/xem-phim-xin-chao-ly-hoan-anh-hi-mom-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-xin-chao-ly-hoan-anh-hi-mom-2021"
         },
         {
           "category": "Phim tình cảm",
@@ -44123,9 +44034,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607c4015b74ee12ddd47fae5_nhan-doi-tinh-yeu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607c4015b74ee12ddd47fae5_nhan-doi-tinh-yeu.jpg",
           "title": "Nhân Đôi Tình Yêu - Double Patty ",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhan-doi-tinh-yeu-double-patty"
+          "url": "https://www.ssphim.net/p/xem-phim-nhan-doi-tinh-yeu-double-patty"
         },
         {
           "category": "Phim hành động",
@@ -44135,9 +44046,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607a9e80948ab069fbe2a230_ke-vo-danh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607a9e80948ab069fbe2a230_ke-vo-danh.jpg",
           "title": "Kẻ Vô Danh - Nobody",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-vo-danh-nobody"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-vo-danh-nobody"
         },
         {
           "category": "Phim hành động",
@@ -44147,9 +44058,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6079a2abb6408c6bd2161a9a_nguoi-nhan-ban.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6079a2abb6408c6bd2161a9a_nguoi-nhan-ban.jpg",
           "title": "Người Nhân Bản - Seobok",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-nhan-ban-seobok"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-nhan-ban-seobok"
         },
         {
           "category": "Phim hành động",
@@ -44159,9 +44070,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6076e58559e26b172ce33e43_mortal-kombat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6076e58559e26b172ce33e43_mortal-kombat.jpg",
           "title": "Mortal Kombat: Cuộc Chiến Sinh Tử",
-          "url": "https://www.fullphimz.net/p/xem-phim-mortal-kombat-cuoc-chien-sinh-tu"
+          "url": "https://www.ssphim.net/p/xem-phim-mortal-kombat-cuoc-chien-sinh-tu"
         },
         {
           "category": "Phim hành động",
@@ -44171,9 +44082,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60744e68a331844b932dfa61_su-gia-cua-chua.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60744e68a331844b932dfa61_su-gia-cua-chua.jpg",
           "title": "Sứ Giả Của Chúa - The Divine Fury",
-          "url": "https://www.fullphimz.net/p/xem-phim-su-gia-cua-chua-the-divine-fury"
+          "url": "https://www.ssphim.net/p/xem-phim-su-gia-cua-chua-the-divine-fury"
         },
         {
           "category": "Phim hành động",
@@ -44183,9 +44094,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6072fe01fc8abe168a630064_doi-tuyet-mau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6072fe01fc8abe168a630064_doi-tuyet-mau.jpg",
           "title": "Đồi Tuyết Máu - Let It Snow",
-          "url": "https://www.fullphimz.net/p/xem-phim-doi-tuyet-mau-let-it-snow"
+          "url": "https://www.ssphim.net/p/xem-phim-doi-tuyet-mau-let-it-snow"
         },
         {
           "category": "Phim hành động",
@@ -44195,9 +44106,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606f25c56cad824d3720f922_quai-vat-san-dem.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606f25c56cad824d3720f922_quai-vat-san-dem.jpg",
           "title": "Quái Vật Săn Đêm - Sputnik ",
-          "url": "https://www.fullphimz.net/p/xem-phim-quai-vat-san-dem-sputnik"
+          "url": "https://www.ssphim.net/p/xem-phim-quai-vat-san-dem-sputnik"
         },
         {
           "category": "Phim hành động",
@@ -44207,9 +44118,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606b06697beea782766da9ca_hanh-tinh-hon-loan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606b06697beea782766da9ca_hanh-tinh-hon-loan.jpg",
           "title": "Hành Tinh Hỗn Loạn - Chaos Walking",
-          "url": "https://www.fullphimz.net/p/xem-phim-hanh-tinh-hon-loan-chaos-walking"
+          "url": "https://www.ssphim.net/p/xem-phim-hanh-tinh-hon-loan-chaos-walking"
         },
         {
           "category": "Phim hoạt hình",
@@ -44219,9 +44130,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60693355fbb41d764947e9b8_tay-du-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60693355fbb41d764947e9b8_tay-du-ky.jpg",
           "title": "Tây Du Ký - Tái Thế Yêu Vương",
-          "url": "https://www.fullphimz.net/p/xem-phim-tay-du-ky-tai-the-yeu-vuong"
+          "url": "https://www.ssphim.net/p/xem-phim-tay-du-ky-tai-the-yeu-vuong"
         },
         {
           "category": "Phim hoạt hình",
@@ -44231,9 +44142,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6063211e2bf526454cae4952_sieu-nhan-tap-su.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6063211e2bf526454cae4952_sieu-nhan-tap-su.jpg",
           "title": "SamSam: Siêu Nhân Tập Sự",
-          "url": "https://www.fullphimz.net/p/xem-phim-samsam-sieu-nhan-tap-su"
+          "url": "https://www.ssphim.net/p/xem-phim-samsam-sieu-nhan-tap-su"
         },
         {
           "category": "Phim hành động",
@@ -44243,9 +44154,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6061e6cc221ffa1503cced50_godzilla-kong-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6061e6cc221ffa1503cced50_godzilla-kong-1.jpg",
           "title": "Godzilla Đại Chiến Kong (Godzilla vs. Kong)",
-          "url": "https://www.fullphimz.net/p/xem-phim-godzilla-dai-chien-kong-godzilla-vs-kong"
+          "url": "https://www.ssphim.net/p/xem-phim-godzilla-dai-chien-kong-godzilla-vs-kong"
         },
         {
           "category": "Phim hành động",
@@ -44255,9 +44166,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6061cb91402d65de9269173d_am-sat-tieu-thuyet-gia.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6061cb91402d65de9269173d_am-sat-tieu-thuyet-gia.jpg",
           "title": "Ám Sát Tiểu Thuyết Gia - A Writer's Odyssey",
-          "url": "https://www.fullphimz.net/p/xem-phim-am-sat-tieu-thuyet-gia-a-writers-odyssey"
+          "url": "https://www.ssphim.net/p/xem-phim-am-sat-tieu-thuyet-gia-a-writers-odyssey"
         },
         {
           "category": "Phim hành động",
@@ -44267,9 +44178,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6060916b59ac7c6b13b5a36f_the-vault.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6060916b59ac7c6b13b5a36f_the-vault.jpg",
           "title": "Siêu Trộm - Way Down",
-          "url": "https://www.fullphimz.net/p/xem-phim-sieu-trom-way-down"
+          "url": "https://www.ssphim.net/p/xem-phim-sieu-trom-way-down"
         },
         {
           "category": "Phim hành động",
@@ -44279,9 +44190,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60589cb0a5b1b45982372ae9_co-gai-tre-hua-hen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60589cb0a5b1b45982372ae9_co-gai-tre-hua-hen.jpg",
           "title": "Cô Gái Trẻ Hứa Hẹn - Promising Young Woman",
-          "url": "https://www.fullphimz.net/p/xem-phim-co-gai-tre-hua-hen-promising-young-woman"
+          "url": "https://www.ssphim.net/p/xem-phim-co-gai-tre-hua-hen-promising-young-woman"
         },
         {
           "category": "Phim hoạt hình",
@@ -44291,9 +44202,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604f567dffb4fe88372240ed_na-tra-trung-sinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604f567dffb4fe88372240ed_na-tra-trung-sinh.jpg",
           "title": "Tân Phong Thần: Na Tra Trùng Sinh - New Gods: Nezha Reborn",
-          "url": "https://www.fullphimz.net/p/xem-phim-tan-phong-than-na-tra-trung-sinh-new-gods-nezha-reborn"
+          "url": "https://www.ssphim.net/p/xem-phim-tan-phong-than-na-tra-trung-sinh-new-gods-nezha-reborn"
         },
         {
           "category": "Phim cổ trang",
@@ -44303,9 +44214,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604f513e553b7d1452c13463_thi-than-lenh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604f513e553b7d1452c13463_thi-than-lenh.jpg",
           "title": "Âm Dương Sư: Thị Thần Lệnh - The Yin Yang Master",
-          "url": "https://www.fullphimz.net/p/xem-phim-am-duong-su-thi-than-lenh-the-yin-yang-master"
+          "url": "https://www.ssphim.net/p/xem-phim-am-duong-su-thi-than-lenh-the-yin-yang-master"
         },
         {
           "category": "Phim hành động",
@@ -44315,9 +44226,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6048d3a54dd18054db04a6c1_lua-deu-gap-lua-dao.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6048d3a54dd18054db04a6c1_lua-deu-gap-lua-dao.jpg",
           "title": "Lừa Đểu Gặp Lừa Đảo - The Con-Heartist",
-          "url": "https://www.fullphimz.net/p/xem-phim-lua-deu-gap-lua-dao-the-con-heartist"
+          "url": "https://www.ssphim.net/p/xem-phim-lua-deu-gap-lua-dao-the-con-heartist"
         },
         {
           "category": "Phim hoạt hình",
@@ -44327,9 +44238,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6044e63ec48ec463b60ed959_raya-va-rong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6044e63ec48ec463b60ed959_raya-va-rong.jpg",
           "title": "Raya Và Rồng Thần Cuối Cùng - Raya And The Last Dragon",
-          "url": "https://www.fullphimz.net/p/xem-phim-raya-va-rong-than-cuoi-cung-raya-and-the-last-dragon"
+          "url": "https://www.ssphim.net/p/xem-phim-raya-va-rong-than-cuoi-cung-raya-and-the-last-dragon"
         },
         {
           "category": "Phim hành động",
@@ -44339,9 +44250,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6044d2b0ad58e249e5fd8c5c_tham-tu-pho-tau-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6044d2b0ad58e249e5fd8c5c_tham-tu-pho-tau-3.jpg",
           "title": "Thám Tử Phố Tàu 3 - Detective Chinatown 3 ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tham-tu-pho-tau-3-detective-chinatown-3"
+          "url": "https://www.ssphim.net/p/xem-phim-tham-tu-pho-tau-3-detective-chinatown-3"
         },
         {
           "category": "Phim hoạt hình",
@@ -44351,9 +44262,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/603a3fb74f1ac84b8de29dce_tom-jerry.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/603a3fb74f1ac84b8de29dce_tom-jerry.jpg",
           "title": "Tom & Jerry: Quậy tung New York - Tom & Jerry: The Movie 2021",
-          "url": "https://www.fullphimz.net/p/xem-phim-tom-jerry-quay-tung-new-york-tom-jerry-the-movie-2021"
+          "url": "https://www.ssphim.net/p/xem-phim-tom-jerry-quay-tung-new-york-tom-jerry-the-movie-2021"
         },
         {
           "category": "Phim tình cảm",
@@ -44363,9 +44274,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6039203ea042a717eed2eebe_minari.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6039203ea042a717eed2eebe_minari.jpg",
           "title": "Khát Vọng Đổi Đời - Minari",
-          "url": "https://www.fullphimz.net/p/xem-phim-khat-vong-doi-doi-minari"
+          "url": "https://www.ssphim.net/p/xem-phim-khat-vong-doi-doi-minari"
         },
         {
           "category": "Phim tình cảm",
@@ -44375,9 +44286,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6037b35f5d70ac0eda4d6d04_thanh-am-cua-im-lang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6037b35f5d70ac0eda4d6d04_thanh-am-cua-im-lang.jpg",
           "title": "Thanh Âm Của Im Lặng - Voice Of Silence",
-          "url": "https://www.fullphimz.net/p/xem-phim-thanh-am-cua-im-lang-voice-of-silence"
+          "url": "https://www.ssphim.net/p/xem-phim-thanh-am-cua-im-lang-voice-of-silence"
         },
         {
           "category": "Phim hành động",
@@ -44387,9 +44298,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602ba10fe3fb655c246bcd41_tho-san-quai-vat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602ba10fe3fb655c246bcd41_tho-san-quai-vat.jpg",
           "title": "Thợ Săn Quái Vật - Monster Hunter",
-          "url": "https://www.fullphimz.net/p/xem-phim-tho-san-quai-vat-monster-hunter"
+          "url": "https://www.ssphim.net/p/xem-phim-tho-san-quai-vat-monster-hunter"
         },
         {
           "category": "Phim tình cảm",
@@ -44399,9 +44310,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60117524078b0e12abb15876_dung-goi-anh-la-bo.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60117524078b0e12abb15876_dung-goi-anh-la-bo.jpg",
           "title": "Đừng Gọi Anh Là Bố - My God! Father",
-          "url": "https://www.fullphimz.net/p/xem-phim-dung-goi-anh-la-bo-my-god-father"
+          "url": "https://www.ssphim.net/p/xem-phim-dung-goi-anh-la-bo-my-god-father"
         },
         {
           "category": "Phim tình cảm",
@@ -44411,9 +44322,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60098abea8293876d2ee08f2_phong-chat-quy-am-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60098abea8293876d2ee08f2_phong-chat-quy-am-1.jpg",
           "title": "Phòng Chát Quỷ Ám - Host",
-          "url": "https://www.fullphimz.net/p/xem-phim-phong-chat-quy-am-host"
+          "url": "https://www.ssphim.net/p/xem-phim-phong-chat-quy-am-host"
         },
         {
           "category": "Phim hoạt hình",
@@ -44423,9 +44334,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6008369731b7cbfd39bf87d3_fate-night.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6008369731b7cbfd39bf87d3_fate-night.jpg",
           "title": "Fate/Stay Night: Heaven's Feel III. Spring Song - Khúc Xuân Ca",
-          "url": "https://www.fullphimz.net/p/xem-phim-fate-stay-night-heavens-feel-iii-spring-song-khuc-xuan-ca"
+          "url": "https://www.ssphim.net/p/xem-phim-fate-stay-night-heavens-feel-iii-spring-song-khuc-xuan-ca"
         },
         {
           "category": "Phim hành động",
@@ -44435,9 +44346,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600462c443a44f7682a96ea1_cuoc-giai-cuu-sinh-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600462c443a44f7682a96ea1_cuoc-giai-cuu-sinh-tu.jpg",
           "title": "Cuộc Giải Cứu Sinh Tử - Redemption Day ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-giai-cuu-sinh-tu-redemption-day"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-giai-cuu-sinh-tu-redemption-day"
         },
         {
           "category": "Phim hành động",
@@ -44447,9 +44358,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffd9d34998d931dd2dc8bfa_soai-ca-khong-chiu-chet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffd9d34998d931dd2dc8bfa_soai-ca-khong-chiu-chet.jpg",
           "title": "Soái Ca Không Chịu Chết - The Night Of The Undead ",
-          "url": "https://www.fullphimz.net/p/xem-phim-soai-ca-khong-chiu-chet-the-night-of-the-undead"
+          "url": "https://www.ssphim.net/p/xem-phim-soai-ca-khong-chiu-chet-the-night-of-the-undead"
         },
         {
           "category": "Phim hành động",
@@ -44459,9 +44370,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ffc6faa8534ae63aa8f42cd_ke-san-mo.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ffc6faa8534ae63aa8f42cd_ke-san-mo.jpg",
           "title": "Kẻ Săn Mộ - Collectors (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-ke-san-mo-collectors-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-ke-san-mo-collectors-2020"
         },
         {
           "category": "Phim hoạt hình",
@@ -44471,9 +44382,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff7205c293b5f6c6f0431e6_hoi-uc-khong-quen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff7205c293b5f6c6f0431e6_hoi-uc-khong-quen.jpg",
           "title": "Violet Evergarden: Hồi Ức Không Quên (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-violet-evergarden-hoi-uc-khong-quen-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-violet-evergarden-hoi-uc-khong-quen-2020"
         },
         {
           "category": "Phim hành động",
@@ -44483,9 +44394,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff5db18370e9edd0650f4ff_ky-nghi-nho-doi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff5db18370e9edd0650f4ff_ky-nghi-nho-doi.jpg",
           "title": "Kỳ Nghỉ Nhớ Đời - The Golden Holiday",
-          "url": "https://www.fullphimz.net/p/xem-phim-ky-nghi-nho-doi-the-golden-holiday-r1"
+          "url": "https://www.ssphim.net/p/xem-phim-ky-nghi-nho-doi-the-golden-holiday-r1"
         },
         {
           "category": "Phim hoạt hình",
@@ -44495,9 +44406,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff33e1569749700c69f0e6c_soul.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff33e1569749700c69f0e6c_soul.jpg",
           "title": "Cuộc Sống Nhiệm Màu (Soul)",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-song-nhiem-mau-soul"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-song-nhiem-mau-soul"
         },
         {
           "category": "Phim hoạt hình",
@@ -44507,9 +44418,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5ff1bfdc1603b1a88a9d973d_nobita-khung-long.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5ff1bfdc1603b1a88a9d973d_nobita-khung-long.jpg",
           "title": "Doraemon: Nobita Và Những Bạn Khủng Long Mới",
-          "url": "https://www.fullphimz.net/p/xem-phim-doraemon-nobita-va-nhung-ban-khung-long-moi"
+          "url": "https://www.ssphim.net/p/xem-phim-doraemon-nobita-va-nhung-ban-khung-long-moi"
         },
         {
           "category": "Phim tình cảm",
@@ -44519,9 +44430,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fedce0e3ae11db8ba361d52_cuc-no-hoa-cuc-cung.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fedce0e3ae11db8ba361d52_cuc-no-hoa-cuc-cung.jpg",
           "title": "Cục Nợ Hoá Cục Cưng - Pawn 2020",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuc-no-hoa-cuc-cung-pawn-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-cuc-no-hoa-cuc-cung-pawn-2020"
         },
         {
           "category": "Phim hành động",
@@ -44531,9 +44442,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fedc7f83d5364123fe72774_nu-than-chien-binh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fedc7f83d5364123fe72774_nu-than-chien-binh.jpg",
           "title": "Nữ Thần Chiến Binh - Wonder Woman 1984 (WW84)",
-          "url": "https://www.fullphimz.net/p/xem-phim-nu-than-chien-binh-wonder-woman-1984-ww84"
+          "url": "https://www.ssphim.net/p/xem-phim-nu-than-chien-binh-wonder-woman-1984-ww84"
         },
         {
           "category": "Phim hoạt hình",
@@ -44543,9 +44454,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a2ca12f90_chuyen-tau-vo-tan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641a2ca12f90_chuyen-tau-vo-tan.jpg",
           "title": "Thanh Gươm Diệt Quỷ : Chuyến Tàu Vô Tận (Kimetsu no Yaiba : Mugen Ressha-hen)",
-          "url": "https://www.fullphimz.net/p/xem-phim-thanh-guom-diet-quy-chuyen-tau-vo-tan-kimetsu-no-yaiba-mugen-ressha-hen"
+          "url": "https://www.ssphim.net/p/xem-phim-thanh-guom-diet-quy-chuyen-tau-vo-tan-kimetsu-no-yaiba-mugen-ressha-hen"
         },
         {
           "category": "Phim tình cảm",
@@ -44555,9 +44466,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c917a12f64_hao-quang-danh-cap-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c917a12f64_hao-quang-danh-cap-1.jpg",
           "title": "Hào Quang Đánh Cắp - DIVA",
-          "url": "https://www.fullphimz.net/p/xem-phim-hao-quang-danh-cap-diva-r1"
+          "url": "https://www.ssphim.net/p/xem-phim-hao-quang-danh-cap-diva-r1"
         },
         {
           "category": "Phim hành động",
@@ -44567,9 +44478,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a04ba12f83_phi-vu-hoan-luong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a04ba12f83_phi-vu-hoan-luong.jpg",
           "title": "Phi Vụ Hoàn Lương - Honest Thief",
-          "url": "https://www.fullphimz.net/p/xem-phim-phi-vu-hoan-luong-honest-thief"
+          "url": "https://www.ssphim.net/p/xem-phim-phi-vu-hoan-luong-honest-thief"
         },
         {
           "category": "Phim hành động",
@@ -44579,9 +44490,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6484d3a12f1e_tuoc-tich-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6484d3a12f1e_tuoc-tich-2.jpg",
           "title": "Tước Tích 2 : Lãnh Huyết Cuồng Yến",
-          "url": "https://www.fullphimz.net/p/xem-phim-tuoc-tich-2-lanh-huyet-cuong-chien"
+          "url": "https://www.ssphim.net/p/xem-phim-tuoc-tich-2-lanh-huyet-cuong-chien"
         },
         {
           "category": "Phim cổ trang",
@@ -44591,9 +44502,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644dbaa12f4b_xich-ho-tien-sinh.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644dbaa12f4b_xich-ho-tien-sinh.jpg",
           "title": "Xích Hồ Tiên Sinh - Soul Snatcher (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-xich-ho-tien-sinh-soul-snatcher-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-xich-ho-tien-sinh-soul-snatcher-2020"
         },
         {
           "category": "Phim cổ trang",
@@ -44603,9 +44514,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6426b1a12f23_tinh-nha-tap.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6426b1a12f23_tinh-nha-tap.jpg",
           "title": "Âm Dương Sư : Tình Nhã Tập ",
-          "url": "https://www.fullphimz.net/p/xem-phim-am-duong-su-tinh-nha-tap"
+          "url": "https://www.ssphim.net/p/xem-phim-am-duong-su-tinh-nha-tap"
         },
         {
           "category": "Phim hành động",
@@ -44615,9 +44526,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646800a12f38_freaky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646800a12f38_freaky.jpg",
           "title": "Quái Đản - Freaky",
-          "url": "https://www.fullphimz.net/p/xem-phim-quai-dan-freaky"
+          "url": "https://www.ssphim.net/p/xem-phim-quai-dan-freaky"
         },
         {
           "category": "Phim tình cảm",
@@ -44628,9 +44539,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6481d9a12f29_poster-josee-nang-tho-cua-toi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6481d9a12f29_poster-josee-nang-tho-cua-toi.jpg",
           "title": "Josée, Nàng Thơ Của Tôi - Josee (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-josee-nang-tho-cua-toi-josee-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-josee-nang-tho-cua-toi-josee-2020"
         },
         {
           "category": "Phim hành động",
@@ -44640,9 +44551,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64527ba12f19_quai-thu-sao-hoa.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64527ba12f19_quai-thu-sao-hoa.jpg",
           "title": "Quái Thú Sao Hỏa - Cosmoball",
-          "url": "https://www.fullphimz.net/p/xem-phim-quai-thu-sao-hoa-cosmoball"
+          "url": "https://www.ssphim.net/p/xem-phim-quai-thu-sao-hoa-cosmoball"
         },
         {
           "category": "Phim hoạt hình",
@@ -44652,9 +44563,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b74da12f0b_the-crood-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b74da12f0b_the-crood-2.jpg",
           "title": "Gia Đình Croods 2 : Kỷ Nguyên Mới (The Croods 2 : A New Age)",
-          "url": "https://www.fullphimz.net/p/xem-phim-gia-dinh-croods-2-ky-nguyen-moi-the-croods-2-a-new-age"
+          "url": "https://www.ssphim.net/p/xem-phim-gia-dinh-croods-2-ky-nguyen-moi-the-croods-2-a-new-age"
         },
         {
           "category": "Phim hành động",
@@ -44664,9 +44575,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646903a12efe_the-call.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646903a12efe_the-call.jpg",
           "title": "Cuộc Gọi - The Call ",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-goi-the-call"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-goi-the-call"
         },
         {
           "category": "Phim phiêu lưu",
@@ -44676,9 +44587,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6416eaa12ee4_baba-yaga.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6416eaa12ee4_baba-yaga.jpg",
           "title": "Baba Yaga : Ác Quỷ Rừng Sâu",
-          "url": "https://www.fullphimz.net/p/xem-phim-baba-yaga-ac-quy-rung-sau"
+          "url": "https://www.ssphim.net/p/xem-phim-baba-yaga-ac-quy-rung-sau"
         },
         {
           "category": "Phim tình cảm",
@@ -44688,9 +44599,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640ecfa12f00_let-him-go.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640ecfa12f00_let-him-go.jpg",
           "title": "Hãy Để Thằng Bé Đi - Let Him Go ",
-          "url": "https://www.fullphimz.net/p/xem-phim-hay-de-thang-be-di-let-him-go"
+          "url": "https://www.ssphim.net/p/xem-phim-hay-de-thang-be-di-let-him-go"
         },
         {
           "category": "Phim tình cảm",
@@ -44700,9 +44611,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643b0ea12ed0_nhung-ke-vo-cam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643b0ea12ed0_nhung-ke-vo-cam.jpg",
           "title": "Những Kẻ Vô Cảm - Don't Look Back",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-ke-vo-cam-dont-look-back"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-ke-vo-cam-dont-look-back"
         },
         {
           "category": "Phim hành động",
@@ -44712,9 +44623,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644f9aa12ecd_nguoi-tien-phong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644f9aa12ecd_nguoi-tien-phong.jpg",
           "title": "Người Tiên Phong - Vanguard",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-tien-phong-vanguard"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-tien-phong-vanguard"
         },
         {
           "category": "Phim tình cảm",
@@ -44724,9 +44635,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644ca6a12ec3_tron-chay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644ca6a12ec3_tron-chay.jpg",
           "title": "Trốn chạy - Run (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-tron-chay-run-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-tron-chay-run-2020"
         },
         {
           "category": "Phim hành động",
@@ -44736,9 +44647,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6439d4a12ea7_dau-si-toi-thuong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6439d4a12ea7_dau-si-toi-thuong.jpg",
           "title": "Đấu Sĩ Tối Thượng - Jiu Jitsu",
-          "url": "https://www.fullphimz.net/p/xem-phim-dau-si-toi-thuong-jiu-jitsu"
+          "url": "https://www.ssphim.net/p/xem-phim-dau-si-toi-thuong-jiu-jitsu"
         },
         {
           "category": "Phim tình cảm",
@@ -44748,9 +44659,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c474a12eaa_yeu-nhau-mua-e.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c474a12eaa_yeu-nhau-mua-e.jpg",
           "title": "Yêu Nhau Mùa Ế (Low Season)",
-          "url": "https://www.fullphimz.net/p/xem-phim-yeu-nhau-mua-e-low-season"
+          "url": "https://www.ssphim.net/p/xem-phim-yeu-nhau-mua-e-low-season"
         },
         {
           "category": "Phim hành động",
@@ -44760,9 +44671,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ccfba12e99_swordsman-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ccfba12e99_swordsman-1.jpg",
           "title": "Kiếm Khách - The Swordsman (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-kiem-khach-the-swordsman-2020-r1"
+          "url": "https://www.ssphim.net/p/xem-phim-kiem-khach-the-swordsman-2020-r1"
         },
         {
           "category": "Phim phiêu lưu",
@@ -44772,9 +44683,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642220a12e5e_Greenland.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642220a12e5e_Greenland.jpg",
           "title": "Greenland : Thảm Họa Thiên Thạch (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-greenland-tham-hoa-thien-thach-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-greenland-tham-hoa-thien-thach-2020"
         },
         {
           "category": "Hài Hước",
@@ -44784,9 +44695,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640556a12e5a_so-thu-thoat-e.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640556a12e5a_so-thu-thoat-e.jpg",
           "title": "Sở Thú Thoát Ế - Secret Zoo",
-          "url": "https://www.fullphimz.net/p/xem-phim-so-thu-thoat-e-secret-zoo"
+          "url": "https://www.ssphim.net/p/xem-phim-so-thu-thoat-e-secret-zoo"
         },
         {
           "category": "Phim hành động",
@@ -44796,9 +44707,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641e2da12c7d_rogue-one-star-war.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641e2da12c7d_rogue-one-star-war.jpg",
           "title": "Rogue One : Star Wars Ngoại Truyện - Rogue One : A Star Wars Story",
-          "url": "https://www.fullphimz.net/p/xem-phim-rogue-one-star-wars-ngoai-truyen-rogue-one-a-star-wars-story"
+          "url": "https://www.ssphim.net/p/xem-phim-rogue-one-star-wars-ngoai-truyen-rogue-one-a-star-wars-story"
         },
         {
           "category": "Phim hành động",
@@ -44808,9 +44719,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64857ba12b7d_solo-star-war.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64857ba12b7d_solo-star-war.jpg",
           "title": "Solo : Star Wars Ngoại Truyện - Solo : A Star Wars Story",
-          "url": "https://www.fullphimz.net/p/xem-phim-solo-star-wars-ngoai-truyen-solo-a-star-wars-story"
+          "url": "https://www.ssphim.net/p/xem-phim-solo-star-wars-ngoai-truyen-solo-a-star-wars-story"
         },
         {
           "category": "Phim hành động",
@@ -44820,9 +44731,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e028a12b5b_star-war-9.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e028a12b5b_star-war-9.jpg",
           "title": "Cuộc Chiến Giữa Các Vì Sao 9 : Skywalker Trỗi Dậy - Star Wars : The Rise Of Skywalker",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-chien-giua-cac-vi-sao-9-skywalker-troi-day-star-wars-the-rise-of-skywalker-r6"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-chien-giua-cac-vi-sao-9-skywalker-troi-day-star-wars-the-rise-of-skywalker-r6"
         },
         {
           "category": "Phim hành động",
@@ -44832,9 +44743,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644d46a12cc1_star-war-8.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644d46a12cc1_star-war-8.jpg",
           "title": "Star Wars : Jedi Cuối Cùng - Star Wars : The Last Jedi",
-          "url": "https://www.fullphimz.net/p/xem-phim-star-wars-jedi-cuoi-cung-star-wars-the-last-jedi"
+          "url": "https://www.ssphim.net/p/xem-phim-star-wars-jedi-cuoi-cung-star-wars-the-last-jedi"
         },
         {
           "category": "Phim hành động",
@@ -44844,9 +44755,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427b7a12c6c_star-war-7.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6427b7a12c6c_star-war-7.jpg",
           "title": "Chiến Tranh Giữa Các Vì Sao 7 : Thần Lực Thức Tỉnh - Star Wars : The Force Awakens",
-          "url": "https://www.fullphimz.net/p/xem-phim-chien-tranh-giua-cac-vi-sao-7-than-luc-thuc-tinh-star-wars-the-force-awakens"
+          "url": "https://www.ssphim.net/p/xem-phim-chien-tranh-giua-cac-vi-sao-7-than-luc-thuc-tinh-star-wars-the-force-awakens"
         },
         {
           "category": "Phim hành động",
@@ -44856,9 +44767,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642851a12c5b_ok-chi-dai.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642851a12c5b_ok-chi-dai.jpg",
           "title": "Ô Kê, Chị Đại - Okay! Madam ",
-          "url": "https://www.fullphimz.net/p/xem-phim-o-ke-chi-dai-okay-madam"
+          "url": "https://www.ssphim.net/p/xem-phim-o-ke-chi-dai-okay-madam"
         },
         {
           "category": "Phim tình cảm",
@@ -44868,9 +44779,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648108a12daf_bay-thuc-tai-kinh-hoang.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648108a12daf_bay-thuc-tai-kinh-hoang.jpg",
           "title": "Antebellum - Bẫy Thực Tại Kinh Hoàng",
-          "url": "https://www.fullphimz.net/p/xem-phim-antebellum-bay-thuc-tai-kinh-hoang"
+          "url": "https://www.ssphim.net/p/xem-phim-antebellum-bay-thuc-tai-kinh-hoang"
         },
         {
           "category": "Phim hành động",
@@ -44880,9 +44791,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64938aa12beb_con-mua-thep.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64938aa12beb_con-mua-thep.jpg",
           "title": "Cơn Mưa Thép 2 - Steel Rain 2 : Summit ",
-          "url": "https://www.fullphimz.net/p/xem-phim-con-mua-thep-2-steel-rain-2-summit"
+          "url": "https://www.ssphim.net/p/xem-phim-con-mua-thep-2-steel-rain-2-summit"
         },
         {
           "category": "Phim phiêu lưu",
@@ -44892,9 +44803,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646c08a12c17_tinh-yeu-va-quai-vat.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646c08a12c17_tinh-yeu-va-quai-vat.jpg",
           "title": "Tình Yêu Và Quái Vật - Love And Monsters (2020) ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tinh-yeu-va-quai-vat-love-and-monsters-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-tinh-yeu-va-quai-vat-love-and-monsters-2020"
         },
         {
           "category": "Phim hành động",
@@ -44904,9 +44815,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644cf5a12af5_robot-dai-chien.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644cf5a12af5_robot-dai-chien.jpg",
           "title": "Robot Đại Chiến - Transformers (2007)",
-          "url": "https://www.fullphimz.net/p/xem-phim-robot-dai-chien-transformers-2007"
+          "url": "https://www.ssphim.net/p/xem-phim-robot-dai-chien-transformers-2007"
         },
         {
           "category": "Phim hành động",
@@ -44916,9 +44827,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640f1ea127b0_robot-dai-chien-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640f1ea127b0_robot-dai-chien-2.jpg",
           "title": "Robot Đại Chiến 3 : Vùng Tối Của Mặt Trăng - Transformer 3 : Dark Of The Moon",
-          "url": "https://www.fullphimz.net/p/xem-phim-robot-dai-chien-3-vung-toi-cua-mat-trang-transformer-3-dark-of-the-moon"
+          "url": "https://www.ssphim.net/p/xem-phim-robot-dai-chien-3-vung-toi-cua-mat-trang-transformer-3-dark-of-the-moon"
         },
         {
           "category": "Phim hành động",
@@ -44928,9 +44839,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646a95a127e7_robot-dai-chien-ky-nguyen-huy-diet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646a95a127e7_robot-dai-chien-ky-nguyen-huy-diet.jpg",
           "title": "Robot Đại Chiến 4 : Kỷ Nguyên Huỷ Diệt (Transformers 4: Age of Extinction)",
-          "url": "https://www.fullphimz.net/p/xem-phim-robot-dai-chien-4-ky-nguyen-huy-diet-transformers-4-age-of-extinction"
+          "url": "https://www.ssphim.net/p/xem-phim-robot-dai-chien-4-ky-nguyen-huy-diet-transformers-4-age-of-extinction"
         },
         {
           "category": "Phim hành động",
@@ -44940,9 +44851,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645399a12b9f_robot-dai-chien-p2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645399a12b9f_robot-dai-chien-p2.jpg",
           "title": "Robot Đại Chiến 2 : Bại Binh Phục Hận (Transformers 2 : Revenge of the Fallen)",
-          "url": "https://www.fullphimz.net/p/xem-phim-robot-dai-chien-2-bai-binh-phuc-han-transformers-2-revenge-of-the-fallen"
+          "url": "https://www.ssphim.net/p/xem-phim-robot-dai-chien-2-bai-binh-phuc-han-transformers-2-revenge-of-the-fallen"
         },
         {
           "category": "Phim hành động",
@@ -44952,9 +44863,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649740a12a3a_transfomers-the-last-knight.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649740a12a3a_transfomers-the-last-knight.jpg",
           "title": "Đại Chiến Robot 5 : Chiến Binh Cuối Cùng (Transformers 5 : The Last Knight)",
-          "url": "https://www.fullphimz.net/p/xem-phim-dai-chien-robot-5-chien-binh-cuoi-cung-transformers-5-the-last-knight"
+          "url": "https://www.ssphim.net/p/xem-phim-dai-chien-robot-5-chien-binh-cuoi-cung-transformers-5-the-last-knight"
         },
         {
           "category": "Phim hành động",
@@ -44964,9 +44875,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f841a1293b_mad-max-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64f841a1293b_mad-max-1.jpg",
           "title": "Max Điên : Con Đường Tử Thần - Mad Max : Fury Road",
-          "url": "https://www.fullphimz.net/p/xem-phim-max-dien-con-duong-tu-than-mad-max-fury-road"
+          "url": "https://www.ssphim.net/p/xem-phim-max-dien-con-duong-tu-than-mad-max-fury-road"
         },
         {
           "category": "Phim hành động",
@@ -44976,9 +44887,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646835a127aa_bumblebee.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646835a127aa_bumblebee.jpg",
           "title": "Robot Đại Chiến : Bumblebee",
-          "url": "https://www.fullphimz.net/p/xem-phim-robot-dai-chien-bumblebee"
+          "url": "https://www.ssphim.net/p/xem-phim-robot-dai-chien-bumblebee"
         },
         {
           "category": "Phim hành động",
@@ -44988,9 +44899,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648a8ca127af_chien-ham.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648a8ca127af_chien-ham.jpg",
           "title": "Chiến Hạm - Battleship (2012)",
-          "url": "https://www.fullphimz.net/p/xem-phim-chien-ham-battleship-2012"
+          "url": "https://www.ssphim.net/p/xem-phim-chien-ham-battleship-2012"
         },
         {
           "category": "Phim tình cảm",
@@ -45000,9 +44911,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64954ba12908_the-witches.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64954ba12908_the-witches.jpg",
           "title": "The Witches (2020) - Phù Thuỷ, Phù Thuỷ",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-witches-2020-phu-thuy-phu-thuy"
+          "url": "https://www.ssphim.net/p/xem-phim-the-witches-2020-phu-thuy-phu-thuy"
         },
         {
           "category": "Phim hành động",
@@ -45012,9 +44923,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cda0a127b6_poster-dao-dia-nguc-the-Battleship-Island.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cda0a127b6_poster-dao-dia-nguc-the-Battleship-Island.jpg",
           "title": "Đảo Địa Ngục - The Battleship Island (2017)",
-          "url": "https://www.fullphimz.net/p/xem-phim-dao-dia-nguc-the-battleship-island-2017"
+          "url": "https://www.ssphim.net/p/xem-phim-dao-dia-nguc-the-battleship-island-2017"
         },
         {
           "category": "Phim tình cảm",
@@ -45024,9 +44935,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645a5ca127ab_poster-ky-sinh-trung-parasite-2019.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645a5ca127ab_poster-ky-sinh-trung-parasite-2019.jpg",
           "title": "Ký Sinh Trùng - Parasite (2019)",
-          "url": "https://www.fullphimz.net/p/xem-phim-ky-sinh-trung-parasite-2019"
+          "url": "https://www.ssphim.net/p/xem-phim-ky-sinh-trung-parasite-2019"
         },
         {
           "category": "Phim hành động",
@@ -45036,9 +44947,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64227aa127a1_real-steel.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64227aa127a1_real-steel.jpg",
           "title": "Tay Đấm Thép - Real Steel (2011)",
-          "url": "https://www.fullphimz.net/p/xem-phim-tay-dam-thep-real-steel-2011"
+          "url": "https://www.ssphim.net/p/xem-phim-tay-dam-thep-real-steel-2011"
         },
         {
           "category": "Phim hành động",
@@ -45048,9 +44959,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641efea127a2_avatar.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641efea127a2_avatar.jpg",
           "title": "Avatar - Thế Thân (2009)",
-          "url": "https://www.fullphimz.net/p/xem-phim-avatar-the-than-2009"
+          "url": "https://www.ssphim.net/p/xem-phim-avatar-the-than-2009"
         },
         {
           "category": "Phim hành động",
@@ -45060,9 +44971,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a875a1277c_jurassic-world-2.jpg",
-          "title": "Thế Giới Khủng Long 2 : Vương Quốc Sụp Đổ (Jurassic World : Fallen Kingdom)",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-gioi-khung-long-2-vuong-quoc-sup-do-jurassic-world-fallen-kingdom"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a875a1277c_jurassic-world-2.jpg",
+          "title": "Thế Giới Khủng Long 2 : Vương Quốc Sụp Đổ (Jurassic World : Fallen Kingdom)",
+          "url": "https://www.ssphim.net/p/xem-phim-the-gioi-khung-long-2-vuong-quoc-sup-do-jurassic-world-fallen-kingdom"
         },
         {
           "category": "Phim hành động",
@@ -45072,9 +44983,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644dd6a1279b_jurassic-world.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644dd6a1279b_jurassic-world.jpg",
           "title": "Thế Giới Khủng Long - Jurassic World",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-gioi-khung-long-jurassic-world"
+          "url": "https://www.ssphim.net/p/xem-phim-the-gioi-khung-long-jurassic-world"
         },
         {
           "category": "Phim hành động",
@@ -45084,9 +44995,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ea38a12788_47-ronin.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ea38a12788_47-ronin.jpg",
           "title": "47 Lãng Nhân (47 Ronin)",
-          "url": "https://www.fullphimz.net/p/xem-phim-47-lang-nhan-47-ronin"
+          "url": "https://www.ssphim.net/p/xem-phim-47-lang-nhan-47-ronin"
         },
         {
           "category": "Phim tình cảm",
@@ -45096,9 +45007,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641109a12798_nhat-ky-ban-mau-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641109a12798_nhat-ky-ban-mau-1.jpg",
           "title": "Nhật Ký Bán Máu - Chronicle Of A Blood Merchant",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhat-ky-ban-mau-chronicle-of-a-blood-merchant"
+          "url": "https://www.ssphim.net/p/xem-phim-nhat-ky-ban-mau-chronicle-of-a-blood-merchant"
         },
         {
           "category": "Phim hành động",
@@ -45108,9 +45019,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646585a12797_John-wick-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646585a12797_John-wick-3.jpg",
           "title": "Sát Thủ John Wick 3 : Chuẩn Bị Chiến Tranh (John Wick : Chapter 3 - Parabellum)",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-john-wick-3-chuan-bi-chien-tranh-john-wick-chapter-3-parabellum"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-john-wick-3-chuan-bi-chien-tranh-john-wick-chapter-3-parabellum"
         },
         {
           "category": "Phim hành động",
@@ -45120,9 +45031,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b8b1a12787_John-wick-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b8b1a12787_John-wick-2.jpg",
           "title": "Sát Thủ John Wick : Phần 2 - John Wick : Chapter 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-john-wick-phan-2-john-wick-chapter-2"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-john-wick-phan-2-john-wick-chapter-2"
         },
         {
           "category": "Phim hành động",
@@ -45132,9 +45043,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a51da12783_John-wick.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a51da12783_John-wick.jpg",
           "title": "Sát Thủ John Wick : John Wick (2014)",
-          "url": "https://www.fullphimz.net/p/xem-phim-sat-thu-john-wick-john-wick-2014"
+          "url": "https://www.ssphim.net/p/xem-phim-sat-thu-john-wick-john-wick-2014"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45144,9 +45055,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64142da1276c_maleficent-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64142da1276c_maleficent-2.jpg",
           "title": "Tiên Hắc Ám 2 - Maleficent 2 : Mistress of Evil",
-          "url": "https://www.fullphimz.net/p/xem-phim-tien-hac-am-2-maleficent-2-mistress-of-evil"
+          "url": "https://www.ssphim.net/p/xem-phim-tien-hac-am-2-maleficent-2-mistress-of-evil"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45156,9 +45067,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6448eda12740_maleficent.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6448eda12740_maleficent.jpg",
           "title": "Tiên Hắc Ám : Maleficent (2014) ",
-          "url": "https://www.fullphimz.net/p/xem-phim-tien-hac-am-maleficent-2014"
+          "url": "https://www.ssphim.net/p/xem-phim-tien-hac-am-maleficent-2014"
         },
         {
           "category": "Phim hoạt hình",
@@ -45168,9 +45079,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643b30a12768_khuong-tu-nha-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643b30a12768_khuong-tu-nha-1.jpg",
           "title": "Khương Tử Nha : Nhất Chiến Phong Thần",
-          "url": "https://www.fullphimz.net/p/xem-phim-khuong-tu-nha-nhat-chien-phong-than"
+          "url": "https://www.ssphim.net/p/xem-phim-khuong-tu-nha-nhat-chien-phong-than"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45180,9 +45091,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ab3ea1273d_chua-nhan-phan-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ab3ea1273d_chua-nhan-phan-3.jpg",
           "title": "Chúa Tể Những Chiếc Nhẫn 3 : Sự Trở Lại Của Nhà Vua - The Lord of the Rings : The Return of the King",
-          "url": "https://www.fullphimz.net/p/xem-phim-chua-te-nhung-chiec-nhan-3-su-tro-lai-cua-nha-vua-the-lord-of-the-rings-the-return-of-the-king"
+          "url": "https://www.ssphim.net/p/xem-phim-chua-te-nhung-chiec-nhan-3-su-tro-lai-cua-nha-vua-the-lord-of-the-rings-the-return-of-the-king"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45192,9 +45103,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64849ea1275e_chua-nhan-phan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64849ea1275e_chua-nhan-phan-2.jpg",
           "title": "Chúa Tể Những Chiếc Nhẫn 2 : Hai Tòa Tháp - The Lord Of The Rings : The Two Towers",
-          "url": "https://www.fullphimz.net/p/xem-phim-chua-te-nhung-chiec-nhan-2-hai-toa-thap-the-lord-of-the-rings-the-two-towers"
+          "url": "https://www.ssphim.net/p/xem-phim-chua-te-nhung-chiec-nhan-2-hai-toa-thap-the-lord-of-the-rings-the-two-towers"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45204,9 +45115,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643799a12757_chua-nhan-phan-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643799a12757_chua-nhan-phan-1.jpg",
           "title": "Chúa Tể Những Chiếc Nhẫn : Hiệp Hội Nhẫn Thần - Lord Of The Rings : The Fellowship Of The Ring",
-          "url": "https://www.fullphimz.net/p/xem-phim-chua-te-nhung-chiec-nhan-hiep-hoi-nhan-than-lord-of-the-rings-the-fellowship-of-the-ring"
+          "url": "https://www.ssphim.net/p/xem-phim-chua-te-nhung-chiec-nhan-hiep-hoi-nhan-than-lord-of-the-rings-the-fellowship-of-the-ring"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45216,9 +45127,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64823ca12761_nguoi-hobbit-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64823ca12761_nguoi-hobbit-3.jpg",
           "title": "Người Hobbit 3 : Đại Chiến 5 Cánh Quân - The Hobbit 3 : The Battle of the Five Armies",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-hobbit-3-dai-chien-5-canh-quan-the-hobbit-3-the-battle-of-the-five-armies"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-hobbit-3-dai-chien-5-canh-quan-the-hobbit-3-the-battle-of-the-five-armies"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45228,9 +45139,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646b78a12747_nguoi-hobbit-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646b78a12747_nguoi-hobbit-2.jpg",
           "title": "Người Hobbit 2 : Đại Chiến Với Rồng Lửa - The Hobbit : The Desolation Of Smaug",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-hobbit-2-dai-chien-voi-rong-lua-the-hobbit-the-desolation-of-smaug"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-hobbit-2-dai-chien-voi-rong-lua-the-hobbit-the-desolation-of-smaug"
         },
         {
           "category": "Phim phiêu lưu",
@@ -45240,9 +45151,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646f8da1272f_the-hobbit-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646f8da1272f_the-hobbit-1.jpg",
           "title": "Người Hobbit 1 : Hành trình vô định (The Hobbit : An Unexpected Journey)",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-hobbit-1-hanh-trinh-vo-dinh-the-hobbit-an-unexpected-journey"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-hobbit-1-hanh-trinh-vo-dinh-the-hobbit-an-unexpected-journey"
         },
         {
           "category": "Phim hành động",
@@ -45252,9 +45163,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6401dca1272a_it-4.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6401dca1272a_it-4.jpg",
           "title": "Chú Hề Ma Quái 2 - It : Chapter Two",
-          "url": "https://www.fullphimz.net/p/xem-phim-chu-he-ma-quai-2-it-chapter-two-r1"
+          "url": "https://www.ssphim.net/p/xem-phim-chu-he-ma-quai-2-it-chapter-two-r1"
         },
         {
           "category": "Phim hành động",
@@ -45264,9 +45175,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d75ea1270d_it-1.jpg",
-          "title": "Chú Hề Ma Quái  - IT : Chapter One",
-          "url": "https://www.fullphimz.net/p/xem-phim-chu-he-ma-quai-it-chapter-one"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d75ea1270d_it-1.jpg",
+          "title": "Chú Hề Ma Quái  - IT : Chapter One",
+          "url": "https://www.ssphim.net/p/xem-phim-chu-he-ma-quai-it-chapter-one"
         },
         {
           "category": "Phim hoạt hình",
@@ -45276,9 +45187,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6423d4a1270c_nezha-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6423d4a1270c_nezha-2.jpg",
           "title": "Na Tra : Ma Đồng Giáng Thế (The Legend Of Nezha)",
-          "url": "https://www.fullphimz.net/p/xem-phim-na-tra-ma-dong-giang-the-the-legend-of-nezha"
+          "url": "https://www.ssphim.net/p/xem-phim-na-tra-ma-dong-giang-the-the-legend-of-nezha"
         },
         {
           "category": "Phim hành động",
@@ -45288,9 +45199,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642333a12712_Joker-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642333a12712_Joker-1.jpg",
           "title": "Joker (2019)",
-          "url": "https://www.fullphimz.net/p/xem-phim-joker-2019"
+          "url": "https://www.ssphim.net/p/xem-phim-joker-2019"
         },
         {
           "category": "Phim hành động",
@@ -45300,9 +45211,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64bf40a12708_chuyen-tau-sinh-tu-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64bf40a12708_chuyen-tau-sinh-tu-1.jpg",
           "title": "Chuyến Tàu Sinh Tử - Train To Busan",
-          "url": "https://www.fullphimz.net/p/xem-phim-chuyen-tau-sinh-tu-train-to-busan"
+          "url": "https://www.ssphim.net/p/xem-phim-chuyen-tau-sinh-tu-train-to-busan"
         },
         {
           "category": "Phim hành động",
@@ -45312,9 +45223,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645346a1270f_lien-minh-cong-ly-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645346a1270f_lien-minh-cong-ly-1.jpg",
           "title": "Liên Minh Công Lý - Justice League",
-          "url": "https://www.fullphimz.net/p/xem-phim-lien-minh-cong-ly-justice-league"
+          "url": "https://www.ssphim.net/p/xem-phim-lien-minh-cong-ly-justice-league"
         },
         {
           "category": "Phim hành động",
@@ -45324,9 +45235,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6421a7a126f6_batman-superman-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6421a7a126f6_batman-superman-1.jpg",
           "title": "Batman Đại Chiến Superman : Ánh Sáng Công Lý - Batman V Superman: Dawn Of Justice",
-          "url": "https://www.fullphimz.net/p/xem-phim-batman-dai-chien-superman-anh-sang-cong-ly-batman-v-superman-dawn-of-justice"
+          "url": "https://www.ssphim.net/p/xem-phim-batman-dai-chien-superman-anh-sang-cong-ly-batman-v-superman-dawn-of-justice"
         },
         {
           "category": "Phim hành động",
@@ -45336,9 +45247,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64333da126f7_man-of-steel.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64333da126f7_man-of-steel.jpg",
           "title": "Người Đàn Ông Thép - Man Of Steel",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-dan-ong-thep-man-of-steel"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-dan-ong-thep-man-of-steel"
         },
         {
           "category": "Phim hành động",
@@ -45348,9 +45259,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647609a126f1_wonder-women.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647609a126f1_wonder-women.jpg",
           "title": "Wonder Woman : Nữ Thần Chiến Binh",
-          "url": "https://www.fullphimz.net/p/xem-phim-wonder-woman-nu-than-chien-binh"
+          "url": "https://www.ssphim.net/p/xem-phim-wonder-woman-nu-than-chien-binh"
         },
         {
           "category": "Phim hành động",
@@ -45360,9 +45271,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d911a126ed_ac-quy-doi-dau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d911a126ed_ac-quy-doi-dau.jpg",
           "title": "Ác Quỷ Đối Đầu (Deliver Us From Evil)",
-          "url": "https://www.fullphimz.net/p/xem-phim-ac-quy-doi-dau-deliver-us-from-evil"
+          "url": "https://www.ssphim.net/p/xem-phim-ac-quy-doi-dau-deliver-us-from-evil"
         },
         {
           "category": "Phim hành động",
@@ -45372,9 +45283,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642995a12724_biet-doi-cam-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642995a12724_biet-doi-cam-tu.jpg",
           "title": "Biệt Đội Cảm Tử - Suicide Squad",
-          "url": "https://www.fullphimz.net/p/xem-phim-biet-doi-cam-tu-suicide-squad"
+          "url": "https://www.ssphim.net/p/xem-phim-biet-doi-cam-tu-suicide-squad"
         },
         {
           "category": "Phim hành động",
@@ -45384,9 +45295,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644210a12718_venom.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644210a12718_venom.jpg",
           "title": "Quái Vật Venom (2018)",
-          "url": "https://www.fullphimz.net/p/xem-phim-quai-vat-venom-2018"
+          "url": "https://www.ssphim.net/p/xem-phim-quai-vat-venom-2018"
         },
         {
           "category": "Phim hành động",
@@ -45396,9 +45307,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643283a1271c_aquaman.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643283a1271c_aquaman.jpg",
           "title": "Aquaman : Đế Vương Atlantis",
-          "url": "https://www.fullphimz.net/p/xem-phim-aquaman-de-vuong-atlantis"
+          "url": "https://www.ssphim.net/p/xem-phim-aquaman-de-vuong-atlantis"
         },
         {
           "category": "Phim hành động",
@@ -45408,9 +45319,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e0fa126e4_avenger-endgame.jpg",
-          "title": " Biệt Đội Siêu Anh Hùng 4 : Hồi Kết ( Avengers : Endgame ) ",
-          "url": "https://www.fullphimz.net/p/xem-phim-avengers-hoi-ket-avengers-endgame"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644e0fa126e4_avenger-endgame.jpg",
+          "title": " Biệt Đội Siêu Anh Hùng 4 : Hồi Kết ( Avengers : Endgame ) ",
+          "url": "https://www.ssphim.net/p/xem-phim-avengers-hoi-ket-avengers-endgame"
         },
         {
           "category": "Phim hành động",
@@ -45420,9 +45331,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6429cba126ce_nguoi-nhen-xa-nha-chuan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6429cba126ce_nguoi-nhen-xa-nha-chuan.jpg",
           "title": "Người Nhện Xa Nhà - Spider-Man : Far From Home ",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-nhen-xa-nha-spider-man-far-from-home"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-nhen-xa-nha-spider-man-far-from-home"
         },
         {
           "category": "Phim hành động",
@@ -45432,9 +45343,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649030a1258b_Captain-marvel.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa649030a1258b_Captain-marvel.jpg",
           "title": "Đại Úy Marvel - Captain Marvel",
-          "url": "https://www.fullphimz.net/p/xem-phim-dai-uy-marvel-captain-marvel"
+          "url": "https://www.ssphim.net/p/xem-phim-dai-uy-marvel-captain-marvel"
         },
         {
           "category": "Phim hành động",
@@ -45444,9 +45355,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64735ca126dc_cuoc-chien-vo-cuc-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64735ca126dc_cuoc-chien-vo-cuc-1.jpg",
           "title": "Biệt Đội Siêu Anh Hùng 3 : Cuộc Chiến Vô Cực (Avengers : Infinity War)",
-          "url": "https://www.fullphimz.net/p/xem-phim-avengers-cuoc-chien-vo-cuc-avengers-infinity-war"
+          "url": "https://www.ssphim.net/p/xem-phim-avengers-cuoc-chien-vo-cuc-avengers-infinity-war"
         },
         {
           "category": "Phim hành động",
@@ -45456,9 +45367,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64135ea126db_chien-binh-bao-den.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64135ea126db_chien-binh-bao-den.jpg",
           "title": "Black Panther : Chiến Binh Báo Đen",
-          "url": "https://www.fullphimz.net/p/xem-phim-black-panther-chien-binh-bao-den"
+          "url": "https://www.ssphim.net/p/xem-phim-black-panther-chien-binh-bao-den"
         },
         {
           "category": "Phim hành động",
@@ -45468,9 +45379,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6445dfa12657_nguoi-kien-va-chien-binh-ong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6445dfa12657_nguoi-kien-va-chien-binh-ong.jpg",
           "title": "Người Kiến Và Chiến Binh Ong (Ant-Man And The Wasp)",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-kien-va-chien-binh-ong-ant-man-and-the-wasp"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-kien-va-chien-binh-ong-ant-man-and-the-wasp"
         },
         {
           "category": "Phim hành động",
@@ -45480,9 +45391,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6469dba12602_thor-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6469dba12602_thor-3.jpg",
           "title": "Thần Sấm 3 : Tận Thế Ragnarok (Thor : Ragnarok)",
-          "url": "https://www.fullphimz.net/p/xem-phim-than-sam-3-tan-the-ragnarok-thor-ragnarok"
+          "url": "https://www.ssphim.net/p/xem-phim-than-sam-3-tan-the-ragnarok-thor-ragnarok"
         },
         {
           "category": "Phim hành động",
@@ -45492,9 +45403,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a035a12448_nguoi-nhen-xa-nha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64a035a12448_nguoi-nhen-xa-nha.jpg",
           "title": "Người Nhện : Trở Về Nhà (Spider-Man : Homecoming)",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-nhen-tro-ve-nha-spider-man-homecoming"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-nhen-tro-ve-nha-spider-man-homecoming"
         },
         {
           "category": "Phim hành động",
@@ -45504,9 +45415,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64619fa12613_captain-civil-war.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64619fa12613_captain-civil-war.jpg",
           "title": "Captain America : Nội Chiến Siêu Anh Hùng (Captain America : Civil War)",
-          "url": "https://www.fullphimz.net/p/xem-phim-captain-america-noi-chien-sieu-anh-hung-captain-america-civil-war"
+          "url": "https://www.ssphim.net/p/xem-phim-captain-america-noi-chien-sieu-anh-hung-captain-america-civil-war"
         },
         {
           "category": "Phim hành động",
@@ -45516,9 +45427,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642f86a12404_doctor-strange.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642f86a12404_doctor-strange.jpg",
           "title": "Doctor Strange - Phù Thuỷ Tối Thượng",
-          "url": "https://www.fullphimz.net/p/xem-phim-doctor-strange-phu-thuy-toi-thuong"
+          "url": "https://www.ssphim.net/p/xem-phim-doctor-strange-phu-thuy-toi-thuong"
         },
         {
           "category": "Phim hành động",
@@ -45528,9 +45439,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641b3ea126da_ve-binh-giai-ngan-ha-2-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641b3ea126da_ve-binh-giai-ngan-ha-2-1.jpg",
           "title": "Vệ Binh Giải Ngân Hà 2 - Guardians Of The Galaxy Vol. 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-ve-binh-dai-ngan-ha-2-guardians-of-the-galaxy-vol-2"
+          "url": "https://www.ssphim.net/p/xem-phim-ve-binh-dai-ngan-ha-2-guardians-of-the-galaxy-vol-2"
         },
         {
           "category": "Phim hành động",
@@ -45540,9 +45451,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6405ada124d0_Ant-man.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6405ada124d0_Ant-man.jpg",
           "title": "Người Kiến - Ant-Man",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-kien-ant-man"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-kien-ant-man"
         },
         {
           "category": "Phim hành động",
@@ -45552,9 +45463,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6485e1a12569_hulk.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6485e1a12569_hulk.jpg",
           "title": "Người Khổng Lồ Xanh Phi Thường - The Incredible Hulk 2008",
-          "url": "https://www.fullphimz.net/p/xem-phim-nguoi-khong-lo-xanh-phi-thuong-the-incredible-hulk-2008"
+          "url": "https://www.ssphim.net/p/xem-phim-nguoi-khong-lo-xanh-phi-thuong-the-incredible-hulk-2008"
         },
         {
           "category": "Phim hành động",
@@ -45564,9 +45475,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e0e1a124bf_ve-binh-giai-ngan-ha.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64e0e1a124bf_ve-binh-giai-ngan-ha.jpg",
           "title": "Vệ Binh Giải Ngân Hà - Guardians of the Galaxy",
-          "url": "https://www.fullphimz.net/p/xem-phim-ve-binh-giai-ngan-ha-guardians-of-the-galaxy"
+          "url": "https://www.ssphim.net/p/xem-phim-ve-binh-giai-ngan-ha-guardians-of-the-galaxy"
         },
         {
           "category": "Phim hành động",
@@ -45576,9 +45487,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64529fa126e3_avenger-age-of-ultron.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64529fa126e3_avenger-age-of-ultron.jpg",
           "title": "Biệt Đội Siêu Anh Hùng 2 : Đế Chế Ultron (Age Of Ultron)",
-          "url": "https://www.fullphimz.net/p/xem-phim-avengers-2-de-che-ultron-age-of-ultron"
+          "url": "https://www.ssphim.net/p/xem-phim-avengers-2-de-che-ultron-age-of-ultron"
         },
         {
           "category": "Phim hành động",
@@ -45588,9 +45499,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648499a124ae_thor-the-dark-world.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648499a124ae_thor-the-dark-world.jpg",
           "title": "Thor 2 - Thế Giới Bóng Tối (The Dark World)",
-          "url": "https://www.fullphimz.net/p/xem-phim-thor-2-the-gioi-bong-toi-the-dark-world"
+          "url": "https://www.ssphim.net/p/xem-phim-thor-2-the-gioi-bong-toi-the-dark-world"
         },
         {
           "category": "Phim hành động",
@@ -45600,9 +45511,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640f8da125cf_Thor.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640f8da125cf_Thor.jpg",
           "title": "Thor - Thần Sấm",
-          "url": "https://www.fullphimz.net/p/xem-phim-thor-than-sam-2011"
+          "url": "https://www.ssphim.net/p/xem-phim-thor-than-sam-2011"
         },
         {
           "category": "Phim hành động",
@@ -45612,9 +45523,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644834a1268a_the-avenger.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644834a1268a_the-avenger.jpg",
           "title": "Biệt Đội Siêu Anh Hùng - The Avengers",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-avengers-biet-doi-sieu-anh-hung"
+          "url": "https://www.ssphim.net/p/xem-phim-the-avengers-biet-doi-sieu-anh-hung"
         },
         {
           "category": "Phim hành động",
@@ -45624,9 +45535,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6441b4a1249d_captain-americal-chien-binh-mua-dong-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6441b4a1249d_captain-americal-chien-binh-mua-dong-1.jpg",
           "title": "Captain America : Chiến Binh Mùa Đông",
-          "url": "https://www.fullphimz.net/p/xem-phim-captain-america-chien-binh-mua-dong"
+          "url": "https://www.ssphim.net/p/xem-phim-captain-america-chien-binh-mua-dong"
         },
         {
           "category": "Phim hành động",
@@ -45636,9 +45547,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645104a123f3_Tenet.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645104a123f3_Tenet.jpg",
           "title": "Tenet (2020)",
-          "url": "https://www.fullphimz.net/p/xem-phim-tenet-2020-r1"
+          "url": "https://www.ssphim.net/p/xem-phim-tenet-2020-r1"
         },
         {
           "category": "Phim hành động",
@@ -45648,9 +45559,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648687a122ab_captain-americal.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa648687a122ab_captain-americal.jpg",
           "title": "Captain America : Kẻ báo thù đầu tiên",
-          "url": "https://www.fullphimz.net/p/xem-phim-captain-america-ke-bao-thu-dau-tien"
+          "url": "https://www.ssphim.net/p/xem-phim-captain-america-ke-bao-thu-dau-tien"
         },
         {
           "category": "Phim hành động",
@@ -45660,9 +45571,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cb02a12296_iron-man-3.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cb02a12296_iron-man-3.jpg",
           "title": "Iron Man 3 - Người sắt 3",
-          "url": "https://www.fullphimz.net/p/xem-phim-iron-man-3-nguoi-sat-3"
+          "url": "https://www.ssphim.net/p/xem-phim-iron-man-3-nguoi-sat-3"
         },
         {
           "category": "Phim hành động",
@@ -45672,9 +45583,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64786fa122ae_Iron-man-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64786fa122ae_Iron-man-2.jpg",
           "title": "Iron Man 2 - Người Sắt 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-iron-man-2-nguoi-sat-2"
+          "url": "https://www.ssphim.net/p/xem-phim-iron-man-2-nguoi-sat-2"
         },
         {
           "category": "Phim hành động",
@@ -45684,9 +45595,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cdeca122d2_Iron-man-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64cdeca122d2_Iron-man-1.jpg",
           "title": "Iron Man Phần 1 - Người sắt 2008",
-          "url": "https://www.fullphimz.net/p/xem-phim-iron-man-phan-1-nguoi-sat-2008"
+          "url": "https://www.ssphim.net/p/xem-phim-iron-man-phan-1-nguoi-sat-2008"
         },
         {
           "category": "Phim hành động",
@@ -45696,9 +45607,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643ce4a12349_ak-47.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643ce4a12349_ak-47.jpg",
           "title": "AK-47 - Kalashnikov 2020",
-          "url": "https://www.fullphimz.net/p/xem-phim-ak-47-kalashnikov-2020"
+          "url": "https://www.ssphim.net/p/xem-phim-ak-47-kalashnikov-2020"
         },
         {
           "category": "Phim hành động",
@@ -45708,9 +45619,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643bfba1239e_mulan.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643bfba1239e_mulan.jpg",
           "title": "Mulan 2020 - Hoa Mộc Lan ",
-          "url": "https://www.fullphimz.net/p/xem-phim-mulan-2020-hoa-moc-lan"
+          "url": "https://www.ssphim.net/p/xem-phim-mulan-2020-hoa-moc-lan"
         },
         {
           "category": "Phim tình cảm",
@@ -45720,9 +45631,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642684a1226d_va-em-se-den.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642684a1226d_va-em-se-den.jpg",
           "title": "Và Em Sẽ Đến - Be With You",
-          "url": "https://www.fullphimz.net/p/xem-phim-va-em-se-den-be-with-you"
+          "url": "https://www.ssphim.net/p/xem-phim-va-em-se-den-be-with-you"
         },
         {
           "category": "Phim hành động",
@@ -45732,9 +45643,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c2f7a12270_bloodshoot.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64c2f7a12270_bloodshoot.jpg",
           "title": "Siêu Anh Hùng Bloodshot",
-          "url": "https://www.fullphimz.net/p/xem-phim-sieu-anh-hung-bloodshot"
+          "url": "https://www.ssphim.net/p/xem-phim-sieu-anh-hung-bloodshot"
         },
         {
           "category": "Phim hành động",
@@ -45744,9 +45655,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6462a6a12259_extraction-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6462a6a12259_extraction-1.jpg",
           "title": "Tyler Rake : Nhiệm Vụ Giải Cứu",
-          "url": "https://www.fullphimz.net/p/xem-phim-tyler-rake-nhiem-vu-giai-cuu"
+          "url": "https://www.ssphim.net/p/xem-phim-tyler-rake-nhiem-vu-giai-cuu"
         },
         {
           "category": "Phim hành động",
@@ -45756,9 +45667,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642d53a1226a_nhung-ga-trai-hu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642d53a1226a_nhung-ga-trai-hu.jpg",
           "title": "Những Gã Trai Hư Trọn Đời",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-ga-trai-hu-tron-doi"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-ga-trai-hu-tron-doi"
         },
         {
           "category": "Phim hành động",
@@ -45768,9 +45679,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647c4ea1224b_Cuoc-lot-xac-huy-hoang-cua-quin.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647c4ea1224b_Cuoc-lot-xac-huy-hoang-cua-quin.jpg",
           "title": "Cuộc Lột Xác Huy Hoàng Của Harley Quinn",
-          "url": "https://www.fullphimz.net/p/xem-phim-cuoc-lot-xac-huy-hoang-cua-harley-quinn"
+          "url": "https://www.ssphim.net/p/xem-phim-cuoc-lot-xac-huy-hoang-cua-harley-quinn"
         },
         {
           "category": "Phim hành động",
@@ -45780,9 +45691,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646239a12254_chien-binh-bat-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646239a12254_chien-binh-bat-tu.jpg",
           "title": "Những Chiến Binh Bất Tử",
-          "url": "https://www.fullphimz.net/p/xem-phim-nhung-chien-binh-bat-tu-the-old-guard"
+          "url": "https://www.ssphim.net/p/xem-phim-nhung-chien-binh-bat-tu-the-old-guard"
         },
         {
           "category": "Phim tình cảm",
@@ -45792,9 +45703,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642f6ea1227b_con-mua-tinh-dau.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642f6ea1227b_con-mua-tinh-dau.jpg",
           "title": "Cơn mưa tình đầu",
-          "url": "https://www.fullphimz.net/p/xem-phim-con-mua-tinh-dau"
+          "url": "https://www.ssphim.net/p/xem-phim-con-mua-tinh-dau"
         },
         {
           "category": "Phim hành động",
@@ -45804,9 +45715,9 @@
               "type": "video"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b1f3a12227_kingsman-khoi-nguon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64b1f3a12227_kingsman-khoi-nguon.jpg",
           "title": "Kingsman : Khởi Nguồn",
-          "url": "https://www.fullphimz.net/p/xem-phim-kingsman-khoi-nguon"
+          "url": "https://www.ssphim.net/p/xem-phim-kingsman-khoi-nguon"
         },
         {
           "category": "Phim hành động",
@@ -45816,9 +45727,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646ac0a12238_The-New-Mutants.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa646ac0a12238_The-New-Mutants.jpg",
           "title": "The New Mutants : Dị Nhân Thế Hệ Mới",
-          "url": "https://www.fullphimz.net/p/xem-phim-the-new-mutants-di-nhan-the-he-moi"
+          "url": "https://www.ssphim.net/p/xem-phim-the-new-mutants-di-nhan-the-he-moi"
         },
         {
           "category": "Phim hành động",
@@ -45828,9 +45739,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64dc68a1222d_Train-to-busan-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64dc68a1222d_Train-to-busan-2.jpg",
           "title": "Train To Busan 2 : Bán Đảo Peninsula",
-          "url": "https://www.fullphimz.net/p/xem-phim-train-to-busan-2-ban-dao-peninsula"
+          "url": "https://www.ssphim.net/p/xem-phim-train-to-busan-2-ban-dao-peninsula"
         }
       ],
       "phimhoathinh": [
@@ -45858,9 +45769,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60b7828a81ced91222a44c52_tay-hanh-ky.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60b7828a81ced91222a44c52_tay-hanh-ky.jpg",
           "title": "Tây Hành Kỷ Phần 2 - The Westward 2",
-          "url": "https://www.fullphimz.net/p/tay-hanh-ky-phan-2-the-westward-2-tap-1"
+          "url": "https://www.ssphim.net/p/tay-hanh-ky-phan-2-the-westward-2-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -45870,9 +45781,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6097f9d92c123649711b75d2_22-vs-earth.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6097f9d92c123649711b75d2_22-vs-earth.jpg",
           "title": "22 vs. Earth - 22 vs. Trái Đất",
-          "url": "https://www.fullphimz.net/p/xem-phim-22-vs-earth-22-vs-trai-dat"
+          "url": "https://www.ssphim.net/p/xem-phim-22-vs-earth-22-vs-trai-dat"
         },
         {
           "category": "Phim hoạt hình",
@@ -45928,9 +45839,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/609687defeb730f0880309e0_dau-la-dai-luc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/609687defeb730f0880309e0_dau-la-dai-luc.jpg",
           "title": "Đấu La Đại Lục - Soul Land (2019)",
-          "url": "https://www.fullphimz.net/p/dau-la-dai-luc-soul-land-2019-tap-150"
+          "url": "https://www.ssphim.net/p/dau-la-dai-luc-soul-land-2019-tap-150"
         },
         {
           "category": "Phim hoạt hình",
@@ -45971,9 +45882,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6094ff1fa1b85e6ce272bf4c_luong-bat-nghi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6094ff1fa1b85e6ce272bf4c_luong-bat-nghi.jpg",
           "title": "Lưỡng Bất Nghi - No Doubt In Us",
-          "url": "https://www.fullphimz.net/p/luong-bat-nghi-no-doubt-in-us-tap-1"
+          "url": "https://www.ssphim.net/p/luong-bat-nghi-no-doubt-in-us-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46009,9 +45920,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60939d0cf15af3aa610f7049_boruto.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60939d0cf15af3aa610f7049_boruto.jpg",
           "title": "Boruto: Naruto Hậu Sinh Khả Úy - Boruto: Naruto Next Generations",
-          "url": "https://www.fullphimz.net/p/boruto-naruto-hau-sinh-kha-uy-boruto-naruto-next-generations-tap-197"
+          "url": "https://www.ssphim.net/p/boruto-naruto-hau-sinh-kha-uy-boruto-naruto-next-generations-tap-197"
         },
         {
           "category": "Phim hoạt hình",
@@ -46072,9 +45983,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/608ff83b61463980a6fba7fa_one-piece.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/608ff83b61463980a6fba7fa_one-piece.jpg",
           "title": "Vua Hải Tặc - One Piece",
-          "url": "https://www.fullphimz.net/p/vua-hai-tac-one-piece-tap-968"
+          "url": "https://www.ssphim.net/p/vua-hai-tac-one-piece-tap-968"
         },
         {
           "category": "Phim hoạt hình",
@@ -46155,9 +46066,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60882fab102258ddcf78ea60_tieu-xa-dac.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60882fab102258ddcf78ea60_tieu-xa-dac.jpg",
           "title": "Tiểu Xá Đắc - Devour Eternity ",
-          "url": "https://www.fullphimz.net/p/tieu-xa-dac-devour-eternity-tap-1"
+          "url": "https://www.ssphim.net/p/tieu-xa-dac-devour-eternity-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46213,18 +46124,16 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60817ad7bd946e778ba2306a_the-gioi-hoan-my.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60817ad7bd946e778ba2306a_the-gioi-hoan-my.jpg",
           "title": "Thế Giới Hoàn Mỹ - Perfect World",
-          "url": "https://www.fullphimz.net/p/the-gioi-hoan-my-perfect-world-tap-1"
+          "url": "https://www.ssphim.net/p/the-gioi-hoan-my-perfect-world-tap-1"
         },
         {
           "category": "Phim hoạt hình",
-          "episode": [
-            
-          ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607f00d2e8b46ef5714b0583_dung-choc-anh-nua-ma-nagatoro.jpg",
+          "episode": [],
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607f00d2e8b46ef5714b0583_dung-choc-anh-nua-ma-nagatoro.jpg",
           "title": "Đừng Chọc Anh Nữa Mà, Nagatoro - Don't Toy With Me, Miss Nagatoro",
-          "url": "https://www.fullphimz.net/phim/dung-choc-anh-nua-ma-nagatoro-dont-toy-with-me-miss-nagatoro#"
+          "url": "https://www.ssphim.net/phim/dung-choc-anh-nua-ma-nagatoro-dont-toy-with-me-miss-nagatoro#"
         },
         {
           "category": "Phim hoạt hình",
@@ -46280,9 +46189,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607eef43021e6dac7c67ed6c_diet-smile-suot-300-nam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607eef43021e6dac7c67ed6c_diet-smile-suot-300-nam.jpg",
           "title": "Diệt Slime Suốt 300 Năm, Tôi Level Max Lúc Nào Chẳng Hay",
-          "url": "https://www.fullphimz.net/p/diet-slime-suot-300-nam-toi-level-max-luc-nao-chang-hay-tap-1"
+          "url": "https://www.ssphim.net/p/diet-slime-suot-300-nam-toi-level-max-luc-nao-chang-hay-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46333,9 +46242,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607edec0d445039508fb1a77_gui-em-nguoi-bat-tu.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607edec0d445039508fb1a77_gui-em-nguoi-bat-tu.jpg",
           "title": "Gửi Em, Người Bất Tử - Fumetsu No Anata E",
-          "url": "https://www.fullphimz.net/p/gui-em-nguoi-bat-tu-fumetsu-no-anata-e-tap-1"
+          "url": "https://www.ssphim.net/p/gui-em-nguoi-bat-tu-fumetsu-no-anata-e-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46386,9 +46295,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/607d9f9a40ffcbf33634c26d_86.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/607d9f9a40ffcbf33634c26d_86.jpg",
           "title": "Tranh Giành Địa Phận - Eighty Six",
-          "url": "https://www.fullphimz.net/p/tranh-gianh-dia-phan-eighty-six-tap-1"
+          "url": "https://www.ssphim.net/p/tranh-gianh-dia-phan-eighty-six-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46439,9 +46348,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6072e9678544700844f34fde_di-the-ma-vuong.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6072e9678544700844f34fde_di-the-ma-vuong.jpg",
           "title": "Dị Thế Ma Vương Phần 2 - Isekai Maou To Shoukan Shoujo No Dorei Majutsu Season 2",
-          "url": "https://www.fullphimz.net/p/di-the-ma-vuong-phan-2-isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-season-2-tap-1"
+          "url": "https://www.ssphim.net/p/di-the-ma-vuong-phan-2-isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-season-2-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46497,9 +46406,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60706a1336c1ed6dcfb02ca6_hoa-giai-loi-nguyen.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60706a1336c1ed6dcfb02ca6_hoa-giai-loi-nguyen.jpg",
           "title": "Hóa Giải Lời Nguyền, Giỏ Trái Cây Phần 3 - Fruits Basket Season 3",
-          "url": "https://www.fullphimz.net/p/hoa-giai-loi-nguyen-gio-trai-cay-phan-3-fruits-basket-season-3-tap-1"
+          "url": "https://www.ssphim.net/p/hoa-giai-loi-nguyen-gio-trai-cay-phan-3-fruits-basket-season-3-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46555,9 +46464,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60705a2ec3ee0c135aef9d4d_joran.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60705a2ec3ee0c135aef9d4d_joran.jpg",
           "title": "Joran: Công Chúa Của Tuyết Và Máu - Joran: The Princess Of Snow And Blood",
-          "url": "https://www.fullphimz.net/p/joran-cong-chua-cua-tuyet-va-mau-joran-the-princess-of-snow-and-blood-tap-1"
+          "url": "https://www.ssphim.net/p/joran-cong-chua-cua-tuyet-va-mau-joran-the-princess-of-snow-and-blood-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46613,9 +46522,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6070261a3798a93033b170fc_zombie-land-saga.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6070261a3798a93033b170fc_zombie-land-saga.jpg",
           "title": "Zombie Land Saga Revenge",
-          "url": "https://www.fullphimz.net/p/zombie-land-saga-revenge-tap-1"
+          "url": "https://www.ssphim.net/p/zombie-land-saga-revenge-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46625,9 +46534,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606db1af567395772f34969c_final-fantasy-7-children.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606db1af567395772f34969c_final-fantasy-7-children.jpg",
           "title": "Final Fantasy VII: Hành Trình Của Những Đứa Trẻ - Final Fantasy VII: Advent Children ",
-          "url": "https://www.fullphimz.net/p/xem-phim-final-fantasy-vii-hanh-trinh-cua-nhung-dua-tre-final-fantasy-vii-advent-children"
+          "url": "https://www.ssphim.net/p/xem-phim-final-fantasy-vii-hanh-trinh-cua-nhung-dua-tre-final-fantasy-vii-advent-children"
         },
         {
           "category": "Phim hoạt hình",
@@ -46637,9 +46546,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/606d16bf655683dbcd1ad74a_thanh-dau-si-seiya.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/606d16bf655683dbcd1ad74a_thanh-dau-si-seiya.jpg",
           "title": "Thánh Đấu Sĩ Seiya: Huyền Thoại Thánh Vực - Saint Seiya: Legend Of Sanctuary",
-          "url": "https://www.fullphimz.net/p/xem-phim-thanh-dau-si-seiya-huyen-thoai-thanh-vuc-saint-seiya-legend-of-sanctuary"
+          "url": "https://www.ssphim.net/p/xem-phim-thanh-dau-si-seiya-huyen-thoai-thanh-vuc-saint-seiya-legend-of-sanctuary"
         },
         {
           "category": "Phim hoạt hình",
@@ -46700,9 +46609,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/605f00529829aca65a175602_poster-hoc-vien-anh-hung-5.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/605f00529829aca65a175602_poster-hoc-vien-anh-hung-5.jpg",
           "title": "Học Viện Anh Hùng 5 - My hero academia (Season 5)",
-          "url": "https://www.fullphimz.net/p/hoc-vien-anh-hung-5-my-hero-academia-season-5-tap-1"
+          "url": "https://www.ssphim.net/p/hoc-vien-anh-hung-5-my-hero-academia-season-5-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46768,9 +46677,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/604f5b71343ecc537f161169_dau-pha-thuong-khung-p4.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/604f5b71343ecc537f161169_dau-pha-thuong-khung-p4.jpg",
           "title": "Đấu Phá Thương Khung Phần 4 (3D) - Battle Through the Heavens 4",
-          "url": "https://www.fullphimz.net/p/dau-pha-thuong-khung-phan-4-3d-battle-through-the-heavens-4-tap-1"
+          "url": "https://www.ssphim.net/p/dau-pha-thuong-khung-phan-4-3d-battle-through-the-heavens-4-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46780,9 +46689,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/602be50ac8d3695b033e1fa1_kubo.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/602be50ac8d3695b033e1fa1_kubo.jpg",
           "title": "Kubo Và Sứ Mệnh Samurai - Kubo And The Two Strings",
-          "url": "https://www.fullphimz.net/p/xem-phim-kubo-va-su-menh-samurai-kubo-and-the-two-strings"
+          "url": "https://www.ssphim.net/p/xem-phim-kubo-va-su-menh-samurai-kubo-and-the-two-strings"
         },
         {
           "category": "Phim hoạt hình",
@@ -46868,9 +46777,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6021e7262e0d62000b434b81_poster-son-ha-kiem-tam.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6021e7262e0d62000b434b81_poster-son-ha-kiem-tam.jpg",
           "title": "Sơn Hà Kiếm Tâm - Thousand Autumns",
-          "url": "https://www.fullphimz.net/p/son-ha-kiem-tam-tap-1"
+          "url": "https://www.ssphim.net/p/son-ha-kiem-tam-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -46880,9 +46789,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6012bfdadb6b15c7cb623929_bach-xa-duyen-khoi-poster.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/6012bfdadb6b15c7cb623929_bach-xa-duyen-khoi-poster.jpg",
           "title": "Bạch Xà: Duyên Khởi - White Snake",
-          "url": "https://www.fullphimz.net/p/xem-phim-bach-xa-duyen-khoi-white-snake"
+          "url": "https://www.ssphim.net/p/xem-phim-bach-xa-duyen-khoi-white-snake"
         },
         {
           "category": "Phim hoạt hình",
@@ -46998,9 +46907,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60045f64e7ebc61dc48807ce_poster-that-hinh-dai-toi-4.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60045f64e7ebc61dc48807ce_poster-that-hinh-dai-toi-4.jpg",
           "title": "Thất Hình Đại Tội (Phần 4) - Nanatsu no Taizai Season 4: Fundo no Shinpan",
-          "url": "https://www.fullphimz.net/p/that-hinh-dai-toi-phan-4-tap-1"
+          "url": "https://www.ssphim.net/p/that-hinh-dai-toi-phan-4-tap-1"
         },
         {
           "category": "Phim tình cảm",
@@ -47010,9 +46919,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/600300df2b6581df89a9f04c_du-sao-con-cung-yeu-cha-me.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/600300df2b6581df89a9f04c_du-sao-con-cung-yeu-cha-me.jpg",
           "title": "Dù Ra Sao, Con Vẫn Yêu Bố Mẹ - If Anything Happens I Love You",
-          "url": "https://www.fullphimz.net/p/xem-phim-du-ra-sao-con-van-yeu-bo-me-if-anything-happens-i-love-you"
+          "url": "https://www.ssphim.net/p/xem-phim-du-ra-sao-con-van-yeu-bo-me-if-anything-happens-i-love-you"
         },
         {
           "category": "Phim phiêu lưu",
@@ -47073,9 +46982,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/60005f26eba49607caea83b3_poster-dr-stone-stone-wars-season-2.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/60005f26eba49607caea83b3_poster-dr-stone-stone-wars-season-2.jpg",
           "title": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 2) - Dr Stone: Stone Wars (Season 2)",
-          "url": "https://www.fullphimz.net/p/dr-stone-stone-wars-season-2-tap-1"
+          "url": "https://www.ssphim.net/p/dr-stone-stone-wars-season-2-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -47211,9 +47120,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641409a12f27_poster-thon-tinh-bau-troi.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641409a12f27_poster-thon-tinh-bau-troi.jpg",
           "title": "Thôn Tính Bầu Trời - Swallowed Star (2020)",
-          "url": "https://www.fullphimz.net/p/thon-tinh-bau-troi-tap-1-swallowed-star-2020"
+          "url": "https://www.ssphim.net/p/thon-tinh-bau-troi-tap-1-swallowed-star-2020"
         },
         {
           "category": "Phim hoạt hình",
@@ -47339,9 +47248,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6467c2a12f1c_poster-vat-the-bi-nguyen-rua.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6467c2a12f1c_poster-vat-the-bi-nguyen-rua.jpg",
           "title": "Vật Thể Bị Nguyền Rủa - Jujutsu Kaisen (2020)",
-          "url": "https://www.fullphimz.net/p/vat-the-bi-nguyen-rua-tap-1-jujutsu-kaisen-2020-r1"
+          "url": "https://www.ssphim.net/p/vat-the-bi-nguyen-rua-tap-1-jujutsu-kaisen-2020-r1"
         },
         {
           "category": "Phim hoạt hình",
@@ -47427,9 +47336,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6410b9a12eed_poster-attack-on-titan-season-4.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6410b9a12eed_poster-attack-on-titan-season-4.jpg",
           "title": "Đại chiến người khổng lồ (phần 4) - Attack on Titan (season 4)",
-          "url": "https://www.fullphimz.net/p/attack-on-titan-season-4-tap-1-dai-chien-nguoi-khong-lo-phan-4"
+          "url": "https://www.ssphim.net/p/attack-on-titan-season-4-tap-1-dai-chien-nguoi-khong-lo-phan-4"
         },
         {
           "category": "Phim hoạt hình",
@@ -47439,9 +47348,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642db6a12ee1_minions.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa642db6a12ee1_minions.jpg",
           "title": "Lễ Hội Đặc Biệt Của Minions - Minions Holiday Special",
-          "url": "https://www.fullphimz.net/p/xem-phim-le-hoi-dac-biet-cua-minions-minions-holiday-special"
+          "url": "https://www.ssphim.net/p/xem-phim-le-hoi-dac-biet-cua-minions-minions-holiday-special"
         },
         {
           "category": "Phim hoạt hình",
@@ -47451,9 +47360,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640eeca12ebc_5cm-giay.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa640eeca12ebc_5cm-giay.jpg",
           "title": "5 Centimet Trên Giây - 5 Centimeters Per Second",
-          "url": "https://www.fullphimz.net/p/xem-phim-5-centimet-tren-giay-5-centimeters-per-second"
+          "url": "https://www.ssphim.net/p/xem-phim-5-centimet-tren-giay-5-centimeters-per-second"
         },
         {
           "category": "Phim hoạt hình",
@@ -47463,9 +47372,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64152ba12ead_thu-gui-momo.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64152ba12ead_thu-gui-momo.jpg",
           "title": "Thư Gửi Momo - A Letter To Momo",
-          "url": "https://www.fullphimz.net/p/xem-phim-thu-gui-momo-a-letter-to-momo"
+          "url": "https://www.ssphim.net/p/xem-phim-thu-gui-momo-a-letter-to-momo"
         },
         {
           "category": "Phim hoạt hình",
@@ -47475,9 +47384,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645eb0a12ebd_lau-dai-di-dong-cua-howl.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa645eb0a12ebd_lau-dai-di-dong-cua-howl.jpg",
           "title": "Lâu Đài Di Động Của Howl - Howl’s Moving Castle",
-          "url": "https://www.fullphimz.net/p/xem-phim-lau-dai-di-dong-cua-howl-howls-moving-castle"
+          "url": "https://www.ssphim.net/p/xem-phim-lau-dai-di-dong-cua-howl-howls-moving-castle"
         },
         {
           "category": "Phim hoạt hình",
@@ -47487,9 +47396,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644461a12eb2_mo-dom-dom.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa644461a12eb2_mo-dom-dom.jpg",
           "title": "Mộ Đom Đóm - Grave Of The Fireflies",
-          "url": "https://www.fullphimz.net/p/xem-phim-mo-dom-dom-grave-of-the-fireflies"
+          "url": "https://www.ssphim.net/p/xem-phim-mo-dom-dom-grave-of-the-fireflies"
         },
         {
           "category": "Phim hoạt hình",
@@ -47499,9 +47408,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647f6ba12e97_my-neighbor-tototro.jpg",
-          "title": "Hàng Xóm Của Tôi Là Totoro  - My Neighbor Totoro",
-          "url": "https://www.fullphimz.net/p/xem-phim-hang-xom-cua-toi-la-totoro-my-neighbor-totoro"
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa647f6ba12e97_my-neighbor-tototro.jpg",
+          "title": "Hàng Xóm Của Tôi Là Totoro  - My Neighbor Totoro",
+          "url": "https://www.ssphim.net/p/xem-phim-hang-xom-cua-toi-la-totoro-my-neighbor-totoro"
         },
         {
           "category": "Phim hoạt hình",
@@ -47511,9 +47420,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643e46a12e9b_vung-dat-linh-hon.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa643e46a12e9b_vung-dat-linh-hon.jpg",
           "title": "Vùng Đất Linh Hồn - Spirited Away",
-          "url": "https://www.fullphimz.net/p/xem-phim-vung-dat-linh-hon-spirited-away"
+          "url": "https://www.ssphim.net/p/xem-phim-vung-dat-linh-hon-spirited-away"
         },
         {
           "category": "Phim hoạt hình",
@@ -47579,9 +47488,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641de9a12e5f_poster-thien-quang-tu-phuc.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa641de9a12e5f_poster-thien-quang-tu-phuc.jpg",
           "title": "Thiên Quan Tứ Phúc (Heaven Official's Blessing)",
-          "url": "https://www.fullphimz.net/p/thien-quan-tu-phuc-tap-1"
+          "url": "https://www.ssphim.net/p/thien-quan-tu-phuc-tap-1"
         },
         {
           "category": "Phim hoạt hình",
@@ -47591,9 +47500,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6476caa122a1_frozen-2-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6476caa122a1_frozen-2-1.jpg",
           "title": "Nữ hoàng băng giá 2 - Frozen 2",
-          "url": "https://www.fullphimz.net/p/xem-phim-nu-hoang-bang-gia-2-frozen-2"
+          "url": "https://www.ssphim.net/p/xem-phim-nu-hoang-bang-gia-2-frozen-2"
         },
         {
           "category": "Phim hoạt hình",
@@ -47603,9 +47512,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6414e5a122aa_your-name-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa6414e5a122aa_your-name-1.jpg",
           "title": "Your Name - Tên cậu là gì?",
-          "url": "https://www.fullphimz.net/p/xem-phim-your-name-ten-cau-la-gi"
+          "url": "https://www.ssphim.net/p/xem-phim-your-name-ten-cau-la-gi"
         },
         {
           "category": "Phim hoạt hình",
@@ -47615,9 +47524,9 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d887a12279_dua-con-cua-thoi-tiet-1.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64d887a12279_dua-con-cua-thoi-tiet-1.jpg",
           "title": "Đứa Con Của Thời Tiết",
-          "url": "https://www.fullphimz.net/p/xem-phim-dua-con-cua-thoi-tiet"
+          "url": "https://www.ssphim.net/p/xem-phim-dua-con-cua-thoi-tiet"
         },
         {
           "category": "Phim tình cảm",
@@ -47627,12 +47536,12 @@
               "type": "iframe"
             }
           ],
-          "imageUrl": "https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ac77a12281_one-piece-film-gold.jpg",
+          "imageUrl": "https://www.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/5fe2d564b3fa64ac77a12281_one-piece-film-gold.jpg",
           "title": "Đảo Hải Tặc : GOLD",
-          "url": "https://www.fullphimz.net/p/dao-hai-tac-gold"
+          "url": "https://www.ssphim.net/p/dao-hai-tac-gold"
         }
       ]
     }
-   }
+}
 
-   export default movie;
+export default movie;
