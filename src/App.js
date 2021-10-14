@@ -27,7 +27,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 // import data
 import keyApiDesk from "./Api/keyAPI";
 const keyAPI =
-  "https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR3U5dDlTFfmV6k18gKFJEuSASOlzm2xXiex4EvD61wy1Ie8vvlL3w-fqJ0";
+  "https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR20sh7xR2LQUepLa3eZfOV0opzdTVN7qR_OVuiKHk5Cy9eIJOfUj5kAAJU";
 function App() {
   let history = useHistory();
 
@@ -46,67 +46,67 @@ function App() {
   const [phimChieuRaps, setPhimChieuRaps] = useState([]);
   const [allPhim, setAllPhim] = useState([]);
 
-  const getData = () => {
-    setPhimBos(keyApiDesk.phim.phimbo);
-    setPhimLes(keyApiDesk.phim.phimle);
-    setPhimHoatHinhs(keyApiDesk.phim.phimhoathinh);
-    setPhimChieuRaps(keyApiDesk.phim.phimchieurap);
-    // đặt tất cả các phim
-    var arrAllPhim = [];
-    for (var i = 0; i < keyApiDesk.phim.phimbo.length; i++) {
-      arrAllPhim.push(keyApiDesk.phim.phimbo[i]);
-    }
-    for (var i = 0; i < keyApiDesk.phim.phimle.length; i++) {
-      arrAllPhim.push(keyApiDesk.phim.phimle[i]);
-    }
-    for (var i = 0; i < keyApiDesk.phim.phimhoathinh.length; i++) {
-      arrAllPhim.push(keyApiDesk.phim.phimhoathinh[i]);
-    }
-    for (var i = 0; i < keyApiDesk.phim.phimchieurap.length; i++) {
-      arrAllPhim.push(keyApiDesk.phim.phimchieurap[i]);
-    }
-    setAllPhim(arrAllPhim);
-  };
-  useEffect(() => {
-    getData();
-    
-  }, []);
-  // const fetchMovies = async () => {
-
-  //   try {
-  //     const response = await fetch(keyAPI)
-  //     const movies = await response.json()
-  //     setPhimBos(movies.phim.phimbo)
-  //     setPhimLes(movies.phim.phimle)
-  //     setPhimHoatHinhs(movies.phim.phimhoathinh)
-  //     setPhimChieuRaps(movies.phim.phimchieurap)
-  //     // đặt tất cả các phim
-  //     var arrAllPhim = [];
-  //     for(var i = 0 ; i < movies.phim.phimbo.length ; i++)
-  //     {
-  //       arrAllPhim.push(movies.phim.phimbo[i]);
-  //     }
-  //     for(var i = 0 ; i < movies.phim.phimle.length ; i++)
-  //     {
-  //       arrAllPhim.push(movies.phim.phimle[i]);
-  //     }
-  //     for(var i = 0 ; i < movies.phim.phimhoathinh.length ; i++)
-  //     {
-  //       arrAllPhim.push(movies.phim.phimhoathinh[i]);
-  //     }
-  //     for(var i = 0 ; i < movies.phim.phimchieurap.length ; i++)
-  //     {
-  //       arrAllPhim.push(movies.phim.phimchieurap[i]);
-  //     }
-  //     setAllPhim(arrAllPhim);
-  //     console.log(phimBos.length);
-  //   } catch (error) {
-  //     console.log(error)
+  // const getData = () => {
+  //   setPhimBos(keyApiDesk.phim.phimbo);
+  //   setPhimLes(keyApiDesk.phim.phimle);
+  //   setPhimHoatHinhs(keyApiDesk.phim.phimhoathinh);
+  //   setPhimChieuRaps(keyApiDesk.phim.phimchieurap);
+  //   // đặt tất cả các phim
+  //   var arrAllPhim = [];
+  //   for (var i = 0; i < keyApiDesk.phim.phimbo.length; i++) {
+  //     arrAllPhim.push(keyApiDesk.phim.phimbo[i]);
   //   }
-  // }
+  //   for (var i = 0; i < keyApiDesk.phim.phimle.length; i++) {
+  //     arrAllPhim.push(keyApiDesk.phim.phimle[i]);
+  //   }
+  //   for (var i = 0; i < keyApiDesk.phim.phimhoathinh.length; i++) {
+  //     arrAllPhim.push(keyApiDesk.phim.phimhoathinh[i]);
+  //   }
+  //   for (var i = 0; i < keyApiDesk.phim.phimchieurap.length; i++) {
+  //     arrAllPhim.push(keyApiDesk.phim.phimchieurap[i]);
+  //   }
+  //   setAllPhim(arrAllPhim);
+  // };
   // useEffect(() => {
-  //    fetchMovies()
-  // },[])
+  //   getData();
+    
+  // }, []);
+  const fetchMovies = async () => {
+
+    try {
+      const response = await fetch(keyAPI)
+      const movies = await response.json()
+      setPhimBos(movies.phim.phimbo)
+      setPhimLes(movies.phim.phimle)
+      setPhimHoatHinhs(movies.phim.phimhoathinh)
+      setPhimChieuRaps(movies.phim.phimchieurap)
+      // đặt tất cả các phim
+      var arrAllPhim = [];
+      for(var i = 0 ; i < movies.phim.phimbo.length ; i++)
+      {
+        arrAllPhim.push(movies.phim.phimbo[i]);
+      }
+      for(var i = 0 ; i < movies.phim.phimle.length ; i++)
+      {
+        arrAllPhim.push(movies.phim.phimle[i]);
+      }
+      for(var i = 0 ; i < movies.phim.phimhoathinh.length ; i++)
+      {
+        arrAllPhim.push(movies.phim.phimhoathinh[i]);
+      }
+      for(var i = 0 ; i < movies.phim.phimchieurap.length ; i++)
+      {
+        arrAllPhim.push(movies.phim.phimchieurap[i]);
+      }
+      setAllPhim(arrAllPhim);
+      console.log(phimBos.length);
+    } catch (error) {
+      console.log(error)
+    }
+  }
+  useEffect(() => {
+     fetchMovies()
+  },[])
 
   // useState phim kết quả
   const [resultPhim, setResultPhim] = useState("");
