@@ -212,10 +212,10 @@ function App() {
           path="/Home"
           render={() => (
             <>
-              <Phimbo phimBos={phimBos} />
-              <Phimle phimLes={phimLes} />
-              <PhimHoatHinh phimHoatHinhs={phimHoatHinhs} />
-              <Phimchieurap phimChieuRaps={phimChieuRaps} />
+              <Phimbo phimBos={phimBos} getEpisodes={getEpisodes}/>
+              <Phimle phimLes={phimLes} getEpisodes={getEpisodes}/>
+              <PhimHoatHinh phimHoatHinhs={phimHoatHinhs} getEpisodes={getEpisodes}/>
+              <Phimchieurap phimChieuRaps={phimChieuRaps} getEpisodes={getEpisodes}/>
               {click === true ? result(phimHoatHinhs) : ""}
               {click === true ? result(phimChieuRaps) : ""}
               <button
@@ -235,8 +235,6 @@ function App() {
           path="/Search"
           render={() => (
             <>
-              
-
               {phimBySearch.length > 1 && resultPhim !== "" ? (
                 <ResultSearch
                   results={phimBySearch}
@@ -249,6 +247,7 @@ function App() {
             </>
           )}
         />
+
         <Route
           path="/Watch/"
           render={() => (

@@ -138,6 +138,7 @@ html {
   cursor: pointer;
   transition: all 0.2s ease;
   font-size: 2rem;
+  display: none;
 }
 .ResultSearch__product-cart i:hover {
   color: rgb(223, 108, 0);

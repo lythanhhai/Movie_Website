@@ -88,8 +88,10 @@ html {
   display: flex;
 
   width: 80%;
-  overflow-x: scroll;
+  overflow-x: auto;
+  white-space: nowrap;
   flex-direction: row;
+  min-height: 10rem;
   /* flex-wrap: wrap; */
   margin: 0 auto;
   /* justify-content: space-around; */
@@ -101,7 +103,7 @@ html {
   -webkit-scroll-snap-type: mandatory;
   -ms-scroll-snap-type: mandatory;
   scroll-snap-type: mandatory;
-  overflow-y: hidden;
+  /* border-bottom: 1px solid var(--border); */
 }
 
 .Phimle__product::-webkit-scrollbar {
@@ -110,13 +112,13 @@ html {
 
 /* sản phẩm phim bộ */
 .Phimle__product-cart {
-  width: calc(100% / 4 - 0.6rem);
+  width: calc(calc(100% - 3rem) / 4);
   height: 42rem;
   /* border : 1px solid blue; */
   position: relative;
   color: var(--nameTitle);
   margin-right: 1rem;
-  flex-grow: 1;
+  flex: 0 1 auto;
 }
 
 .Phimle__product-cart:first-child {
@@ -131,10 +133,11 @@ html {
   height: 70%;
   object-fit: cover;
   cursor: pointer;
+  border-radius: 0.8rem;
 }
 
 .Phimle__product-cart img:hover {
-  filter: grayscale(70%);
+  filter: grayscale(50%);
 }
 
 .Phimle__product-cart i {
@@ -148,11 +151,12 @@ html {
   cursor: pointer;
   transition: all 0.2s ease;
   font-size: 2rem;
+  display: none;
 }
-.Phimle__product-cart i:hover {
+/* .Phimle__product-cart i:hover {
   color: rgb(223, 108, 0);
   border: 2px solid rgb(223, 108, 0);
-}
+} */
 .Phimle__product-cart .add {
   position: absolute;
   top: 65%;
@@ -171,9 +175,9 @@ html {
   /* animation: bottom_top 1s linear 1; */
 }
 
-.Phimle__product-cart .add:hover {
+/* .Phimle__product-cart .add:hover {
   color: #ff501a;
-}
+} */
 
 /* sự kiện cho add list */
 
