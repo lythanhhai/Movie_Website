@@ -8,14 +8,17 @@ const Pagination = ({ numberPage, results, getCurrentPage }) => {
   const redirect = (page) => {
     history.push(`/Search/${page}`);
   }
+  // số trang
   var arrs = [];
   for (var i = 0; i < numberPage; i++) {
     arrs.push(i + 1);
   }
 
+  // mảng của các mảng (mảng 2 chiều)
   var resArr1 = [];
   const NumberAPage = 16;
   for (var i = 0; i < arrs.length; i++) {
+    // lưu các phim trong 1 trang vào 1 mảng 
     var resArr = [];
     var j = 0;
     for (j += i * NumberAPage; j < results.length; j++) {
