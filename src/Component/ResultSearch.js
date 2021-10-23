@@ -42,6 +42,20 @@ const ResultSearch = ({ results, resultPhim, getEpisodes }) => {
             redirect(title);
             getEpisodes(episode, title);
           }}
+          // onMouseOver={() => {
+          //   const addMyList = document.querySelectorAll(".ResultSearch__product-cart .add")[index];
+          //   const play = document.querySelectorAll(".ResultSearch__product-cart i")[index];
+          //   play.style.display = 'block';
+          //   addMyList.style.display = "block";
+          //   addMyList.style.animation = "bottom_top 0.5s linear 1";
+          // }}
+          // onMouseOut={() => {
+          //   const addMyList = document.querySelectorAll(".ResultSearch__product-cart .add")[index];
+          //   const play = document.querySelectorAll(".ResultSearch__product-cart i")[index];
+          //   play.style.display = 'none';
+          //   //addMyList.style.animation = "top_bottom 4s linear 1";
+          //   addMyList.style.display = "none";
+          // }}
         >
           <img
             src={imageUrl}

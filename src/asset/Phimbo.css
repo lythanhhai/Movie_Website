@@ -137,7 +137,7 @@ html {
 }
 
 .Phimbo__product-cart img:hover {
-  filter: grayscale(70%);
+  filter: grayscale(50%);
 }
 
 .Phimbo__product-cart i {
@@ -151,11 +151,12 @@ html {
   cursor: pointer;
   transition: all 0.2s ease;
   font-size: 2rem;
+  display: none;
 }
-.Phimbo__product-cart i:hover {
+/* .Phimbo__product-cart i:hover {
   color: rgb(223, 108, 0);
   border: 2px solid rgb(223, 108, 0);
-}
+} */
 .Phimbo__product-cart .add {
   position: absolute;
   top: 65%;

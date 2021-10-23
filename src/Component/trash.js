@@ -12,3 +12,20 @@
     
 //     // addMyList.style.animation = "bottom_top 1s linear 1";
 // }
+
+
+// add to my list 
+
+// <p className="add"
+//               onMouseOver={() => {
+//                 const addMyList = document.querySelectorAll(".Phimle__product-cart .add")[index];
+//                 addMyList.style.color = "#ff501a";
+//                 addMyList.style.display = "block";
+//               }}
+//               onMouseOut={() => {
+//                 const addMyList = document.querySelectorAll(".Phimle__product-cart .add")[index];
+//                 addMyList.style.color = "white";
+//                 addMyList.style.display = "block";
+//               }}
+//           >
+//           Add to my list</p>
